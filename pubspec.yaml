@@ -1,0 +1,52 @@
+name: strongbible
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^3.8.5
+  cupertino_icons: ^1.0.8
+  flutter_html: ^3.0.0
+  path_provider: ^2.1.6
+  sqflite: ^2.4.2+1
+  path: ^1.9.1
+  sqflite_common_ffi: ^2.4.0+3
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+
+  flutter_lints: ^5.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/strongbible.json
+    - assets/strong_lexicon.db
+    - assets/strong_lexicon.json
+    - assets/strongcode.json
+    - assets/images/church_logo.png
+    - assets/images/top_image.png
+    - assets/images/top_image3.png
+  fonts:
+    - family: EzraSIL
+      fonts:
+        - asset: assets/fonts/SILEOT.ttf
+
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/bible_icon.png"
