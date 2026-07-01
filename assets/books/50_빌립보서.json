@@ -1,0 +1,6506 @@
+[
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 1,
+    "text": "(인사) 그리스도 예수의 종 바울과 디모데는 그리스도 예수 안에서 빌립보에 사는 모든 성도와 또한 감독들과 집사들에게 편지하노니",
+    "words": [
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수의",
+        "strong": "G2424"
+      },
+      {
+        "word": "종",
+        "strong": "G1401"
+      },
+      {
+        "word": "바울",
+        "strong": "G3972"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "디모데는",
+        "strong": "G5095"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "빌립보",
+        "strong": "G5375"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "사는",
+        "strong": "G5607"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "성도와",
+        "strong": "G40"
+      },
+      {
+        "word": "또는",
+        "strong": null
+      },
+      {
+        "word": "감독들",
+        "strong": "G1985"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "집사들에게",
+        "strong": "G1249"
+      },
+      {
+        "word": "편지하노니",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 2,
+    "text": "하나님 우리 아버지와 주 예수 그리스도로부터 은혜와 평강이 너희에게 있을지어다",
+    "words": [
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "아버지",
+        "strong": "G3962"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "로부터",
+        "strong": "G575"
+      },
+      {
+        "word": "은혜",
+        "strong": "G5485"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "평강이",
+        "strong": "G1515"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "있을지어다",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 3,
+    "text": "(빌립보 성도들을 생각하며 간구하다) 내가 너희를 생각할 때마다 나의 하나님께 감사하며",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "너희를",
+        "strong": "G5216"
+      },
+      {
+        "word": "생각할",
+        "strong": "G3417"
+      },
+      {
+        "word": "때",
+        "strong": "G1909"
+      },
+      {
+        "word": "마다",
+        "strong": "G3956"
+      },
+      {
+        "word": "나의",
+        "strong": "G3450"
+      },
+      {
+        "word": "하나님께",
+        "strong": "G2316"
+      },
+      {
+        "word": "감사하며",
+        "strong": "G2168"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 4,
+    "text": "간구할 때마다 너희 무리를 위하여 기쁨으로 항상 간구함은",
+    "words": [
+      {
+        "word": "간구할",
+        "strong": "G1162"
+      },
+      {
+        "word": "때",
+        "strong": "G1722"
+      },
+      {
+        "word": "마다",
+        "strong": "G3956"
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "무리를",
+        "strong": "G3956"
+      },
+      {
+        "word": "위하여",
+        "strong": "G5228"
+      },
+      {
+        "word": "기쁨",
+        "strong": "G5479"
+      },
+      {
+        "word": "으로",
+        "strong": "G3326"
+      },
+      {
+        "word": "항상",
+        "strong": "G3842"
+      },
+      {
+        "word": "간구",
+        "strong": "G1162"
+      },
+      {
+        "word": "함은",
+        "strong": "G4160"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 5,
+    "text": "너희가 첫날부터 이제까지 복음을 위한 일에 참여하고 있기 때문이라",
+    "words": [
+      {
+        "word": "너희가",
+        "strong": "G5216"
+      },
+      {
+        "word": "첫",
+        "strong": "G4413"
+      },
+      {
+        "word": "날",
+        "strong": "G2250"
+      },
+      {
+        "word": "부터",
+        "strong": "G575"
+      },
+      {
+        "word": "이제",
+        "strong": "G3568"
+      },
+      {
+        "word": "까지",
+        "strong": "G891"
+      },
+      {
+        "word": "복음을",
+        "strong": "G2098"
+      },
+      {
+        "word": "위한 일에",
+        "strong": "G1519"
+      },
+      {
+        "word": "참여하고 있기",
+        "strong": "G2842"
+      },
+      {
+        "word": "때문이라",
+        "strong": "G1909"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 6,
+    "text": "너희 안에서 착한 일을 시작하신 이가 그리스도 예수의 날까지 이루실 줄을 우리는 확신하노라",
+    "words": [
+      {
+        "word": "너희",
+        "strong": "G5213"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "착한",
+        "strong": "G18"
+      },
+      {
+        "word": "일을",
+        "strong": "G2041"
+      },
+      {
+        "word": "시작하신",
+        "strong": "G1728"
+      },
+      {
+        "word": "이가",
+        "strong": "G3588"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수의",
+        "strong": "G2424"
+      },
+      {
+        "word": "날",
+        "strong": "G2250"
+      },
+      {
+        "word": "까지",
+        "strong": "G891"
+      },
+      {
+        "word": "이루실",
+        "strong": "G2005"
+      },
+      {
+        "word": "줄을",
+        "strong": "G3754"
+      },
+      {
+        "word": "우리는 확신하노라",
+        "strong": "G3982"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 7,
+    "text": "내가 너희 무리를 위하여 이와 같이 생각하는 것이 마땅하니 이는 너희가 내 마음에 있음이며 나의 매임과 복음을 변명함과 확정함에 너희가 다 나와 함께 은혜에 참여한 자가 됨이라",
+    "words": [
+      {
+        "word": "내가",
+        "strong": "G1698"
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "무리를",
+        "strong": "G3956"
+      },
+      {
+        "word": "위하여",
+        "strong": "G5228"
+      },
+      {
+        "word": "이와",
+        "strong": "G5124"
+      },
+      {
+        "word": "같이",
+        "strong": "G2531"
+      },
+      {
+        "word": "생각하는 것이",
+        "strong": "G5426"
+      },
+      {
+        "word": "마땅",
+        "strong": "G1342"
+      },
+      {
+        "word": "하니",
+        "strong": "G1510"
+      },
+      {
+        "word": "이는",
+        "strong": "G1223"
+      },
+      {
+        "word": "너희가",
+        "strong": "G5209"
+      },
+      {
+        "word": "내",
+        "strong": "G3165"
+      },
+      {
+        "word": "마음",
+        "strong": "G2588"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "있음",
+        "strong": "G2192"
+      },
+      {
+        "word": "이며",
+        "strong": null
+      },
+      {
+        "word": "나의",
+        "strong": "G3450"
+      },
+      {
+        "word": "매임",
+        "strong": "G1199"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "복음을",
+        "strong": "G2098"
+      },
+      {
+        "word": "변명함",
+        "strong": "G627"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "확정함",
+        "strong": "G951"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "너희가",
+        "strong": "G5209"
+      },
+      {
+        "word": "다",
+        "strong": "G3956"
+      },
+      {
+        "word": "나와",
+        "strong": "G3450"
+      },
+      {
+        "word": "함께",
+        "strong": null
+      },
+      {
+        "word": "은혜에",
+        "strong": "G5485"
+      },
+      {
+        "word": "참여한 자가",
+        "strong": "G4791"
+      },
+      {
+        "word": "됨이라",
+        "strong": "G5607"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 8,
+    "text": "내가 예수 그리스도의 심장으로 너희 무리를 얼마나 사모하는지 하나님이 내 증인이시니라",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "심장",
+        "strong": "G4698"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "너희",
+        "strong": "G5209"
+      },
+      {
+        "word": "무리를",
+        "strong": "G3956"
+      },
+      {
+        "word": "얼마나",
+        "strong": "G5613"
+      },
+      {
+        "word": "사모하는지",
+        "strong": "G1971"
+      },
+      {
+        "word": "하나님이",
+        "strong": "G2316"
+      },
+      {
+        "word": "내",
+        "strong": "G3450"
+      },
+      {
+        "word": "증인",
+        "strong": "G3144"
+      },
+      {
+        "word": "이시니라",
+        "strong": "G1063"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 9,
+    "text": "내가 기도하노라 너희 사랑을 지식과 모든 총명으로 점점 더 풍성하게 하사",
+    "words": [
+      {
+        "word": "내가 기도하노라",
+        "strong": "G4336"
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "사랑을",
+        "strong": "G26"
+      },
+      {
+        "word": "지식",
+        "strong": "G1922"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "총명",
+        "strong": "G144"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "점점 더",
+        "strong": "G3123"
+      },
+      {
+        "word": "″",
+        "strong": "G2532"
+      },
+      {
+        "word": "″",
+        "strong": "G3123"
+      },
+      {
+        "word": "풍성하게 하사",
+        "strong": "G4052"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 10,
+    "text": "너희로 지극히 선한 것을 분별하며 또 진실하여 허물 없이 그리스도의 날까지 이르고",
+    "words": [
+      {
+        "word": "너희로",
+        "strong": "G5209"
+      },
+      {
+        "word": "지극히 선한",
+        "strong": "G1308"
+      },
+      {
+        "word": "것을",
+        "strong": "G3588"
+      },
+      {
+        "word": "분별하며",
+        "strong": "G1381"
+      },
+      {
+        "word": "또",
+        "strong": null
+      },
+      {
+        "word": "진실",
+        "strong": "G1506"
+      },
+      {
+        "word": "하여",
+        "strong": "G5600"
+      },
+      {
+        "word": "허물 없이",
+        "strong": "G677"
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "날",
+        "strong": "G2250"
+      },
+      {
+        "word": "까지 이르고",
+        "strong": "G1519"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 11,
+    "text": "예수 그리스도로 말미암아 의의 열매가 가득하여 하나님의 영광과 찬송이 되기를 원하노라",
+    "words": [
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도로",
+        "strong": "G5547"
+      },
+      {
+        "word": "말미암아",
+        "strong": "G1223"
+      },
+      {
+        "word": "의의",
+        "strong": "G1343"
+      },
+      {
+        "word": "열매가",
+        "strong": "G2590"
+      },
+      {
+        "word": "가득하여",
+        "strong": "G4137"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "영광",
+        "strong": "G1391"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "찬송",
+        "strong": "G1868"
+      },
+      {
+        "word": "이 되기를",
+        "strong": "G1519"
+      },
+      {
+        "word": "원하노라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 12,
+    "text": "(바울의 매임과 복음 전파) 형제들아 내가 당한 일이 도리어 복음 전파에 진전이 된 줄을 너희가 알기를 원하노라",
+    "words": [
+      {
+        "word": "형제들아",
+        "strong": "G80"
+      },
+      {
+        "word": "내가",
+        "strong": "G1691"
+      },
+      {
+        "word": "당한",
+        "strong": "G2596"
+      },
+      {
+        "word": "일이",
+        "strong": "G3588"
+      },
+      {
+        "word": "도리어",
+        "strong": "G3123"
+      },
+      {
+        "word": "복음",
+        "strong": "G2098"
+      },
+      {
+        "word": "전파에 진전이",
+        "strong": "G4297"
+      },
+      {
+        "word": "된",
+        "strong": "G2064"
+      },
+      {
+        "word": "줄을",
+        "strong": "G3754"
+      },
+      {
+        "word": "너희가",
+        "strong": "G5209"
+      },
+      {
+        "word": "알기를",
+        "strong": "G1097"
+      },
+      {
+        "word": "원하노라",
+        "strong": "G1014"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 13,
+    "text": "이러므로 나의 매임이 그리스도 안에서 모든 시위대 안과 그 밖의 모든 사람에게 나타났으니",
+    "words": [
+      {
+        "word": "이러므로",
+        "strong": "G5620"
+      },
+      {
+        "word": "나의",
+        "strong": "G3450"
+      },
+      {
+        "word": "매임이",
+        "strong": "G1199"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "모든",
+        "strong": "G3650"
+      },
+      {
+        "word": "시위대",
+        "strong": "G4232"
+      },
+      {
+        "word": "안",
+        "strong": "G1722"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "그밖의",
+        "strong": "G3062"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "사람에게",
+        "strong": null
+      },
+      {
+        "word": "나타났으니",
+        "strong": "G5318"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 14,
+    "text": "형제 중 다수가 나의 매임으로 말미암아 주 안에서 신뢰함으로 겁 없이 하나님의 말씀을 더욱 담대히 전하게 되었느니라",
+    "words": [
+      {
+        "word": "형제 중",
+        "strong": "G80"
+      },
+      {
+        "word": "다수가",
+        "strong": "G4119"
+      },
+      {
+        "word": "나의",
+        "strong": "G3450"
+      },
+      {
+        "word": "매임으로 말미암아",
+        "strong": "G1199"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "신뢰함으로",
+        "strong": "G3982"
+      },
+      {
+        "word": "겁 없이",
+        "strong": "G870"
+      },
+      {
+        "word": "하나님의",
+        "strong": null
+      },
+      {
+        "word": "말씀을",
+        "strong": "G3056"
+      },
+      {
+        "word": "더욱",
+        "strong": "G4056"
+      },
+      {
+        "word": "담대히",
+        "strong": "G5111"
+      },
+      {
+        "word": "전하게 되었느니라",
+        "strong": "G2980"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 15,
+    "text": "어떤 이들은 투기와 분쟁으로, 어떤 이들은 착한 뜻으로 그리스도를 전파하나니",
+    "words": [
+      {
+        "word": "어떤이들은",
+        "strong": "G5100"
+      },
+      {
+        "word": "투기",
+        "strong": "G5355"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "분쟁",
+        "strong": "G2054"
+      },
+      {
+        "word": "으로,",
+        "strong": "G1223"
+      },
+      {
+        "word": "어떤이들은",
+        "strong": "G5100"
+      },
+      {
+        "word": "착한 뜻",
+        "strong": "G2107"
+      },
+      {
+        "word": "으로",
+        "strong": "G1223"
+      },
+      {
+        "word": "그리스도를",
+        "strong": "G5547"
+      },
+      {
+        "word": "전파하나니",
+        "strong": "G2784"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 16,
+    "text": "이들은 내가 복음을 변증하기 위하여 세우심을 받은 줄 알고 사랑으로 하나",
+    "words": [
+      {
+        "word": "이들은",
+        "strong": "G3588"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "복음을",
+        "strong": "G2098"
+      },
+      {
+        "word": "변증하기",
+        "strong": "G627"
+      },
+      {
+        "word": "위하여",
+        "strong": "G1519"
+      },
+      {
+        "word": "세우심을 받은",
+        "strong": "G2749"
+      },
+      {
+        "word": "줄",
+        "strong": "G3754"
+      },
+      {
+        "word": "알고",
+        "strong": "G1492"
+      },
+      {
+        "word": "사랑",
+        "strong": "G26"
+      },
+      {
+        "word": "으로 하나",
+        "strong": "G1537"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 17,
+    "text": "그들은 나의 매임에 괴로움을 더하게 할 줄로 생각하여 순수하지 못하게 다툼으로 그리스도를 전파하느니라",
+    "words": [
+      {
+        "word": "그들은",
+        "strong": "G3588"
+      },
+      {
+        "word": "나의",
+        "strong": "G3450"
+      },
+      {
+        "word": "매임에",
+        "strong": "G1199"
+      },
+      {
+        "word": "괴로움을",
+        "strong": "G2347"
+      },
+      {
+        "word": "더하게 할 줄로",
+        "strong": "G2018"
+      },
+      {
+        "word": "생각하여",
+        "strong": "G3633"
+      },
+      {
+        "word": "순수하지",
+        "strong": "G55"
+      },
+      {
+        "word": "못하게",
+        "strong": "G3756"
+      },
+      {
+        "word": "다툼",
+        "strong": "G2052"
+      },
+      {
+        "word": "으로",
+        "strong": "G1537"
+      },
+      {
+        "word": "그리스도를",
+        "strong": "G5547"
+      },
+      {
+        "word": "전파하느니라",
+        "strong": "G2605"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 18,
+    "text": "그러면 무엇이냐 겉치레로 하나 참으로 하나 무슨 방도로 하든지 전파되는 것은 그리스도니 이로써 나는 기뻐하고 또한 기뻐하리라",
+    "words": [
+      {
+        "word": "그러면",
+        "strong": "G1063"
+      },
+      {
+        "word": "무엇이냐",
+        "strong": "G5101"
+      },
+      {
+        "word": "겉치레로",
+        "strong": "G4392"
+      },
+      {
+        "word": "하나",
+        "strong": "G1535"
+      },
+      {
+        "word": "참으로",
+        "strong": "G225"
+      },
+      {
+        "word": "하나",
+        "strong": "G1535"
+      },
+      {
+        "word": "무슨",
+        "strong": "G3956"
+      },
+      {
+        "word": "방도로",
+        "strong": "G5158"
+      },
+      {
+        "word": "하든지",
+        "strong": "G4133"
+      },
+      {
+        "word": "전파되는 것은",
+        "strong": "G2605"
+      },
+      {
+        "word": "그리스도니",
+        "strong": "G5547"
+      },
+      {
+        "word": "이",
+        "strong": "G5129"
+      },
+      {
+        "word": "로써",
+        "strong": "G1722"
+      },
+      {
+        "word": "나는 기뻐하고",
+        "strong": "G5463"
+      },
+      {
+        "word": "또한",
+        "strong": "G2532"
+      },
+      {
+        "word": "기뻐하리라",
+        "strong": "G5463"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 19,
+    "text": "이것이 너희의 간구와 예수 그리스도의 성령의 도우심으로 나를 구원에 이르게 할 줄 아는 고로",
+    "words": [
+      {
+        "word": "이것이",
+        "strong": "G5124"
+      },
+      {
+        "word": "너희의",
+        "strong": "G5216"
+      },
+      {
+        "word": "간구",
+        "strong": "G1162"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "성령의",
+        "strong": "G4151"
+      },
+      {
+        "word": "도우심",
+        "strong": "G2024"
+      },
+      {
+        "word": "으로",
+        "strong": "G1223"
+      },
+      {
+        "word": "나를",
+        "strong": "G3427"
+      },
+      {
+        "word": "구원",
+        "strong": "G4991"
+      },
+      {
+        "word": "에",
+        "strong": "G1519"
+      },
+      {
+        "word": "이르게 할",
+        "strong": "G576"
+      },
+      {
+        "word": "줄",
+        "strong": "G3754"
+      },
+      {
+        "word": "아는",
+        "strong": "G1492"
+      },
+      {
+        "word": "고로",
+        "strong": "G1063"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 20,
+    "text": "나의 간절한 기대와 소망을 따라 아무 일에든지 부끄러워하지 아니하고 지금도 전과 같이 온전히 담대하여 살든지 죽든지 내 몸에서 그리스도가 존귀하게 되게 하려 하나니",
+    "words": [
+      {
+        "word": "나의",
+        "strong": "G3450"
+      },
+      {
+        "word": "간절한 기대",
+        "strong": "G603"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "소망을",
+        "strong": "G1680"
+      },
+      {
+        "word": "따라",
+        "strong": "G2596"
+      },
+      {
+        "word": "아무 일",
+        "strong": "G3762"
+      },
+      {
+        "word": "에든지",
+        "strong": "G1722"
+      },
+      {
+        "word": "부끄러워하지",
+        "strong": "G153"
+      },
+      {
+        "word": "아니하고",
+        "strong": null
+      },
+      {
+        "word": "지금",
+        "strong": "G3568"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "전과",
+        "strong": "G3842"
+      },
+      {
+        "word": "같이",
+        "strong": "G5613"
+      },
+      {
+        "word": "온전히",
+        "strong": "G3956"
+      },
+      {
+        "word": "담대",
+        "strong": "G3954"
+      },
+      {
+        "word": "하여",
+        "strong": "G1722"
+      },
+      {
+        "word": "살",
+        "strong": "G2222"
+      },
+      {
+        "word": "든지",
+        "strong": "G1535"
+      },
+      {
+        "word": "죽",
+        "strong": "G2288"
+      },
+      {
+        "word": "든지",
+        "strong": "G1535"
+      },
+      {
+        "word": "내",
+        "strong": "G3450"
+      },
+      {
+        "word": "몸",
+        "strong": "G4983"
+      },
+      {
+        "word": "에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "그리스도가",
+        "strong": "G5547"
+      },
+      {
+        "word": "존귀하게 되게",
+        "strong": "G3170"
+      },
+      {
+        "word": "하려 하나니",
+        "strong": "G3754"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 21,
+    "text": "이는 내게 사는 것이 그리스도니 죽는 것도 유익함이라",
+    "words": [
+      {
+        "word": "이는",
+        "strong": "G1063"
+      },
+      {
+        "word": "내게",
+        "strong": "G1698"
+      },
+      {
+        "word": "사는 것이",
+        "strong": "G2198"
+      },
+      {
+        "word": "그리스도니",
+        "strong": "G5547"
+      },
+      {
+        "word": "죽는 것도",
+        "strong": "G599"
+      },
+      {
+        "word": "유익함",
+        "strong": "G2771"
+      },
+      {
+        "word": "이라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 22,
+    "text": "그러나 만일 육신으로 사는 이것이 내 일의 열매일진대 무엇을 택해야 할는지 나는 알지 못하노라",
+    "words": [
+      {
+        "word": "그러나",
+        "strong": "G1161"
+      },
+      {
+        "word": "만일",
+        "strong": "G1487"
+      },
+      {
+        "word": "육신",
+        "strong": "G4561"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "사는",
+        "strong": "G2198"
+      },
+      {
+        "word": "이것이",
+        "strong": "G5124"
+      },
+      {
+        "word": "내",
+        "strong": "G3427"
+      },
+      {
+        "word": "일의",
+        "strong": "G2041"
+      },
+      {
+        "word": "열매일",
+        "strong": "G2590"
+      },
+      {
+        "word": "진대",
+        "strong": null
+      },
+      {
+        "word": "무엇을",
+        "strong": "G5101"
+      },
+      {
+        "word": "택해야할는지",
+        "strong": "G138"
+      },
+      {
+        "word": "나는 알지",
+        "strong": "G1107"
+      },
+      {
+        "word": "못하노라",
+        "strong": "G3756"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 23,
+    "text": "내가 그 둘 사이에 끼었으니 차라리 세상을 떠나서 그리스도와 함께 있는 것이 훨씬 더 좋은 일이라 그렇게 하고 싶으나",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "그",
+        "strong": "G3588"
+      },
+      {
+        "word": "둘",
+        "strong": "G1417"
+      },
+      {
+        "word": "사이에",
+        "strong": "G1537"
+      },
+      {
+        "word": "차라리 세상을 떠나서",
+        "strong": "G360"
+      },
+      {
+        "word": "그리스도와",
+        "strong": "G5547"
+      },
+      {
+        "word": "함께",
+        "strong": "G4862"
+      },
+      {
+        "word": "있는 것이",
+        "strong": "G1511"
+      },
+      {
+        "word": "훨씬 더 좋은 일",
+        "strong": "G1939"
+      },
+      {
+        "word": "이라",
+        "strong": "G2192"
+      },
+      {
+        "word": "그렇게",
+        "strong": "G1063"
+      },
+      {
+        "word": "하고",
+        "strong": "G4183"
+      },
+      {
+        "word": "″",
+        "strong": "G3123"
+      },
+      {
+        "word": "싶으나",
+        "strong": "G2908"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 24,
+    "text": "내가 육신으로 있는 것이 너희를 위하여 더 유익하리라",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "육신",
+        "strong": "G4561"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "있는 것이",
+        "strong": "G1961"
+      },
+      {
+        "word": "너희를",
+        "strong": "G5209"
+      },
+      {
+        "word": "위하여",
+        "strong": "G1223"
+      },
+      {
+        "word": "더 유익하리라",
+        "strong": "G316"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 25,
+    "text": "내가 살 것과 너희 믿음의 진보와 기쁨을 위하여 너희 무리와 함께 거할 이것을 확실히 아노니",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "살 것",
+        "strong": "G3306"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "믿음의",
+        "strong": "G4102"
+      },
+      {
+        "word": "진보",
+        "strong": "G4297"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "기쁨을",
+        "strong": "G5479"
+      },
+      {
+        "word": "위하여",
+        "strong": "G1519"
+      },
+      {
+        "word": "너희",
+        "strong": "G5213"
+      },
+      {
+        "word": "무리와",
+        "strong": "G3956"
+      },
+      {
+        "word": "함께 거할",
+        "strong": "G3887"
+      },
+      {
+        "word": "이것을",
+        "strong": "G5124"
+      },
+      {
+        "word": "확실히",
+        "strong": "G3982"
+      },
+      {
+        "word": "아노니",
+        "strong": "G1492"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 26,
+    "text": "내가 다시 너희와 같이 있음으로 그리스도 예수 안에서 너희 자랑이 나로 말미암아 풍성하게 하려 함이라",
+    "words": [
+      {
+        "word": "내가",
+        "strong": "G1699"
+      },
+      {
+        "word": "다시",
+        "strong": "G3825"
+      },
+      {
+        "word": "너희와",
+        "strong": "G5209"
+      },
+      {
+        "word": "같이",
+        "strong": "G4314"
+      },
+      {
+        "word": "있음",
+        "strong": "G3952"
+      },
+      {
+        "word": "으로",
+        "strong": "G1223"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "자랑이",
+        "strong": "G2745"
+      },
+      {
+        "word": "나로",
+        "strong": "G1698"
+      },
+      {
+        "word": "말미암아",
+        "strong": "G1722"
+      },
+      {
+        "word": "풍성하게",
+        "strong": "G4052"
+      },
+      {
+        "word": "하려 함이라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 27,
+    "text": "오직 너희는 그리스도의 복음에 합당하게 생활하라 이는 내가 너희에게 가 보나 떠나 있으나 너희가 한마음으로 서서 한 뜻으로 복음의 신앙을 위하여 협력하는 것과",
+    "words": [
+      {
+        "word": "오직",
+        "strong": "G3440"
+      },
+      {
+        "word": "너희는",
+        "strong": null
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "복음에",
+        "strong": "G2098"
+      },
+      {
+        "word": "합당하게",
+        "strong": "G516"
+      },
+      {
+        "word": "생활하라",
+        "strong": "G4176"
+      },
+      {
+        "word": "이는",
+        "strong": "G2443"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5209"
+      },
+      {
+        "word": "가",
+        "strong": "G2064"
+      },
+      {
+        "word": "보",
+        "strong": "G1492"
+      },
+      {
+        "word": "나",
+        "strong": "G1535"
+      },
+      {
+        "word": "떠나 있으나",
+        "strong": "G548"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "한",
+        "strong": "G1520"
+      },
+      {
+        "word": "마음",
+        "strong": "G4151"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "서서",
+        "strong": "G4739"
+      },
+      {
+        "word": "한",
+        "strong": "G3391"
+      },
+      {
+        "word": "뜻으로",
+        "strong": "G5590"
+      },
+      {
+        "word": "복음의",
+        "strong": "G2098"
+      },
+      {
+        "word": "신앙을 위하여",
+        "strong": "G4102"
+      },
+      {
+        "word": "협력하는 것과",
+        "strong": "G4866"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 28,
+    "text": "무슨 일에든지 대적하는 자들 때문에 두려워하지 아니하는 이 일을 듣고자 함이라 이것이 그들에게는 멸망의 증거요 너희에게는 구원의 증거니 이는 하나님께로부터 난 것이라",
+    "words": [
+      {
+        "word": "무슨 일",
+        "strong": "G3367"
+      },
+      {
+        "word": "에든지",
+        "strong": "G1722"
+      },
+      {
+        "word": "대적하는",
+        "strong": "G480"
+      },
+      {
+        "word": "자들",
+        "strong": "G3588"
+      },
+      {
+        "word": "때문에",
+        "strong": "G5259"
+      },
+      {
+        "word": "두려워하지",
+        "strong": "G4426"
+      },
+      {
+        "word": "아니하는",
+        "strong": "G3361"
+      },
+      {
+        "word": "이 일을",
+        "strong": "G3588"
+      },
+      {
+        "word": "듣고자",
+        "strong": "G191"
+      },
+      {
+        "word": "함이라",
+        "strong": null
+      },
+      {
+        "word": "이것이",
+        "strong": "G3748"
+      },
+      {
+        "word": "그들에게는",
+        "strong": "G846"
+      },
+      {
+        "word": "멸망의",
+        "strong": "G684"
+      },
+      {
+        "word": "증거",
+        "strong": "G1732"
+      },
+      {
+        "word": "요",
+        "strong": "G2076"
+      },
+      {
+        "word": "너희에게는",
+        "strong": "G5213"
+      },
+      {
+        "word": "구원의",
+        "strong": "G4991"
+      },
+      {
+        "word": "증거니",
+        "strong": null
+      },
+      {
+        "word": "이는",
+        "strong": "G5124"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "께로부터 난",
+        "strong": "G575"
+      },
+      {
+        "word": "것이라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 29,
+    "text": "그리스도를 위하여 너희에게 은혜를 주신 것은 다만 그를 믿을 뿐 아니라 또한 그를 위하여 고난도 받게 하려 하심이라",
+    "words": [
+      {
+        "word": "그리스도를",
+        "strong": "G5547"
+      },
+      {
+        "word": "위하여",
+        "strong": "G5228"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "은혜를 주신",
+        "strong": "G5483"
+      },
+      {
+        "word": "것은",
+        "strong": "G3754"
+      },
+      {
+        "word": "다만",
+        "strong": null
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "를",
+        "strong": "G1519"
+      },
+      {
+        "word": "믿을",
+        "strong": "G4100"
+      },
+      {
+        "word": "뿐",
+        "strong": "G3440"
+      },
+      {
+        "word": "아니라",
+        "strong": "G3756"
+      },
+      {
+        "word": "또한",
+        "strong": "G2532"
+      },
+      {
+        "word": "그를",
+        "strong": "G846"
+      },
+      {
+        "word": "위하여",
+        "strong": "G5228"
+      },
+      {
+        "word": "고난도 받게 하려",
+        "strong": "G3958"
+      },
+      {
+        "word": "하심이라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 1,
+    "verse": 30,
+    "text": "너희에게도 그와 같은 싸움이 있으니 너희가 내 안에서 본 바요 이제도 내 안에서 듣는 바니라",
+    "words": [
+      {
+        "word": "너희에게도",
+        "strong": null
+      },
+      {
+        "word": "그와같은",
+        "strong": "G846"
+      },
+      {
+        "word": "싸움이",
+        "strong": "G73"
+      },
+      {
+        "word": "있으니",
+        "strong": "G2192"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "내",
+        "strong": "G1698"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "본",
+        "strong": "G1492"
+      },
+      {
+        "word": "바요",
+        "strong": "G3634"
+      },
+      {
+        "word": "이제",
+        "strong": "G3568"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "내",
+        "strong": "G1698"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "듣는 바니라",
+        "strong": "G191"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 1,
+    "text": "(그리스도의 겸손) 그러므로 그리스도 안에 무슨 권면이나 사랑의 무슨 위로나 성령의 무슨 교제나 긍휼이나 자비가 있거든",
+    "words": [
+      {
+        "word": "그러므로",
+        "strong": "G3767"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "무슨",
+        "strong": "G5100"
+      },
+      {
+        "word": "권면이나",
+        "strong": "G3874"
+      },
+      {
+        "word": "사랑의",
+        "strong": "G26"
+      },
+      {
+        "word": "무슨",
+        "strong": "G5100"
+      },
+      {
+        "word": "위로나",
+        "strong": "G3890"
+      },
+      {
+        "word": "성령의",
+        "strong": "G4151"
+      },
+      {
+        "word": "무슨",
+        "strong": "G5100"
+      },
+      {
+        "word": "교제나",
+        "strong": "G2842"
+      },
+      {
+        "word": "긍휼",
+        "strong": "G4698"
+      },
+      {
+        "word": "이나",
+        "strong": "G2532"
+      },
+      {
+        "word": "자비가",
+        "strong": "G3628"
+      },
+      {
+        "word": "있거든",
+        "strong": "G1536"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 2,
+    "text": "마음을 같이하여 같은 사랑을 가지고 뜻을 합하며 한마음을 품어",
+    "words": [
+      {
+        "word": "마음을",
+        "strong": "G5426"
+      },
+      {
+        "word": "같이",
+        "strong": "G846"
+      },
+      {
+        "word": "하여",
+        "strong": null
+      },
+      {
+        "word": "같은",
+        "strong": "G846"
+      },
+      {
+        "word": "사랑을",
+        "strong": "G26"
+      },
+      {
+        "word": "가지고",
+        "strong": "G2192"
+      },
+      {
+        "word": "뜻을 합하며",
+        "strong": "G4861"
+      },
+      {
+        "word": "한",
+        "strong": "G1520"
+      },
+      {
+        "word": "마음을 품어",
+        "strong": "G5426"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 3,
+    "text": "아무 일에든지 다툼이나 허영으로 하지 말고 오직 겸손한 마음으로 각각 자기보다 남을 낫게 여기고",
+    "words": [
+      {
+        "word": "아무 일에든지",
+        "strong": "G3367"
+      },
+      {
+        "word": "다툼",
+        "strong": "G2052"
+      },
+      {
+        "word": "이나",
+        "strong": "G2228"
+      },
+      {
+        "word": "허영",
+        "strong": "G2754"
+      },
+      {
+        "word": "으로",
+        "strong": "G2596"
+      },
+      {
+        "word": "하지 말고",
+        "strong": null
+      },
+      {
+        "word": "오직",
+        "strong": "G235"
+      },
+      {
+        "word": "겸손한 마음으로",
+        "strong": "G5012"
+      },
+      {
+        "word": "각각",
+        "strong": "G240"
+      },
+      {
+        "word": "자기",
+        "strong": "G4572"
+      },
+      {
+        "word": "보다 남을 낫게",
+        "strong": "G5242"
+      },
+      {
+        "word": "여기고",
+        "strong": "G2233"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 4,
+    "text": "각각 자기 일을 돌볼뿐더러 또한 각각 다른 사람들의 일을 돌보아 나의 기쁨을 충만하게 하라",
+    "words": [
+      {
+        "word": "각각",
+        "strong": "G1538"
+      },
+      {
+        "word": "자기",
+        "strong": "G4572"
+      },
+      {
+        "word": "일을",
+        "strong": "G3588"
+      },
+      {
+        "word": "돌볼",
+        "strong": "G4648"
+      },
+      {
+        "word": "뿐더러",
+        "strong": "G3361"
+      },
+      {
+        "word": "또한",
+        "strong": "G235"
+      },
+      {
+        "word": "각각",
+        "strong": "G1538"
+      },
+      {
+        "word": "다른 사람들의",
+        "strong": "G2087"
+      },
+      {
+        "word": "일을",
+        "strong": "G3588"
+      },
+      {
+        "word": "돌보아",
+        "strong": null
+      },
+      {
+        "word": "나의",
+        "strong": "G3450"
+      },
+      {
+        "word": "기쁨을",
+        "strong": "G5479"
+      },
+      {
+        "word": "충만하게하라",
+        "strong": "G4137"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 5,
+    "text": "너희 안에 이 마음을 품으라 곧 그리스도 예수의 마음이니",
+    "words": [
+      {
+        "word": "너희",
+        "strong": "G5213"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "이",
+        "strong": "G5124"
+      },
+      {
+        "word": "마음을 품으라",
+        "strong": "G5426"
+      },
+      {
+        "word": "곧",
+        "strong": "G3739"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "의",
+        "strong": "G1722"
+      },
+      {
+        "word": "마음이니",
+        "strong": "G3739"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 6,
+    "text": "그는 근본 하나님의 본체시나 하나님과 동등됨을 취할 것으로 여기지 아니하시고",
+    "words": [
+      {
+        "word": "그는",
+        "strong": "G3739"
+      },
+      {
+        "word": "근본",
+        "strong": "G5225"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "본체",
+        "strong": "G3444"
+      },
+      {
+        "word": "시나",
+        "strong": "G1722"
+      },
+      {
+        "word": "하나님과",
+        "strong": "G2316"
+      },
+      {
+        "word": "동등",
+        "strong": "G2470"
+      },
+      {
+        "word": "됨을",
+        "strong": "G1511"
+      },
+      {
+        "word": "취할 것으로",
+        "strong": "G725"
+      },
+      {
+        "word": "여기지",
+        "strong": "G2233"
+      },
+      {
+        "word": "아니",
+        "strong": "G3756"
+      },
+      {
+        "word": "하시고",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 7,
+    "text": "오히려 자기를 비워 종의 형체를 가지사 사람들과 같이 되셨고",
+    "words": [
+      {
+        "word": "오히려",
+        "strong": "G235"
+      },
+      {
+        "word": "자기를",
+        "strong": "G1438"
+      },
+      {
+        "word": "비워",
+        "strong": "G2758"
+      },
+      {
+        "word": "종의",
+        "strong": "G1401"
+      },
+      {
+        "word": "형체를",
+        "strong": "G3444"
+      },
+      {
+        "word": "가지사",
+        "strong": "G2983"
+      },
+      {
+        "word": "사람들과",
+        "strong": "G444"
+      },
+      {
+        "word": "같이",
+        "strong": "G3667"
+      },
+      {
+        "word": "되셨고",
+        "strong": "G1096"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 8,
+    "text": "사람의 모양으로 나타나사 자기를 낮추시고 죽기까지 복종하셨으니 곧 십자가에 죽으심이라",
+    "words": [
+      {
+        "word": "사람",
+        "strong": "G444"
+      },
+      {
+        "word": "의",
+        "strong": "G5613"
+      },
+      {
+        "word": "모양으로",
+        "strong": "G4976"
+      },
+      {
+        "word": "나타나사",
+        "strong": "G2147"
+      },
+      {
+        "word": "자기를",
+        "strong": "G1438"
+      },
+      {
+        "word": "낮추시고",
+        "strong": "G5013"
+      },
+      {
+        "word": "죽기",
+        "strong": "G2288"
+      },
+      {
+        "word": "까지",
+        "strong": "G3360"
+      },
+      {
+        "word": "복종",
+        "strong": "G5255"
+      },
+      {
+        "word": "하셨으니",
+        "strong": "G1096"
+      },
+      {
+        "word": "곧",
+        "strong": "G1161"
+      },
+      {
+        "word": "십자가에",
+        "strong": "G4716"
+      },
+      {
+        "word": "죽으심이라",
+        "strong": "G2288"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 9,
+    "text": "이러므로 하나님이 그를 지극히 높여 모든 이름 위에 뛰어난 이름을 주사",
+    "words": [
+      {
+        "word": "이러므로",
+        "strong": "G1352"
+      },
+      {
+        "word": "하나님이",
+        "strong": "G2316"
+      },
+      {
+        "word": "그를",
+        "strong": "G846"
+      },
+      {
+        "word": "지극히 높여",
+        "strong": "G5251"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "이름",
+        "strong": "G3686"
+      },
+      {
+        "word": "위에 뛰어난",
+        "strong": "G5228"
+      },
+      {
+        "word": "이름을",
+        "strong": "G3686"
+      },
+      {
+        "word": "주사",
+        "strong": "G5483"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 10,
+    "text": "하늘에 있는 자들과 땅에 있는 자들과 땅 아래에 있는 자들로 모든 무릎을 예수의 이름에 꿇게 하시고",
+    "words": [
+      {
+        "word": "하늘에 있는 자들",
+        "strong": "G2032"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "땅에 있는 자들",
+        "strong": "G1919"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "땅 아래에 있는 자들로",
+        "strong": "G2709"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "무릎을",
+        "strong": "G1119"
+      },
+      {
+        "word": "예수의",
+        "strong": "G2424"
+      },
+      {
+        "word": "이름",
+        "strong": "G3686"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "꿇게",
+        "strong": "G2578"
+      },
+      {
+        "word": "하시고",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 11,
+    "text": "모든 입으로 예수 그리스도를 주라 시인하여 하나님 아버지께 영광을 돌리게 하셨느니라",
+    "words": [
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "입으로",
+        "strong": "G1100"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도를",
+        "strong": "G5547"
+      },
+      {
+        "word": "주라",
+        "strong": "G2962"
+      },
+      {
+        "word": "시인하여",
+        "strong": "G1843"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "아버지",
+        "strong": "G3962"
+      },
+      {
+        "word": "께",
+        "strong": "G1519"
+      },
+      {
+        "word": "영광을",
+        "strong": "G1391"
+      },
+      {
+        "word": "돌리게 하셨느니라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 12,
+    "text": "(하나님의 흠 없는 자녀로 살라) 그러므로 나의 사랑하는 자들아 너희가 나 있을 때뿐 아니라 더욱 지금 나 없을 때에도 항상 복종하여 두렵고 떨림으로 너희 구원을 이루라",
+    "words": [
+      {
+        "word": "그러므로",
+        "strong": "G5620"
+      },
+      {
+        "word": "나의",
+        "strong": "G3450"
+      },
+      {
+        "word": "사랑하는 자들아",
+        "strong": "G27"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "나",
+        "strong": "G3450"
+      },
+      {
+        "word": "있을",
+        "strong": "G3952"
+      },
+      {
+        "word": "때",
+        "strong": "G1722"
+      },
+      {
+        "word": "뿐",
+        "strong": "G3440"
+      },
+      {
+        "word": "아니라",
+        "strong": "G3361"
+      },
+      {
+        "word": "더욱",
+        "strong": "G4183"
+      },
+      {
+        "word": "″",
+        "strong": "G3123"
+      },
+      {
+        "word": "지금",
+        "strong": "G3568"
+      },
+      {
+        "word": "나",
+        "strong": "G3450"
+      },
+      {
+        "word": "없을",
+        "strong": "G666"
+      },
+      {
+        "word": "때에도",
+        "strong": "G1722"
+      },
+      {
+        "word": "항상",
+        "strong": "G3842"
+      },
+      {
+        "word": "복종하여",
+        "strong": "G5219"
+      },
+      {
+        "word": "두렵고",
+        "strong": "G5401"
+      },
+      {
+        "word": "떨림",
+        "strong": "G5156"
+      },
+      {
+        "word": "으로",
+        "strong": "G3326"
+      },
+      {
+        "word": "너희",
+        "strong": "G4572"
+      },
+      {
+        "word": "구원을",
+        "strong": "G4991"
+      },
+      {
+        "word": "이루라",
+        "strong": "G2716"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 13,
+    "text": "너희 안에서 행하시는 이는 하나님이시니 자기의 기쁘신 뜻을 위하여 너희에게 소원을 두고 행하게 하시나니",
+    "words": [
+      {
+        "word": "너희",
+        "strong": "G5213"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "행하시는",
+        "strong": "G1754"
+      },
+      {
+        "word": "이는",
+        "strong": "G3588"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "이시니",
+        "strong": "G2076"
+      },
+      {
+        "word": "자기의",
+        "strong": null
+      },
+      {
+        "word": "기쁘신 뜻을",
+        "strong": "G2107"
+      },
+      {
+        "word": "위하여",
+        "strong": "G5228"
+      },
+      {
+        "word": "너희에게 소원을 두고",
+        "strong": "G2309"
+      },
+      {
+        "word": "행하게 하시나니",
+        "strong": "G1754"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 14,
+    "text": "모든 일을 원망과 시비가 없이 하라",
+    "words": [
+      {
+        "word": "모든 일을",
+        "strong": "G3956"
+      },
+      {
+        "word": "원망",
+        "strong": "G1112"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "시비가",
+        "strong": "G1261"
+      },
+      {
+        "word": "없이",
+        "strong": "G5565"
+      },
+      {
+        "word": "하라",
+        "strong": "G4160"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 15,
+    "text": "이는 너희가 흠이 없고 순전하여 어그러지고 거스르는 세대 가운데서 하나님의 흠 없는 자녀로 세상에서 그들 가운데 빛들로 나타내며",
+    "words": [
+      {
+        "word": "이는",
+        "strong": "G2443"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "흠이 없고",
+        "strong": "G273"
+      },
+      {
+        "word": "순전",
+        "strong": "G185"
+      },
+      {
+        "word": "하여",
+        "strong": "G1096"
+      },
+      {
+        "word": "어그러지고",
+        "strong": "G4646"
+      },
+      {
+        "word": "거스르는",
+        "strong": "G1294"
+      },
+      {
+        "word": "세대",
+        "strong": "G1074"
+      },
+      {
+        "word": "가운데서",
+        "strong": "G3319"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "흠 없는",
+        "strong": "G299"
+      },
+      {
+        "word": "자녀로",
+        "strong": "G5043"
+      },
+      {
+        "word": "세상",
+        "strong": "G2889"
+      },
+      {
+        "word": "에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "그들",
+        "strong": "G3739"
+      },
+      {
+        "word": "가운데",
+        "strong": "G1722"
+      },
+      {
+        "word": "빛들",
+        "strong": "G5458"
+      },
+      {
+        "word": "로",
+        "strong": "G5613"
+      },
+      {
+        "word": "나타내며",
+        "strong": "G5316"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 16,
+    "text": "생명의 말씀을 밝혀 나의 달음질이 헛되지 아니하고 수고도 헛되지 아니함으로 그리스도의 날에 내가 자랑할 것이 있게 하려 함이라",
+    "words": [
+      {
+        "word": "생명의",
+        "strong": "G2222"
+      },
+      {
+        "word": "말씀을",
+        "strong": "G3056"
+      },
+      {
+        "word": "밝혀",
+        "strong": "G1907"
+      },
+      {
+        "word": "나의 달음질이",
+        "strong": "G5143"
+      },
+      {
+        "word": "헛되",
+        "strong": "G2756"
+      },
+      {
+        "word": "지",
+        "strong": "G1519"
+      },
+      {
+        "word": "아니하고",
+        "strong": "G3756"
+      },
+      {
+        "word": "수고도",
+        "strong": "G2872"
+      },
+      {
+        "word": "헛되",
+        "strong": "G2756"
+      },
+      {
+        "word": "지",
+        "strong": "G1519"
+      },
+      {
+        "word": "아니",
+        "strong": "G3761"
+      },
+      {
+        "word": "함으로",
+        "strong": "G3754"
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "날",
+        "strong": "G2250"
+      },
+      {
+        "word": "에",
+        "strong": "G1519"
+      },
+      {
+        "word": "내가",
+        "strong": "G1698"
+      },
+      {
+        "word": "자랑할 것이",
+        "strong": "G2745"
+      },
+      {
+        "word": "있게",
+        "strong": "G1519"
+      },
+      {
+        "word": "하려 함이라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 17,
+    "text": "만일 너희 믿음의 제물과 섬김 위에 내가 나를 전제로 드릴지라도 나는 기뻐하고 너희 무리와 함께 기뻐하리니",
+    "words": [
+      {
+        "word": "만일",
+        "strong": "G1499"
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "믿음의",
+        "strong": "G4102"
+      },
+      {
+        "word": "제물",
+        "strong": "G2378"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "섬김",
+        "strong": "G3009"
+      },
+      {
+        "word": "위에",
+        "strong": "G1909"
+      },
+      {
+        "word": "내가 나를 전제로 드릴",
+        "strong": "G4689"
+      },
+      {
+        "word": "지라도",
+        "strong": null
+      },
+      {
+        "word": "나는 기뻐하고",
+        "strong": "G5463"
+      },
+      {
+        "word": "너희",
+        "strong": "G5213"
+      },
+      {
+        "word": "무리와",
+        "strong": "G3956"
+      },
+      {
+        "word": "함께 기뻐하리니",
+        "strong": "G4796"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 18,
+    "text": "이와 같이 너희도 기뻐하고 나와 함께 기뻐6)하라",
+    "words": [
+      {
+        "word": "이와",
+        "strong": "G3588"
+      },
+      {
+        "word": "같이",
+        "strong": "G846"
+      },
+      {
+        "word": "너희",
+        "strong": "G5210"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "기뻐하고",
+        "strong": "G5463"
+      },
+      {
+        "word": "나와",
+        "strong": "G3427"
+      },
+      {
+        "word": "함께 기뻐하라",
+        "strong": "G4796"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 19,
+    "text": "(디모데와 에바브로디도) 내가 디모데를 속히 너희에게 보내기를 주 안에서 바람은 너희의 사정을 앎으로 안위를 받으려 함이니",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "디모데를",
+        "strong": "G5095"
+      },
+      {
+        "word": "속히",
+        "strong": "G5030"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "보내기를",
+        "strong": "G3992"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "바람은",
+        "strong": "G1679"
+      },
+      {
+        "word": "너희의",
+        "strong": "G5216"
+      },
+      {
+        "word": "사정을",
+        "strong": "G4012"
+      },
+      {
+        "word": "앎으로",
+        "strong": "G1097"
+      },
+      {
+        "word": "안위를 받으려",
+        "strong": "G2174"
+      },
+      {
+        "word": "함이니",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 20,
+    "text": "이는 뜻을 같이하여 너희 사정을 진실히 생각할 자가 이밖에 내게 없음이라",
+    "words": [
+      {
+        "word": "이는",
+        "strong": "G1063"
+      },
+      {
+        "word": "뜻을 같이 하여",
+        "strong": "G2473"
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "사정을",
+        "strong": "G4012"
+      },
+      {
+        "word": "진실히",
+        "strong": "G1104"
+      },
+      {
+        "word": "생각할",
+        "strong": "G3309"
+      },
+      {
+        "word": "자가",
+        "strong": "G3748"
+      },
+      {
+        "word": "이 밖에",
+        "strong": "G3762"
+      },
+      {
+        "word": "내게",
+        "strong": null
+      },
+      {
+        "word": "없음",
+        "strong": "G3748"
+      },
+      {
+        "word": "이라",
+        "strong": "G2192"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 21,
+    "text": "그들이 다 자기 일을 구하고 그리스도 예수의 일을 구하지 아니하되",
+    "words": [
+      {
+        "word": "그들이 다",
+        "strong": "G3956"
+      },
+      {
+        "word": "자기",
+        "strong": "G1438"
+      },
+      {
+        "word": "일을",
+        "strong": "G3588"
+      },
+      {
+        "word": "구하고",
+        "strong": "G2212"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수의",
+        "strong": "G2424"
+      },
+      {
+        "word": "일을",
+        "strong": "G3588"
+      },
+      {
+        "word": "구하지",
+        "strong": null
+      },
+      {
+        "word": "아니하되",
+        "strong": "G3756"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 22,
+    "text": "디모데의 연단을 너희가 아나니 자식이 아버지에게 함같이 나와 함께 복음을 위하여 수고하였느니라",
+    "words": [
+      {
+        "word": "디모데의",
+        "strong": "G846"
+      },
+      {
+        "word": "연단을",
+        "strong": "G1382"
+      },
+      {
+        "word": "너희가 아나니",
+        "strong": "G1097"
+      },
+      {
+        "word": "자식이",
+        "strong": "G5043"
+      },
+      {
+        "word": "아버지에게",
+        "strong": "G3962"
+      },
+      {
+        "word": "함같이",
+        "strong": "G5613"
+      },
+      {
+        "word": "나와",
+        "strong": "G1698"
+      },
+      {
+        "word": "함께",
+        "strong": "G4862"
+      },
+      {
+        "word": "복음을",
+        "strong": "G2098"
+      },
+      {
+        "word": "위하여",
+        "strong": "G1519"
+      },
+      {
+        "word": "수고하였느니라",
+        "strong": "G1398"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 23,
+    "text": "그러므로 내가 내 일이 어떻게 될지를 보아서 곧 이 사람을 보내기를 바라고",
+    "words": [
+      {
+        "word": "그러므로",
+        "strong": "G3767"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "내",
+        "strong": "G1691"
+      },
+      {
+        "word": "일이",
+        "strong": "G3588"
+      },
+      {
+        "word": "어떻게 될 지를",
+        "strong": "G302"
+      },
+      {
+        "word": "보아",
+        "strong": "G872"
+      },
+      {
+        "word": "서",
+        "strong": "G5613"
+      },
+      {
+        "word": "곧",
+        "strong": "G1824"
+      },
+      {
+        "word": "이 사람을",
+        "strong": "G5126"
+      },
+      {
+        "word": "보내기를",
+        "strong": "G3992"
+      },
+      {
+        "word": "바라고",
+        "strong": "G1679"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 24,
+    "text": "나도 속히 가게 될 것을 주 안에서 확신하노라",
+    "words": [
+      {
+        "word": "나",
+        "strong": null
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "속히",
+        "strong": "G5030"
+      },
+      {
+        "word": "가게 될 것",
+        "strong": "G2064"
+      },
+      {
+        "word": "을",
+        "strong": "G3754"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "확신하노라",
+        "strong": "G3982"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 25,
+    "text": "그러나 에바브로디도를 너희에게 보내는 것이 필요한 줄로 생각하노니 그는 나의 형제요 함께 수고하고 함께 군사 된 자요 너희 사자로 내가 쓸 것을 돕는 자라",
+    "words": [
+      {
+        "word": "그러나",
+        "strong": "G1161"
+      },
+      {
+        "word": "에바브로디도를",
+        "strong": "G1891"
+      },
+      {
+        "word": "너희",
+        "strong": "G5209"
+      },
+      {
+        "word": "에게",
+        "strong": "G4314"
+      },
+      {
+        "word": "보내는 것이",
+        "strong": "G3992"
+      },
+      {
+        "word": "필요한 줄로",
+        "strong": "G316"
+      },
+      {
+        "word": "생각하노니",
+        "strong": "G2233"
+      },
+      {
+        "word": "그는",
+        "strong": null
+      },
+      {
+        "word": "나의",
+        "strong": "G3450"
+      },
+      {
+        "word": "형제요",
+        "strong": "G80"
+      },
+      {
+        "word": "함께 수고하고",
+        "strong": "G4904"
+      },
+      {
+        "word": "함께 군사된 자요",
+        "strong": "G4961"
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "사자로",
+        "strong": "G652"
+      },
+      {
+        "word": "내가",
+        "strong": "G3450"
+      },
+      {
+        "word": "쓸 것을",
+        "strong": "G5532"
+      },
+      {
+        "word": "돕는 자라",
+        "strong": "G3011"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 26,
+    "text": "그가 너희 무리를 간절히 사모하고 자기가 병든 것을 너희가 들은 줄을 알고 심히 근심한지라",
+    "words": [
+      {
+        "word": "그가",
+        "strong": null
+      },
+      {
+        "word": "너희",
+        "strong": "G5209"
+      },
+      {
+        "word": "무리를",
+        "strong": "G3956"
+      },
+      {
+        "word": "간절히 사모",
+        "strong": "G1971"
+      },
+      {
+        "word": "하고",
+        "strong": "G2258"
+      },
+      {
+        "word": "자기가 병든",
+        "strong": "G770"
+      },
+      {
+        "word": "것을",
+        "strong": "G3754"
+      },
+      {
+        "word": "너희가 들은",
+        "strong": "G191"
+      },
+      {
+        "word": "줄을 알고",
+        "strong": "G1360"
+      },
+      {
+        "word": "심히 근심한지라",
+        "strong": "G85"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 27,
+    "text": "그가 병들어 죽게 되었으나 하나님이 그를 긍휼히 여기셨고 그뿐 아니라 또 나를 긍휼히 여기사 내 근심 위에 근심을 면하게 하셨느니라",
+    "words": [
+      {
+        "word": "그가 병들어",
+        "strong": "G770"
+      },
+      {
+        "word": "죽게",
+        "strong": "G2288"
+      },
+      {
+        "word": "되었으나",
+        "strong": "G3897"
+      },
+      {
+        "word": "하나님이",
+        "strong": "G2316"
+      },
+      {
+        "word": "그를",
+        "strong": "G846"
+      },
+      {
+        "word": "긍휼히 여기셨고",
+        "strong": "G1653"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "뿐",
+        "strong": "G3440"
+      },
+      {
+        "word": "아니라",
+        "strong": "G3756"
+      },
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "나를",
+        "strong": "G1691"
+      },
+      {
+        "word": "긍휼히 여기사",
+        "strong": null
+      },
+      {
+        "word": "내",
+        "strong": "G2192"
+      },
+      {
+        "word": "근심",
+        "strong": "G3077"
+      },
+      {
+        "word": "위에",
+        "strong": "G1909"
+      },
+      {
+        "word": "근심을",
+        "strong": "G3077"
+      },
+      {
+        "word": "면하게",
+        "strong": "G3363"
+      },
+      {
+        "word": "하셨느니라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 28,
+    "text": "그러므로 내가 더욱 급히 그를 보낸 것은 너희로 그를 다시 보고 기뻐하게 하며 내 근심도 덜려 함이니라",
+    "words": [
+      {
+        "word": "그러므로",
+        "strong": "G3767"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "더욱 급히",
+        "strong": "G4708"
+      },
+      {
+        "word": "그를",
+        "strong": "G846"
+      },
+      {
+        "word": "보낸 것은",
+        "strong": "G3992"
+      },
+      {
+        "word": "너희로",
+        "strong": null
+      },
+      {
+        "word": "그를",
+        "strong": "G846"
+      },
+      {
+        "word": "다시",
+        "strong": "G3825"
+      },
+      {
+        "word": "보고",
+        "strong": "G1492"
+      },
+      {
+        "word": "기뻐하게 하며",
+        "strong": "G5463"
+      },
+      {
+        "word": "내",
+        "strong": "G2504"
+      },
+      {
+        "word": "근심도 덜려",
+        "strong": "G253"
+      },
+      {
+        "word": "함",
+        "strong": "G5600"
+      },
+      {
+        "word": "이니라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 29,
+    "text": "이러므로 너희가 주 안에서 모든 기쁨으로 그를 영접하고 또 이와 같은 자들을 존귀히 여기라",
+    "words": [
+      {
+        "word": "이러므로",
+        "strong": "G3767"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "기쁨",
+        "strong": "G5479"
+      },
+      {
+        "word": "으로",
+        "strong": "G3326"
+      },
+      {
+        "word": "그를",
+        "strong": "G846"
+      },
+      {
+        "word": "영접하고",
+        "strong": "G4327"
+      },
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "이와 같은 자들을",
+        "strong": "G5108"
+      },
+      {
+        "word": "존귀히",
+        "strong": "G1784"
+      },
+      {
+        "word": "여기라",
+        "strong": "G2192"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 2,
+    "verse": 30,
+    "text": "그가 그리스도의 일을 위하여 죽기에 이르러도 자기 목숨을 돌보지 아니한 것은 나를 섬기는 너희의 일에 부족함을 채우려 함이니라",
+    "words": [
+      {
+        "word": "그가",
+        "strong": null
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "일을",
+        "strong": "G2041"
+      },
+      {
+        "word": "위하여",
+        "strong": "G1223"
+      },
+      {
+        "word": "죽기",
+        "strong": "G2288"
+      },
+      {
+        "word": "에",
+        "strong": "G3360"
+      },
+      {
+        "word": "이르러도",
+        "strong": "G1448"
+      },
+      {
+        "word": "자기",
+        "strong": null
+      },
+      {
+        "word": "목숨을",
+        "strong": "G5590"
+      },
+      {
+        "word": "돌보지 아니한 것은",
+        "strong": "G3850a"
+      },
+      {
+        "word": "나를",
+        "strong": "G3165"
+      },
+      {
+        "word": "섬기는",
+        "strong": "G3009"
+      },
+      {
+        "word": "너희의 일에",
+        "strong": "G5216"
+      },
+      {
+        "word": "부족함을",
+        "strong": "G5303"
+      },
+      {
+        "word": "채우려",
+        "strong": "G378"
+      },
+      {
+        "word": "함이니라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 1,
+    "text": "(하나님께로부터 난 의) 끝으로 나의 형제들아 주 안에서 기뻐하라 너희에게 같은 말을 쓰는 것이 내게는 수고로움이 없고 너희에게는 안전하니라",
+    "words": [
+      {
+        "word": "끝으로",
+        "strong": "G3063"
+      },
+      {
+        "word": "나의",
+        "strong": "G3450"
+      },
+      {
+        "word": "형제들아",
+        "strong": "G80"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "기뻐하라",
+        "strong": "G5463"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "같은 말을",
+        "strong": "G846"
+      },
+      {
+        "word": "쓰는 것이",
+        "strong": "G1125"
+      },
+      {
+        "word": "내게는",
+        "strong": "G1698"
+      },
+      {
+        "word": "수고로움이",
+        "strong": "G3636"
+      },
+      {
+        "word": "없고",
+        "strong": "G3756"
+      },
+      {
+        "word": "너희에게는",
+        "strong": "G5213"
+      },
+      {
+        "word": "안전하니라",
+        "strong": "G804"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 2,
+    "text": "개들을 삼가고 행악하는 자들을 삼가고 몸을 상해하는 일을 삼가라",
+    "words": [
+      {
+        "word": "개들을",
+        "strong": "G2965"
+      },
+      {
+        "word": "삼가고",
+        "strong": "G991"
+      },
+      {
+        "word": "행악",
+        "strong": "G2556"
+      },
+      {
+        "word": "하는 자들을",
+        "strong": "G2040"
+      },
+      {
+        "word": "삼가고",
+        "strong": "G991"
+      },
+      {
+        "word": "몸을 상해하는 일을",
+        "strong": "G2699"
+      },
+      {
+        "word": "삼가라",
+        "strong": "G991"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 3,
+    "text": "하나님의 성령으로 봉사하며 그리스도 예수로 자랑하고 육체를 신뢰하지 아니하는 우리가 곧 할례파라",
+    "words": [
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "성령으로",
+        "strong": "G4151"
+      },
+      {
+        "word": "봉사하며",
+        "strong": "G3000"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "로",
+        "strong": "G1722"
+      },
+      {
+        "word": "자랑하고",
+        "strong": "G2744"
+      },
+      {
+        "word": "육체",
+        "strong": "G4561"
+      },
+      {
+        "word": "를",
+        "strong": "G1722"
+      },
+      {
+        "word": "신뢰하지",
+        "strong": "G3982"
+      },
+      {
+        "word": "아니하는",
+        "strong": "G3756"
+      },
+      {
+        "word": "우리가",
+        "strong": "G2249"
+      },
+      {
+        "word": "곧",
+        "strong": "G1063"
+      },
+      {
+        "word": "할례파",
+        "strong": "G4061"
+      },
+      {
+        "word": "라",
+        "strong": "G2070"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 4,
+    "text": "그러나 나도 육체를 신뢰할 만하며 만일 누구든지 다른 이가 육체를 신뢰할 것이 있는 줄로 생각하면 나는 더욱 그러하리니",
+    "words": [
+      {
+        "word": "그러나",
+        "strong": "G2539"
+      },
+      {
+        "word": "나도",
+        "strong": "G1473"
+      },
+      {
+        "word": "육체",
+        "strong": "G4561"
+      },
+      {
+        "word": "를",
+        "strong": "G1722"
+      },
+      {
+        "word": "신뢰할",
+        "strong": "G4006"
+      },
+      {
+        "word": "만하며",
+        "strong": "G2192"
+      },
+      {
+        "word": "만일",
+        "strong": "G1536"
+      },
+      {
+        "word": "누구든지",
+        "strong": "G5100"
+      },
+      {
+        "word": "다른 이가",
+        "strong": "G243"
+      },
+      {
+        "word": "육체",
+        "strong": "G4561"
+      },
+      {
+        "word": "를",
+        "strong": "G1722"
+      },
+      {
+        "word": "신뢰할 것이 있는 줄로",
+        "strong": "G3982"
+      },
+      {
+        "word": "생각",
+        "strong": "G1380"
+      },
+      {
+        "word": "하면",
+        "strong": null
+      },
+      {
+        "word": "나는",
+        "strong": "G1473"
+      },
+      {
+        "word": "더욱 그러하리니",
+        "strong": "G3123"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 5,
+    "text": "나는 팔일 만에 할례를 받고 이스라엘 족속이요 베냐민 지파요 히브리인 중의 히브리인이요 율법으로는 바리새인이요",
+    "words": [
+      {
+        "word": "나는",
+        "strong": null
+      },
+      {
+        "word": "팔일만에",
+        "strong": "G3637"
+      },
+      {
+        "word": "할례를 받고",
+        "strong": "G4061"
+      },
+      {
+        "word": "이스라엘",
+        "strong": "G2474"
+      },
+      {
+        "word": "족속이요",
+        "strong": "G1085"
+      },
+      {
+        "word": "베냐민",
+        "strong": "G958"
+      },
+      {
+        "word": "지파요",
+        "strong": "G5443"
+      },
+      {
+        "word": "히브리인",
+        "strong": "G1445"
+      },
+      {
+        "word": "중의",
+        "strong": "G1537"
+      },
+      {
+        "word": "히브리인이요",
+        "strong": "G1445"
+      },
+      {
+        "word": "율법",
+        "strong": "G3551"
+      },
+      {
+        "word": "으로는",
+        "strong": "G2596"
+      },
+      {
+        "word": "바리새인이요",
+        "strong": "G5330"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 6,
+    "text": "열심으로는 교회를 박해하고 율법의 의로는 흠이 없는 자라",
+    "words": [
+      {
+        "word": "열심",
+        "strong": "G2205"
+      },
+      {
+        "word": "으로는",
+        "strong": "G2596"
+      },
+      {
+        "word": "교회를",
+        "strong": "G1577"
+      },
+      {
+        "word": "박해하고",
+        "strong": "G1377"
+      },
+      {
+        "word": "율법",
+        "strong": "G3551"
+      },
+      {
+        "word": "의",
+        "strong": "G1722"
+      },
+      {
+        "word": "의",
+        "strong": "G1343"
+      },
+      {
+        "word": "로는",
+        "strong": "G2596"
+      },
+      {
+        "word": "흠이 없는 자",
+        "strong": "G273"
+      },
+      {
+        "word": "라",
+        "strong": "G1096"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 7,
+    "text": "그러나 무엇이든지 내게 유익하던 것을 내가 그리스도를 위하여 다 해로 여길뿐더러",
+    "words": [
+      {
+        "word": "그러나",
+        "strong": "G235"
+      },
+      {
+        "word": "무엇이든지",
+        "strong": null
+      },
+      {
+        "word": "내게",
+        "strong": "G3427"
+      },
+      {
+        "word": "유익",
+        "strong": "G2771"
+      },
+      {
+        "word": "하던",
+        "strong": "G2258"
+      },
+      {
+        "word": "것을",
+        "strong": "G3748"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "그리스도를",
+        "strong": "G5547"
+      },
+      {
+        "word": "위하여",
+        "strong": "G1223"
+      },
+      {
+        "word": "다",
+        "strong": "G3778"
+      },
+      {
+        "word": "해로",
+        "strong": "G2209"
+      },
+      {
+        "word": "여길뿐더러",
+        "strong": "G2233"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 8,
+    "text": "또한 모든 것을 해로 여김은 내 주 그리스도 예수를 아는 지식이 가장 고상하기 때문이라 내가 그를 위하여 모든 것을 잃어버리고 배설물로 여김은 그리스도를 얻고",
+    "words": [
+      {
+        "word": "또한",
+        "strong": "G235"
+      },
+      {
+        "word": "모든 것을",
+        "strong": "G3956"
+      },
+      {
+        "word": "해로",
+        "strong": "G2209"
+      },
+      {
+        "word": "여김은",
+        "strong": "G2233"
+      },
+      {
+        "word": "내",
+        "strong": "G3450"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수를",
+        "strong": "G2424"
+      },
+      {
+        "word": "아는 지식이",
+        "strong": "G1108"
+      },
+      {
+        "word": "가장 고상하기",
+        "strong": "G5242"
+      },
+      {
+        "word": "때문이라",
+        "strong": "G1223"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "그를",
+        "strong": "G3739"
+      },
+      {
+        "word": "위하여",
+        "strong": "G1223"
+      },
+      {
+        "word": "모든 것을",
+        "strong": "G3956"
+      },
+      {
+        "word": "잃어버리고",
+        "strong": "G2210"
+      },
+      {
+        "word": "배설물",
+        "strong": "G4657"
+      },
+      {
+        "word": "로",
+        "strong": "G1511"
+      },
+      {
+        "word": "여김은",
+        "strong": "G2233"
+      },
+      {
+        "word": "그리스도를",
+        "strong": "G5547"
+      },
+      {
+        "word": "얻고",
+        "strong": "G2770"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 9,
+    "text": "그 안에서 발견되려 함이니 내가 가진 의는 율법에서 난 것이 아니요 오직 그리스도를 믿음으로 말미암은 것이니 곧 믿음으로 하나님께로부터 난 의라",
+    "words": [
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "발견되려 함이니",
+        "strong": "G2147"
+      },
+      {
+        "word": "내가",
+        "strong": "G1699"
+      },
+      {
+        "word": "가진",
+        "strong": "G2192"
+      },
+      {
+        "word": "의는",
+        "strong": "G1343"
+      },
+      {
+        "word": "율법",
+        "strong": "G3551"
+      },
+      {
+        "word": "에서 난",
+        "strong": "G1537"
+      },
+      {
+        "word": "것이",
+        "strong": "G3588"
+      },
+      {
+        "word": "아니요",
+        "strong": "G3361"
+      },
+      {
+        "word": "오직",
+        "strong": "G235"
+      },
+      {
+        "word": "그리스도를",
+        "strong": "G5547"
+      },
+      {
+        "word": "믿음으로",
+        "strong": "G4102"
+      },
+      {
+        "word": "말미암은",
+        "strong": "G1223"
+      },
+      {
+        "word": "것이니",
+        "strong": "G3588"
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "믿음",
+        "strong": "G4102"
+      },
+      {
+        "word": "으로",
+        "strong": "G1909"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "께로부터 난",
+        "strong": "G1537"
+      },
+      {
+        "word": "의라",
+        "strong": "G1343"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 10,
+    "text": "내가 그리스도와 그 부활의 권능과 그 고난에 참여함을 알고자 하여 그의 죽으심을 본받아",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "그리스도",
+        "strong": "G846"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "부활의",
+        "strong": "G386"
+      },
+      {
+        "word": "권능",
+        "strong": "G1411"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "고난에",
+        "strong": "G3804"
+      },
+      {
+        "word": "참여함을",
+        "strong": "G2842"
+      },
+      {
+        "word": "알고자하여",
+        "strong": "G1097"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "죽으심을",
+        "strong": "G2288"
+      },
+      {
+        "word": "본받아",
+        "strong": "G4832a"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 11,
+    "text": "어떻게 해서든지 죽은 자 가운데서 부활에 이르려 하노니",
+    "words": [
+      {
+        "word": "어떻게 해서든지",
+        "strong": "G1513"
+      },
+      {
+        "word": "죽은 자",
+        "strong": "G3498"
+      },
+      {
+        "word": "가운데서",
+        "strong": "G1537"
+      },
+      {
+        "word": "부활",
+        "strong": "G1815"
+      },
+      {
+        "word": "에",
+        "strong": "G1519"
+      },
+      {
+        "word": "이르려 하노니",
+        "strong": "G2658"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 12,
+    "text": "내가 이미 얻었다 함도 아니요 온전히 이루었다 함도 아니라 오직 내가 그리스도 예수께 잡힌 바 된 그것을 잡으려고 달려가노라",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "이미",
+        "strong": "G2235"
+      },
+      {
+        "word": "얻었다",
+        "strong": "G2983"
+      },
+      {
+        "word": "함도",
+        "strong": "G3754"
+      },
+      {
+        "word": "아니요",
+        "strong": "G3756"
+      },
+      {
+        "word": "온전히 이루었다",
+        "strong": "G5048"
+      },
+      {
+        "word": "함도 아니라",
+        "strong": "G2228"
+      },
+      {
+        "word": "오직",
+        "strong": "G1161"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "께",
+        "strong": "G5259"
+      },
+      {
+        "word": "잡힌바 된",
+        "strong": "G2638"
+      },
+      {
+        "word": "그것을",
+        "strong": "G3739"
+      },
+      {
+        "word": "잡으려고",
+        "strong": "G2638"
+      },
+      {
+        "word": "달려가노라",
+        "strong": "G1377"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 13,
+    "text": "형제들아 나는 아직 내가 잡은 줄로 여기지 아니하고 오직 한 일 즉 뒤에 있는 것은 잊어버리고 앞에 있는 것을 잡으려고",
+    "words": [
+      {
+        "word": "형제들아",
+        "strong": "G80"
+      },
+      {
+        "word": "나는",
+        "strong": "G1473"
+      },
+      {
+        "word": "아직",
+        "strong": null
+      },
+      {
+        "word": "내가",
+        "strong": "G1683"
+      },
+      {
+        "word": "잡은 줄로",
+        "strong": "G2638"
+      },
+      {
+        "word": "여기지",
+        "strong": "G3049"
+      },
+      {
+        "word": "아니하고",
+        "strong": "G3768"
+      },
+      {
+        "word": "오직",
+        "strong": "G1161"
+      },
+      {
+        "word": "한 일",
+        "strong": "G1520"
+      },
+      {
+        "word": "즉",
+        "strong": "G3303"
+      },
+      {
+        "word": "뒤에 있는",
+        "strong": "G3694"
+      },
+      {
+        "word": "것은",
+        "strong": "G3588"
+      },
+      {
+        "word": "잊어버리고",
+        "strong": "G1950"
+      },
+      {
+        "word": "앞에 있는",
+        "strong": "G1715"
+      },
+      {
+        "word": "것을",
+        "strong": "G3588"
+      },
+      {
+        "word": "잡으려고",
+        "strong": "G1901"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 14,
+    "text": "푯대를 향하여 그리스도 예수 안에서 하나님이 위에서 부르신 부름의 상을 위하여 달려가노라",
+    "words": [
+      {
+        "word": "푯대를",
+        "strong": "G4649"
+      },
+      {
+        "word": "향하여",
+        "strong": "G2596"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "하나님이",
+        "strong": "G2316"
+      },
+      {
+        "word": "위에서",
+        "strong": "G507"
+      },
+      {
+        "word": "부르신 부름의",
+        "strong": "G2821"
+      },
+      {
+        "word": "상을",
+        "strong": "G1017"
+      },
+      {
+        "word": "위하여",
+        "strong": "G1519"
+      },
+      {
+        "word": "달려가노라",
+        "strong": "G1377"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 15,
+    "text": "그러므로 누구든지 우리 온전히 이룬 자들은 이렇게 생각할지니 만일 어떤 일에 너희가 달리 생각하면 하나님이 이것도 너희에게 나타내시리라",
+    "words": [
+      {
+        "word": "그러므로",
+        "strong": "G3767"
+      },
+      {
+        "word": "누구든지",
+        "strong": "G3745"
+      },
+      {
+        "word": "우리",
+        "strong": null
+      },
+      {
+        "word": "온전히 이룬",
+        "strong": "G5046"
+      },
+      {
+        "word": "자들은",
+        "strong": null
+      },
+      {
+        "word": "이렇게",
+        "strong": "G5124"
+      },
+      {
+        "word": "생각할지니",
+        "strong": "G5426"
+      },
+      {
+        "word": "만일",
+        "strong": "G1536"
+      },
+      {
+        "word": "어떤 일에",
+        "strong": "G5100"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "달리",
+        "strong": "G2088"
+      },
+      {
+        "word": "생각하",
+        "strong": "G5426"
+      },
+      {
+        "word": "면",
+        "strong": null
+      },
+      {
+        "word": "하나님이",
+        "strong": "G2316"
+      },
+      {
+        "word": "이것",
+        "strong": "G5124"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "나타내시리라",
+        "strong": "G601"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 16,
+    "text": "오직 우리가 어디까지 이르렀든지 그대로 행할 것이라",
+    "words": [
+      {
+        "word": "오직",
+        "strong": "G4133"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "어디",
+        "strong": "G3739"
+      },
+      {
+        "word": "까지",
+        "strong": "G1519"
+      },
+      {
+        "word": "이르렀든지",
+        "strong": "G5348"
+      },
+      {
+        "word": "그대로",
+        "strong": "G846"
+      },
+      {
+        "word": "행할 것이라",
+        "strong": "G4748"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 17,
+    "text": "(우리의 시민권은 하늘에) 형제들아 너희는 함께 나를 본받으라 그리고 너희가 우리를 본받은 것처럼 그와 같이 행하는 자들을 눈여겨 보라",
+    "words": [
+      {
+        "word": "형제들아",
+        "strong": "G80"
+      },
+      {
+        "word": "너희는",
+        "strong": null
+      },
+      {
+        "word": "함께",
+        "strong": null
+      },
+      {
+        "word": "나를",
+        "strong": "G3450"
+      },
+      {
+        "word": "본",
+        "strong": "G4831"
+      },
+      {
+        "word": "받으라",
+        "strong": "G1096"
+      },
+      {
+        "word": "그리고 너희가",
+        "strong": "G2532"
+      },
+      {
+        "word": "우리를",
+        "strong": "G2248"
+      },
+      {
+        "word": "본",
+        "strong": "G5179"
+      },
+      {
+        "word": "받은",
+        "strong": "G2192"
+      },
+      {
+        "word": "것처럼",
+        "strong": "G2531"
+      },
+      {
+        "word": "그와같이",
+        "strong": "G3779"
+      },
+      {
+        "word": "행하는",
+        "strong": "G4043"
+      },
+      {
+        "word": "자들을",
+        "strong": "G3588"
+      },
+      {
+        "word": "눈여겨보라",
+        "strong": "G4648"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 18,
+    "text": "내가 여러 번 너희에게 말하였거니와 이제도 눈물을 흘리며 말하노니 여러 사람들이 그리스도의 십자가의 원수로 행하느니라",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "여러 번",
+        "strong": "G4178"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "말하였거니와",
+        "strong": "G3004"
+      },
+      {
+        "word": "이제",
+        "strong": "G3568"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "눈물을 흘리며",
+        "strong": "G2799"
+      },
+      {
+        "word": "말하노니",
+        "strong": "G3004"
+      },
+      {
+        "word": "여러 사람들이",
+        "strong": "G4183"
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "십자가의",
+        "strong": "G4716"
+      },
+      {
+        "word": "원수로",
+        "strong": "G2190"
+      },
+      {
+        "word": "행하느니라",
+        "strong": "G4043"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 19,
+    "text": "그들의 마침은 멸망이요 그들의 신은 배요 그 영광은 그들의 부끄러움에 있고 땅의 일을 생각하는 자라",
+    "words": [
+      {
+        "word": "그들의",
+        "strong": "G3739"
+      },
+      {
+        "word": "마침은",
+        "strong": "G5056"
+      },
+      {
+        "word": "멸망이요",
+        "strong": "G684"
+      },
+      {
+        "word": "그들의",
+        "strong": "G3739"
+      },
+      {
+        "word": "신은",
+        "strong": "G2316"
+      },
+      {
+        "word": "배요",
+        "strong": "G2836"
+      },
+      {
+        "word": "그",
+        "strong": "G3588"
+      },
+      {
+        "word": "영광은",
+        "strong": "G1391"
+      },
+      {
+        "word": "그들의",
+        "strong": "G846"
+      },
+      {
+        "word": "부끄러움",
+        "strong": "G152"
+      },
+      {
+        "word": "에 있고",
+        "strong": "G1722"
+      },
+      {
+        "word": "땅의 일을",
+        "strong": "G1919"
+      },
+      {
+        "word": "생각하는",
+        "strong": "G5426"
+      },
+      {
+        "word": "자라",
+        "strong": "G3588"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 20,
+    "text": "그러나 우리의 시민권은 하늘에 있는지라 거기로부터 구원하는 자 곧 주 예수 그리스도를 기다리노니",
+    "words": [
+      {
+        "word": "그러나",
+        "strong": "G1063"
+      },
+      {
+        "word": "우리의",
+        "strong": "G2257"
+      },
+      {
+        "word": "시민권은",
+        "strong": "G4175"
+      },
+      {
+        "word": "하늘",
+        "strong": "G3772"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "있는지라",
+        "strong": "G5225"
+      },
+      {
+        "word": "거기",
+        "strong": "G3739"
+      },
+      {
+        "word": "로부터",
+        "strong": "G1537"
+      },
+      {
+        "word": "구원하는 자",
+        "strong": "G4990"
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도를",
+        "strong": "G5547"
+      },
+      {
+        "word": "기다리노니",
+        "strong": "G553"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 3,
+    "verse": 21,
+    "text": "그는 만물을 자기에게 복종하게 하실 수 있는 자의 역사로 우리의 낮은 몸을 자기 영광의 몸의 형체와 같이 변하게 하시리라",
+    "words": [
+      {
+        "word": "그는",
+        "strong": "G3739"
+      },
+      {
+        "word": "만물을",
+        "strong": "G3956"
+      },
+      {
+        "word": "자기에게",
+        "strong": "G1438"
+      },
+      {
+        "word": "복종하게",
+        "strong": "G5293"
+      },
+      {
+        "word": "하실 수 있는",
+        "strong": "G1410"
+      },
+      {
+        "word": "자의",
+        "strong": "G3588"
+      },
+      {
+        "word": "역사",
+        "strong": "G1753"
+      },
+      {
+        "word": "로",
+        "strong": "G2596"
+      },
+      {
+        "word": "우리의",
+        "strong": "G2257"
+      },
+      {
+        "word": "낮은",
+        "strong": "G5014"
+      },
+      {
+        "word": "몸을",
+        "strong": "G4983"
+      },
+      {
+        "word": "자기",
+        "strong": "G846"
+      },
+      {
+        "word": "영광의",
+        "strong": "G1391"
+      },
+      {
+        "word": "몸의",
+        "strong": "G4983"
+      },
+      {
+        "word": "형체와 같이",
+        "strong": "G4832"
+      },
+      {
+        "word": "변하게 하시리라",
+        "strong": "G3345"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 1,
+    "text": "그러므로 나의 사랑하고 사모하는 형제들, 나의 기쁨이요 면류관인 사랑하는 자들아 이와 같이 주 안에 서라",
+    "words": [
+      {
+        "word": "그러므로",
+        "strong": "G5620"
+      },
+      {
+        "word": "나의",
+        "strong": "G3450"
+      },
+      {
+        "word": "사랑하고",
+        "strong": "G27"
+      },
+      {
+        "word": "사모하는",
+        "strong": "G1973"
+      },
+      {
+        "word": "형제들,",
+        "strong": "G80"
+      },
+      {
+        "word": "나의",
+        "strong": "G3450"
+      },
+      {
+        "word": "기쁨이요",
+        "strong": "G5479"
+      },
+      {
+        "word": "면류관인",
+        "strong": "G4735"
+      },
+      {
+        "word": "사랑하는 자들아",
+        "strong": "G27"
+      },
+      {
+        "word": "이와 같이",
+        "strong": "G3779"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "서라",
+        "strong": "G4739"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 2,
+    "text": "(권면) 내가 유오디아를 권하고 순두게를 권하노니 주 안에서 같은 마음을 품으라",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "유오디아를",
+        "strong": "G2136"
+      },
+      {
+        "word": "권하고",
+        "strong": "G3870"
+      },
+      {
+        "word": "순두게를",
+        "strong": "G4941"
+      },
+      {
+        "word": "권하노니",
+        "strong": "G3870"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "같은",
+        "strong": "G846"
+      },
+      {
+        "word": "마음을 품으라",
+        "strong": "G5426"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 3,
+    "text": "또 참으로 나와 멍에를 같이한 네게 구하노니 복음에 나와 함께 힘쓰던 저 여인들을 돕고 또한 글레멘드와 그 외에 나의 동역자들을 도우라 그 이름들이 생명책에 있느니라",
+    "words": [
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "참으로",
+        "strong": "G1103"
+      },
+      {
+        "word": "나와",
+        "strong": null
+      },
+      {
+        "word": "멍에를 같이 한",
+        "strong": "G4805"
+      },
+      {
+        "word": "네게",
+        "strong": "G4571"
+      },
+      {
+        "word": "구하노니",
+        "strong": "G2065"
+      },
+      {
+        "word": "복음",
+        "strong": "G2098"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "나와",
+        "strong": "G3427"
+      },
+      {
+        "word": "함께 힘쓰던",
+        "strong": "G4866"
+      },
+      {
+        "word": "저 여인들을",
+        "strong": "G846"
+      },
+      {
+        "word": "돕고",
+        "strong": "G4815"
+      },
+      {
+        "word": "또한",
+        "strong": "G2532"
+      },
+      {
+        "word": "글레멘드",
+        "strong": "G2815"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "그",
+        "strong": "G3588"
+      },
+      {
+        "word": "외에",
+        "strong": "G3062"
+      },
+      {
+        "word": "나의",
+        "strong": "G3450"
+      },
+      {
+        "word": "동역자들을",
+        "strong": "G4904"
+      },
+      {
+        "word": "도우라",
+        "strong": null
+      },
+      {
+        "word": "그",
+        "strong": "G3739"
+      },
+      {
+        "word": "이름들이",
+        "strong": "G3686"
+      },
+      {
+        "word": "생명",
+        "strong": "G2222"
+      },
+      {
+        "word": "책",
+        "strong": "G976"
+      },
+      {
+        "word": "에 있느니라",
+        "strong": "G1722"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 4,
+    "text": "주 안에서 항상 기뻐하라 내가 다시 말하노니 기뻐하라",
+    "words": [
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "항상",
+        "strong": "G3842"
+      },
+      {
+        "word": "기뻐하라",
+        "strong": "G5463"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "다시",
+        "strong": "G3825"
+      },
+      {
+        "word": "말하노니",
+        "strong": "G2046"
+      },
+      {
+        "word": "기뻐하라",
+        "strong": "G5463"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 5,
+    "text": "너희 관용을 모든 사람에게 알게 하라 주께서 가까우시니라",
+    "words": [
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "관용을",
+        "strong": "G1933"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "사람에게",
+        "strong": "G444"
+      },
+      {
+        "word": "알게 하라",
+        "strong": "G1097"
+      },
+      {
+        "word": "주께서",
+        "strong": "G2962"
+      },
+      {
+        "word": "가까우시니라",
+        "strong": "G1451"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 6,
+    "text": "아무 것도 염려하지 말고 다만 모든 일에 기도와 간구로, 너희 구할 것을 감사함으로 하나님께 아뢰라",
+    "words": [
+      {
+        "word": "아무 것도",
+        "strong": "G3367"
+      },
+      {
+        "word": "염려하지",
+        "strong": "G3309"
+      },
+      {
+        "word": "말고",
+        "strong": null
+      },
+      {
+        "word": "다만",
+        "strong": "G235"
+      },
+      {
+        "word": "모든 일",
+        "strong": "G3956"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "기도",
+        "strong": "G4335"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "간구로,",
+        "strong": "G1162"
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "구할 것을",
+        "strong": "G155"
+      },
+      {
+        "word": "감사함",
+        "strong": "G2169"
+      },
+      {
+        "word": "으로",
+        "strong": "G3326"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "께",
+        "strong": "G4314"
+      },
+      {
+        "word": "아뢰라",
+        "strong": "G1107"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 7,
+    "text": "그리하면 모든 지각에 뛰어난 하나님의 평강이 그리스도 예수 안에서 너희 마음과 생각을 지키시리라",
+    "words": [
+      {
+        "word": "그리하면",
+        "strong": "G2532"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "지각에",
+        "strong": "G3563"
+      },
+      {
+        "word": "뛰어난",
+        "strong": "G5242"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "평강이",
+        "strong": "G1515"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "마음",
+        "strong": "G2588"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "생각을",
+        "strong": "G3540"
+      },
+      {
+        "word": "지키시리라",
+        "strong": "G5432"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 8,
+    "text": "끝으로 형제들아 무엇에든지 참되며 무엇에든지 경건하며 무엇에든지 옳으며 무엇에든지 정결하며 무엇에든지 사랑 받을 만하며 무엇에든지 칭찬 받을 만하며 무슨 덕이 있든지 무슨 기림이 있든지 이것들을 생각하라",
+    "words": [
+      {
+        "word": "끝으로",
+        "strong": "G3063"
+      },
+      {
+        "word": "형제들아",
+        "strong": "G80"
+      },
+      {
+        "word": "무엇에든지",
+        "strong": "G3745"
+      },
+      {
+        "word": "참",
+        "strong": "G227"
+      },
+      {
+        "word": "되며",
+        "strong": "G2076"
+      },
+      {
+        "word": "무엇에든지",
+        "strong": "G3745"
+      },
+      {
+        "word": "경건하며",
+        "strong": "G4586"
+      },
+      {
+        "word": "무엇에든지",
+        "strong": "G3745"
+      },
+      {
+        "word": "옳으며",
+        "strong": "G1342"
+      },
+      {
+        "word": "무엇에든지",
+        "strong": "G3745"
+      },
+      {
+        "word": "정결하며",
+        "strong": "G53"
+      },
+      {
+        "word": "무엇에든지",
+        "strong": "G3745"
+      },
+      {
+        "word": "사랑받을만하며",
+        "strong": "G4375"
+      },
+      {
+        "word": "무엇에든지",
+        "strong": "G3745"
+      },
+      {
+        "word": "칭찬받을만하며",
+        "strong": "G2163"
+      },
+      {
+        "word": "무슨",
+        "strong": null
+      },
+      {
+        "word": "덕이",
+        "strong": "G703"
+      },
+      {
+        "word": "있든지",
+        "strong": "G1536"
+      },
+      {
+        "word": "무슨",
+        "strong": null
+      },
+      {
+        "word": "기림이",
+        "strong": "G1868"
+      },
+      {
+        "word": "있든지",
+        "strong": "G1536"
+      },
+      {
+        "word": "이것들을",
+        "strong": "G5023"
+      },
+      {
+        "word": "생각하라",
+        "strong": "G3049"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 9,
+    "text": "너희는 내게 배우고 받고 듣고 본 바를 행하라 그리하면 평강의 하나님이 너희와 함께 계시리라",
+    "words": [
+      {
+        "word": "너희는",
+        "strong": null
+      },
+      {
+        "word": "내",
+        "strong": "G1698"
+      },
+      {
+        "word": "게",
+        "strong": "G1722"
+      },
+      {
+        "word": "배우고",
+        "strong": "G3129"
+      },
+      {
+        "word": "받고",
+        "strong": "G3880"
+      },
+      {
+        "word": "듣고",
+        "strong": "G191"
+      },
+      {
+        "word": "본",
+        "strong": "G1492"
+      },
+      {
+        "word": "바를",
+        "strong": "G3739"
+      },
+      {
+        "word": "행하라",
+        "strong": "G4238"
+      },
+      {
+        "word": "그리하면",
+        "strong": "G2532"
+      },
+      {
+        "word": "평강의",
+        "strong": "G1515"
+      },
+      {
+        "word": "하나님이",
+        "strong": "G2316"
+      },
+      {
+        "word": "너희와",
+        "strong": "G5216"
+      },
+      {
+        "word": "함께",
+        "strong": "G3326"
+      },
+      {
+        "word": "계시리라",
+        "strong": "G2071"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 10,
+    "text": "(빌립보 사람들의 선물) 내가 주 안에서 크게 기뻐함은 너희가 나를 생각하던 것이 이제 다시 싹이 남이니 너희가 또한 이를 위하여 생각은 하였으나 기회가 없었느니라",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "크게",
+        "strong": "G3171"
+      },
+      {
+        "word": "기뻐함은",
+        "strong": "G5463"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "나를",
+        "strong": "G1700"
+      },
+      {
+        "word": "생각하던 것이",
+        "strong": "G5426"
+      },
+      {
+        "word": "이제",
+        "strong": "G2235"
+      },
+      {
+        "word": "다시 싹이남",
+        "strong": "G330"
+      },
+      {
+        "word": "이니",
+        "strong": "G3754"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "또한",
+        "strong": "G2532"
+      },
+      {
+        "word": "이를",
+        "strong": "G3739"
+      },
+      {
+        "word": "위하여",
+        "strong": "G1909"
+      },
+      {
+        "word": "생각은 하였으나",
+        "strong": "G5426"
+      },
+      {
+        "word": "기회가 없었느니라",
+        "strong": "G170"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 11,
+    "text": "내가 궁핍하므로 말하는 것이 아니니라 어떠한 형편에든지 나는 자족하기를 배웠노니",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "궁핍",
+        "strong": "G5304"
+      },
+      {
+        "word": "하므로",
+        "strong": "G2596"
+      },
+      {
+        "word": "말하는",
+        "strong": "G3004"
+      },
+      {
+        "word": "것이",
+        "strong": "G3754"
+      },
+      {
+        "word": "아니니라",
+        "strong": "G3756"
+      },
+      {
+        "word": "어떠한 형편에든지",
+        "strong": "G3739"
+      },
+      {
+        "word": "″",
+        "strong": "G1510"
+      },
+      {
+        "word": "″",
+        "strong": "G1722"
+      },
+      {
+        "word": "나는",
+        "strong": "G1473"
+      },
+      {
+        "word": "자족",
+        "strong": "G842"
+      },
+      {
+        "word": "하기를",
+        "strong": "G1511"
+      },
+      {
+        "word": "배웠노니",
+        "strong": "G3129"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 12,
+    "text": "나는 비천에 처할 줄도 알고 풍부에 처할 줄도 알아 모든 일 곧 배부름과 배고픔과 풍부와 궁핍에도 처할 줄 아는 일체의 비결을 배웠노라",
+    "words": [
+      {
+        "word": "나는",
+        "strong": null
+      },
+      {
+        "word": "비천에 처할 줄도",
+        "strong": "G5013"
+      },
+      {
+        "word": "알고",
+        "strong": "G1492"
+      },
+      {
+        "word": "풍부에 처할 줄도",
+        "strong": "G4052"
+      },
+      {
+        "word": "알아",
+        "strong": "G1492"
+      },
+      {
+        "word": "모든 일",
+        "strong": "G3956"
+      },
+      {
+        "word": "곧",
+        "strong": "G1722"
+      },
+      {
+        "word": "배부름과",
+        "strong": "G5526"
+      },
+      {
+        "word": "배고픔",
+        "strong": "G3983"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "풍부",
+        "strong": "G4052"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "궁핍에도 처할 줄 아는",
+        "strong": "G5302"
+      },
+      {
+        "word": "일체의 비결",
+        "strong": "G3956"
+      },
+      {
+        "word": "을",
+        "strong": "G1722"
+      },
+      {
+        "word": "배웠노라",
+        "strong": "G3453"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 13,
+    "text": "내게 능력 주시는 자 안에서 내가 모든 것을 할 수 있느니라",
+    "words": [
+      {
+        "word": "내게",
+        "strong": "G3165"
+      },
+      {
+        "word": "능력 주시는",
+        "strong": "G1743"
+      },
+      {
+        "word": "자",
+        "strong": "G3588"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "모든 것을",
+        "strong": "G3956"
+      },
+      {
+        "word": "할 수 있느니라",
+        "strong": "G2480"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 14,
+    "text": "그러나 너희가 내 괴로움에 함께 참여하였으니 잘하였도다",
+    "words": [
+      {
+        "word": "그러나",
+        "strong": "G4133"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "내",
+        "strong": "G3450"
+      },
+      {
+        "word": "괴로움에",
+        "strong": "G2347"
+      },
+      {
+        "word": "함께 참여하였으니",
+        "strong": "G4790"
+      },
+      {
+        "word": "잘",
+        "strong": "G2573"
+      },
+      {
+        "word": "하였도다",
+        "strong": "G4160"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 15,
+    "text": "빌립보 사람들아 너희도 알거니와 복음의 시초에 내가 마게도냐를 떠날 때에 주고 받는 내 일에 참여한 교회가 너희 외에 아무도 없었느니라",
+    "words": [
+      {
+        "word": "빌립보 사람들아",
+        "strong": "G5374"
+      },
+      {
+        "word": "너희",
+        "strong": "G5210"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "알거니와",
+        "strong": "G1492"
+      },
+      {
+        "word": "복음의",
+        "strong": "G2098"
+      },
+      {
+        "word": "시초",
+        "strong": "G746"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "마게도냐",
+        "strong": "G3109"
+      },
+      {
+        "word": "를",
+        "strong": "G575"
+      },
+      {
+        "word": "떠날",
+        "strong": "G1831"
+      },
+      {
+        "word": "때에",
+        "strong": "G3753"
+      },
+      {
+        "word": "주고",
+        "strong": "G1394"
+      },
+      {
+        "word": "받는",
+        "strong": "G3025a"
+      },
+      {
+        "word": "내",
+        "strong": "G1473"
+      },
+      {
+        "word": "일",
+        "strong": "G3056"
+      },
+      {
+        "word": "에",
+        "strong": "G1519"
+      },
+      {
+        "word": "참여한",
+        "strong": "G2841"
+      },
+      {
+        "word": "교회가",
+        "strong": "G1577"
+      },
+      {
+        "word": "너희",
+        "strong": "G5210"
+      },
+      {
+        "word": "외에",
+        "strong": "G1508"
+      },
+      {
+        "word": "아무도 없었느니라",
+        "strong": "G3762"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 16,
+    "text": "데살로니가에 있을 때에도 너희가 한 번뿐 아니라 두 번이나 나의 쓸 것을 보내었도다",
+    "words": [
+      {
+        "word": "데살로니가",
+        "strong": "G2332"
+      },
+      {
+        "word": "에 있을 때에",
+        "strong": "G1722"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "한번뿐 아니라",
+        "strong": "G530"
+      },
+      {
+        "word": "두번이나",
+        "strong": "G1364"
+      },
+      {
+        "word": "나의",
+        "strong": "G3427"
+      },
+      {
+        "word": "쓸 것을",
+        "strong": "G5532"
+      },
+      {
+        "word": "보내었도다",
+        "strong": "G3992"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 17,
+    "text": "내가 선물을 구함이 아니요 오직 너희에게 유익하도록 풍성한 열매를 구함이라",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "선물을",
+        "strong": "G1390"
+      },
+      {
+        "word": "구함이",
+        "strong": "G1934"
+      },
+      {
+        "word": "아니요",
+        "strong": "G3756"
+      },
+      {
+        "word": "오직",
+        "strong": "G235"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5216"
+      },
+      {
+        "word": "유익",
+        "strong": "G3056"
+      },
+      {
+        "word": "하도록",
+        "strong": "G1519"
+      },
+      {
+        "word": "풍성한",
+        "strong": "G4121"
+      },
+      {
+        "word": "열매를",
+        "strong": "G2590"
+      },
+      {
+        "word": "구함이라",
+        "strong": "G1934"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 18,
+    "text": "내게는 모든 것이 있고 또 풍부한지라 에바브로디도 편에 너희가 준 것을 받으므로 내가 풍족하니 이는 받으실 만한 향기로운 제물이요 하나님을 기쁘시게 한 것이라",
+    "words": [
+      {
+        "word": "내게는",
+        "strong": null
+      },
+      {
+        "word": "모든 것이",
+        "strong": "G3956"
+      },
+      {
+        "word": "있고",
+        "strong": "G568"
+      },
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "풍부한지라",
+        "strong": "G4052"
+      },
+      {
+        "word": "에바브로디도",
+        "strong": "G1891"
+      },
+      {
+        "word": "편에",
+        "strong": "G3844"
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "가 준",
+        "strong": "G3844"
+      },
+      {
+        "word": "것을",
+        "strong": "G3588"
+      },
+      {
+        "word": "받으므로",
+        "strong": "G1209"
+      },
+      {
+        "word": "내가 풍족하니",
+        "strong": "G4137"
+      },
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "받으실만한",
+        "strong": "G1184"
+      },
+      {
+        "word": "향기",
+        "strong": "G2175"
+      },
+      {
+        "word": "로운",
+        "strong": "G3744"
+      },
+      {
+        "word": "제물이요",
+        "strong": "G2378"
+      },
+      {
+        "word": "하나님을",
+        "strong": "G2316"
+      },
+      {
+        "word": "기쁘시게 한 것이라",
+        "strong": "G2101"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 19,
+    "text": "나의 하나님이 그리스도 예수 안에서 영광 가운데 그 풍성한 대로 너희 모든 쓸 것을 채우시리라",
+    "words": [
+      {
+        "word": "나의",
+        "strong": "G3450"
+      },
+      {
+        "word": "하나님이",
+        "strong": "G2316"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "영광",
+        "strong": "G1391"
+      },
+      {
+        "word": "가운데",
+        "strong": "G1722"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "풍성한",
+        "strong": "G4149"
+      },
+      {
+        "word": "대로",
+        "strong": "G2596"
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "쓸 것을",
+        "strong": "G5532"
+      },
+      {
+        "word": "채우시리라",
+        "strong": "G4137"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 20,
+    "text": "하나님 곧 우리 아버지께 세세 무궁하도록 영광을 돌릴지어다 아멘",
+    "words": [
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "곧",
+        "strong": "G2532"
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "아버지께",
+        "strong": "G3962"
+      },
+      {
+        "word": "세세",
+        "strong": "G165"
+      },
+      {
+        "word": "무궁하",
+        "strong": "G165"
+      },
+      {
+        "word": "도록",
+        "strong": "G1519"
+      },
+      {
+        "word": "영광을",
+        "strong": "G1391"
+      },
+      {
+        "word": "돌릴지어다",
+        "strong": null
+      },
+      {
+        "word": "아멘",
+        "strong": "G281"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 21,
+    "text": "(끝 인사) 그리스도 예수 안에 있는 성도에게 각각 문안하라 나와 함께 있는 형제들이 너희에게 문안하고",
+    "words": [
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "안에 있는",
+        "strong": "G1722"
+      },
+      {
+        "word": "성도에게",
+        "strong": "G40"
+      },
+      {
+        "word": "각각",
+        "strong": "G3956"
+      },
+      {
+        "word": "문안하라",
+        "strong": "G782"
+      },
+      {
+        "word": "나와",
+        "strong": "G1698"
+      },
+      {
+        "word": "함께 있는",
+        "strong": "G4862"
+      },
+      {
+        "word": "형제들이",
+        "strong": "G80"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5209"
+      },
+      {
+        "word": "문안하고",
+        "strong": "G782"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 22,
+    "text": "모든 성도들이 너희에게 문안하되 특히 가이사의 집 사람들 중 몇이니라",
+    "words": [
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "성도들이",
+        "strong": "G40"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5209"
+      },
+      {
+        "word": "문안하되",
+        "strong": "G782"
+      },
+      {
+        "word": "특히",
+        "strong": "G3122"
+      },
+      {
+        "word": "가이사의",
+        "strong": "G2541"
+      },
+      {
+        "word": "집 사람들",
+        "strong": "G3614"
+      },
+      {
+        "word": "중",
+        "strong": "G1537"
+      },
+      {
+        "word": "몇이니라",
+        "strong": "G3588"
+      }
+    ]
+  },
+  {
+    "book": 50,
+    "book_name": "빌립보서",
+    "chapter": 4,
+    "verse": 23,
+    "text": "주 예수 그리스도의 은혜가 너희 심령에 있을지어다",
+    "words": [
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "은혜가",
+        "strong": "G5485"
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "심령",
+        "strong": "G4151"
+      },
+      {
+        "word": "에 있을지어다",
+        "strong": "G3326"
+      }
+    ]
+  }
+]

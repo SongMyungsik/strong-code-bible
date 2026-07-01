@@ -28,87 +28,12 @@ class BibleApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: '스트롱코드성경',
+      title: '스트롱성경',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(primarySwatch: Colors.purple),
       home: const StartPage(),
     );
   }
-}
-
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-// 스트롱 코드 파서
-//   실제 데이터 형식: "태초에 H7225 하나님이 H430 ..."
-//   → 공백으로 구분된 H+숫자 패턴을 코드로 인식 (H0 포함)
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-final _strongCodeRegex = RegExp(r'\b[HG]\d+[a-zA-Z]?\b', caseSensitive: false);
-
-/// 절 텍스트를 일반 텍스트 / 스트롱 코드 조각으로 분리
-List<({bool isCode, String text})> parseVerseText(String verse) {
-  final result = <({bool isCode, String text})>[];
-  int cursor = 0;
-
-  for (final match in _strongCodeRegex.allMatches(verse)) {
-    // 코드 앞 일반 텍스트
-    if (match.start > cursor) {
-      result.add((isCode: false, text: verse.substring(cursor, match.start)));
-    }
-    // 스트롱 코드 (예: H7225, G1061a)
-    //   접미사(a/b 등)는 원래 표기(소문자)를 그대로 유지하고,
-    //   H/G 접두 문자만 대문자로 통일한다.
-    final raw = match.group(0)!;
-    final normalized =
-        raw.isEmpty ? raw : raw[0].toUpperCase() + raw.substring(1);
-    result.add((isCode: true, text: normalized));
-    cursor = match.end;
-  }
-
-  if (cursor < verse.length) {
-    result.add((isCode: false, text: verse.substring(cursor)));
-  }
-
-  return result;
-}
-
-/// 절 텍스트를 (단어, 연결된 스트롱코드) 단위로 재구성
-///   - 코드 자체는 화면에 표시하지 않고, 코드 바로 앞 단어와 짝지어서
-///     그 단어를 탭 가능(밑줄)하게 만드는 데만 사용한다.
-///   - 예: "태초에 H7225 하나님이" → [("태초에", "H7225"), (" 하나님이", null)]
-List<({String text, String? code})> _groupWordsWithCodes(String verse) {
-  final parts = parseVerseText(verse);
-  final result = <({String text, String? code})>[];
-
-  String pendingText = '';
-  for (final part in parts) {
-    if (!part.isCode) {
-      pendingText += part.text;
-      continue;
-    }
-
-    // 코드를 만나면, 직전에 쌓인 일반 텍스트의 "마지막 단어"만 코드와 연결하고
-    // 그 앞부분(공백 포함)은 분리해서 그대로 일반 텍스트로 둔다.
-    final trimmedRight = pendingText.replaceFirst(RegExp(r'\s+$'), '');
-    final trailingSpace = pendingText.substring(trimmedRight.length);
-    final wordMatch = RegExp(r'(\S+)$').firstMatch(trimmedRight);
-
-    if (wordMatch != null) {
-      final before = trimmedRight.substring(0, wordMatch.start);
-      if (before.isNotEmpty) result.add((text: before, code: null));
-      result.add((text: wordMatch.group(0)!, code: part.text));
-    } else if (trimmedRight.isNotEmpty) {
-      result.add((text: trimmedRight, code: null));
-    }
-    if (trailingSpace.isNotEmpty) result.add((text: trailingSpace, code: null));
-
-    pendingText = '';
-  }
-
-  if (pendingText.isNotEmpty) {
-    result.add((text: pendingText, code: null));
-  }
-
-  return result;
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -125,12 +50,84 @@ class BibleHomePage extends StatefulWidget {
 class _BibleHomePageState extends State<BibleHomePage> {
   int _selectedIndex = 1;
 
+  bool _isOT = true;
   String selectedBook = bookList.first;
   int selectedChapter = 1;
   List<dynamic> allVerses = [];
-  List<String> verses = [];
+  List<Map<String, dynamic>> verses = [];
   double fontSize = 18.0;
   bool isLoading = false;
+
+  static const _otBooks = [
+    '창세기',
+    '출애굽기',
+    '레위기',
+    '민수기',
+    '신명기',
+    '여호수아',
+    '사사기',
+    '룻기',
+    '사무엘상',
+    '사무엘하',
+    '열왕기상',
+    '열왕기하',
+    '역대상',
+    '역대하',
+    '에스라',
+    '느헤미야',
+    '에스더',
+    '욥기',
+    '시편',
+    '잠언',
+    '전도서',
+    '아가',
+    '이사야',
+    '예레미야',
+    '예레미야애가',
+    '에스겔',
+    '다니엘',
+    '호세아',
+    '요엘',
+    '아모스',
+    '오바댜',
+    '요나',
+    '미가',
+    '나훔',
+    '하박국',
+    '스바냐',
+    '학개',
+    '스가랴',
+    '말라기',
+  ];
+  static const _ntBooks = [
+    '마태복음',
+    '마가복음',
+    '누가복음',
+    '요한복음',
+    '사도행전',
+    '로마서',
+    '고린도전서',
+    '고린도후서',
+    '갈라디아서',
+    '에베소서',
+    '빌립보서',
+    '골로새서',
+    '데살로니가전서',
+    '데살로니가후서',
+    '디모데전서',
+    '디모데후서',
+    '디도서',
+    '빌레몬서',
+    '히브리서',
+    '야고보서',
+    '베드로전서',
+    '베드로후서',
+    '요한일서',
+    '요한이서',
+    '요한삼서',
+    '유다서',
+    '요한계시록',
+  ];
 
   // TTS 상태
   bool _isReading = false;
@@ -181,10 +178,7 @@ class _BibleHomePageState extends State<BibleHomePage> {
     for (int i = 0; i < verses.length; i++) {
       if (!_isReading || !mounted) break;
 
-      // 스트롱 코드 제거 후 읽기
-      final plain = verses[i]
-          .replaceFirst(RegExp(r'^\d+\.\s?'), '')
-          .replaceAll(_strongCodeRegex, '');
+      final plain = verses[i]['text'] as String? ?? '';
 
       setState(() {
         _isTtsBusy = false;
@@ -216,36 +210,46 @@ class _BibleHomePageState extends State<BibleHomePage> {
   // ── 데이터 로드 ──────────────────────────────────────────────────────────
 
   Future<void> loadBibleData() async {
+    final idx = bookList.indexOf(selectedBook);
+    if (idx < 0) return;
+    final num = (idx + 1).toString().padLeft(2, '0');
+    final path = 'assets/books/${num}_$selectedBook.json';
     try {
-      final data = await rootBundle.loadString('assets/strongbible.json');
+      final data = await rootBundle.loadString(path);
       final decoded = json.decode(data) as List;
-      if (mounted) {
-        setState(() {
-          allVerses = decoded;
-          loadVerses();
-        });
-      }
+      if (!mounted) return;
+      setState(() => allVerses = decoded);
+      loadVerses();
     } catch (e) {
       /* 로드 실패 */
     }
   }
 
   void loadVerses() {
-    if (mounted) {
-      setState(() {
-        verses =
-            allVerses
-                .where(
-                  (v) =>
-                      v['book'] == selectedBook &&
-                      v['chapter'].toString() == selectedChapter.toString(),
-                )
-                .map<String>(
-                  (v) => '${v['paragraph']}. ${v['strongbible'] ?? '[본문 없음]'}',
-                )
-                .toList();
-      });
-    }
+    if (!mounted) return;
+    setState(() {
+      verses =
+          allVerses
+              .where((v) => (v['chapter'] as int?) == selectedChapter)
+              .map<Map<String, dynamic>>(
+                (v) => Map<String, dynamic>.from(v as Map),
+              )
+              .toList();
+    });
+  }
+
+  void _onTestamentChanged(bool isOT) {
+    if (_isOT == isOT) return;
+    _stopAll();
+    final newBook = isOT ? _otBooks.first : _ntBooks.first;
+    setState(() {
+      _isOT = isOT;
+      selectedBook = newBook;
+      selectedChapter = 1;
+      allVerses = [];
+      verses = [];
+    });
+    loadBibleData();
   }
 
   void onBookChanged(String? value) {
@@ -254,8 +258,10 @@ class _BibleHomePageState extends State<BibleHomePage> {
       setState(() {
         selectedBook = value;
         selectedChapter = 1;
+        allVerses = [];
+        verses = [];
       });
-      loadVerses();
+      loadBibleData();
     }
   }
 
@@ -301,28 +307,42 @@ class _BibleHomePageState extends State<BibleHomePage> {
   // 절 텍스트 → RichText (스트롱 코드는 숨기고, 연결된 단어에 밑줄)
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  Widget _buildVerseRichText(String verseText, int idx) {
+  Widget _buildVerseRichText(Map<String, dynamic> verseData, int idx) {
     final isHighlighted = _readingVerseIndex == idx;
-    final grouped = _groupWordsWithCodes(verseText);
-    final spans = <InlineSpan>[];
+    final verseNum = verseData['verse'];
+    final text = verseData['text'] as String? ?? '';
+    final wordList =
+        (verseData['words'] as List?)?.cast<Map<String, dynamic>>() ?? [];
 
-    for (final part in grouped) {
-      if (part.code == null) {
-        // ── 일반 텍스트 (코드 없음) ──
+    TextStyle plainStyle() => TextStyle(
+      fontSize: fontSize,
+      fontWeight: FontWeight.bold,
+      color: Colors.black87,
+      backgroundColor: isHighlighted ? Colors.yellow[200] : null,
+    );
+
+    final spans = <InlineSpan>[
+      TextSpan(text: '$verseNum. ', style: plainStyle()),
+    ];
+
+    int cursor = 0;
+    for (final entry in wordList) {
+      final word = entry['word'] as String? ?? '';
+      final code = entry['strong'] as String? ?? '';
+      if (word.isEmpty) continue;
+
+      final pos = text.indexOf(word, cursor);
+      if (pos == -1) continue;
+
+      if (pos > cursor) {
         spans.add(
-          TextSpan(
-            text: part.text,
-            style: TextStyle(
-              fontSize: fontSize,
-              fontWeight: FontWeight.bold,
-              color: Colors.black87,
-              backgroundColor: isHighlighted ? Colors.yellow[200] : null,
-            ),
-          ),
+          TextSpan(text: text.substring(cursor, pos), style: plainStyle()),
         );
+      }
+
+      if (code.isEmpty) {
+        spans.add(TextSpan(text: word, style: plainStyle()));
       } else {
-        // ── 스트롱 코드가 연결된 단어 → 밑줄 + 탭하면 StrongCodePage로 이동 ──
-        final code = part.code!;
         final isGreek = code.toUpperCase().startsWith('G');
         final linkColor =
             isHighlighted
@@ -330,7 +350,6 @@ class _BibleHomePageState extends State<BibleHomePage> {
                 : isGreek
                 ? Colors.indigo.shade400
                 : Colors.purple.shade400;
-
         spans.add(
           WidgetSpan(
             alignment: PlaceholderAlignment.baseline,
@@ -338,7 +357,7 @@ class _BibleHomePageState extends State<BibleHomePage> {
             child: GestureDetector(
               onTap: () => StrongCodePage.navigate(context, code),
               child: Text(
-                part.text,
+                word,
                 style: TextStyle(
                   fontSize: fontSize,
                   fontWeight: FontWeight.bold,
@@ -351,6 +370,11 @@ class _BibleHomePageState extends State<BibleHomePage> {
           ),
         );
       }
+      cursor = pos + word.length;
+    }
+
+    if (cursor < text.length) {
+      spans.add(TextSpan(text: text.substring(cursor), style: plainStyle()));
     }
 
     return Padding(
@@ -370,19 +394,25 @@ class _BibleHomePageState extends State<BibleHomePage> {
         backgroundColor: const Color.fromARGB(255, 235, 245, 178),
         elevation: 0,
         title: const Text(
-          '[스트롱코드성경]',
+          '[스트롱성경]',
           style: TextStyle(fontWeight: FontWeight.bold, color: Colors.black),
         ),
         centerTitle: false,
         actions: [
-          Padding(
-            padding: const EdgeInsets.only(right: 16.0),
-            child: Image.asset(
-              'assets/images/church_logo.png',
-              width: 110,
-              height: 32,
-            ),
+          _TestamentBtn(
+            label: '구약',
+            selected: _isOT,
+            color: Colors.purple,
+            onTap: () => _onTestamentChanged(true),
           ),
+          const SizedBox(width: 4),
+          _TestamentBtn(
+            label: '신약',
+            selected: !_isOT,
+            color: Colors.indigo,
+            onTap: () => _onTestamentChanged(false),
+          ),
+          const SizedBox(width: 10),
         ],
       ),
       body: SafeArea(
@@ -477,9 +507,10 @@ class _BibleHomePageState extends State<BibleHomePage> {
                     Expanded(
                       flex: 2,
                       child: DropdownButtonFormField<String>(
+                        key: ValueKey(_isOT),
                         initialValue: selectedBook,
                         items:
-                            bookList
+                            (_isOT ? _otBooks : _ntBooks)
                                 .map(
                                   (book) => DropdownMenuItem(
                                     value: book,
@@ -565,13 +596,53 @@ class _BibleHomePageState extends State<BibleHomePage> {
           BottomNavigationBarItem(icon: Icon(Icons.home), label: '홈'),
           BottomNavigationBarItem(icon: Icon(Icons.menu_book), label: '스트롱성경'),
           BottomNavigationBarItem(icon: Icon(Icons.list_alt), label: '코드목록'),
-          BottomNavigationBarItem(icon: Icon(Icons.info_outline), label: 'About'),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.info_outline),
+            label: 'About',
+          ),
         ],
         currentIndex: _selectedIndex,
         onTap: _onItemTapped,
         selectedItemColor: const Color.fromARGB(255, 255, 53, 53),
         unselectedItemColor: Colors.grey,
         type: BottomNavigationBarType.fixed,
+      ),
+    );
+  }
+}
+
+class _TestamentBtn extends StatelessWidget {
+  final String label;
+  final bool selected;
+  final Color color;
+  final VoidCallback onTap;
+
+  const _TestamentBtn({
+    required this.label,
+    required this.selected,
+    required this.color,
+    required this.onTap,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return GestureDetector(
+      onTap: onTap,
+      child: Container(
+        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 6),
+        decoration: BoxDecoration(
+          color: selected ? color : Colors.transparent,
+          border: Border.all(color: selected ? color : Colors.grey.shade400),
+          borderRadius: BorderRadius.circular(20),
+        ),
+        child: Text(
+          label,
+          style: TextStyle(
+            color: selected ? Colors.white : Colors.grey.shade600,
+            fontWeight: FontWeight.bold,
+            fontSize: 13,
+          ),
+        ),
       ),
     );
   }

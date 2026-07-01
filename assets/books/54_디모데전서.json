@@ -1,0 +1,6751 @@
+[
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 1,
+    "verse": 1,
+    "text": "(인사) 우리 구주 하나님과 우리의 소망이신 그리스도 예수의 명령을 따라 그리스도 예수의 사도 된 바울은",
+    "words": [
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "구주",
+        "strong": "G4990"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "우리의",
+        "strong": "G2257"
+      },
+      {
+        "word": "소망이신",
+        "strong": "G1680"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수의",
+        "strong": "G2424"
+      },
+      {
+        "word": "명령을",
+        "strong": "G2003"
+      },
+      {
+        "word": "따라",
+        "strong": "G2596"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수의",
+        "strong": "G2424"
+      },
+      {
+        "word": "사도",
+        "strong": "G652"
+      },
+      {
+        "word": "된",
+        "strong": null
+      },
+      {
+        "word": "바울은",
+        "strong": "G3972"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 1,
+    "verse": 2,
+    "text": "믿음 안에서 참 아들 된 디모데에게 편지하노니 하나님 아버지와 그리스도 예수 우리 주께로부터 은혜와 긍휼과 평강이 네게 있을지어다",
+    "words": [
+      {
+        "word": "믿음",
+        "strong": "G4102"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "참",
+        "strong": "G1103"
+      },
+      {
+        "word": "아들",
+        "strong": "G5043"
+      },
+      {
+        "word": "된",
+        "strong": null
+      },
+      {
+        "word": "디모데에게",
+        "strong": "G5095"
+      },
+      {
+        "word": "편지하노니",
+        "strong": null
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "아버지",
+        "strong": "G3962"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "께로부터",
+        "strong": "G575"
+      },
+      {
+        "word": "은혜와",
+        "strong": "G5485"
+      },
+      {
+        "word": "긍휼과",
+        "strong": "G1656"
+      },
+      {
+        "word": "평강이",
+        "strong": "G1515"
+      },
+      {
+        "word": "네게 있을지어다",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 1,
+    "verse": 3,
+    "text": "(다른 교훈을 가르치지 말라) 내가 마게도냐로 갈 때에 너를 권하여 에베소에 머물라 한 것은 어떤 사람들을 명하여 다른 교훈을 가르치지 말며",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "마게도냐",
+        "strong": "G3109"
+      },
+      {
+        "word": "로",
+        "strong": "G1519"
+      },
+      {
+        "word": "갈 때에",
+        "strong": "G4198"
+      },
+      {
+        "word": "너를",
+        "strong": "G4571"
+      },
+      {
+        "word": "권하여",
+        "strong": "G3870"
+      },
+      {
+        "word": "에베소",
+        "strong": "G2181"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "머물라",
+        "strong": "G4357"
+      },
+      {
+        "word": "한 것은",
+        "strong": "G2531"
+      },
+      {
+        "word": "어떤 사람들을",
+        "strong": "G5100"
+      },
+      {
+        "word": "명하여",
+        "strong": "G3853"
+      },
+      {
+        "word": "다른 교훈을 가르치지",
+        "strong": "G2085"
+      },
+      {
+        "word": "말며",
+        "strong": "G3361"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 1,
+    "verse": 4,
+    "text": "신화와 족보에 끝없이 몰두하지 말게 하려 함이라 이런 것은 믿음 안에 있는 하나님의 경륜을 이룸보다 도리어 변론을 내는 것이라",
+    "words": [
+      {
+        "word": "신화",
+        "strong": "G3454"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "끝없는",
+        "strong": "G562"
+      },
+      {
+        "word": "족보에",
+        "strong": "G1076"
+      },
+      {
+        "word": "몰두하지",
+        "strong": "G4337"
+      },
+      {
+        "word": "말게",
+        "strong": "G3366"
+      },
+      {
+        "word": "하려 함이라",
+        "strong": "G2443"
+      },
+      {
+        "word": "이런 것은",
+        "strong": "G3748"
+      },
+      {
+        "word": "믿음",
+        "strong": "G4102"
+      },
+      {
+        "word": "안에 있는",
+        "strong": "G1722"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "경륜을",
+        "strong": "G3622"
+      },
+      {
+        "word": "이룸",
+        "strong": null
+      },
+      {
+        "word": "보다",
+        "strong": "G2228"
+      },
+      {
+        "word": "도리어",
+        "strong": "G3123"
+      },
+      {
+        "word": "변론을",
+        "strong": "G1567b"
+      },
+      {
+        "word": "내는 것이라",
+        "strong": "G3930"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 1,
+    "verse": 5,
+    "text": "이 교훈의 목적은 청결한 마음과 선한 양심과 거짓이 없는 믿음에서 나오는 사랑이거늘",
+    "words": [
+      {
+        "word": "이 교훈의",
+        "strong": "G3852"
+      },
+      {
+        "word": "목적은",
+        "strong": "G5056"
+      },
+      {
+        "word": "청결한",
+        "strong": "G2513"
+      },
+      {
+        "word": "마음",
+        "strong": "G2588"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "선한",
+        "strong": "G18"
+      },
+      {
+        "word": "양심",
+        "strong": "G4893"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "거짓이 없는",
+        "strong": "G505"
+      },
+      {
+        "word": "믿음",
+        "strong": "G4102"
+      },
+      {
+        "word": "에서 나오는",
+        "strong": "G1537"
+      },
+      {
+        "word": "사랑",
+        "strong": "G26"
+      },
+      {
+        "word": "이거늘",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 1,
+    "verse": 6,
+    "text": "사람들이 이에서 벗어나 헛된 말에 빠져",
+    "words": [
+      {
+        "word": "사람들이",
+        "strong": "G5100"
+      },
+      {
+        "word": "이에서",
+        "strong": "G3739"
+      },
+      {
+        "word": "벗어나",
+        "strong": "G795"
+      },
+      {
+        "word": "헛된 말",
+        "strong": "G3150"
+      },
+      {
+        "word": "에",
+        "strong": "G1519"
+      },
+      {
+        "word": "빠져",
+        "strong": "G1624"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 1,
+    "verse": 7,
+    "text": "율법의 선생이 되려 하나 자기가 말하는 것이나 자기가 확증하는 것도 깨닫지 못하는도다",
+    "words": [
+      {
+        "word": "율법의 선생이",
+        "strong": "G3547"
+      },
+      {
+        "word": "되려",
+        "strong": "G1511"
+      },
+      {
+        "word": "하나",
+        "strong": "G2309"
+      },
+      {
+        "word": "자기가 말하는",
+        "strong": "G3004"
+      },
+      {
+        "word": "것",
+        "strong": "G3739"
+      },
+      {
+        "word": "이나",
+        "strong": "G3383"
+      },
+      {
+        "word": "자기가 확증하는",
+        "strong": "G1226"
+      },
+      {
+        "word": "것",
+        "strong": "G5101"
+      },
+      {
+        "word": "도",
+        "strong": "G3383"
+      },
+      {
+        "word": "깨닫지",
+        "strong": "G3539"
+      },
+      {
+        "word": "못하는도다",
+        "strong": "G3361"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 1,
+    "verse": 8,
+    "text": "그러나 율법은 사람이 그것을 적법하게만 쓰면 선한 것임을 우리는 아노라",
+    "words": [
+      {
+        "word": "그러나",
+        "strong": "G1161"
+      },
+      {
+        "word": "율법은",
+        "strong": "G846"
+      },
+      {
+        "word": "사람이",
+        "strong": "G5100"
+      },
+      {
+        "word": "그것을",
+        "strong": "G3551"
+      },
+      {
+        "word": "적법하게만",
+        "strong": "G3545"
+      },
+      {
+        "word": "쓰",
+        "strong": "G5530"
+      },
+      {
+        "word": "면",
+        "strong": "G1437"
+      },
+      {
+        "word": "선한",
+        "strong": "G2570"
+      },
+      {
+        "word": "것임을",
+        "strong": "G3754"
+      },
+      {
+        "word": "우리는 아노라",
+        "strong": "G1492"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 1,
+    "verse": 9,
+    "text": "알 것은 이것이니 율법은 옳은 사람을 위하여 세운 것이 아니요 오직 불법한 자와 복종하지 아니하는 자와 경건하지 아니한 자와 죄인과 거룩하지 아니한 자와 망령된 자와 아버지를 죽이는 자와 어머니를 죽이는 자와 살인하는 자며",
+    "words": [
+      {
+        "word": "알것은",
+        "strong": "G1492"
+      },
+      {
+        "word": "이것이니",
+        "strong": "G5124"
+      },
+      {
+        "word": "율법은",
+        "strong": "G3551"
+      },
+      {
+        "word": "옳은 사람을 위하여",
+        "strong": "G1342"
+      },
+      {
+        "word": "세운 것이",
+        "strong": "G2749"
+      },
+      {
+        "word": "아니요",
+        "strong": "G3756"
+      },
+      {
+        "word": "오직",
+        "strong": "G1161"
+      },
+      {
+        "word": "불법한 자",
+        "strong": "G459"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "복종하지 아니하는 자와",
+        "strong": "G506"
+      },
+      {
+        "word": "경건하지 아니한 자",
+        "strong": "G765"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "죄인과",
+        "strong": "G268"
+      },
+      {
+        "word": "거룩하지 아니한 자",
+        "strong": "G462"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "망령된 자와",
+        "strong": "G952"
+      },
+      {
+        "word": "아버지를 죽이는 자",
+        "strong": "G3970a"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "어머니를 죽이는 자와",
+        "strong": "G3389"
+      },
+      {
+        "word": "살인하는 자며",
+        "strong": "G409"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 1,
+    "verse": 10,
+    "text": "음행하는 자와 남색하는 자와 인신 매매를 하는 자와 거짓말하는 자와 거짓맹세하는 자와 기타 바른 교훈을 거스르는 자를 위함이니",
+    "words": [
+      {
+        "word": "음행하는 자와",
+        "strong": "G4205"
+      },
+      {
+        "word": "남색하는 자와",
+        "strong": "G733"
+      },
+      {
+        "word": "인신매매를 하는 자와",
+        "strong": "G405"
+      },
+      {
+        "word": "거짓말 하는 자와",
+        "strong": "G5583"
+      },
+      {
+        "word": "거짓 맹세하는 자",
+        "strong": "G1965"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "기타",
+        "strong": "G2087"
+      },
+      {
+        "word": "바른",
+        "strong": "G5198"
+      },
+      {
+        "word": "교훈을",
+        "strong": "G1319"
+      },
+      {
+        "word": "거스르는",
+        "strong": "G480"
+      },
+      {
+        "word": "자를 위함이니",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 1,
+    "verse": 11,
+    "text": "이 교훈은 내게 맡기신 바 복되신 하나님의 영광의 복음을 따름이니라",
+    "words": [
+      {
+        "word": "이 교훈은",
+        "strong": "G3739"
+      },
+      {
+        "word": "내게",
+        "strong": "G1473"
+      },
+      {
+        "word": "맡기신바",
+        "strong": "G4100"
+      },
+      {
+        "word": "복되신",
+        "strong": "G3107"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "영광의",
+        "strong": "G1391"
+      },
+      {
+        "word": "복음을",
+        "strong": "G2098"
+      },
+      {
+        "word": "따름이니라",
+        "strong": "G2596"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 1,
+    "verse": 12,
+    "text": "(은혜를 감사하다) 나를 능하게 하신 그리스도 예수 우리 주께 내가 감사함은 나를 충성되이 여겨 내게 직분을 맡기심이니",
+    "words": [
+      {
+        "word": "나를",
+        "strong": "G3165"
+      },
+      {
+        "word": "능하게 하신",
+        "strong": "G1743"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "주께",
+        "strong": "G2962"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "감사",
+        "strong": "G5485"
+      },
+      {
+        "word": "함은",
+        "strong": "G2192"
+      },
+      {
+        "word": "나를",
+        "strong": "G3165"
+      },
+      {
+        "word": "충성되이",
+        "strong": "G4103"
+      },
+      {
+        "word": "여겨",
+        "strong": "G2233"
+      },
+      {
+        "word": "내게",
+        "strong": null
+      },
+      {
+        "word": "직분을",
+        "strong": "G1248"
+      },
+      {
+        "word": "맡기심이니",
+        "strong": "G5087"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 1,
+    "verse": 13,
+    "text": "내가 전에는 비방자요 박해자요 폭행자였으나 도리어 긍휼을 입은 것은 내가 믿지 아니할 때에 알지 못하고 행하였음이라",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "전에는",
+        "strong": "G4386"
+      },
+      {
+        "word": "비방자요",
+        "strong": "G989"
+      },
+      {
+        "word": "박해자요",
+        "strong": "G1376"
+      },
+      {
+        "word": "폭행자",
+        "strong": "G5197"
+      },
+      {
+        "word": "였으나",
+        "strong": "G5607"
+      },
+      {
+        "word": "도리어",
+        "strong": "G235"
+      },
+      {
+        "word": "긍휼을 입은 것은",
+        "strong": "G1653"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "믿지 아니할",
+        "strong": "G570"
+      },
+      {
+        "word": "때에",
+        "strong": "G1722"
+      },
+      {
+        "word": "알지 못하고",
+        "strong": "G50"
+      },
+      {
+        "word": "행하였음",
+        "strong": "G4160"
+      },
+      {
+        "word": "이라",
+        "strong": "G3754"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 1,
+    "verse": 14,
+    "text": "우리 주의 은혜가 그리스도 예수 안에 있는 믿음과 사랑과 함께 넘치도록 풍성하였도다",
+    "words": [
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "주의",
+        "strong": "G2962"
+      },
+      {
+        "word": "은혜가",
+        "strong": "G5485"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "안에 있는",
+        "strong": "G1722"
+      },
+      {
+        "word": "믿음",
+        "strong": "G4102"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "사랑과",
+        "strong": "G26"
+      },
+      {
+        "word": "함께",
+        "strong": "G3326"
+      },
+      {
+        "word": "넘치도록 풍성하였도다",
+        "strong": "G5250"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 1,
+    "verse": 15,
+    "text": "미쁘다 모든 사람이 받을 만한 이 말이여 그리스도 예수께서 죄인을 구원하시려고 세상에 임하셨다 하였도다 죄인 중에 내가 괴수니라",
+    "words": [
+      {
+        "word": "미쁘다",
+        "strong": "G4103"
+      },
+      {
+        "word": "모든 사람이",
+        "strong": "G3956"
+      },
+      {
+        "word": "받을",
+        "strong": "G594"
+      },
+      {
+        "word": "만한",
+        "strong": "G514"
+      },
+      {
+        "word": "이",
+        "strong": "G3588"
+      },
+      {
+        "word": "말이여",
+        "strong": "G3056"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수께서",
+        "strong": "G2424"
+      },
+      {
+        "word": "죄인을",
+        "strong": "G268"
+      },
+      {
+        "word": "구원하시려고",
+        "strong": "G4982"
+      },
+      {
+        "word": "세상",
+        "strong": "G2889"
+      },
+      {
+        "word": "에",
+        "strong": "G1519"
+      },
+      {
+        "word": "임하셨다",
+        "strong": "G2064"
+      },
+      {
+        "word": "하였도다",
+        "strong": null
+      },
+      {
+        "word": "죄인 중에",
+        "strong": "G3739"
+      },
+      {
+        "word": "내가",
+        "strong": "G1473"
+      },
+      {
+        "word": "괴수",
+        "strong": "G4413"
+      },
+      {
+        "word": "니라",
+        "strong": "G1510"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 1,
+    "verse": 16,
+    "text": "그러나 내가 긍휼을 입은 까닭은 예수 그리스도께서 내게 먼저 일체 오래 참으심을 보이사 후에 주를 믿어 영생 얻는 자들에게 본이 되게 하려 하심이라",
+    "words": [
+      {
+        "word": "그러나",
+        "strong": "G235"
+      },
+      {
+        "word": "내가 긍휼을 입은",
+        "strong": "G1653"
+      },
+      {
+        "word": "까닭은",
+        "strong": "G1223"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도께서",
+        "strong": "G5547"
+      },
+      {
+        "word": "내",
+        "strong": "G1698"
+      },
+      {
+        "word": "게",
+        "strong": "G1722"
+      },
+      {
+        "word": "먼저",
+        "strong": "G4413"
+      },
+      {
+        "word": "일체",
+        "strong": "G537"
+      },
+      {
+        "word": "오래 참으심을",
+        "strong": "G3115"
+      },
+      {
+        "word": "보이사",
+        "strong": "G1731"
+      },
+      {
+        "word": "후에",
+        "strong": "G3195"
+      },
+      {
+        "word": "주",
+        "strong": "G846"
+      },
+      {
+        "word": "를",
+        "strong": "G1909"
+      },
+      {
+        "word": "믿어",
+        "strong": "G4100"
+      },
+      {
+        "word": "영",
+        "strong": "G166"
+      },
+      {
+        "word": "생",
+        "strong": "G2222"
+      },
+      {
+        "word": "얻는",
+        "strong": "G1519"
+      },
+      {
+        "word": "자들에게",
+        "strong": "G3588"
+      },
+      {
+        "word": "본이",
+        "strong": "G5296"
+      },
+      {
+        "word": "되게",
+        "strong": "G4314"
+      },
+      {
+        "word": "하려 하심이라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 1,
+    "verse": 17,
+    "text": "영원하신 왕 곧 썩지 아니하고 보이지 아니하고 홀로 하나이신 하나님께 존귀와 영광이 영원무궁하도록 있을지어다 아멘",
+    "words": [
+      {
+        "word": "영원하신",
+        "strong": "G165"
+      },
+      {
+        "word": "왕",
+        "strong": "G935"
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "썩지 아니하고",
+        "strong": "G862"
+      },
+      {
+        "word": "보이지 아니하고",
+        "strong": "G517"
+      },
+      {
+        "word": "홀로 하나이신",
+        "strong": "G3441"
+      },
+      {
+        "word": "하나님께",
+        "strong": "G2316"
+      },
+      {
+        "word": "존귀",
+        "strong": "G5092"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "영광이",
+        "strong": "G1391"
+      },
+      {
+        "word": "영원",
+        "strong": "G165"
+      },
+      {
+        "word": "무궁",
+        "strong": "G165"
+      },
+      {
+        "word": "하도록",
+        "strong": "G1519"
+      },
+      {
+        "word": "있을지이다",
+        "strong": null
+      },
+      {
+        "word": "아멘",
+        "strong": "G281"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 1,
+    "verse": 18,
+    "text": "아들 디모데야 내가 네게 이 교훈으로써 명하노니 전에 너를 지도한 예언을 따라 그것으로 선한 싸움을 싸우며",
+    "words": [
+      {
+        "word": "아들",
+        "strong": "G5043"
+      },
+      {
+        "word": "디모데야",
+        "strong": "G5095"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "네게",
+        "strong": "G4671"
+      },
+      {
+        "word": "이",
+        "strong": "G5026"
+      },
+      {
+        "word": "교훈으로써",
+        "strong": "G3852"
+      },
+      {
+        "word": "명하노니",
+        "strong": "G3908"
+      },
+      {
+        "word": "전에",
+        "strong": "G4254"
+      },
+      {
+        "word": "너",
+        "strong": "G4571"
+      },
+      {
+        "word": "를",
+        "strong": "G1909"
+      },
+      {
+        "word": "지도한",
+        "strong": null
+      },
+      {
+        "word": "예언을",
+        "strong": "G4394"
+      },
+      {
+        "word": "따라",
+        "strong": "G2596"
+      },
+      {
+        "word": "그것",
+        "strong": "G846"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "선한",
+        "strong": "G2570"
+      },
+      {
+        "word": "싸움을",
+        "strong": "G4752"
+      },
+      {
+        "word": "싸우며",
+        "strong": "G4754"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 1,
+    "verse": 19,
+    "text": "믿음과 착한 양심을 가지라 어떤 이들은 이 양심을 버렸고 그 믿음에 관하여는 파선하였느니라",
+    "words": [
+      {
+        "word": "믿음",
+        "strong": "G4102"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "착한",
+        "strong": "G18"
+      },
+      {
+        "word": "양심을",
+        "strong": "G4893"
+      },
+      {
+        "word": "가지라",
+        "strong": "G2192"
+      },
+      {
+        "word": "어떤 이들은",
+        "strong": "G5100"
+      },
+      {
+        "word": "이 양심을",
+        "strong": "G3739"
+      },
+      {
+        "word": "버렸고",
+        "strong": "G683"
+      },
+      {
+        "word": "그",
+        "strong": "G3588"
+      },
+      {
+        "word": "믿음에",
+        "strong": "G4102"
+      },
+      {
+        "word": "관하여는",
+        "strong": "G4012"
+      },
+      {
+        "word": "파선하였느니라",
+        "strong": "G3489"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 1,
+    "verse": 20,
+    "text": "그 가운데 후메내오와 알렉산더가 있으니 내가 사탄에게 내준 것은 그들로 훈계를 받아 신성을 모독하지 못하게 하려 함이라",
+    "words": [
+      {
+        "word": "그 가운데",
+        "strong": "G3739"
+      },
+      {
+        "word": "후메내오",
+        "strong": "G5211"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "알렉산더가",
+        "strong": "G223"
+      },
+      {
+        "word": "있으니",
+        "strong": "G2076"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "사탄에게",
+        "strong": "G4567"
+      },
+      {
+        "word": "내준 것은",
+        "strong": "G3860"
+      },
+      {
+        "word": "그들로 훈계를 받아",
+        "strong": "G3811"
+      },
+      {
+        "word": "신성을 모독하지",
+        "strong": "G987"
+      },
+      {
+        "word": "못하게",
+        "strong": "G3361"
+      },
+      {
+        "word": "하려 함이라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 2,
+    "verse": 1,
+    "text": "(기도에 대한 가르침) 그러므로 내가 첫째로 권하노니 모든 사람을 위하여 간구와 기도와 도고와 감사를 하되",
+    "words": [
+      {
+        "word": "그러므로",
+        "strong": "G3767"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "첫째로",
+        "strong": "G4412"
+      },
+      {
+        "word": "권하노니",
+        "strong": "G3870"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "사람을",
+        "strong": "G444"
+      },
+      {
+        "word": "위하여",
+        "strong": "G5228"
+      },
+      {
+        "word": "간구와",
+        "strong": "G1162"
+      },
+      {
+        "word": "기도와",
+        "strong": "G4335"
+      },
+      {
+        "word": "도고와",
+        "strong": "G1783"
+      },
+      {
+        "word": "감사를",
+        "strong": "G2169"
+      },
+      {
+        "word": "하되",
+        "strong": "G4160"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 2,
+    "verse": 2,
+    "text": "임금들과 높은 지위에 있는 모든 사람을 위하여 하라 이는 우리가 모든 경건과 단정함으로 고요하고 평안한 생활을 하려 함이라",
+    "words": [
+      {
+        "word": "임금들",
+        "strong": "G935"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "높은 지위",
+        "strong": "G5247"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "있는",
+        "strong": "G5607"
+      },
+      {
+        "word": "모든 사람을",
+        "strong": "G3956"
+      },
+      {
+        "word": "위하여",
+        "strong": "G5228"
+      },
+      {
+        "word": "하라",
+        "strong": null
+      },
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "경건",
+        "strong": "G2150"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "단정함",
+        "strong": "G4587"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "고요하고",
+        "strong": "G2263"
+      },
+      {
+        "word": "평안한",
+        "strong": "G2272"
+      },
+      {
+        "word": "생활을",
+        "strong": "G979"
+      },
+      {
+        "word": "하려",
+        "strong": "G1236"
+      },
+      {
+        "word": "함이라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 2,
+    "verse": 3,
+    "text": "이것이 우리 구주 하나님 앞에 선하고 받으실 만한 것이니",
+    "words": [
+      {
+        "word": "이것이",
+        "strong": "G5124"
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "구주",
+        "strong": "G4990"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "앞에",
+        "strong": "G1799"
+      },
+      {
+        "word": "선하고",
+        "strong": "G2570"
+      },
+      {
+        "word": "받으실 만한 것이니",
+        "strong": "G587"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 2,
+    "verse": 4,
+    "text": "하나님은 모든 사람이 구원을 받으며 진리를 아는 데에 이르기를 원하시느니라",
+    "words": [
+      {
+        "word": "하나님은",
+        "strong": "G3739"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "사람이",
+        "strong": "G444"
+      },
+      {
+        "word": "구원을 받으며",
+        "strong": "G4982"
+      },
+      {
+        "word": "진리를",
+        "strong": "G225"
+      },
+      {
+        "word": "아는",
+        "strong": "G1922"
+      },
+      {
+        "word": "데에",
+        "strong": "G1519"
+      },
+      {
+        "word": "이르기를",
+        "strong": "G2064"
+      },
+      {
+        "word": "원하시느니라",
+        "strong": "G2309"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 2,
+    "verse": 5,
+    "text": "하나님은 한 분이시요 또 하나님과 사람 사이에 중보자도 한 분이시니 곧 사람이신 그리스도 예수라",
+    "words": [
+      {
+        "word": "하나님은",
+        "strong": "G2316"
+      },
+      {
+        "word": "한 분이시요",
+        "strong": "G1520"
+      },
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "사람",
+        "strong": "G444"
+      },
+      {
+        "word": "사이에",
+        "strong": null
+      },
+      {
+        "word": "중보자도",
+        "strong": "G3316"
+      },
+      {
+        "word": "한 분이시니",
+        "strong": "G1520"
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "사람이신",
+        "strong": "G444"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수라",
+        "strong": "G2424"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 2,
+    "verse": 6,
+    "text": "그가 모든 사람을 위하여 자기를 대속물로 주셨으니 기약이 이르러 주신 증거니라",
+    "words": [
+      {
+        "word": "그가",
+        "strong": "G3588"
+      },
+      {
+        "word": "모든 사람을",
+        "strong": "G3956"
+      },
+      {
+        "word": "위하여",
+        "strong": "G5228"
+      },
+      {
+        "word": "자기를",
+        "strong": "G1438"
+      },
+      {
+        "word": "대속물로",
+        "strong": "G487"
+      },
+      {
+        "word": "주셨으니",
+        "strong": "G1325"
+      },
+      {
+        "word": "기약이 이르러주신",
+        "strong": "G2398"
+      },
+      {
+        "word": "″",
+        "strong": "G2540"
+      },
+      {
+        "word": "증거니",
+        "strong": "G3142"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 2,
+    "verse": 7,
+    "text": "이를 위하여 내가 전파하는 자와 사도로 세움을 입은 것은 참말이요 거짓말이 아니니 믿음과 진리 안에서 내가 이방인의 스승이 되었노라",
+    "words": [
+      {
+        "word": "이를",
+        "strong": "G3739"
+      },
+      {
+        "word": "위하여",
+        "strong": "G1519"
+      },
+      {
+        "word": "내가",
+        "strong": "G1473"
+      },
+      {
+        "word": "전파하는 자",
+        "strong": "G2783"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "사도로",
+        "strong": "G652"
+      },
+      {
+        "word": "세움을 입은 것은",
+        "strong": "G5087"
+      },
+      {
+        "word": "참",
+        "strong": "G225"
+      },
+      {
+        "word": "말이요",
+        "strong": "G3004"
+      },
+      {
+        "word": "거짓말이",
+        "strong": "G5574"
+      },
+      {
+        "word": "아니니",
+        "strong": "G3756"
+      },
+      {
+        "word": "믿음",
+        "strong": "G4102"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "진리",
+        "strong": "G225"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "이방인의",
+        "strong": "G1484"
+      },
+      {
+        "word": "스승이 되었노라",
+        "strong": "G1320"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 2,
+    "verse": 8,
+    "text": "그러므로 각처에서 남자들이 분노와 다툼이 없이 거룩한 손을 들어 기도하기를 원하노라",
+    "words": [
+      {
+        "word": "그러므로",
+        "strong": "G3767"
+      },
+      {
+        "word": "각",
+        "strong": "G3956"
+      },
+      {
+        "word": "처",
+        "strong": "G5117"
+      },
+      {
+        "word": "에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "남자들이",
+        "strong": "G435"
+      },
+      {
+        "word": "분노",
+        "strong": "G3709"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "다툼이",
+        "strong": "G1261"
+      },
+      {
+        "word": "없이",
+        "strong": "G5565"
+      },
+      {
+        "word": "거룩한",
+        "strong": "G3741"
+      },
+      {
+        "word": "손을",
+        "strong": "G5495"
+      },
+      {
+        "word": "들어",
+        "strong": "G1869"
+      },
+      {
+        "word": "기도하기를",
+        "strong": "G4336"
+      },
+      {
+        "word": "원하노라",
+        "strong": "G1014"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 2,
+    "verse": 9,
+    "text": "또 이와 같이 여자들도 단정하게 옷을 입으며 소박함과 정절로써 자기를 단장하고 땋은 머리와 금이나 진주나 값진 옷으로 하지 말고",
+    "words": [
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "이와 같이",
+        "strong": "G5615"
+      },
+      {
+        "word": "여자들도",
+        "strong": "G1135"
+      },
+      {
+        "word": "단정하게",
+        "strong": "G2887"
+      },
+      {
+        "word": "옷을",
+        "strong": "G2689"
+      },
+      {
+        "word": "입으며",
+        "strong": "G1722"
+      },
+      {
+        "word": "소박함",
+        "strong": "G127"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "정절",
+        "strong": "G4997"
+      },
+      {
+        "word": "로써",
+        "strong": "G3326"
+      },
+      {
+        "word": "자기를",
+        "strong": "G1438"
+      },
+      {
+        "word": "단장하고",
+        "strong": "G2885"
+      },
+      {
+        "word": "땋은 머리",
+        "strong": "G4117"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "금",
+        "strong": "G5553"
+      },
+      {
+        "word": "이나",
+        "strong": "G2228"
+      },
+      {
+        "word": "진주",
+        "strong": "G3135"
+      },
+      {
+        "word": "나",
+        "strong": "G2228"
+      },
+      {
+        "word": "값진",
+        "strong": "G4185"
+      },
+      {
+        "word": "옷",
+        "strong": "G2441"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "하지 말고",
+        "strong": "G3361"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 2,
+    "verse": 10,
+    "text": "오직 선행으로 하기를 원하노라 이것이 하나님을 경외한다 하는 자들에게 마땅한 것이니라",
+    "words": [
+      {
+        "word": "오직",
+        "strong": "G235"
+      },
+      {
+        "word": "선",
+        "strong": "G18"
+      },
+      {
+        "word": "행",
+        "strong": "G2041"
+      },
+      {
+        "word": "으로 하기를",
+        "strong": "G1223"
+      },
+      {
+        "word": "원하노라",
+        "strong": null
+      },
+      {
+        "word": "이것이",
+        "strong": "G3739"
+      },
+      {
+        "word": "하나님을 경외한다",
+        "strong": "G2317"
+      },
+      {
+        "word": "하는",
+        "strong": "G1861"
+      },
+      {
+        "word": "자들에게",
+        "strong": "G1135"
+      },
+      {
+        "word": "마땅한 것이니라",
+        "strong": "G4241"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 2,
+    "verse": 11,
+    "text": "여자는 일체 순종함으로 조용히 배우라",
+    "words": [
+      {
+        "word": "여자는",
+        "strong": "G1135"
+      },
+      {
+        "word": "일체",
+        "strong": "G3956"
+      },
+      {
+        "word": "순종함",
+        "strong": "G5292"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "조용",
+        "strong": "G2271"
+      },
+      {
+        "word": "히",
+        "strong": "G1722"
+      },
+      {
+        "word": "배우라",
+        "strong": "G3129"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 2,
+    "verse": 12,
+    "text": "여자가 가르치는 것과 남자를 주관하는 것을 허락하지 아니하노니 오직 조용할지니라",
+    "words": [
+      {
+        "word": "여자가",
+        "strong": "G1135"
+      },
+      {
+        "word": "가르치는 것과",
+        "strong": "G1321"
+      },
+      {
+        "word": "남자를",
+        "strong": "G435"
+      },
+      {
+        "word": "주관하는 것을",
+        "strong": "G831"
+      },
+      {
+        "word": "허락하지",
+        "strong": "G2010"
+      },
+      {
+        "word": "아니",
+        "strong": "G3756"
+      },
+      {
+        "word": "하노니",
+        "strong": null
+      },
+      {
+        "word": "오직",
+        "strong": "G235"
+      },
+      {
+        "word": "조용",
+        "strong": "G2271"
+      },
+      {
+        "word": "할지니라",
+        "strong": "G1511"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 2,
+    "verse": 13,
+    "text": "이는 아담이 먼저 지음을 받고 하와가 그 후며",
+    "words": [
+      {
+        "word": "이는",
+        "strong": "G1063"
+      },
+      {
+        "word": "아담이",
+        "strong": "G76"
+      },
+      {
+        "word": "먼저",
+        "strong": "G4413"
+      },
+      {
+        "word": "지음을 받고",
+        "strong": "G4111"
+      },
+      {
+        "word": "하와가",
+        "strong": "G2096"
+      },
+      {
+        "word": "그 후며",
+        "strong": "G1534"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 2,
+    "verse": 14,
+    "text": "아담이 속은 것이 아니고 여자가 속아 죄에 빠졌음이라",
+    "words": [
+      {
+        "word": "아담이",
+        "strong": "G76"
+      },
+      {
+        "word": "속은 것이",
+        "strong": "G538"
+      },
+      {
+        "word": "아니고",
+        "strong": "G3756"
+      },
+      {
+        "word": "여자가",
+        "strong": "G1135"
+      },
+      {
+        "word": "속아",
+        "strong": "G1818"
+      },
+      {
+        "word": "죄",
+        "strong": "G3847"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "빠졌음이라",
+        "strong": "G1096"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 2,
+    "verse": 15,
+    "text": "그러나 여자들이 만일 정숙함으로써 믿음과 사랑과 거룩함에 거하면 그의 해산함으로 구원을 얻으리라",
+    "words": [
+      {
+        "word": "그러나",
+        "strong": "G1161"
+      },
+      {
+        "word": "여자들이",
+        "strong": null
+      },
+      {
+        "word": "만일",
+        "strong": "G1437"
+      },
+      {
+        "word": "정속함",
+        "strong": "G4997"
+      },
+      {
+        "word": "으로써",
+        "strong": "G3326"
+      },
+      {
+        "word": "믿음",
+        "strong": "G4102"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "사랑",
+        "strong": "G26"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "거룩함",
+        "strong": "G38"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하면",
+        "strong": "G3306"
+      },
+      {
+        "word": "그의",
+        "strong": "G3588"
+      },
+      {
+        "word": "해산함",
+        "strong": "G5042"
+      },
+      {
+        "word": "으로",
+        "strong": "G1223"
+      },
+      {
+        "word": "구원을 얻으리라",
+        "strong": "G4982"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 3,
+    "verse": 1,
+    "text": "(감독과 집사의 자격) 미쁘다 이 말이여, 곧 사람이 감독의 직분을 얻으려 함은 선한 일을 사모하는 것이라 함이로다",
+    "words": [
+      {
+        "word": "미쁘다",
+        "strong": "G4103"
+      },
+      {
+        "word": "이",
+        "strong": "G3588"
+      },
+      {
+        "word": "말이여",
+        "strong": "G3056"
+      },
+      {
+        "word": "곧 사람이",
+        "strong": null
+      },
+      {
+        "word": "감독의 직분을",
+        "strong": "G1984"
+      },
+      {
+        "word": "얻으려",
+        "strong": "G3713"
+      },
+      {
+        "word": "함은",
+        "strong": "G1536"
+      },
+      {
+        "word": "선한",
+        "strong": "G2570"
+      },
+      {
+        "word": "일을",
+        "strong": "G2041"
+      },
+      {
+        "word": "사모하는 것이라",
+        "strong": "G1937"
+      },
+      {
+        "word": "함이로다",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 3,
+    "verse": 2,
+    "text": "그러므로 감독은 책망할 것이 없으며 한 아내의 남편이 되며 절제하며 신중하며 단정하며 나그네를 대접하며 가르치기를 잘하며",
+    "words": [
+      {
+        "word": "그러므로",
+        "strong": "G3767"
+      },
+      {
+        "word": "감독은",
+        "strong": "G1985"
+      },
+      {
+        "word": "책망할 것이 없",
+        "strong": "G423"
+      },
+      {
+        "word": "으며",
+        "strong": "G1511"
+      },
+      {
+        "word": "한",
+        "strong": "G3391"
+      },
+      {
+        "word": "아내의",
+        "strong": "G1135"
+      },
+      {
+        "word": "남편이 되며",
+        "strong": "G435"
+      },
+      {
+        "word": "절제하며",
+        "strong": "G3524"
+      },
+      {
+        "word": "신중하며",
+        "strong": "G4998"
+      },
+      {
+        "word": "단정하며",
+        "strong": "G2887"
+      },
+      {
+        "word": "나그네를 대접하며",
+        "strong": "G5382"
+      },
+      {
+        "word": "가르치기를 잘하며",
+        "strong": "G1317"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 3,
+    "verse": 3,
+    "text": "술을 즐기지 아니하며 구타하지 아니하며 오직 관용하며 다투지 아니하며 돈을 사랑하지 아니하며",
+    "words": [
+      {
+        "word": "술을 즐기지",
+        "strong": "G3943"
+      },
+      {
+        "word": "아니하며",
+        "strong": "G3361"
+      },
+      {
+        "word": "구타하지",
+        "strong": "G4131"
+      },
+      {
+        "word": "아니하며",
+        "strong": "G3361"
+      },
+      {
+        "word": "오직",
+        "strong": "G235"
+      },
+      {
+        "word": "관용하며",
+        "strong": "G1933"
+      },
+      {
+        "word": "다투지 아니하며",
+        "strong": "G269"
+      },
+      {
+        "word": "돈을 사랑하지 아니하며",
+        "strong": "G866"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 3,
+    "verse": 4,
+    "text": "자기 집을 잘 다스려 자녀들로 모든 공손함으로 복종하게 하는 자라야 할지며",
+    "words": [
+      {
+        "word": "자기",
+        "strong": "G2398"
+      },
+      {
+        "word": "집을",
+        "strong": "G3624"
+      },
+      {
+        "word": "잘",
+        "strong": "G2573"
+      },
+      {
+        "word": "다스려",
+        "strong": "G4291"
+      },
+      {
+        "word": "자녀들로",
+        "strong": "G5043"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "공손함",
+        "strong": "G4587"
+      },
+      {
+        "word": "으로",
+        "strong": "G3326"
+      },
+      {
+        "word": "복종",
+        "strong": "G5292"
+      },
+      {
+        "word": "하게",
+        "strong": "G1722"
+      },
+      {
+        "word": "하는 자라야",
+        "strong": "G2192"
+      },
+      {
+        "word": "할지며",
+        "strong": "G1163"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 3,
+    "verse": 5,
+    "text": "(사람이 자기 집을 다스릴 줄 알지 못하면 어찌 하나님의 교회를 돌보리요)",
+    "words": [
+      {
+        "word": "(사람이",
+        "strong": "G5100"
+      },
+      {
+        "word": "자기",
+        "strong": "G2398"
+      },
+      {
+        "word": "집을",
+        "strong": "G3624"
+      },
+      {
+        "word": "다스릴줄",
+        "strong": "G4291"
+      },
+      {
+        "word": "알지",
+        "strong": "G1492"
+      },
+      {
+        "word": "못",
+        "strong": "G3756"
+      },
+      {
+        "word": "하면",
+        "strong": "G1487"
+      },
+      {
+        "word": "어찌",
+        "strong": "G4459"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "교회를",
+        "strong": "G1577"
+      },
+      {
+        "word": "돌보리요)",
+        "strong": "G1959"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 3,
+    "verse": 6,
+    "text": "새로 입교한 자도 말지니 교만하여져서 마귀를 정죄하는 그 정죄에 빠질까 함이요",
+    "words": [
+      {
+        "word": "새로 입교한 자도",
+        "strong": "G3504"
+      },
+      {
+        "word": "말지니",
+        "strong": "G3361"
+      },
+      {
+        "word": "교만하여져서",
+        "strong": "G5187"
+      },
+      {
+        "word": "마귀를",
+        "strong": "G1228"
+      },
+      {
+        "word": "정죄하는 그 정죄",
+        "strong": "G2917"
+      },
+      {
+        "word": "에",
+        "strong": "G1519"
+      },
+      {
+        "word": "빠질",
+        "strong": "G1706"
+      },
+      {
+        "word": "까",
+        "strong": "G3363"
+      },
+      {
+        "word": "함이요",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 3,
+    "verse": 7,
+    "text": "또한 외인에게서도 선한 증거를 얻은 자라야 할지니 비방과 마귀의 올무에 빠질까 염려하라",
+    "words": [
+      {
+        "word": "또한",
+        "strong": "G1161"
+      },
+      {
+        "word": "외인",
+        "strong": "G1855"
+      },
+      {
+        "word": "에게서",
+        "strong": "G575"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "선한",
+        "strong": "G2570"
+      },
+      {
+        "word": "증거를",
+        "strong": "G3141"
+      },
+      {
+        "word": "얻은 자라야",
+        "strong": "G2192"
+      },
+      {
+        "word": "할지니",
+        "strong": "G1163"
+      },
+      {
+        "word": "비방",
+        "strong": "G3680"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "마귀의",
+        "strong": "G1228"
+      },
+      {
+        "word": "올무",
+        "strong": "G3803"
+      },
+      {
+        "word": "에",
+        "strong": "G1519"
+      },
+      {
+        "word": "빠질",
+        "strong": "G1706"
+      },
+      {
+        "word": "까",
+        "strong": "G2443"
+      },
+      {
+        "word": "염려하라",
+        "strong": "G3361"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 3,
+    "verse": 8,
+    "text": "이와 같이 집사들도 정중하고 일구이언을 하지 아니하고 술에 인박히지 아니하고 더러운 이를 탐하지 아니하고",
+    "words": [
+      {
+        "word": "이와 같이",
+        "strong": "G5615"
+      },
+      {
+        "word": "집사들도",
+        "strong": "G1249"
+      },
+      {
+        "word": "정중하고",
+        "strong": "G4586"
+      },
+      {
+        "word": "일구 이언을 하지",
+        "strong": "G1351"
+      },
+      {
+        "word": "아니하고",
+        "strong": "G3361"
+      },
+      {
+        "word": "술에",
+        "strong": "G3631"
+      },
+      {
+        "word": "인박히지",
+        "strong": "G4183"
+      },
+      {
+        "word": "″",
+        "strong": "G4337"
+      },
+      {
+        "word": "아니하고",
+        "strong": "G3361"
+      },
+      {
+        "word": "더러운 이를 탐하지",
+        "strong": "G146"
+      },
+      {
+        "word": "아니하고",
+        "strong": "G3361"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 3,
+    "verse": 9,
+    "text": "깨끗한 양심에 믿음의 비밀을 가진 자라야 할지니",
+    "words": [
+      {
+        "word": "깨끗한",
+        "strong": "G2513"
+      },
+      {
+        "word": "양심",
+        "strong": "G4893"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "믿음의",
+        "strong": "G4102"
+      },
+      {
+        "word": "비밀을",
+        "strong": "G3466"
+      },
+      {
+        "word": "가진 자라야",
+        "strong": "G2192"
+      },
+      {
+        "word": "할지니",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 3,
+    "verse": 10,
+    "text": "이에 이 사람들을 먼저 시험하여 보고 그 후에 책망할 것이 없으면 집사의 직분을 맡게 할 것이요",
+    "words": [
+      {
+        "word": "이에",
+        "strong": "G2532"
+      },
+      {
+        "word": "이 사람들을",
+        "strong": "G3778"
+      },
+      {
+        "word": "먼저",
+        "strong": "G4412"
+      },
+      {
+        "word": "시험하여 보고",
+        "strong": "G1381"
+      },
+      {
+        "word": "그 후에",
+        "strong": "G1534"
+      },
+      {
+        "word": "책망할 것이 없",
+        "strong": "G410"
+      },
+      {
+        "word": "으면",
+        "strong": "G5607"
+      },
+      {
+        "word": "집사의 직분을 맡게 할 것이요",
+        "strong": "G1247"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 3,
+    "verse": 11,
+    "text": "여자들도 이와 같이 정숙하고 모함하지 아니하며 절제하며 모든 일에 충성된 자라야 할지니라",
+    "words": [
+      {
+        "word": "여자들도",
+        "strong": "G1135"
+      },
+      {
+        "word": "이와 같이",
+        "strong": "G5615"
+      },
+      {
+        "word": "정숙하고",
+        "strong": "G4586"
+      },
+      {
+        "word": "모함하지",
+        "strong": "G1228"
+      },
+      {
+        "word": "아니하며",
+        "strong": "G3361"
+      },
+      {
+        "word": "절제하며",
+        "strong": "G3524"
+      },
+      {
+        "word": "모든 일",
+        "strong": "G3956"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "충성된 자라야",
+        "strong": "G4103"
+      },
+      {
+        "word": "할지니라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 3,
+    "verse": 12,
+    "text": "집사들은 한 아내의 남편이 되어 자녀와 자기 집을 잘 다스리는 자일지니",
+    "words": [
+      {
+        "word": "집사들은",
+        "strong": "G1249"
+      },
+      {
+        "word": "한",
+        "strong": "G3391"
+      },
+      {
+        "word": "아내의",
+        "strong": "G1135"
+      },
+      {
+        "word": "남편이",
+        "strong": "G435"
+      },
+      {
+        "word": "되어",
+        "strong": "G2077"
+      },
+      {
+        "word": "자녀",
+        "strong": "G5043"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "자기",
+        "strong": "G2398"
+      },
+      {
+        "word": "집을",
+        "strong": "G3624"
+      },
+      {
+        "word": "잘",
+        "strong": "G2573"
+      },
+      {
+        "word": "다스리는 자일지니",
+        "strong": "G4291"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 3,
+    "verse": 13,
+    "text": "집사의 직분을 잘한 자들은 아름다운 지위와 그리스도 예수 안에 있는 믿음에 큰 담력을 얻느니라",
+    "words": [
+      {
+        "word": "집사의 직분을",
+        "strong": "G1247"
+      },
+      {
+        "word": "잘한",
+        "strong": "G2573"
+      },
+      {
+        "word": "자들은",
+        "strong": "G3588"
+      },
+      {
+        "word": "아름다운",
+        "strong": "G2570"
+      },
+      {
+        "word": "지위",
+        "strong": "G898"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "안에 있는",
+        "strong": "G1722"
+      },
+      {
+        "word": "믿음",
+        "strong": "G4102"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "큰",
+        "strong": "G4183"
+      },
+      {
+        "word": "담력을",
+        "strong": "G3954"
+      },
+      {
+        "word": "얻느니라",
+        "strong": "G4046"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 3,
+    "verse": 14,
+    "text": "(경건의 비밀) 내가 속히 네게 가기를 바라나 이것을 네게 쓰는 것은",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "속히",
+        "strong": "G5032"
+      },
+      {
+        "word": "네",
+        "strong": "G4571"
+      },
+      {
+        "word": "게",
+        "strong": "G4314"
+      },
+      {
+        "word": "가기를",
+        "strong": "G2064"
+      },
+      {
+        "word": "바라나",
+        "strong": "G1679"
+      },
+      {
+        "word": "이것을",
+        "strong": "G5023"
+      },
+      {
+        "word": "네게",
+        "strong": "G4671"
+      },
+      {
+        "word": "쓰는 것은",
+        "strong": "G1125"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 3,
+    "verse": 15,
+    "text": "만일 내가 지체하면 너로 하여금 하나님의 집에서 어떻게 행하여야 할지를 알게 하려 함이니 이 집은 살아 계신 하나님의 교회요 진리의 기둥과 터니라",
+    "words": [
+      {
+        "word": "만일",
+        "strong": "G1437"
+      },
+      {
+        "word": "내가 지체하면",
+        "strong": "G1019"
+      },
+      {
+        "word": "너로 하여금",
+        "strong": null
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "집",
+        "strong": "G3624"
+      },
+      {
+        "word": "에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "어떻게",
+        "strong": "G4459"
+      },
+      {
+        "word": "행하여야",
+        "strong": "G390"
+      },
+      {
+        "word": "할 지를",
+        "strong": "G1163"
+      },
+      {
+        "word": "알게",
+        "strong": "G1492"
+      },
+      {
+        "word": "하려 함이니",
+        "strong": "G2443"
+      },
+      {
+        "word": "이 집은",
+        "strong": "G3748"
+      },
+      {
+        "word": "살아 계신",
+        "strong": "G2198"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "교회요",
+        "strong": "G1577"
+      },
+      {
+        "word": "진리의",
+        "strong": "G225"
+      },
+      {
+        "word": "기둥",
+        "strong": "G4769"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "터",
+        "strong": "G1477"
+      },
+      {
+        "word": "니라",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 3,
+    "verse": 16,
+    "text": "크도다 경건의 비밀이여, 그렇지 않다 하는 이 없도다 ○그는 육신으로 나타난 바 되시고 영으로 의롭다 하심을 받으시고 천사들에게 보이시고 만국에서 전파되시고 세상에서 믿은 바 되시고 영광 가운데서 올려지셨느니라",
+    "words": [
+      {
+        "word": "크도다",
+        "strong": "G3173"
+      },
+      {
+        "word": "경건의",
+        "strong": "G2150"
+      },
+      {
+        "word": "비밀",
+        "strong": "G3466"
+      },
+      {
+        "word": "이여,",
+        "strong": "G2076"
+      },
+      {
+        "word": "그렇지 않다 하는 이 없도다",
+        "strong": "G3672"
+      },
+      {
+        "word": "그는",
+        "strong": "G3739"
+      },
+      {
+        "word": "육신",
+        "strong": "G4561"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "나타난바 되시고",
+        "strong": "G5319"
+      },
+      {
+        "word": "영",
+        "strong": "G4151"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "의롭다 하심을 받으시고",
+        "strong": "G1344"
+      },
+      {
+        "word": "천사들에게",
+        "strong": "G32"
+      },
+      {
+        "word": "보이시고",
+        "strong": "G3708"
+      },
+      {
+        "word": "만국",
+        "strong": "G1484"
+      },
+      {
+        "word": "에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "전파되시고",
+        "strong": "G2784"
+      },
+      {
+        "word": "세상",
+        "strong": "G2889"
+      },
+      {
+        "word": "에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "믿은바 되시고",
+        "strong": "G4100"
+      },
+      {
+        "word": "영광",
+        "strong": "G1391"
+      },
+      {
+        "word": "가운데서",
+        "strong": "G1722"
+      },
+      {
+        "word": "올려지셨느니라",
+        "strong": "G353"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 4,
+    "verse": 1,
+    "text": "(거짓말하는 자들) 그러나 성령이 밝히 말씀하시기를 후일에 어떤 사람들이 믿음에서 떠나 미혹하는 영과 귀신의 가르침을 따르리라 하셨으니",
+    "words": [
+      {
+        "word": "그러나",
+        "strong": "G1161"
+      },
+      {
+        "word": "성령이",
+        "strong": "G4151"
+      },
+      {
+        "word": "밝히",
+        "strong": "G4490"
+      },
+      {
+        "word": "말씀하시기를",
+        "strong": "G3004"
+      },
+      {
+        "word": "후",
+        "strong": "G5306"
+      },
+      {
+        "word": "일",
+        "strong": "G2540"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "어떤 사람들이",
+        "strong": "G5100"
+      },
+      {
+        "word": "믿음에서",
+        "strong": "G4102"
+      },
+      {
+        "word": "떠나",
+        "strong": "G868"
+      },
+      {
+        "word": "미혹하는",
+        "strong": "G4108"
+      },
+      {
+        "word": "영",
+        "strong": "G4151"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "귀신의",
+        "strong": "G1140"
+      },
+      {
+        "word": "가르침을",
+        "strong": "G1319"
+      },
+      {
+        "word": "따르리라",
+        "strong": "G4337"
+      },
+      {
+        "word": "하셨으니",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 4,
+    "verse": 2,
+    "text": "자기 양심이 화인을 맞아서 외식함으로 거짓말하는 자들이라",
+    "words": [
+      {
+        "word": "자기",
+        "strong": "G2398"
+      },
+      {
+        "word": "양심이",
+        "strong": "G4893"
+      },
+      {
+        "word": "화인을 맞아서",
+        "strong": "G2741b"
+      },
+      {
+        "word": "외식함",
+        "strong": "G5272"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "거짓말하는 자들이라",
+        "strong": "G5573"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 4,
+    "verse": 3,
+    "text": "혼인을 금하고 어떤 음식물은 먹지 말라고 할 터이나 음식물은 하나님이 지으신 바니 믿는 자들과 진리를 아는 자들이 감사함으로 받을 것이니라",
+    "words": [
+      {
+        "word": "혼인을",
+        "strong": "G1060"
+      },
+      {
+        "word": "금하고",
+        "strong": "G2967"
+      },
+      {
+        "word": "어떤 음식은",
+        "strong": "G1033"
+      },
+      {
+        "word": "먹지 말라고 할터이나",
+        "strong": "G567"
+      },
+      {
+        "word": "음식물은",
+        "strong": "G3739"
+      },
+      {
+        "word": "하나님이",
+        "strong": "G2316"
+      },
+      {
+        "word": "지으신",
+        "strong": "G2936"
+      },
+      {
+        "word": "바니",
+        "strong": null
+      },
+      {
+        "word": "믿는",
+        "strong": "G4103"
+      },
+      {
+        "word": "자들",
+        "strong": "G3588"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "진리를",
+        "strong": "G225"
+      },
+      {
+        "word": "아는 자들이",
+        "strong": "G1921"
+      },
+      {
+        "word": "감사함",
+        "strong": "G2169"
+      },
+      {
+        "word": "으로",
+        "strong": "G3326"
+      },
+      {
+        "word": "받을 것",
+        "strong": "G3336"
+      },
+      {
+        "word": "이니라",
+        "strong": "G1519"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 4,
+    "verse": 4,
+    "text": "하나님께서 지으신 모든 것이 선하매 감사함으로 받으면 버릴 것이 없나니",
+    "words": [
+      {
+        "word": "하나님께서",
+        "strong": "G2316"
+      },
+      {
+        "word": "지으신",
+        "strong": "G2938"
+      },
+      {
+        "word": "모든 것이",
+        "strong": "G3956"
+      },
+      {
+        "word": "선하매",
+        "strong": "G2570"
+      },
+      {
+        "word": "감사함",
+        "strong": "G2169"
+      },
+      {
+        "word": "으로",
+        "strong": "G3326"
+      },
+      {
+        "word": "받으면",
+        "strong": "G2983"
+      },
+      {
+        "word": "버릴 것이",
+        "strong": "G579"
+      },
+      {
+        "word": "없나니",
+        "strong": "G3762"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 4,
+    "verse": 5,
+    "text": "하나님의 말씀과 기도로 거룩하여짐이라",
+    "words": [
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "말씀",
+        "strong": "G3056"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "기도",
+        "strong": "G1783"
+      },
+      {
+        "word": "로",
+        "strong": "G1223"
+      },
+      {
+        "word": "거룩하여짐",
+        "strong": "G37"
+      },
+      {
+        "word": "이라",
+        "strong": "G1063"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 4,
+    "verse": 6,
+    "text": "(그리스도 예수의 좋은 일꾼) 네가 이것으로 형제를 깨우치면 그리스도 예수의 좋은 일꾼이 되어 믿음의 말씀과 네가 따르는 좋은 교훈으로 양육을 받으리라",
+    "words": [
+      {
+        "word": "네가",
+        "strong": null
+      },
+      {
+        "word": "이것으로",
+        "strong": "G5023"
+      },
+      {
+        "word": "형제를",
+        "strong": "G80"
+      },
+      {
+        "word": "깨우치면",
+        "strong": "G5294"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수의",
+        "strong": "G2424"
+      },
+      {
+        "word": "좋은",
+        "strong": "G2570"
+      },
+      {
+        "word": "일꾼이",
+        "strong": "G1249"
+      },
+      {
+        "word": "되어",
+        "strong": "G2071"
+      },
+      {
+        "word": "믿음의",
+        "strong": "G4102"
+      },
+      {
+        "word": "말씀",
+        "strong": "G3056"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "네가 따르는",
+        "strong": "G3877"
+      },
+      {
+        "word": "좋은",
+        "strong": "G2570"
+      },
+      {
+        "word": "교훈으로",
+        "strong": "G1319"
+      },
+      {
+        "word": "양육을 받으리라",
+        "strong": "G1789"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 4,
+    "verse": 7,
+    "text": "망령되고 허탄한 신화를 버리고 경건에 이르도록 네 자신을 연단하라",
+    "words": [
+      {
+        "word": "망령되고",
+        "strong": "G952"
+      },
+      {
+        "word": "허탄한",
+        "strong": "G1126"
+      },
+      {
+        "word": "신화를",
+        "strong": "G3454"
+      },
+      {
+        "word": "버리고",
+        "strong": "G3868"
+      },
+      {
+        "word": "경건",
+        "strong": "G2150"
+      },
+      {
+        "word": "에 이르도록",
+        "strong": "G4314"
+      },
+      {
+        "word": "네 자신을 연단하라",
+        "strong": "G1128"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 4,
+    "verse": 8,
+    "text": "육체의 연단은 약간의 유익이 있으나 경건은 범사에 유익하니 금생과 내생에 약속이 있느니라",
+    "words": [
+      {
+        "word": "육체의",
+        "strong": "G4984"
+      },
+      {
+        "word": "연단은",
+        "strong": "G1129"
+      },
+      {
+        "word": "약간의",
+        "strong": "G3641"
+      },
+      {
+        "word": "유익이",
+        "strong": "G5624"
+      },
+      {
+        "word": "있으나",
+        "strong": "G2076"
+      },
+      {
+        "word": "경건은",
+        "strong": "G2150"
+      },
+      {
+        "word": "범사",
+        "strong": "G3956"
+      },
+      {
+        "word": "에",
+        "strong": "G4314"
+      },
+      {
+        "word": "유익",
+        "strong": "G5624"
+      },
+      {
+        "word": "하니",
+        "strong": "G2076"
+      },
+      {
+        "word": "금",
+        "strong": "G3568"
+      },
+      {
+        "word": "생",
+        "strong": "G2222"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "내",
+        "strong": "G3195"
+      },
+      {
+        "word": "생에",
+        "strong": "G2222"
+      },
+      {
+        "word": "약속이",
+        "strong": "G1860"
+      },
+      {
+        "word": "있느니라",
+        "strong": "G2192"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 4,
+    "verse": 9,
+    "text": "미쁘다 이 말이여 모든 사람들이 받을 만하도다",
+    "words": [
+      {
+        "word": "미쁘다",
+        "strong": "G4103"
+      },
+      {
+        "word": "이",
+        "strong": "G3588"
+      },
+      {
+        "word": "말이여",
+        "strong": "G3056"
+      },
+      {
+        "word": "모든 사람들이",
+        "strong": "G3956"
+      },
+      {
+        "word": "받을",
+        "strong": "G594"
+      },
+      {
+        "word": "만하도다",
+        "strong": "G514"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 4,
+    "verse": 10,
+    "text": "이를 위하여 우리가 수고하고 힘쓰는 것은 우리 소망을 살아 계신 하나님께 둠이니 곧 모든 사람 특히 믿는 자들의 구주시라",
+    "words": [
+      {
+        "word": "이를",
+        "strong": "G5124"
+      },
+      {
+        "word": "위하여",
+        "strong": "G1519"
+      },
+      {
+        "word": "우리가 수고하고",
+        "strong": "G2872"
+      },
+      {
+        "word": "힘쓰는 것은",
+        "strong": "G75"
+      },
+      {
+        "word": "우리 소망을",
+        "strong": "G1679"
+      },
+      {
+        "word": "살아 계신",
+        "strong": "G2198"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "께",
+        "strong": "G1909"
+      },
+      {
+        "word": "둠",
+        "strong": null
+      },
+      {
+        "word": "이니",
+        "strong": "G3754"
+      },
+      {
+        "word": "곧",
+        "strong": "G3739"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "사람",
+        "strong": "G444"
+      },
+      {
+        "word": "특히",
+        "strong": "G3122"
+      },
+      {
+        "word": "믿는 자들의",
+        "strong": "G4103"
+      },
+      {
+        "word": "구주",
+        "strong": "G4990"
+      },
+      {
+        "word": "시라",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 4,
+    "verse": 11,
+    "text": "너는 이것들을 명하고 가르치라",
+    "words": [
+      {
+        "word": "너는",
+        "strong": null
+      },
+      {
+        "word": "이것들을",
+        "strong": "G5023"
+      },
+      {
+        "word": "명하고",
+        "strong": "G3853"
+      },
+      {
+        "word": "가르치라",
+        "strong": "G1321"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 4,
+    "verse": 12,
+    "text": "누구든지 네 연소함을 업신여기지 못하게 하고 오직 말과 행실과 사랑과 믿음과 정절에 있어서 믿는 자에게 본이 되어",
+    "words": [
+      {
+        "word": "누구든지",
+        "strong": null
+      },
+      {
+        "word": "네",
+        "strong": "G4675"
+      },
+      {
+        "word": "연소함을",
+        "strong": "G3503"
+      },
+      {
+        "word": "업신여기지",
+        "strong": "G2706"
+      },
+      {
+        "word": "못하게 하고",
+        "strong": "G3367"
+      },
+      {
+        "word": "오직",
+        "strong": "G235"
+      },
+      {
+        "word": "말과",
+        "strong": "G3056"
+      },
+      {
+        "word": "행실과",
+        "strong": "G391"
+      },
+      {
+        "word": "사랑과",
+        "strong": "G26"
+      },
+      {
+        "word": "믿음과",
+        "strong": "G4102"
+      },
+      {
+        "word": "정절",
+        "strong": "G47"
+      },
+      {
+        "word": "에 있어서",
+        "strong": "G1722"
+      },
+      {
+        "word": "믿는 자에게",
+        "strong": "G4103"
+      },
+      {
+        "word": "본이",
+        "strong": "G5179"
+      },
+      {
+        "word": "되어",
+        "strong": "G1096"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 4,
+    "verse": 13,
+    "text": "내가 이를 때까지 읽는 것과 권하는 것과 가르치는 것에 전념하라",
+    "words": [
+      {
+        "word": "내가 이를",
+        "strong": "G2064"
+      },
+      {
+        "word": "때까지",
+        "strong": "G2193"
+      },
+      {
+        "word": "읽는 것과",
+        "strong": "G320"
+      },
+      {
+        "word": "권하는 것과",
+        "strong": "G3874"
+      },
+      {
+        "word": "가르치는 것에",
+        "strong": "G1319"
+      },
+      {
+        "word": "전념하라",
+        "strong": "G4337"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 4,
+    "verse": 14,
+    "text": "네 속에 있는 은사 곧 장로의 회에서 안수 받을 때에 예언을 통하여 받은 것을 가볍게 여기지 말며",
+    "words": [
+      {
+        "word": "네",
+        "strong": "G4671"
+      },
+      {
+        "word": "속에 있는",
+        "strong": "G1722"
+      },
+      {
+        "word": "은사",
+        "strong": "G5486"
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "장로의 회에서",
+        "strong": "G4244"
+      },
+      {
+        "word": "안",
+        "strong": "G1936"
+      },
+      {
+        "word": "수",
+        "strong": "G5495"
+      },
+      {
+        "word": "받을",
+        "strong": null
+      },
+      {
+        "word": "때에",
+        "strong": "G3326"
+      },
+      {
+        "word": "예언",
+        "strong": "G4394"
+      },
+      {
+        "word": "을 통하여",
+        "strong": "G1223"
+      },
+      {
+        "word": "받은",
+        "strong": "G1325"
+      },
+      {
+        "word": "것을",
+        "strong": "G3739"
+      },
+      {
+        "word": "가볍게 여기지",
+        "strong": "G272"
+      },
+      {
+        "word": "말며",
+        "strong": "G3361"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 4,
+    "verse": 15,
+    "text": "이 모든 일에 전심 전력하여 너의 성숙함을 모든 사람에게 나타나게 하라",
+    "words": [
+      {
+        "word": "이 모든 일",
+        "strong": "G5023"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "전심전력",
+        "strong": "G3191"
+      },
+      {
+        "word": "하여",
+        "strong": "G2468"
+      },
+      {
+        "word": "너의",
+        "strong": "G4675"
+      },
+      {
+        "word": "성숙함을",
+        "strong": "G4297"
+      },
+      {
+        "word": "모든 사람",
+        "strong": "G3956"
+      },
+      {
+        "word": "에게",
+        "strong": "G1722"
+      },
+      {
+        "word": "나타",
+        "strong": "G5318"
+      },
+      {
+        "word": "나",
+        "strong": "G5600"
+      },
+      {
+        "word": "게",
+        "strong": "G2443"
+      },
+      {
+        "word": "하라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 4,
+    "verse": 16,
+    "text": "네가 네 자신과 가르침을 살펴 이 일을 계속하라 이것을 행함으로 네 자신과 네게 듣는 자를 구원하리라",
+    "words": [
+      {
+        "word": "네가",
+        "strong": null
+      },
+      {
+        "word": "네 자신",
+        "strong": "G4572"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "가르침을",
+        "strong": "G1319"
+      },
+      {
+        "word": "살펴",
+        "strong": "G1907"
+      },
+      {
+        "word": "이 일을",
+        "strong": "G846"
+      },
+      {
+        "word": "계속하라",
+        "strong": "G1961"
+      },
+      {
+        "word": "이것을",
+        "strong": "G5124"
+      },
+      {
+        "word": "행함",
+        "strong": "G4160"
+      },
+      {
+        "word": "으로",
+        "strong": "G1063"
+      },
+      {
+        "word": "네 자신",
+        "strong": "G4572"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "네게",
+        "strong": "G4675"
+      },
+      {
+        "word": "듣는",
+        "strong": "G191"
+      },
+      {
+        "word": "자를",
+        "strong": "G3588"
+      },
+      {
+        "word": "구원하리라",
+        "strong": "G4982"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 1,
+    "text": "(성도를 대하는 태도) 늙은이를 꾸짖지 말고 권하되 아버지에게 하듯 하며 젊은이에게는 형제에게 하듯 하고",
+    "words": [
+      {
+        "word": "늙은이를",
+        "strong": "G4245"
+      },
+      {
+        "word": "꾸짖지",
+        "strong": "G1969"
+      },
+      {
+        "word": "말고",
+        "strong": "G3361"
+      },
+      {
+        "word": "권하되",
+        "strong": "G3870"
+      },
+      {
+        "word": "아버지",
+        "strong": "G3962"
+      },
+      {
+        "word": "에게 하듯하며",
+        "strong": "G5613"
+      },
+      {
+        "word": "젊은이에게는",
+        "strong": "G3501"
+      },
+      {
+        "word": "형제에게",
+        "strong": "G80"
+      },
+      {
+        "word": "하듯하고",
+        "strong": "G5613"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 2,
+    "text": "늙은 여자에게는 어머니에게 하듯 하며 젊은 여자에게는 온전히 깨끗함으로 자매에게 하듯 하라",
+    "words": [
+      {
+        "word": "늙은 여자에게는",
+        "strong": "G4245"
+      },
+      {
+        "word": "어머니에게",
+        "strong": "G3384"
+      },
+      {
+        "word": "하듯하며",
+        "strong": "G5613"
+      },
+      {
+        "word": "젊은 여자에게는",
+        "strong": "G3501"
+      },
+      {
+        "word": "온전히",
+        "strong": "G3956"
+      },
+      {
+        "word": "깨끗함",
+        "strong": "G47"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "자매에게",
+        "strong": "G79"
+      },
+      {
+        "word": "하듯하라",
+        "strong": "G5613"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 3,
+    "text": "참 과부인 과부를 존대하라",
+    "words": [
+      {
+        "word": "참",
+        "strong": "G3689"
+      },
+      {
+        "word": "과부인",
+        "strong": "G5503"
+      },
+      {
+        "word": "과부를",
+        "strong": "G5503"
+      },
+      {
+        "word": "존대하라",
+        "strong": "G5091"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 4,
+    "text": "만일 어떤 과부에게 자녀나 손자들이 있거든 그들로 먼저 자기 집에서 효를 행하여 부모에게 보답하기를 배우게 하라 이것이 하나님 앞에 받으실 만한 것이니라",
+    "words": [
+      {
+        "word": "만일",
+        "strong": "G1487"
+      },
+      {
+        "word": "어떤",
+        "strong": "G5100"
+      },
+      {
+        "word": "과부에게",
+        "strong": "G5503"
+      },
+      {
+        "word": "자녀",
+        "strong": "G5043"
+      },
+      {
+        "word": "나",
+        "strong": "G2228"
+      },
+      {
+        "word": "손자들이",
+        "strong": "G1549"
+      },
+      {
+        "word": "있",
+        "strong": "G2192"
+      },
+      {
+        "word": "거든",
+        "strong": null
+      },
+      {
+        "word": "그들로",
+        "strong": null
+      },
+      {
+        "word": "먼저",
+        "strong": "G4412"
+      },
+      {
+        "word": "자기",
+        "strong": "G2398"
+      },
+      {
+        "word": "집에서",
+        "strong": "G3624"
+      },
+      {
+        "word": "효를 행하여",
+        "strong": "G2151"
+      },
+      {
+        "word": "부모에게",
+        "strong": "G4269"
+      },
+      {
+        "word": "보답",
+        "strong": "G287"
+      },
+      {
+        "word": "하기를",
+        "strong": "G591"
+      },
+      {
+        "word": "배우게 하라",
+        "strong": "G3129"
+      },
+      {
+        "word": "이것이",
+        "strong": "G5124"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "앞에",
+        "strong": "G1799"
+      },
+      {
+        "word": "받으실만한 것",
+        "strong": "G587"
+      },
+      {
+        "word": "이니라",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 5,
+    "text": "참 과부로서 외로운 자는 하나님께 소망을 두어 주야로 항상 간구와 기도를 하거니와",
+    "words": [
+      {
+        "word": "참",
+        "strong": "G3689"
+      },
+      {
+        "word": "과부로서",
+        "strong": "G5503"
+      },
+      {
+        "word": "외로운",
+        "strong": "G3443"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "께",
+        "strong": "G1909"
+      },
+      {
+        "word": "소망을 두어",
+        "strong": "G1679"
+      },
+      {
+        "word": "주",
+        "strong": "G2250"
+      },
+      {
+        "word": "야로",
+        "strong": "G3571"
+      },
+      {
+        "word": "항상",
+        "strong": null
+      },
+      {
+        "word": "간구",
+        "strong": "G1162"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "기도를",
+        "strong": "G4335"
+      },
+      {
+        "word": "하거니와",
+        "strong": "G4357"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 6,
+    "text": "향락을 좋아하는 자는 살았으나 죽었느니라",
+    "words": [
+      {
+        "word": "향락을 좋아하는",
+        "strong": "G4684"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "살았으나",
+        "strong": "G2198"
+      },
+      {
+        "word": "죽었느니라",
+        "strong": "G2348"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 7,
+    "text": "네가 또한 이것을 명하여 그들로 책망 받을 것이 없게 하라",
+    "words": [
+      {
+        "word": "네가",
+        "strong": null
+      },
+      {
+        "word": "또한",
+        "strong": "G2532"
+      },
+      {
+        "word": "이것을",
+        "strong": "G5023"
+      },
+      {
+        "word": "명하여",
+        "strong": "G3853"
+      },
+      {
+        "word": "그들로",
+        "strong": "G5600"
+      },
+      {
+        "word": "책망 받을 것이 없",
+        "strong": "G423"
+      },
+      {
+        "word": "게",
+        "strong": "G2443"
+      },
+      {
+        "word": "하라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 8,
+    "text": "누구든지 자기 친족 특히 자기 가족을 돌보지 아니하면 믿음을 배반한 자요 불신자보다 더 악한 자니라",
+    "words": [
+      {
+        "word": "누구든지",
+        "strong": "G5100"
+      },
+      {
+        "word": "자기 친족",
+        "strong": "G2398"
+      },
+      {
+        "word": "특히",
+        "strong": "G3122"
+      },
+      {
+        "word": "자기 가족을",
+        "strong": "G3609"
+      },
+      {
+        "word": "돌보지",
+        "strong": "G4306"
+      },
+      {
+        "word": "아니",
+        "strong": "G3756"
+      },
+      {
+        "word": "하면",
+        "strong": "G1487"
+      },
+      {
+        "word": "믿음을",
+        "strong": "G4102"
+      },
+      {
+        "word": "배반한 자요",
+        "strong": "G720"
+      },
+      {
+        "word": "불신자보다",
+        "strong": "G571"
+      },
+      {
+        "word": "더 악한",
+        "strong": "G5501"
+      },
+      {
+        "word": "자니라",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 9,
+    "text": "과부로 명부에 올릴 자는 나이가 육십이 덜 되지 아니하고 한 남편의 아내였던 자로서",
+    "words": [
+      {
+        "word": "과부로",
+        "strong": "G5503"
+      },
+      {
+        "word": "명부에 올릴 자는",
+        "strong": "G2639"
+      },
+      {
+        "word": "나이가",
+        "strong": "G2094"
+      },
+      {
+        "word": "육십이",
+        "strong": "G1835"
+      },
+      {
+        "word": "덜 되지",
+        "strong": "G1640"
+      },
+      {
+        "word": "아니하고",
+        "strong": "G3361"
+      },
+      {
+        "word": "한",
+        "strong": "G1520"
+      },
+      {
+        "word": "남편의",
+        "strong": "G435"
+      },
+      {
+        "word": "아내",
+        "strong": "G1135"
+      },
+      {
+        "word": "였던 자로서",
+        "strong": "G1096"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 10,
+    "text": "선한 행실의 증거가 있어 혹은 자녀를 양육하며 혹은 나그네를 대접하며 혹은 성도들의 발을 씻으며 혹은 환난 당한 자들을 구제하며 혹은 모든 선한 일을 행한 자라야 할 것이요",
+    "words": [
+      {
+        "word": "선한",
+        "strong": "G2570"
+      },
+      {
+        "word": "행실",
+        "strong": "G2041"
+      },
+      {
+        "word": "의",
+        "strong": "G1722"
+      },
+      {
+        "word": "증거가 있어",
+        "strong": "G3140"
+      },
+      {
+        "word": "혹은",
+        "strong": "G1487"
+      },
+      {
+        "word": "자녀를 양육하며",
+        "strong": "G5044"
+      },
+      {
+        "word": "혹은",
+        "strong": "G1487"
+      },
+      {
+        "word": "나그네를 대접하며",
+        "strong": "G3580"
+      },
+      {
+        "word": "혹은",
+        "strong": "G1487"
+      },
+      {
+        "word": "성도들의",
+        "strong": "G40"
+      },
+      {
+        "word": "발을",
+        "strong": "G4228"
+      },
+      {
+        "word": "씻으며",
+        "strong": "G3538"
+      },
+      {
+        "word": "혹은",
+        "strong": "G1487"
+      },
+      {
+        "word": "환난 당한 자들을",
+        "strong": "G2346"
+      },
+      {
+        "word": "구제하며",
+        "strong": "G1884"
+      },
+      {
+        "word": "혹은",
+        "strong": "G1487"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "선한",
+        "strong": "G18"
+      },
+      {
+        "word": "일을",
+        "strong": "G2041"
+      },
+      {
+        "word": "행한 자라야 할것이요",
+        "strong": "G1872"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 11,
+    "text": "젊은 과부는 올리지 말지니 이는 정욕으로 그리스도를 배반할 때에 시집 가고자 함이니",
+    "words": [
+      {
+        "word": "젊은",
+        "strong": "G3501"
+      },
+      {
+        "word": "과부는",
+        "strong": "G5503"
+      },
+      {
+        "word": "울리지 말지니",
+        "strong": "G3868"
+      },
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "정욕으로",
+        "strong": null
+      },
+      {
+        "word": "그리스도를",
+        "strong": "G5547"
+      },
+      {
+        "word": "배반할",
+        "strong": "G2691"
+      },
+      {
+        "word": "때에",
+        "strong": "G3752"
+      },
+      {
+        "word": "시집",
+        "strong": "G1060"
+      },
+      {
+        "word": "가고자",
+        "strong": "G2309"
+      },
+      {
+        "word": "함이니",
+        "strong": "G1063"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 12,
+    "text": "처음 믿음을 저버렸으므로 정죄를 받느니라",
+    "words": [
+      {
+        "word": "처음",
+        "strong": "G4413"
+      },
+      {
+        "word": "믿음을",
+        "strong": "G4102"
+      },
+      {
+        "word": "저버렸",
+        "strong": "G114"
+      },
+      {
+        "word": "으므로",
+        "strong": "G3754"
+      },
+      {
+        "word": "정죄를",
+        "strong": "G2917"
+      },
+      {
+        "word": "받느니라",
+        "strong": "G2192"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 13,
+    "text": "또 그들은 게으름을 익혀 집집으로 돌아 다니고 게으를 뿐 아니라 쓸데없는 말을 하며 일을 만들며 마땅히 아니할 말을 하나니",
+    "words": [
+      {
+        "word": "또",
+        "strong": "G260"
+      },
+      {
+        "word": "그들은",
+        "strong": null
+      },
+      {
+        "word": "게으름을",
+        "strong": "G692"
+      },
+      {
+        "word": "익혀",
+        "strong": "G3129"
+      },
+      {
+        "word": "집집으로",
+        "strong": "G3614"
+      },
+      {
+        "word": "돌아 다니고",
+        "strong": "G4022"
+      },
+      {
+        "word": "게으를",
+        "strong": "G692"
+      },
+      {
+        "word": "뿐",
+        "strong": "G3440"
+      },
+      {
+        "word": "아니라",
+        "strong": "G3756"
+      },
+      {
+        "word": "쓸데없는 말을 하며",
+        "strong": "G5397"
+      },
+      {
+        "word": "일을 만들며",
+        "strong": "G4021"
+      },
+      {
+        "word": "마땅히",
+        "strong": "G1163"
+      },
+      {
+        "word": "아니",
+        "strong": "G3361"
+      },
+      {
+        "word": "할",
+        "strong": null
+      },
+      {
+        "word": "말을 하나니",
+        "strong": "G2980"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 14,
+    "text": "그러므로 젊은이는 시집 가서 아이를 낳고 집을 다스리고 대적에게 비방할 기회를 조금도 주지 말기를 원하노라",
+    "words": [
+      {
+        "word": "그러므로",
+        "strong": "G3767"
+      },
+      {
+        "word": "젊은이는",
+        "strong": "G3501"
+      },
+      {
+        "word": "시집가서",
+        "strong": "G1060"
+      },
+      {
+        "word": "아이를 낳고",
+        "strong": "G5041"
+      },
+      {
+        "word": "집을 다스리고",
+        "strong": "G3616"
+      },
+      {
+        "word": "대적에게",
+        "strong": "G480"
+      },
+      {
+        "word": "비방",
+        "strong": "G3059"
+      },
+      {
+        "word": "할",
+        "strong": "G5484"
+      },
+      {
+        "word": "기회를",
+        "strong": "G874"
+      },
+      {
+        "word": "조금도",
+        "strong": null
+      },
+      {
+        "word": "주지",
+        "strong": "G1325"
+      },
+      {
+        "word": "말기를",
+        "strong": "G3367"
+      },
+      {
+        "word": "원하노라",
+        "strong": "G1014"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 15,
+    "text": "이미 사탄에게 돌아간 자들도 있도다",
+    "words": [
+      {
+        "word": "이미",
+        "strong": "G2235"
+      },
+      {
+        "word": "사탄",
+        "strong": "G4567"
+      },
+      {
+        "word": "에게",
+        "strong": "G3694"
+      },
+      {
+        "word": "돌아간",
+        "strong": "G1624"
+      },
+      {
+        "word": "자들도",
+        "strong": "G5100"
+      },
+      {
+        "word": "있도다",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 16,
+    "text": "만일 믿는 여자에게 과부 친척이 있거든 자기가 도와 주고 교회가 짐지지 않게 하라 이는 참 과부를 도와 주게 하려 함이라",
+    "words": [
+      {
+        "word": "만일",
+        "strong": "G1536"
+      },
+      {
+        "word": "믿는 여자에게",
+        "strong": "G4103"
+      },
+      {
+        "word": "과부친척이",
+        "strong": "G5503"
+      },
+      {
+        "word": "있",
+        "strong": "G2192"
+      },
+      {
+        "word": "거든",
+        "strong": null
+      },
+      {
+        "word": "자기가 도와주고",
+        "strong": "G1884"
+      },
+      {
+        "word": "교회가",
+        "strong": "G1577"
+      },
+      {
+        "word": "짐지지",
+        "strong": "G916"
+      },
+      {
+        "word": "않게",
+        "strong": "G3361"
+      },
+      {
+        "word": "하라",
+        "strong": null
+      },
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "참",
+        "strong": "G3689"
+      },
+      {
+        "word": "과부를",
+        "strong": "G5503"
+      },
+      {
+        "word": "도와주게",
+        "strong": "G1884"
+      },
+      {
+        "word": "하려함이라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 17,
+    "text": "잘 다스리는 장로들은 배나 존경할 자로 알되 말씀과 가르침에 수고하는 이들에게는 더욱 그리할 것이니라",
+    "words": [
+      {
+        "word": "잘",
+        "strong": "G2573"
+      },
+      {
+        "word": "다스리는",
+        "strong": "G4291"
+      },
+      {
+        "word": "장로들은",
+        "strong": "G4245"
+      },
+      {
+        "word": "배나",
+        "strong": "G1362"
+      },
+      {
+        "word": "존경할 자로",
+        "strong": "G5092"
+      },
+      {
+        "word": "알되",
+        "strong": "G515"
+      },
+      {
+        "word": "말씀",
+        "strong": "G3056"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "가르침",
+        "strong": "G1319"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "수고하는",
+        "strong": "G2872"
+      },
+      {
+        "word": "이들에게는",
+        "strong": "G3588"
+      },
+      {
+        "word": "더욱 그리할 것이니라",
+        "strong": "G3122"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 18,
+    "text": "성경에 일렀으되 곡식을 밟아 떠는 소의 입에 망을 씌우지 말라 하였고 또 일꾼이 그 삯을 받는 것은 마땅하다 하였느니라",
+    "words": [
+      {
+        "word": "성경에",
+        "strong": "G1124"
+      },
+      {
+        "word": "일렀으되",
+        "strong": "G3004"
+      },
+      {
+        "word": "곡식을 밟아 떠는",
+        "strong": "G248"
+      },
+      {
+        "word": "소의",
+        "strong": "G1016"
+      },
+      {
+        "word": "입에 망을 씌우지",
+        "strong": "G5392"
+      },
+      {
+        "word": "말라",
+        "strong": "G3756"
+      },
+      {
+        "word": "하였고",
+        "strong": null
+      },
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "일꾼이",
+        "strong": "G2040"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "삯을",
+        "strong": "G3408"
+      },
+      {
+        "word": "받는 것은 마땅하다",
+        "strong": "G514"
+      },
+      {
+        "word": "하였느니라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 19,
+    "text": "장로에 대한 고발은 두세 증인이 없으면 받지 말 것이요",
+    "words": [
+      {
+        "word": "장로에",
+        "strong": "G4245"
+      },
+      {
+        "word": "대한",
+        "strong": "G2596"
+      },
+      {
+        "word": "고발은",
+        "strong": "G2724"
+      },
+      {
+        "word": "두",
+        "strong": "G1417"
+      },
+      {
+        "word": "세",
+        "strong": "G5140"
+      },
+      {
+        "word": "증인이",
+        "strong": "G3144"
+      },
+      {
+        "word": "없으면",
+        "strong": "G1508"
+      },
+      {
+        "word": "받지",
+        "strong": "G3858"
+      },
+      {
+        "word": "말 것이요",
+        "strong": "G3361"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 20,
+    "text": "범죄한 자들을 모든 사람 앞에서 꾸짖어 나머지 사람들로 두려워하게 하라",
+    "words": [
+      {
+        "word": "범죄한",
+        "strong": "G264"
+      },
+      {
+        "word": "자들을",
+        "strong": "G3588"
+      },
+      {
+        "word": "모든 사람",
+        "strong": "G3956"
+      },
+      {
+        "word": "앞에서",
+        "strong": "G1799"
+      },
+      {
+        "word": "꾸짖어",
+        "strong": "G1651"
+      },
+      {
+        "word": "나머지 사람들로",
+        "strong": "G3062"
+      },
+      {
+        "word": "두려워",
+        "strong": "G5401"
+      },
+      {
+        "word": "하",
+        "strong": "G2192"
+      },
+      {
+        "word": "게",
+        "strong": "G2443"
+      },
+      {
+        "word": "하라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 21,
+    "text": "하나님과 그리스도 예수와 택하심을 받은 천사들 앞에서 내가 엄히 명하노니 너는 편견이 없이 이것들을 지켜 아무 일도 불공평하게 하지 말며",
+    "words": [
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "택하심을 받은",
+        "strong": "G1588"
+      },
+      {
+        "word": "천사들",
+        "strong": "G32"
+      },
+      {
+        "word": "앞에서",
+        "strong": "G1799"
+      },
+      {
+        "word": "내가 엄히 명하노니",
+        "strong": "G1263"
+      },
+      {
+        "word": "너는",
+        "strong": null
+      },
+      {
+        "word": "편견이",
+        "strong": "G4299"
+      },
+      {
+        "word": "없이",
+        "strong": "G5565"
+      },
+      {
+        "word": "이것들을",
+        "strong": "G5023"
+      },
+      {
+        "word": "지켜",
+        "strong": "G5442"
+      },
+      {
+        "word": "아무 일도",
+        "strong": null
+      },
+      {
+        "word": "불공평",
+        "strong": "G4346"
+      },
+      {
+        "word": "하게",
+        "strong": "G2596"
+      },
+      {
+        "word": "하지",
+        "strong": "G4160"
+      },
+      {
+        "word": "말며",
+        "strong": "G3367"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 22,
+    "text": "아무에게나 경솔히 안수하지 말고 다른 사람의 죄에 간섭하지 말며 네 자신을 지켜 정결하게 하라",
+    "words": [
+      {
+        "word": "아무에게나",
+        "strong": null
+      },
+      {
+        "word": "경솔히",
+        "strong": "G5030"
+      },
+      {
+        "word": "안",
+        "strong": "G2007"
+      },
+      {
+        "word": "수",
+        "strong": "G5495"
+      },
+      {
+        "word": "하지",
+        "strong": null
+      },
+      {
+        "word": "말고",
+        "strong": "G3367"
+      },
+      {
+        "word": "다른 사람의",
+        "strong": "G245"
+      },
+      {
+        "word": "죄에",
+        "strong": "G266"
+      },
+      {
+        "word": "간섭하지",
+        "strong": "G2841"
+      },
+      {
+        "word": "말며",
+        "strong": "G3366"
+      },
+      {
+        "word": "네 자신을",
+        "strong": "G4572"
+      },
+      {
+        "word": "지켜",
+        "strong": "G5083"
+      },
+      {
+        "word": "정결하게",
+        "strong": "G53"
+      },
+      {
+        "word": "하라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 23,
+    "text": "이제부터는 물만 마시지 말고 네 위장과 자주 나는 병을 위하여는 포도주를 조금씩 쓰라",
+    "words": [
+      {
+        "word": "이제부터는",
+        "strong": null
+      },
+      {
+        "word": "물만 마시지",
+        "strong": "G5202"
+      },
+      {
+        "word": "말고",
+        "strong": "G3371"
+      },
+      {
+        "word": "네",
+        "strong": "G4675"
+      },
+      {
+        "word": "위장",
+        "strong": "G4751"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "자주 나는",
+        "strong": "G4437"
+      },
+      {
+        "word": "병을",
+        "strong": "G769"
+      },
+      {
+        "word": "위하여는",
+        "strong": "G1223"
+      },
+      {
+        "word": "포도주를",
+        "strong": "G3631"
+      },
+      {
+        "word": "조금씩",
+        "strong": "G3641"
+      },
+      {
+        "word": "쓰라",
+        "strong": "G5530"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 24,
+    "text": "어떤 사람들의 죄는 밝히 드러나 먼저 심판에 나아가고 어떤 사람들의 죄는 그 뒤를 따르나니",
+    "words": [
+      {
+        "word": "어떤",
+        "strong": "G5100"
+      },
+      {
+        "word": "사람들의",
+        "strong": "G444"
+      },
+      {
+        "word": "죄는",
+        "strong": "G266"
+      },
+      {
+        "word": "밝히 드러",
+        "strong": "G4271"
+      },
+      {
+        "word": "나",
+        "strong": "G1526"
+      },
+      {
+        "word": "먼저",
+        "strong": null
+      },
+      {
+        "word": "심판",
+        "strong": "G2920"
+      },
+      {
+        "word": "에",
+        "strong": "G1519"
+      },
+      {
+        "word": "나아가고",
+        "strong": "G4254"
+      },
+      {
+        "word": "어떤 사람들의",
+        "strong": "G5100"
+      },
+      {
+        "word": "죄는",
+        "strong": null
+      },
+      {
+        "word": "그 뒤를 따르나니",
+        "strong": "G1872"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 5,
+    "verse": 25,
+    "text": "이와 같이 선행도 밝히 드러나고 그렇지 아니한 것도 숨길 수 없느니라",
+    "words": [
+      {
+        "word": "이와 같이",
+        "strong": "G5615"
+      },
+      {
+        "word": "선",
+        "strong": "G2570"
+      },
+      {
+        "word": "행",
+        "strong": "G2041"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "밝히 드러나고",
+        "strong": "G4271"
+      },
+      {
+        "word": "그렇지 아니",
+        "strong": "G247"
+      },
+      {
+        "word": "한",
+        "strong": "G2192"
+      },
+      {
+        "word": "것도",
+        "strong": "G3588"
+      },
+      {
+        "word": "숨길",
+        "strong": "G2928"
+      },
+      {
+        "word": "수",
+        "strong": "G1410"
+      },
+      {
+        "word": "없느니라",
+        "strong": "G3756"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 1,
+    "text": "무릇 멍에 아래에 있는 종들은 자기 상전들을 범사에 마땅히 공경할 자로 알지니 이는 하나님의 이름과 교훈으로 비방을 받지 않게 하려 함이라",
+    "words": [
+      {
+        "word": "무릇",
+        "strong": "G3745"
+      },
+      {
+        "word": "멍에",
+        "strong": "G2218"
+      },
+      {
+        "word": "아래에",
+        "strong": "G5259"
+      },
+      {
+        "word": "있는",
+        "strong": "G1526"
+      },
+      {
+        "word": "종들은",
+        "strong": "G1401"
+      },
+      {
+        "word": "자기",
+        "strong": "G2398"
+      },
+      {
+        "word": "상전들을",
+        "strong": "G1203"
+      },
+      {
+        "word": "범사에",
+        "strong": "G3956"
+      },
+      {
+        "word": "마땅히",
+        "strong": "G514"
+      },
+      {
+        "word": "공경할 자로",
+        "strong": "G5092"
+      },
+      {
+        "word": "알지니",
+        "strong": "G2233"
+      },
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "이름",
+        "strong": "G3686"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "교훈으로",
+        "strong": "G1319"
+      },
+      {
+        "word": "비방을 받지",
+        "strong": "G987"
+      },
+      {
+        "word": "않게",
+        "strong": "G3363"
+      },
+      {
+        "word": "하려 함이라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 2,
+    "text": "믿는 상전이 있는 자들은 그 상전을 형제라고 가볍게 여기지 말고 더 잘 섬기게 하라 이는 유익을 받는 자들이 믿는 자요 사랑을 받는 자임이라 너는 이것들을 가르치고 권하라",
+    "words": [
+      {
+        "word": "믿는",
+        "strong": "G4103"
+      },
+      {
+        "word": "상전이",
+        "strong": "G1203"
+      },
+      {
+        "word": "있는",
+        "strong": "G2192"
+      },
+      {
+        "word": "자들은",
+        "strong": "G3588"
+      },
+      {
+        "word": "그",
+        "strong": null
+      },
+      {
+        "word": "상전을",
+        "strong": null
+      },
+      {
+        "word": "형제",
+        "strong": "G80"
+      },
+      {
+        "word": "라",
+        "strong": "G1526"
+      },
+      {
+        "word": "고",
+        "strong": "G3754"
+      },
+      {
+        "word": "가볍게 여기지",
+        "strong": "G2706"
+      },
+      {
+        "word": "말고",
+        "strong": "G3361"
+      },
+      {
+        "word": "더 잘",
+        "strong": "G3123"
+      },
+      {
+        "word": "섬기게 하라",
+        "strong": "G1398"
+      },
+      {
+        "word": "이는",
+        "strong": "G3754"
+      },
+      {
+        "word": "유익을",
+        "strong": "G2108"
+      },
+      {
+        "word": "받는",
+        "strong": "G482"
+      },
+      {
+        "word": "자들이",
+        "strong": "G3588"
+      },
+      {
+        "word": "믿는 자요",
+        "strong": "G4103"
+      },
+      {
+        "word": "사랑을 받는 자",
+        "strong": "G27"
+      },
+      {
+        "word": "임이",
+        "strong": "G1526"
+      },
+      {
+        "word": "라",
+        "strong": null
+      },
+      {
+        "word": "너는",
+        "strong": null
+      },
+      {
+        "word": "이것들을",
+        "strong": "G5023"
+      },
+      {
+        "word": "가르치고",
+        "strong": "G1321"
+      },
+      {
+        "word": "권하라",
+        "strong": "G3870"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 3,
+    "text": "(말씀과 경건에 관한 교훈) 누구든지 다른 교훈을 하며 바른 말 곧 우리 주 예수 그리스도의 말씀과 경건에 관한 교훈을 따르지 아니하면",
+    "words": [
+      {
+        "word": "누구든지",
+        "strong": "G5100"
+      },
+      {
+        "word": "다른 교훈을 하며",
+        "strong": "G2085"
+      },
+      {
+        "word": "바른",
+        "strong": "G5198"
+      },
+      {
+        "word": "말",
+        "strong": "G3056"
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "말씀",
+        "strong": null
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "경건",
+        "strong": "G2150"
+      },
+      {
+        "word": "에 관한",
+        "strong": "G2596"
+      },
+      {
+        "word": "교훈을",
+        "strong": "G1319"
+      },
+      {
+        "word": "따르지",
+        "strong": "G4334"
+      },
+      {
+        "word": "아니",
+        "strong": "G3361"
+      },
+      {
+        "word": "하면",
+        "strong": "G1487"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 4,
+    "text": "그는 교만하여 아무 것도 알지 못하고 변론과 언쟁을 좋아하는 자니 이로써 투기와 분쟁과 비방과 악한 생각이 나며",
+    "words": [
+      {
+        "word": "그는 교만하여",
+        "strong": "G5187"
+      },
+      {
+        "word": "아무 것도",
+        "strong": null
+      },
+      {
+        "word": "알지",
+        "strong": "G1987"
+      },
+      {
+        "word": "못하고",
+        "strong": "G3367"
+      },
+      {
+        "word": "변론",
+        "strong": "G2214"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "언쟁",
+        "strong": "G3055"
+      },
+      {
+        "word": "을",
+        "strong": "G4012"
+      },
+      {
+        "word": "좋아하는 자니",
+        "strong": "G3552"
+      },
+      {
+        "word": "이",
+        "strong": "G3739"
+      },
+      {
+        "word": "로써",
+        "strong": "G1537"
+      },
+      {
+        "word": "투기와",
+        "strong": "G5355"
+      },
+      {
+        "word": "분쟁과",
+        "strong": "G2054"
+      },
+      {
+        "word": "비방과",
+        "strong": "G988"
+      },
+      {
+        "word": "악한",
+        "strong": "G4190"
+      },
+      {
+        "word": "생각이",
+        "strong": "G5283"
+      },
+      {
+        "word": "나며",
+        "strong": "G1096"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 5,
+    "text": "마음이 부패하여지고 진리를 잃어 버려 경건을 이익의 방도로 생각하는 자들의 다툼이 일어나느니라",
+    "words": [
+      {
+        "word": "마음이",
+        "strong": "G3563"
+      },
+      {
+        "word": "부패하여지고",
+        "strong": "G1311"
+      },
+      {
+        "word": "진리를",
+        "strong": "G225"
+      },
+      {
+        "word": "잃어버려",
+        "strong": "G650"
+      },
+      {
+        "word": "경건을",
+        "strong": "G2150"
+      },
+      {
+        "word": "이익의 방도로",
+        "strong": "G4200"
+      },
+      {
+        "word": "생각하는",
+        "strong": "G3543"
+      },
+      {
+        "word": "자들의",
+        "strong": "G444"
+      },
+      {
+        "word": "다툼이 일어나느니라",
+        "strong": "G1275a"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 6,
+    "text": "그러나 자족하는 마음이 있으면 경건은 큰 이익이 되느니라",
+    "words": [
+      {
+        "word": "그러나",
+        "strong": "G1161"
+      },
+      {
+        "word": "자족하는 마음이",
+        "strong": "G841"
+      },
+      {
+        "word": "있으면",
+        "strong": "G3326"
+      },
+      {
+        "word": "경건은",
+        "strong": "G2150"
+      },
+      {
+        "word": "큰",
+        "strong": "G3173"
+      },
+      {
+        "word": "이익이",
+        "strong": "G4200"
+      },
+      {
+        "word": "되느니라",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 7,
+    "text": "우리가 세상에 아무 것도 가지고 온 것이 없으매 또한 아무 것도 가지고 가지 못하리니",
+    "words": [
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "세상",
+        "strong": "G2889"
+      },
+      {
+        "word": "에",
+        "strong": "G1519"
+      },
+      {
+        "word": "아무 것도",
+        "strong": "G3762"
+      },
+      {
+        "word": "가지고 온 것이",
+        "strong": "G1533"
+      },
+      {
+        "word": "없으매",
+        "strong": null
+      },
+      {
+        "word": "또한",
+        "strong": "G3754"
+      },
+      {
+        "word": "아무 것도",
+        "strong": "G5100"
+      },
+      {
+        "word": "가지고 가지",
+        "strong": "G1627"
+      },
+      {
+        "word": "못",
+        "strong": "G3761"
+      },
+      {
+        "word": "하리",
+        "strong": "G1410"
+      },
+      {
+        "word": "니",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 8,
+    "text": "우리가 먹을 것과 입을 것이 있은즉 족한 줄로 알 것이니라",
+    "words": [
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "먹을 것",
+        "strong": "G1305"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "입을 것이",
+        "strong": "G4629"
+      },
+      {
+        "word": "있은즉",
+        "strong": "G2192"
+      },
+      {
+        "word": "족한 줄로 알 것이니라",
+        "strong": "G714"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 9,
+    "text": "부하려 하는 자들은 시험과 올무와 여러 가지 어리석고 해로운 욕심에 떨어지나니 곧 사람으로 파멸과 멸망에 빠지게 하는 것이라",
+    "words": [
+      {
+        "word": "부하려",
+        "strong": "G4147"
+      },
+      {
+        "word": "하는",
+        "strong": "G1014"
+      },
+      {
+        "word": "자들은",
+        "strong": "G3588"
+      },
+      {
+        "word": "시험",
+        "strong": "G3986"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "올무",
+        "strong": "G3803"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "여러가지",
+        "strong": "G4183"
+      },
+      {
+        "word": "어리석고",
+        "strong": "G453"
+      },
+      {
+        "word": "해로운",
+        "strong": "G983"
+      },
+      {
+        "word": "욕심",
+        "strong": "G1939"
+      },
+      {
+        "word": "에",
+        "strong": "G1519"
+      },
+      {
+        "word": "떨어지나니",
+        "strong": "G1706"
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "사람으로",
+        "strong": "G444"
+      },
+      {
+        "word": "파멸",
+        "strong": "G3639"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "멸망",
+        "strong": "G684"
+      },
+      {
+        "word": "에",
+        "strong": "G1519"
+      },
+      {
+        "word": "빠지게 하는",
+        "strong": "G1036"
+      },
+      {
+        "word": "것이라",
+        "strong": "G3748"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 10,
+    "text": "돈을 사랑함이 일만 악의 뿌리가 되나니 이것을 탐내는 자들은 미혹을 받아 믿음에서 떠나 많은 근심으로써 자기를 찔렀도다",
+    "words": [
+      {
+        "word": "돈을 사랑함이",
+        "strong": "G5365"
+      },
+      {
+        "word": "일만",
+        "strong": "G3956"
+      },
+      {
+        "word": "악의",
+        "strong": "G2556"
+      },
+      {
+        "word": "뿌리가",
+        "strong": "G4491"
+      },
+      {
+        "word": "되나니",
+        "strong": "G2076"
+      },
+      {
+        "word": "이것을",
+        "strong": "G3739"
+      },
+      {
+        "word": "탐내는",
+        "strong": "G3713"
+      },
+      {
+        "word": "자들은",
+        "strong": "G5100"
+      },
+      {
+        "word": "미혹을 받아",
+        "strong": "G635"
+      },
+      {
+        "word": "믿음",
+        "strong": "G4102"
+      },
+      {
+        "word": "에서 떠나",
+        "strong": "G575"
+      },
+      {
+        "word": "많은",
+        "strong": "G4183"
+      },
+      {
+        "word": "근심으로써",
+        "strong": "G3601"
+      },
+      {
+        "word": "자기를",
+        "strong": "G1438"
+      },
+      {
+        "word": "찔렀도다",
+        "strong": "G4044"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 11,
+    "text": "(믿음의 선한 싸움) 오직 너 하나님의 사람아 이것들을 피하고 의와 경건과 믿음과 사랑과 인내와 온유를 따르며",
+    "words": [
+      {
+        "word": "오직",
+        "strong": "G1161"
+      },
+      {
+        "word": "너",
+        "strong": "G4771"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "사람아",
+        "strong": "G444"
+      },
+      {
+        "word": "이것들을",
+        "strong": "G5023"
+      },
+      {
+        "word": "피하고",
+        "strong": "G5343"
+      },
+      {
+        "word": "의와",
+        "strong": "G1343"
+      },
+      {
+        "word": "경건과",
+        "strong": "G2150"
+      },
+      {
+        "word": "믿음과",
+        "strong": "G4102"
+      },
+      {
+        "word": "사랑과",
+        "strong": "G26"
+      },
+      {
+        "word": "인내와",
+        "strong": "G5281"
+      },
+      {
+        "word": "온유를",
+        "strong": "G4239a"
+      },
+      {
+        "word": "따르며",
+        "strong": "G1377"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 12,
+    "text": "믿음의 선한 싸움을 싸우라 영생을 취하라 이를 위하여 네가 부르심을 받았고 많은 증인 앞에서 선한 증언을 하였도다",
+    "words": [
+      {
+        "word": "믿음의",
+        "strong": "G4102"
+      },
+      {
+        "word": "선한",
+        "strong": "G2570"
+      },
+      {
+        "word": "싸움을",
+        "strong": "G73"
+      },
+      {
+        "word": "싸우라",
+        "strong": "G75"
+      },
+      {
+        "word": "영",
+        "strong": "G166"
+      },
+      {
+        "word": "생을",
+        "strong": "G2222"
+      },
+      {
+        "word": "취하라",
+        "strong": "G1949"
+      },
+      {
+        "word": "이를",
+        "strong": "G3739"
+      },
+      {
+        "word": "위하여",
+        "strong": "G1519"
+      },
+      {
+        "word": "네가 부르심을 받았고",
+        "strong": "G2564"
+      },
+      {
+        "word": "많은",
+        "strong": "G4183"
+      },
+      {
+        "word": "증인",
+        "strong": "G3144"
+      },
+      {
+        "word": "앞에서",
+        "strong": "G1799"
+      },
+      {
+        "word": "선한",
+        "strong": "G2570"
+      },
+      {
+        "word": "증언을",
+        "strong": "G3671"
+      },
+      {
+        "word": "하였도다",
+        "strong": "G3670"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 13,
+    "text": "만물을 살게 하신 하나님 앞과 본디오 빌라도를 향하여 선한 증언을 하신 그리스도 예수 앞에서 내가 너를 명하노니",
+    "words": [
+      {
+        "word": "만물",
+        "strong": "G3956"
+      },
+      {
+        "word": "을",
+        "strong": "G3588"
+      },
+      {
+        "word": "살게 하신",
+        "strong": "G2225"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "앞과",
+        "strong": "G1799"
+      },
+      {
+        "word": "본디오",
+        "strong": "G4194"
+      },
+      {
+        "word": "빌라도를",
+        "strong": "G4091"
+      },
+      {
+        "word": "향하여",
+        "strong": "G1909"
+      },
+      {
+        "word": "선한",
+        "strong": "G2570"
+      },
+      {
+        "word": "증언을",
+        "strong": "G3671"
+      },
+      {
+        "word": "하신",
+        "strong": "G3140"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수 앞에서",
+        "strong": "G2424"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "너를",
+        "strong": "G4671"
+      },
+      {
+        "word": "명하노니",
+        "strong": "G3853"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 14,
+    "text": "우리 주 예수 그리스도께서 나타나실 때까지 흠도 없고 책망 받을 것도 없이 이 명령을 지키라",
+    "words": [
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도께서",
+        "strong": "G5547"
+      },
+      {
+        "word": "나타나실",
+        "strong": "G2015"
+      },
+      {
+        "word": "때까지",
+        "strong": "G3360"
+      },
+      {
+        "word": "흠도 없고",
+        "strong": "G784"
+      },
+      {
+        "word": "책망 받을 것도 없이",
+        "strong": "G423"
+      },
+      {
+        "word": "이",
+        "strong": "G3588"
+      },
+      {
+        "word": "명령을",
+        "strong": "G1785"
+      },
+      {
+        "word": "지키라",
+        "strong": "G5083"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 15,
+    "text": "기약이 이르면 하나님이 그의 나타나심을 보이시리니 하나님은 복되시고 유일하신 주권자이시며 만왕의 왕이시며 만주의 주시요",
+    "words": [
+      {
+        "word": "기약이 이르면",
+        "strong": "G2398"
+      },
+      {
+        "word": "″",
+        "strong": "G2540"
+      },
+      {
+        "word": "하나님이",
+        "strong": null
+      },
+      {
+        "word": "그의 나타나심을",
+        "strong": "G3739"
+      },
+      {
+        "word": "보이시리니",
+        "strong": "G1166"
+      },
+      {
+        "word": "하나님은",
+        "strong": null
+      },
+      {
+        "word": "복되시고",
+        "strong": "G3107"
+      },
+      {
+        "word": "유일하신",
+        "strong": "G3441"
+      },
+      {
+        "word": "주권자이시며",
+        "strong": "G1413"
+      },
+      {
+        "word": "만왕의",
+        "strong": "G936"
+      },
+      {
+        "word": "왕이시며",
+        "strong": "G935"
+      },
+      {
+        "word": "만주의",
+        "strong": "G2961"
+      },
+      {
+        "word": "주시요",
+        "strong": "G2962"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 16,
+    "text": "오직 그에게만 죽지 아니함이 있고 가까이 가지 못할 빛에 거하시고 어떤 사람도 보지 못하였고 또 볼 수 없는 이시니 그에게 존귀와 영원한 권능을 돌릴지어다 아멘",
+    "words": [
+      {
+        "word": "오직",
+        "strong": "G3441"
+      },
+      {
+        "word": "그에게",
+        "strong": "G3588"
+      },
+      {
+        "word": "만",
+        "strong": null
+      },
+      {
+        "word": "죽지 아니함이",
+        "strong": "G110"
+      },
+      {
+        "word": "있고",
+        "strong": "G2192"
+      },
+      {
+        "word": "가까이 가지 못할",
+        "strong": "G676"
+      },
+      {
+        "word": "빛에",
+        "strong": "G5457"
+      },
+      {
+        "word": "거하시고",
+        "strong": "G3611"
+      },
+      {
+        "word": "어떤",
+        "strong": null
+      },
+      {
+        "word": "사람도",
+        "strong": "G444"
+      },
+      {
+        "word": "보지",
+        "strong": "G1492"
+      },
+      {
+        "word": "못하였고",
+        "strong": "G3762"
+      },
+      {
+        "word": "또",
+        "strong": null
+      },
+      {
+        "word": "볼",
+        "strong": "G1492"
+      },
+      {
+        "word": "수",
+        "strong": "G1410"
+      },
+      {
+        "word": "없는",
+        "strong": "G3761"
+      },
+      {
+        "word": "이시니",
+        "strong": "G3739"
+      },
+      {
+        "word": "그에게",
+        "strong": "G3739"
+      },
+      {
+        "word": "존귀",
+        "strong": "G5092"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "영원한",
+        "strong": "G166"
+      },
+      {
+        "word": "권능을",
+        "strong": "G2904"
+      },
+      {
+        "word": "돌릴지어다",
+        "strong": null
+      },
+      {
+        "word": "아멘",
+        "strong": "G281"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 17,
+    "text": "네가 이 세대에서 부한 자들을 명하여 마음을 높이지 말고 정함이 없는 재물에 소망을 두지 말고 오직 우리에게 모든 것을 후히 주사 누리게 하시는 하나님께 두며",
+    "words": [
+      {
+        "word": "네가",
+        "strong": null
+      },
+      {
+        "word": "이",
+        "strong": "G3568"
+      },
+      {
+        "word": "세대",
+        "strong": "G165"
+      },
+      {
+        "word": "에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "부한자들을",
+        "strong": "G4145"
+      },
+      {
+        "word": "명하여",
+        "strong": "G3853"
+      },
+      {
+        "word": "마음을 높이지",
+        "strong": "G5309"
+      },
+      {
+        "word": "말고",
+        "strong": "G3361"
+      },
+      {
+        "word": "정함이 없는",
+        "strong": "G83"
+      },
+      {
+        "word": "재물",
+        "strong": "G4149"
+      },
+      {
+        "word": "에",
+        "strong": "G1909"
+      },
+      {
+        "word": "소망을 두지",
+        "strong": "G1679"
+      },
+      {
+        "word": "말고",
+        "strong": "G3366"
+      },
+      {
+        "word": "오직",
+        "strong": "G235"
+      },
+      {
+        "word": "우리에게",
+        "strong": "G2254"
+      },
+      {
+        "word": "모든 것을",
+        "strong": "G3956"
+      },
+      {
+        "word": "후히",
+        "strong": "G4146"
+      },
+      {
+        "word": "주사",
+        "strong": "G3930"
+      },
+      {
+        "word": "누리",
+        "strong": "G619"
+      },
+      {
+        "word": "게 하시는",
+        "strong": "G1519"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "께 두며",
+        "strong": "G1909"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 18,
+    "text": "선을 행하고 선한 사업을 많이 하고 나누어 주기를 좋아하며 너그러운 자가 되게 하라",
+    "words": [
+      {
+        "word": "선을 행하고",
+        "strong": "G14"
+      },
+      {
+        "word": "선한",
+        "strong": "G2570"
+      },
+      {
+        "word": "사업",
+        "strong": "G2041"
+      },
+      {
+        "word": "을",
+        "strong": "G1722"
+      },
+      {
+        "word": "많이하고",
+        "strong": "G4147"
+      },
+      {
+        "word": "나누어주기를 좋아하며",
+        "strong": "G2130"
+      },
+      {
+        "word": "너그러운 자가",
+        "strong": "G2843"
+      },
+      {
+        "word": "되게 하라",
+        "strong": "G1511"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 19,
+    "text": "이것이 장래에 자기를 위하여 좋은 터를 쌓아 참된 생명을 취하는 것이니라",
+    "words": [
+      {
+        "word": "이것이",
+        "strong": null
+      },
+      {
+        "word": "장래",
+        "strong": "G3195"
+      },
+      {
+        "word": "에",
+        "strong": "G1519"
+      },
+      {
+        "word": "자기를 위하여",
+        "strong": "G1438"
+      },
+      {
+        "word": "좋은",
+        "strong": "G2570"
+      },
+      {
+        "word": "터를",
+        "strong": "G2310"
+      },
+      {
+        "word": "쌓아",
+        "strong": "G597"
+      },
+      {
+        "word": "참된",
+        "strong": "G3689"
+      },
+      {
+        "word": "생명을",
+        "strong": "G2222"
+      },
+      {
+        "word": "취하는 것",
+        "strong": "G1949"
+      },
+      {
+        "word": "이니라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 20,
+    "text": "디모데야 망령되고 헛된 말과 거짓된 지식의 반론을 피함으로 네게 부탁한 것을 지키라",
+    "words": [
+      {
+        "word": "디모데야",
+        "strong": "G5095"
+      },
+      {
+        "word": "망령되고",
+        "strong": "G952"
+      },
+      {
+        "word": "헛된 말",
+        "strong": "G2757"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "거짓된",
+        "strong": "G5581"
+      },
+      {
+        "word": "지식의",
+        "strong": "G1108"
+      },
+      {
+        "word": "반론을",
+        "strong": "G477"
+      },
+      {
+        "word": "피함으로",
+        "strong": "G1624"
+      },
+      {
+        "word": "네게 부탁한 것을",
+        "strong": "G3866"
+      },
+      {
+        "word": "지키라",
+        "strong": "G5442"
+      }
+    ]
+  },
+  {
+    "book": 54,
+    "book_name": "디모데전서",
+    "chapter": 6,
+    "verse": 21,
+    "text": "이것을 따르는 사람들이 있어 믿음에서 벗어났느니라 은혜가 너희와 함께 있을지어다",
+    "words": [
+      {
+        "word": "이것을",
+        "strong": "G3739"
+      },
+      {
+        "word": "따르는",
+        "strong": "G1861"
+      },
+      {
+        "word": "사람들이 있어",
+        "strong": "G5100"
+      },
+      {
+        "word": "믿음",
+        "strong": "G4102"
+      },
+      {
+        "word": "에서",
+        "strong": "G4012"
+      },
+      {
+        "word": "벗어났느니라",
+        "strong": "G795"
+      },
+      {
+        "word": "은혜가",
+        "strong": "G5485"
+      },
+      {
+        "word": "너희와",
+        "strong": "G4675"
+      },
+      {
+        "word": "함께 있을지어다",
+        "strong": "G3326"
+      }
+    ]
+  }
+]

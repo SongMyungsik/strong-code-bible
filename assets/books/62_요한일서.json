@@ -1,0 +1,7967 @@
+[
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 1,
+    "verse": 1,
+    "text": "(생명의 말씀) 태초부터 있는 생명의 말씀에 관하여는 우리가 들은 바요 눈으로 본 바요 자세히 보고 우리의 손으로 만진 바라",
+    "words": [
+      {
+        "word": "태초",
+        "strong": "G746"
+      },
+      {
+        "word": "부터",
+        "strong": "G575"
+      },
+      {
+        "word": "있는",
+        "strong": "G2258"
+      },
+      {
+        "word": "생명의",
+        "strong": "G2222"
+      },
+      {
+        "word": "말씀에",
+        "strong": "G3056"
+      },
+      {
+        "word": "관하여는",
+        "strong": "G4012"
+      },
+      {
+        "word": "우리가 들은",
+        "strong": "G191"
+      },
+      {
+        "word": "바요",
+        "strong": "G3739"
+      },
+      {
+        "word": "눈으로",
+        "strong": "G3788"
+      },
+      {
+        "word": "본",
+        "strong": "G3708"
+      },
+      {
+        "word": "바요",
+        "strong": "G3739"
+      },
+      {
+        "word": "자세히 보고",
+        "strong": "G2300"
+      },
+      {
+        "word": "우리의",
+        "strong": "G2257"
+      },
+      {
+        "word": "손으로",
+        "strong": "G5495"
+      },
+      {
+        "word": "만진",
+        "strong": "G5584"
+      },
+      {
+        "word": "바라",
+        "strong": "G3739"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 1,
+    "verse": 2,
+    "text": "이 생명이 나타내신 바 된지라 이 영원한 생명을 우리가 보았고 증언하여 너희에게 전하노니 이는 아버지와 함께 계시다가 우리에게 나타내신 바 된 이시니라",
+    "words": [
+      {
+        "word": "이",
+        "strong": "G3588"
+      },
+      {
+        "word": "생명이",
+        "strong": "G2222"
+      },
+      {
+        "word": "나타내신바 된지라",
+        "strong": "G5319"
+      },
+      {
+        "word": "이",
+        "strong": "G3588"
+      },
+      {
+        "word": "영원한",
+        "strong": "G166"
+      },
+      {
+        "word": "생명을",
+        "strong": "G2222"
+      },
+      {
+        "word": "우리가 보았고",
+        "strong": "G3708"
+      },
+      {
+        "word": "증언하여",
+        "strong": "G3140"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "전하노니",
+        "strong": "G518"
+      },
+      {
+        "word": "이는",
+        "strong": "G3748"
+      },
+      {
+        "word": "아버지와",
+        "strong": "G3962"
+      },
+      {
+        "word": "함께",
+        "strong": "G4314"
+      },
+      {
+        "word": "계시다가",
+        "strong": "G2258"
+      },
+      {
+        "word": "우리에게",
+        "strong": "G2254"
+      },
+      {
+        "word": "나타내신바 된",
+        "strong": "G5319"
+      },
+      {
+        "word": "이시니라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 1,
+    "verse": 3,
+    "text": "우리가 보고 들은 바를 너희에게도 전함은 너희로 우리와 사귐이 있게 하려 함이니 우리의 사귐은 아버지와 그의 아들 예수 그리스도와 더불어 누림이라",
+    "words": [
+      {
+        "word": "우리가 보고",
+        "strong": "G3708"
+      },
+      {
+        "word": "들은",
+        "strong": "G191"
+      },
+      {
+        "word": "바를",
+        "strong": "G3739"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "전함은",
+        "strong": "G518"
+      },
+      {
+        "word": "너희로",
+        "strong": "G5210"
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "와",
+        "strong": "G3326"
+      },
+      {
+        "word": "사귐이",
+        "strong": "G2842"
+      },
+      {
+        "word": "있게",
+        "strong": "G2192"
+      },
+      {
+        "word": "하려 함이니",
+        "strong": "G2443"
+      },
+      {
+        "word": "우리의",
+        "strong": "G2251"
+      },
+      {
+        "word": "사귐은",
+        "strong": "G2842"
+      },
+      {
+        "word": "아버지",
+        "strong": "G3962"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "아들",
+        "strong": "G5207"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도와",
+        "strong": "G5547"
+      },
+      {
+        "word": "더불어 누림이라",
+        "strong": "G3326"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 1,
+    "verse": 4,
+    "text": "우리가 이것을 씀은 우리의 기쁨이 충만하게 하려 함이라",
+    "words": [
+      {
+        "word": "우리가",
+        "strong": "G2249"
+      },
+      {
+        "word": "이것을",
+        "strong": "G5023"
+      },
+      {
+        "word": "씀은",
+        "strong": "G1125"
+      },
+      {
+        "word": "우리의",
+        "strong": "G2257"
+      },
+      {
+        "word": "기쁨이",
+        "strong": "G5479"
+      },
+      {
+        "word": "충만",
+        "strong": "G4137"
+      },
+      {
+        "word": "하게 하려",
+        "strong": "G5600"
+      },
+      {
+        "word": "함이라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 1,
+    "verse": 5,
+    "text": "(하나님은 빛이시다) 우리가 그에게서 듣고 너희에게 전하는 소식은 이것이니 곧 하나님은 빛이시라 그에게는 어둠이 조금도 없으시다는 것이니라",
+    "words": [
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "에게서",
+        "strong": "G575"
+      },
+      {
+        "word": "듣고",
+        "strong": "G191"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "전하는",
+        "strong": "G312"
+      },
+      {
+        "word": "소식은",
+        "strong": "G31"
+      },
+      {
+        "word": "이것",
+        "strong": "G3778"
+      },
+      {
+        "word": "이니",
+        "strong": "G2076"
+      },
+      {
+        "word": "곧",
+        "strong": "G3754"
+      },
+      {
+        "word": "하나님은",
+        "strong": "G2316"
+      },
+      {
+        "word": "빛",
+        "strong": "G5457"
+      },
+      {
+        "word": "이시라",
+        "strong": "G2076"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "에게는",
+        "strong": "G1722"
+      },
+      {
+        "word": "어둠이",
+        "strong": "G4653"
+      },
+      {
+        "word": "조금도",
+        "strong": "G3762"
+      },
+      {
+        "word": "없으시다",
+        "strong": "G3756"
+      },
+      {
+        "word": "는 것이니라",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 1,
+    "verse": 6,
+    "text": "만일 우리가 하나님과 사귐이 있다 하고 어둠에 행하면 거짓말을 하고 진리를 행하지 아니함이거니와",
+    "words": [
+      {
+        "word": "만일",
+        "strong": "G1437"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "하나님",
+        "strong": "G846"
+      },
+      {
+        "word": "과",
+        "strong": "G3326"
+      },
+      {
+        "word": "사귐이",
+        "strong": "G2842"
+      },
+      {
+        "word": "있다",
+        "strong": "G2192"
+      },
+      {
+        "word": "하고",
+        "strong": "G2036"
+      },
+      {
+        "word": "어둠",
+        "strong": "G4655"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "행하",
+        "strong": "G4043"
+      },
+      {
+        "word": "면",
+        "strong": null
+      },
+      {
+        "word": "거짓말을 하고",
+        "strong": "G5574"
+      },
+      {
+        "word": "진리를",
+        "strong": "G225"
+      },
+      {
+        "word": "행하지",
+        "strong": "G4160"
+      },
+      {
+        "word": "아니함이거니와",
+        "strong": "G3756"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 1,
+    "verse": 7,
+    "text": "그가 빛 가운데 계신 것 같이 우리도 빛 가운데 행하면 우리가 서로 사귐이 있고 그 아들 예수의 피가 우리를 모든 죄에서 깨끗하게 하실 것이요",
+    "words": [
+      {
+        "word": "그가",
+        "strong": "G846"
+      },
+      {
+        "word": "빛",
+        "strong": "G5457"
+      },
+      {
+        "word": "가운데",
+        "strong": "G1722"
+      },
+      {
+        "word": "계신 것",
+        "strong": "G2076"
+      },
+      {
+        "word": "같이",
+        "strong": "G5613"
+      },
+      {
+        "word": "우리도",
+        "strong": null
+      },
+      {
+        "word": "빛",
+        "strong": "G5457"
+      },
+      {
+        "word": "가운데",
+        "strong": "G1722"
+      },
+      {
+        "word": "행하",
+        "strong": "G4043"
+      },
+      {
+        "word": "면",
+        "strong": "G1437"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "서",
+        "strong": "G240"
+      },
+      {
+        "word": "로",
+        "strong": "G3326"
+      },
+      {
+        "word": "사귐이",
+        "strong": "G2842"
+      },
+      {
+        "word": "있고",
+        "strong": "G2192"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "아들",
+        "strong": "G5207"
+      },
+      {
+        "word": "예수의",
+        "strong": "G2424"
+      },
+      {
+        "word": "피가",
+        "strong": "G129"
+      },
+      {
+        "word": "우리를",
+        "strong": "G2248"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "죄",
+        "strong": "G266"
+      },
+      {
+        "word": "에서",
+        "strong": "G575"
+      },
+      {
+        "word": "깨끗하게 하실 것이요",
+        "strong": "G2511"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 1,
+    "verse": 8,
+    "text": "만일 우리가 죄가 없다고 말하면 스스로 속이고 또 진리가 우리 속에 있지 아니할 것이요",
+    "words": [
+      {
+        "word": "만일",
+        "strong": "G1437"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "죄가",
+        "strong": "G266"
+      },
+      {
+        "word": "없",
+        "strong": "G3756"
+      },
+      {
+        "word": "다고",
+        "strong": "G2192"
+      },
+      {
+        "word": "말하",
+        "strong": "G2036"
+      },
+      {
+        "word": "면",
+        "strong": null
+      },
+      {
+        "word": "스스로",
+        "strong": "G1683"
+      },
+      {
+        "word": "속이고",
+        "strong": "G4105"
+      },
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "진리가",
+        "strong": "G225"
+      },
+      {
+        "word": "우리",
+        "strong": "G2254"
+      },
+      {
+        "word": "속에",
+        "strong": "G1722"
+      },
+      {
+        "word": "있지",
+        "strong": "G2076"
+      },
+      {
+        "word": "아니할 것이요",
+        "strong": "G3756"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 1,
+    "verse": 9,
+    "text": "만일 우리가 우리 죄를 자백하면 그는 미쁘시고 의로우사 우리 죄를 사하시며 우리를 모든 불의에서 깨끗하게 하실 것이요",
+    "words": [
+      {
+        "word": "만일",
+        "strong": "G1437"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "죄를",
+        "strong": "G266"
+      },
+      {
+        "word": "자백하",
+        "strong": "G3670"
+      },
+      {
+        "word": "면",
+        "strong": null
+      },
+      {
+        "word": "그는",
+        "strong": null
+      },
+      {
+        "word": "미쁘",
+        "strong": "G4103"
+      },
+      {
+        "word": "시고",
+        "strong": "G2076"
+      },
+      {
+        "word": "의로우사",
+        "strong": "G1342"
+      },
+      {
+        "word": "우리",
+        "strong": "G2254"
+      },
+      {
+        "word": "죄를",
+        "strong": "G266"
+      },
+      {
+        "word": "사하시며",
+        "strong": "G863"
+      },
+      {
+        "word": "우리를",
+        "strong": "G2248"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "불의",
+        "strong": "G93"
+      },
+      {
+        "word": "에서",
+        "strong": "G575"
+      },
+      {
+        "word": "깨끗하게 하실 것이요",
+        "strong": "G2511"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 1,
+    "verse": 10,
+    "text": "만일 우리가 범죄하지 아니하였다 하면 하나님을 거짓말하는 이로 만드는 것이니 또한 그의 말씀이 우리 속에 있지 아니하니라",
+    "words": [
+      {
+        "word": "만일",
+        "strong": "G1437"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "범죄하지",
+        "strong": "G264"
+      },
+      {
+        "word": "아니하였다",
+        "strong": "G3756"
+      },
+      {
+        "word": "하",
+        "strong": "G2036"
+      },
+      {
+        "word": "면",
+        "strong": null
+      },
+      {
+        "word": "하나님을",
+        "strong": "G846"
+      },
+      {
+        "word": "거짓말 하는 이로",
+        "strong": "G5583"
+      },
+      {
+        "word": "만드는 것이니",
+        "strong": "G4160"
+      },
+      {
+        "word": "또한",
+        "strong": "G2532"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "말씀이",
+        "strong": "G3056"
+      },
+      {
+        "word": "우리",
+        "strong": "G2254"
+      },
+      {
+        "word": "속에",
+        "strong": "G1722"
+      },
+      {
+        "word": "있지",
+        "strong": "G2076"
+      },
+      {
+        "word": "아니하니라",
+        "strong": "G3756"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 1,
+    "text": "(대언자이신 예수 그리스도) 나의 자녀들아 내가 이것을 너희에게 씀은 너희로 죄를 범하지 않게 하려 함이라 만일 누가 죄를 범하여도 아버지 앞에서 우리에게 대언자가 있으니 곧 의로우신 예수 그리스도시라",
+    "words": [
+      {
+        "word": "나의",
+        "strong": "G3450"
+      },
+      {
+        "word": "자녀들아",
+        "strong": "G5040"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "이것을",
+        "strong": "G5024"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "씀은",
+        "strong": "G1125"
+      },
+      {
+        "word": "너희로 죄를 범하지",
+        "strong": "G264"
+      },
+      {
+        "word": "않게",
+        "strong": "G3363"
+      },
+      {
+        "word": "하려 함이라",
+        "strong": "G2443"
+      },
+      {
+        "word": "만일",
+        "strong": "G1437"
+      },
+      {
+        "word": "누가",
+        "strong": "G5100"
+      },
+      {
+        "word": "죄를 범",
+        "strong": "G264"
+      },
+      {
+        "word": "하여도",
+        "strong": null
+      },
+      {
+        "word": "아버지",
+        "strong": "G3962"
+      },
+      {
+        "word": "앞에서",
+        "strong": "G4314"
+      },
+      {
+        "word": "우리에게",
+        "strong": null
+      },
+      {
+        "word": "대언자가",
+        "strong": "G3875"
+      },
+      {
+        "word": "있으니",
+        "strong": "G2192"
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "의로우신",
+        "strong": "G1342"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도시라",
+        "strong": "G5547"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 2,
+    "text": "그는 우리 죄를 위한 화목 제물이니 우리만 위할 뿐 아니요 온 세상의 죄를 위하심이라",
+    "words": [
+      {
+        "word": "그는",
+        "strong": "G846"
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "죄를",
+        "strong": "G266"
+      },
+      {
+        "word": "위한",
+        "strong": "G4012"
+      },
+      {
+        "word": "화목 제물",
+        "strong": "G2434"
+      },
+      {
+        "word": "이니",
+        "strong": "G2076"
+      },
+      {
+        "word": "우리",
+        "strong": "G2251"
+      },
+      {
+        "word": "만",
+        "strong": "G3440"
+      },
+      {
+        "word": "위할뿐",
+        "strong": "G4012"
+      },
+      {
+        "word": "아니요",
+        "strong": "G3756"
+      },
+      {
+        "word": "온",
+        "strong": "G3650"
+      },
+      {
+        "word": "세상의",
+        "strong": "G2889"
+      },
+      {
+        "word": "죄를",
+        "strong": null
+      },
+      {
+        "word": "위하심이라",
+        "strong": "G4012"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 3,
+    "text": "우리가 그의 계명을 지키면 이로써 우리가 그를 아는 줄로 알 것이요",
+    "words": [
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "계명을",
+        "strong": "G1785"
+      },
+      {
+        "word": "지키",
+        "strong": "G5083"
+      },
+      {
+        "word": "면",
+        "strong": "G1437"
+      },
+      {
+        "word": "이로",
+        "strong": "G5129"
+      },
+      {
+        "word": "써",
+        "strong": "G1722"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "그를",
+        "strong": "G846"
+      },
+      {
+        "word": "아는",
+        "strong": "G1097"
+      },
+      {
+        "word": "줄로",
+        "strong": "G3754"
+      },
+      {
+        "word": "알 것이요",
+        "strong": "G1097"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 4,
+    "text": "그를 아노라 하고 그의 계명을 지키지 아니하는 자는 거짓말하는 자요 진리가 그 속에 있지 아니하되",
+    "words": [
+      {
+        "word": "그를",
+        "strong": "G846"
+      },
+      {
+        "word": "아노라",
+        "strong": "G1097"
+      },
+      {
+        "word": "하고",
+        "strong": "G3004"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "계명을",
+        "strong": "G1785"
+      },
+      {
+        "word": "지키지",
+        "strong": "G5083"
+      },
+      {
+        "word": "아니하는",
+        "strong": "G3361"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "거짓말 하는 자",
+        "strong": "G5583"
+      },
+      {
+        "word": "요",
+        "strong": "G2076"
+      },
+      {
+        "word": "진리가",
+        "strong": "G225"
+      },
+      {
+        "word": "그",
+        "strong": "G5129"
+      },
+      {
+        "word": "속에",
+        "strong": "G1722"
+      },
+      {
+        "word": "있지",
+        "strong": "G2076"
+      },
+      {
+        "word": "아니하되",
+        "strong": "G3756"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 5,
+    "text": "누구든지 그의 말씀을 지키는 자는 하나님의 사랑이 참으로 그 속에서 온전하게 되었나니 이로써 우리가 그의 안에 있는 줄을 아노라",
+    "words": [
+      {
+        "word": "누구",
+        "strong": "G3739"
+      },
+      {
+        "word": "든지",
+        "strong": "G302"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "말씀을",
+        "strong": "G3056"
+      },
+      {
+        "word": "지키는",
+        "strong": "G5083"
+      },
+      {
+        "word": "자는",
+        "strong": null
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "사랑이",
+        "strong": "G26"
+      },
+      {
+        "word": "참으로",
+        "strong": "G230"
+      },
+      {
+        "word": "그",
+        "strong": "G5129"
+      },
+      {
+        "word": "속에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "온전하게 되었나니",
+        "strong": "G5048"
+      },
+      {
+        "word": "이로",
+        "strong": "G5129"
+      },
+      {
+        "word": "써",
+        "strong": "G1722"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "있는",
+        "strong": "G2070"
+      },
+      {
+        "word": "줄을",
+        "strong": "G3754"
+      },
+      {
+        "word": "아노라",
+        "strong": "G1097"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 6,
+    "text": "그의 안에 산다고 하는 자는 그가 행하시는 대로 자기도 행할지니라",
+    "words": [
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "산다고",
+        "strong": "G3306"
+      },
+      {
+        "word": "하는",
+        "strong": "G3004"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "그가",
+        "strong": "G1565"
+      },
+      {
+        "word": "행하시는",
+        "strong": "G4043"
+      },
+      {
+        "word": "대로",
+        "strong": "G2531"
+      },
+      {
+        "word": "자기",
+        "strong": "G846"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "행할",
+        "strong": "G4043"
+      },
+      {
+        "word": "지니라",
+        "strong": "G3784"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 7,
+    "text": "(옛 계명과 새 계명) 사랑하는 자들아 내가 새 계명을 너희에게 쓰는 것이 아니라 너희가 처음부터 가진 옛 계명이니 이 옛 계명은 너희가 들은 바 말씀이거니와",
+    "words": [
+      {
+        "word": "사랑하는 자들아",
+        "strong": "G27"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "새",
+        "strong": "G2537"
+      },
+      {
+        "word": "계명을",
+        "strong": "G1785"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "쓰는 것이",
+        "strong": "G1125"
+      },
+      {
+        "word": "아니라",
+        "strong": "G3756"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "처음",
+        "strong": "G746"
+      },
+      {
+        "word": "부터",
+        "strong": "G575"
+      },
+      {
+        "word": "가진",
+        "strong": "G2192"
+      },
+      {
+        "word": "옛",
+        "strong": "G3820"
+      },
+      {
+        "word": "계명이니",
+        "strong": "G1785"
+      },
+      {
+        "word": "이",
+        "strong": "G3588"
+      },
+      {
+        "word": "옛",
+        "strong": "G3820"
+      },
+      {
+        "word": "계명은",
+        "strong": "G1785"
+      },
+      {
+        "word": "너희가 들은",
+        "strong": "G191"
+      },
+      {
+        "word": "바",
+        "strong": "G3739"
+      },
+      {
+        "word": "말씀",
+        "strong": "G3056"
+      },
+      {
+        "word": "이거니와",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 8,
+    "text": "다시 내가 너희에게 새 계명을 쓰노니 그에게와 너희에게도 참된 것이라 이는 어둠이 지나가고 참빛이 벌써 비침이니라",
+    "words": [
+      {
+        "word": "다시",
+        "strong": "G3825"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "새",
+        "strong": "G2537"
+      },
+      {
+        "word": "계명을",
+        "strong": "G1785"
+      },
+      {
+        "word": "쓰노니",
+        "strong": "G1125"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "에게",
+        "strong": "G1722"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "너희",
+        "strong": "G5213"
+      },
+      {
+        "word": "에게도",
+        "strong": "G1722"
+      },
+      {
+        "word": "참된",
+        "strong": "G227"
+      },
+      {
+        "word": "것이라",
+        "strong": "G2076"
+      },
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "어둠이",
+        "strong": "G4653"
+      },
+      {
+        "word": "지나가고",
+        "strong": "G3855"
+      },
+      {
+        "word": "참",
+        "strong": "G228"
+      },
+      {
+        "word": "빛이",
+        "strong": "G5457"
+      },
+      {
+        "word": "벌써",
+        "strong": "G2235"
+      },
+      {
+        "word": "비침",
+        "strong": "G5316"
+      },
+      {
+        "word": "이니라",
+        "strong": "G3754"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 9,
+    "text": "빛 가운데 있다 하면서 그 형제를 미워하는 자는 지금까지 어둠에 있는 자요",
+    "words": [
+      {
+        "word": "빛",
+        "strong": "G5457"
+      },
+      {
+        "word": "가운데",
+        "strong": "G1722"
+      },
+      {
+        "word": "있다",
+        "strong": "G1511"
+      },
+      {
+        "word": "하면서",
+        "strong": "G3004"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "형제를",
+        "strong": "G80"
+      },
+      {
+        "word": "미워하는",
+        "strong": "G3404"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "지금",
+        "strong": "G737"
+      },
+      {
+        "word": "까지",
+        "strong": "G2193"
+      },
+      {
+        "word": "어둠",
+        "strong": "G4653"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "있는",
+        "strong": "G2076"
+      },
+      {
+        "word": "자요",
+        "strong": "G3588"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 10,
+    "text": "그의 형제를 사랑하는 자는 빛 가운데 거하여 자기 속에 거리낌이 없으나",
+    "words": [
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "형제를",
+        "strong": "G80"
+      },
+      {
+        "word": "사랑하는",
+        "strong": "G25"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "빛",
+        "strong": "G5457"
+      },
+      {
+        "word": "가운데",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하여",
+        "strong": "G3306"
+      },
+      {
+        "word": "자기",
+        "strong": "G846"
+      },
+      {
+        "word": "속에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거리낌이",
+        "strong": "G4625"
+      },
+      {
+        "word": "없",
+        "strong": "G3756"
+      },
+      {
+        "word": "으나",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 11,
+    "text": "그의 형제를 미워하는 자는 어둠에 있고 또 어둠에 행하며 갈 곳을 알지 못하나니 이는 그 어둠이 그의 눈을 멀게 하였음이라",
+    "words": [
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "형제를",
+        "strong": "G80"
+      },
+      {
+        "word": "미워하는",
+        "strong": "G3404"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "어둠",
+        "strong": "G4653"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "있고",
+        "strong": "G2076"
+      },
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "어둠",
+        "strong": "G4653"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "행하며",
+        "strong": "G4043"
+      },
+      {
+        "word": "갈",
+        "strong": "G5217"
+      },
+      {
+        "word": "곳을",
+        "strong": "G4226"
+      },
+      {
+        "word": "알지",
+        "strong": "G1492"
+      },
+      {
+        "word": "못하나니",
+        "strong": "G3756"
+      },
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "그 어둠이",
+        "strong": "G4653"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "눈을",
+        "strong": "G3788"
+      },
+      {
+        "word": "멀게 하였음",
+        "strong": "G5186"
+      },
+      {
+        "word": "이라",
+        "strong": "G3754"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 12,
+    "text": "자녀들아 내가 너희에게 쓰는 것은 너희 죄가 그의 이름으로 말미암아 사함을 받았음이요",
+    "words": [
+      {
+        "word": "자녀들아",
+        "strong": "G5040"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "쓰는 것은",
+        "strong": "G1125"
+      },
+      {
+        "word": "너희",
+        "strong": "G5213"
+      },
+      {
+        "word": "죄가",
+        "strong": "G266"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "이름으로",
+        "strong": "G3686"
+      },
+      {
+        "word": "말미암아",
+        "strong": "G1223"
+      },
+      {
+        "word": "사함을 받았음",
+        "strong": "G863"
+      },
+      {
+        "word": "이요",
+        "strong": "G3754"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 13,
+    "text": "아비들아 내가 너희에게 쓰는 것은 너희가 태초부터 계신 이를 알았음이요 청년들아 내가 너희에게 쓰는 것은 너희가 악한 자를 이기었음이라",
+    "words": [
+      {
+        "word": "아비들아",
+        "strong": "G3962"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "쓰는 것은",
+        "strong": "G1125"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "태초",
+        "strong": "G746"
+      },
+      {
+        "word": "부터 계신",
+        "strong": "G575"
+      },
+      {
+        "word": "이를",
+        "strong": "G3588"
+      },
+      {
+        "word": "알았음이요",
+        "strong": "G1097"
+      },
+      {
+        "word": "청년들아",
+        "strong": "G3495"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "쓰는 것은",
+        "strong": "G1125"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "악한 자를",
+        "strong": "G4190"
+      },
+      {
+        "word": "이기었음",
+        "strong": "G3528"
+      },
+      {
+        "word": "이라",
+        "strong": "G3754"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 14,
+    "text": "아이들아 내가 너희에게 쓴 것은 너희가 아버지를 알았음이요 아비들아 내가 너희에게 쓴 것은 너희가 태초부터 계신 이를 알았음이요 청년들아 내가 너희에게 쓴 것은 너희가 강하고 하나님의 말씀이 너희 안에 거하시며 너희가 흉악한 자를 이기었음이라",
+    "words": [
+      {
+        "word": "아이들아",
+        "strong": "G3813"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "쓴 것은",
+        "strong": "G1125"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "아버지를",
+        "strong": "G3962"
+      },
+      {
+        "word": "알았음",
+        "strong": "G1097"
+      },
+      {
+        "word": "이요",
+        "strong": "G3754"
+      },
+      {
+        "word": "아비들아",
+        "strong": "G3962"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "쓴 것은",
+        "strong": "G1125"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "태초",
+        "strong": "G746"
+      },
+      {
+        "word": "부터 계신",
+        "strong": "G575"
+      },
+      {
+        "word": "이를",
+        "strong": "G3588"
+      },
+      {
+        "word": "알았음",
+        "strong": "G1097"
+      },
+      {
+        "word": "이요",
+        "strong": "G3754"
+      },
+      {
+        "word": "청년들아",
+        "strong": "G3495"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "쓴 것은",
+        "strong": "G1125"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "강",
+        "strong": "G2478"
+      },
+      {
+        "word": "하고",
+        "strong": "G2075"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "말씀이",
+        "strong": "G3056"
+      },
+      {
+        "word": "너희",
+        "strong": "G5213"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하시며",
+        "strong": "G3306"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "흉악한 자를",
+        "strong": "G4190"
+      },
+      {
+        "word": "이기었음",
+        "strong": "G3528"
+      },
+      {
+        "word": "이라",
+        "strong": "G3754"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 15,
+    "text": "이 세상이나 세상에 있는 것들을 사랑하지 말라 누구든지 세상을 사랑하면 아버지의 사랑이 그 안에 있지 아니하니",
+    "words": [
+      {
+        "word": "이",
+        "strong": "G3588"
+      },
+      {
+        "word": "세상",
+        "strong": "G2889"
+      },
+      {
+        "word": "이나",
+        "strong": "G3366"
+      },
+      {
+        "word": "세상",
+        "strong": "G2889"
+      },
+      {
+        "word": "에 있는",
+        "strong": "G1722"
+      },
+      {
+        "word": "것들을",
+        "strong": "G3588"
+      },
+      {
+        "word": "사랑하지",
+        "strong": "G25"
+      },
+      {
+        "word": "말라",
+        "strong": "G3361"
+      },
+      {
+        "word": "누구든지",
+        "strong": "G5100"
+      },
+      {
+        "word": "세상을",
+        "strong": "G2889"
+      },
+      {
+        "word": "사랑",
+        "strong": "G25"
+      },
+      {
+        "word": "하면",
+        "strong": "G1437"
+      },
+      {
+        "word": "아버지의",
+        "strong": "G3962"
+      },
+      {
+        "word": "사랑이",
+        "strong": "G26"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "있지",
+        "strong": "G2076"
+      },
+      {
+        "word": "아니하니",
+        "strong": "G3756"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 16,
+    "text": "이는 세상에 있는 모든 것이 육신의 정욕과 안목의 정욕과 이생의 자랑이니 다 아버지께로부터 온 것이 아니요 세상으로부터 온 것이라",
+    "words": [
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "세상",
+        "strong": "G2889"
+      },
+      {
+        "word": "에 있는",
+        "strong": "G1722"
+      },
+      {
+        "word": "모든 것이",
+        "strong": "G3956"
+      },
+      {
+        "word": "육신의",
+        "strong": "G4561"
+      },
+      {
+        "word": "정욕",
+        "strong": "G1939"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "안목의",
+        "strong": "G3788"
+      },
+      {
+        "word": "정욕",
+        "strong": "G1939"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "이생의",
+        "strong": "G979"
+      },
+      {
+        "word": "자랑",
+        "strong": "G212"
+      },
+      {
+        "word": "이니",
+        "strong": "G3754"
+      },
+      {
+        "word": "다",
+        "strong": null
+      },
+      {
+        "word": "아버지",
+        "strong": "G3962"
+      },
+      {
+        "word": "께로 부터",
+        "strong": "G1537"
+      },
+      {
+        "word": "온 것이",
+        "strong": "G2076"
+      },
+      {
+        "word": "아니요",
+        "strong": "G3756"
+      },
+      {
+        "word": "세상",
+        "strong": "G2889"
+      },
+      {
+        "word": "으로 부터",
+        "strong": "G1537"
+      },
+      {
+        "word": "온 것이라",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 17,
+    "text": "이 세상도, 그 정욕도 지나가되 오직 하나님의 뜻을 행하는 자는 영원히 거하느니라",
+    "words": [
+      {
+        "word": "이",
+        "strong": "G3588"
+      },
+      {
+        "word": "세상도,",
+        "strong": "G2889"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "정욕",
+        "strong": "G1939"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "지나가되",
+        "strong": "G3855"
+      },
+      {
+        "word": "오직",
+        "strong": "G1161"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "뜻을",
+        "strong": "G2307"
+      },
+      {
+        "word": "행하는",
+        "strong": "G4160"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "영원",
+        "strong": "G165"
+      },
+      {
+        "word": "히",
+        "strong": "G1519"
+      },
+      {
+        "word": "거하느니라",
+        "strong": "G3306"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 18,
+    "text": "(적그리스도와 하나님의 자녀) 아이들아 지금은 마지막 때라 적그리스도가 오리라는 말을 너희가 들은 것과 같이 지금도 많은 적그리스도가 일어났으니 그러므로 우리가 마지막 때인 줄 아노라",
+    "words": [
+      {
+        "word": "아이들아",
+        "strong": "G3813"
+      },
+      {
+        "word": "지금은",
+        "strong": null
+      },
+      {
+        "word": "마지막",
+        "strong": "G2078"
+      },
+      {
+        "word": "때",
+        "strong": "G5610"
+      },
+      {
+        "word": "라",
+        "strong": "G2076"
+      },
+      {
+        "word": "적그리스도가",
+        "strong": "G500"
+      },
+      {
+        "word": "오리라는",
+        "strong": "G2064"
+      },
+      {
+        "word": "말을",
+        "strong": "G3754"
+      },
+      {
+        "word": "너희가 들은 것과",
+        "strong": "G191"
+      },
+      {
+        "word": "같이",
+        "strong": "G2531"
+      },
+      {
+        "word": "지금",
+        "strong": "G3568"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "많은",
+        "strong": "G4183"
+      },
+      {
+        "word": "적그리스도가",
+        "strong": "G500"
+      },
+      {
+        "word": "일어났으니",
+        "strong": "G1096"
+      },
+      {
+        "word": "그러므로",
+        "strong": "G3606"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "마지막",
+        "strong": "G2078"
+      },
+      {
+        "word": "때",
+        "strong": "G5610"
+      },
+      {
+        "word": "인",
+        "strong": "G2076"
+      },
+      {
+        "word": "줄",
+        "strong": "G3754"
+      },
+      {
+        "word": "아노라",
+        "strong": "G1097"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 19,
+    "text": "그들이 우리에게서 나갔으나 우리에게 속하지 아니하였나니 만일 우리에게 속하였더라면 우리와 함께 거하였으려니와 그들이 나간 것은 다 우리에게 속하지 아니함을 나타내려 함이니라",
+    "words": [
+      {
+        "word": "그들이",
+        "strong": null
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "에게서",
+        "strong": "G1537"
+      },
+      {
+        "word": "나갔으나",
+        "strong": "G1831"
+      },
+      {
+        "word": "우리에게",
+        "strong": "G2257"
+      },
+      {
+        "word": "속하",
+        "strong": "G1537"
+      },
+      {
+        "word": "지",
+        "strong": "G2258"
+      },
+      {
+        "word": "아니하였나니",
+        "strong": "G3756"
+      },
+      {
+        "word": "만일",
+        "strong": "G1487"
+      },
+      {
+        "word": "우리에게",
+        "strong": "G2257"
+      },
+      {
+        "word": "속하",
+        "strong": "G1537"
+      },
+      {
+        "word": "였더",
+        "strong": "G2258"
+      },
+      {
+        "word": "라면",
+        "strong": null
+      },
+      {
+        "word": "우리와",
+        "strong": "G2257"
+      },
+      {
+        "word": "함께",
+        "strong": "G3326"
+      },
+      {
+        "word": "거하였으려니와",
+        "strong": "G3306"
+      },
+      {
+        "word": "그들이",
+        "strong": null
+      },
+      {
+        "word": "나간 것은",
+        "strong": "G235"
+      },
+      {
+        "word": "다",
+        "strong": "G3956"
+      },
+      {
+        "word": "우리에게",
+        "strong": "G2257"
+      },
+      {
+        "word": "속하",
+        "strong": "G1537"
+      },
+      {
+        "word": "지",
+        "strong": "G1526"
+      },
+      {
+        "word": "아니",
+        "strong": "G3756"
+      },
+      {
+        "word": "함을",
+        "strong": "G3754"
+      },
+      {
+        "word": "나타내려",
+        "strong": "G5319"
+      },
+      {
+        "word": "함이니라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 20,
+    "text": "너희는 거룩하신 자에게서 기름 부음을 받고 모든 것을 아느니라",
+    "words": [
+      {
+        "word": "너희는",
+        "strong": "G5210"
+      },
+      {
+        "word": "거룩하신 자",
+        "strong": "G40"
+      },
+      {
+        "word": "에게서",
+        "strong": "G575"
+      },
+      {
+        "word": "기름 부음을",
+        "strong": "G5545"
+      },
+      {
+        "word": "받고",
+        "strong": "G2192"
+      },
+      {
+        "word": "모든 것을",
+        "strong": "G3956"
+      },
+      {
+        "word": "아느니라",
+        "strong": "G1492"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 21,
+    "text": "내가 너희에게 쓰는 것은 너희가 진리를 알지 못하기 때문이 아니라 알기 때문이요 또 모든 거짓은 진리에서 나지 않기 때문이라",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "쓰는 것은",
+        "strong": "G1125"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "진리를",
+        "strong": "G225"
+      },
+      {
+        "word": "알지",
+        "strong": "G1492"
+      },
+      {
+        "word": "못하기",
+        "strong": "G3756"
+      },
+      {
+        "word": "때문이",
+        "strong": "G3754"
+      },
+      {
+        "word": "아니라",
+        "strong": "G3756"
+      },
+      {
+        "word": "알기",
+        "strong": "G1492"
+      },
+      {
+        "word": "때문이요",
+        "strong": "G3754"
+      },
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "거짓은",
+        "strong": "G5579"
+      },
+      {
+        "word": "진리",
+        "strong": "G225"
+      },
+      {
+        "word": "에서",
+        "strong": "G1537"
+      },
+      {
+        "word": "나지",
+        "strong": "G2076"
+      },
+      {
+        "word": "않기",
+        "strong": "G3756"
+      },
+      {
+        "word": "때문이라",
+        "strong": "G3754"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 22,
+    "text": "거짓말하는 자가 누구냐 예수께서 그리스도이심을 부인하는 자가 아니냐 아버지와 아들을 부인하는 그가 적그리스도니",
+    "words": [
+      {
+        "word": "거짓말 하는 자가",
+        "strong": "G5583"
+      },
+      {
+        "word": "누구",
+        "strong": "G5101"
+      },
+      {
+        "word": "냐",
+        "strong": "G2076"
+      },
+      {
+        "word": "예수께서",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "이심을",
+        "strong": "G2076"
+      },
+      {
+        "word": "부인하는",
+        "strong": "G720"
+      },
+      {
+        "word": "자가",
+        "strong": "G3588"
+      },
+      {
+        "word": "아니냐",
+        "strong": "G1508"
+      },
+      {
+        "word": "아버지",
+        "strong": "G3962"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "아들을",
+        "strong": "G5207"
+      },
+      {
+        "word": "부인하는",
+        "strong": "G720"
+      },
+      {
+        "word": "그가",
+        "strong": "G3778"
+      },
+      {
+        "word": "적그리스도",
+        "strong": "G500"
+      },
+      {
+        "word": "니",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 23,
+    "text": "아들을 부인하는 자에게는 또한 아버지가 없으되 아들을 시인하는 자에게는 아버지도 있느니라",
+    "words": [
+      {
+        "word": "아들을",
+        "strong": "G5207"
+      },
+      {
+        "word": "부인하는",
+        "strong": "G720"
+      },
+      {
+        "word": "자에게는",
+        "strong": "G3956"
+      },
+      {
+        "word": "또한",
+        "strong": "G2532"
+      },
+      {
+        "word": "아버지가",
+        "strong": "G3962"
+      },
+      {
+        "word": "없",
+        "strong": "G3761"
+      },
+      {
+        "word": "으되",
+        "strong": "G2192"
+      },
+      {
+        "word": "아들을",
+        "strong": "G5207"
+      },
+      {
+        "word": "시인하는",
+        "strong": "G3670"
+      },
+      {
+        "word": "자에게는",
+        "strong": "G3588"
+      },
+      {
+        "word": "아버지",
+        "strong": "G3962"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "있느니라",
+        "strong": "G2192"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 24,
+    "text": "너희는 처음부터 들은 것을 너희 안에 거하게 하라 처음부터 들은 것이 너희 안에 거하면 너희가 아들과 아버지 안에 거하리라",
+    "words": [
+      {
+        "word": "너희는",
+        "strong": "G5210"
+      },
+      {
+        "word": "처음",
+        "strong": "G746"
+      },
+      {
+        "word": "부터",
+        "strong": "G575"
+      },
+      {
+        "word": "들은",
+        "strong": "G191"
+      },
+      {
+        "word": "것을",
+        "strong": "G3739"
+      },
+      {
+        "word": "너희",
+        "strong": "G5213"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하게 하라",
+        "strong": "G3306"
+      },
+      {
+        "word": "처음",
+        "strong": "G746"
+      },
+      {
+        "word": "부터",
+        "strong": "G575"
+      },
+      {
+        "word": "들은",
+        "strong": "G191"
+      },
+      {
+        "word": "것이",
+        "strong": "G3739"
+      },
+      {
+        "word": "너희",
+        "strong": "G5213"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하",
+        "strong": "G3306"
+      },
+      {
+        "word": "면",
+        "strong": "G1437"
+      },
+      {
+        "word": "너희가",
+        "strong": "G5210"
+      },
+      {
+        "word": "아들",
+        "strong": "G5207"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "아버지",
+        "strong": "G3962"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하리라",
+        "strong": "G3306"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 25,
+    "text": "그가 우리에게 약속하신 것은 이것이니 곧 영원한 생명이니라",
+    "words": [
+      {
+        "word": "그가",
+        "strong": "G846"
+      },
+      {
+        "word": "우리에게",
+        "strong": "G2254"
+      },
+      {
+        "word": "약속하신",
+        "strong": "G1861"
+      },
+      {
+        "word": "것은",
+        "strong": "G1860"
+      },
+      {
+        "word": "이것",
+        "strong": "G3778"
+      },
+      {
+        "word": "이니",
+        "strong": "G2076"
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "영원한",
+        "strong": "G166"
+      },
+      {
+        "word": "생명이니라",
+        "strong": "G2222"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 26,
+    "text": "너희를 미혹하는 자들에 관하여 내가 이것을 너희에게 썼노라",
+    "words": [
+      {
+        "word": "너희를",
+        "strong": "G5209"
+      },
+      {
+        "word": "미혹하는",
+        "strong": "G4105"
+      },
+      {
+        "word": "자들에",
+        "strong": "G3588"
+      },
+      {
+        "word": "관하여",
+        "strong": "G4012"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "이것을",
+        "strong": "G5023"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "썼노라",
+        "strong": "G1125"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 27,
+    "text": "너희는 주께 받은 바 기름 부음이 너희 안에 거하나니 아무도 너희를 가르칠 필요가 없고 오직 그의 기름 부음이 모든 것을 너희에게 가르치며 또 참되고 거짓이 없으니 너희를 가르치신 그대로 주 안에 거하라",
+    "words": [
+      {
+        "word": "너희는",
+        "strong": "G5210"
+      },
+      {
+        "word": "주",
+        "strong": "G846"
+      },
+      {
+        "word": "께",
+        "strong": "G575"
+      },
+      {
+        "word": "받은",
+        "strong": "G2983"
+      },
+      {
+        "word": "바",
+        "strong": "G3739"
+      },
+      {
+        "word": "기름 부음이",
+        "strong": "G5545"
+      },
+      {
+        "word": "너희",
+        "strong": "G5213"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하나니",
+        "strong": "G3306"
+      },
+      {
+        "word": "아무도",
+        "strong": "G5100"
+      },
+      {
+        "word": "너희를",
+        "strong": "G5209"
+      },
+      {
+        "word": "가르칠",
+        "strong": "G1321"
+      },
+      {
+        "word": "필요가",
+        "strong": "G5532"
+      },
+      {
+        "word": "없",
+        "strong": "G3756"
+      },
+      {
+        "word": "고",
+        "strong": "G2192"
+      },
+      {
+        "word": "오직",
+        "strong": "G235"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "기름 부음이",
+        "strong": "G5545"
+      },
+      {
+        "word": "모든 것을",
+        "strong": "G3956"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5209"
+      },
+      {
+        "word": "가르치며",
+        "strong": "G1321"
+      },
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "참",
+        "strong": "G227"
+      },
+      {
+        "word": "되고",
+        "strong": "G2076"
+      },
+      {
+        "word": "거짓이",
+        "strong": "G5579"
+      },
+      {
+        "word": "없",
+        "strong": "G3756"
+      },
+      {
+        "word": "으니",
+        "strong": "G2076"
+      },
+      {
+        "word": "너희를",
+        "strong": "G5209"
+      },
+      {
+        "word": "가르치신",
+        "strong": "G1321"
+      },
+      {
+        "word": "그대로",
+        "strong": "G2531"
+      },
+      {
+        "word": "주",
+        "strong": "G846"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하라",
+        "strong": "G3306"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 28,
+    "text": "자녀들아 이제 그의 안에 거하라 이는 주께서 나타내신 바 되면 그가 강림하실 때에 우리로 담대함을 얻어 그 앞에서 부끄럽지 않게 하려 함이라",
+    "words": [
+      {
+        "word": "자녀들아",
+        "strong": "G5040"
+      },
+      {
+        "word": "이제",
+        "strong": "G3568"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하라",
+        "strong": "G3306"
+      },
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "주께서 나타내신바",
+        "strong": "G5319"
+      },
+      {
+        "word": "되면",
+        "strong": "G1437"
+      },
+      {
+        "word": "그가",
+        "strong": "G846"
+      },
+      {
+        "word": "강림하실",
+        "strong": "G3952"
+      },
+      {
+        "word": "때에",
+        "strong": "G1722"
+      },
+      {
+        "word": "우리로",
+        "strong": null
+      },
+      {
+        "word": "담대함을",
+        "strong": "G3954"
+      },
+      {
+        "word": "얻어",
+        "strong": "G2192"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "앞에서",
+        "strong": "G575"
+      },
+      {
+        "word": "부끄럽지",
+        "strong": "G153"
+      },
+      {
+        "word": "않게",
+        "strong": "G3361"
+      },
+      {
+        "word": "하려 함이라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 2,
+    "verse": 29,
+    "text": "너희가 그가 의로우신 줄을 알면 의를 행하는 자마다 그에게서 난 줄을 알리라",
+    "words": [
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "그가",
+        "strong": null
+      },
+      {
+        "word": "의로우",
+        "strong": "G1342"
+      },
+      {
+        "word": "신",
+        "strong": "G2076"
+      },
+      {
+        "word": "줄을",
+        "strong": "G3754"
+      },
+      {
+        "word": "알",
+        "strong": "G1492"
+      },
+      {
+        "word": "면",
+        "strong": "G1437"
+      },
+      {
+        "word": "의를",
+        "strong": "G1343"
+      },
+      {
+        "word": "행하는",
+        "strong": "G4160"
+      },
+      {
+        "word": "자마다",
+        "strong": "G3956"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "에게서",
+        "strong": "G1537"
+      },
+      {
+        "word": "난",
+        "strong": "G1080"
+      },
+      {
+        "word": "줄을",
+        "strong": "G3754"
+      },
+      {
+        "word": "알리라",
+        "strong": "G1097"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 1,
+    "text": "보라 아버지께서 어떠한 사랑을 우리에게 베푸사 하나님의 자녀라 일컬음을 받게 하셨는가, 우리가 그러하도다 그러므로 세상이 우리를 알지 못함은 그를 알지 못함이라",
+    "words": [
+      {
+        "word": "보라",
+        "strong": "G1492"
+      },
+      {
+        "word": "아버지께서",
+        "strong": "G3962"
+      },
+      {
+        "word": "어떠한",
+        "strong": "G4217"
+      },
+      {
+        "word": "사랑을",
+        "strong": "G26"
+      },
+      {
+        "word": "우리에게",
+        "strong": "G2254"
+      },
+      {
+        "word": "베푸사",
+        "strong": "G1325"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "자녀라",
+        "strong": "G5043"
+      },
+      {
+        "word": "일컬음을 받게",
+        "strong": "G2564"
+      },
+      {
+        "word": "하셨는가,",
+        "strong": "G2443"
+      },
+      {
+        "word": "우리가 그러하도다",
+        "strong": "G2070"
+      },
+      {
+        "word": "그러",
+        "strong": "G5124"
+      },
+      {
+        "word": "므로",
+        "strong": "G1223"
+      },
+      {
+        "word": "세상이",
+        "strong": "G2889"
+      },
+      {
+        "word": "우리를",
+        "strong": "G2248"
+      },
+      {
+        "word": "알지",
+        "strong": "G1097"
+      },
+      {
+        "word": "못함은",
+        "strong": "G3756"
+      },
+      {
+        "word": "그를",
+        "strong": "G846"
+      },
+      {
+        "word": "알지",
+        "strong": "G1097"
+      },
+      {
+        "word": "못함",
+        "strong": "G3756"
+      },
+      {
+        "word": "이라",
+        "strong": "G3754"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 2,
+    "text": "사랑하는 자들아 우리가 지금은 하나님의 자녀라 장래에 어떻게 될지는 아직 나타나지 아니하였으나 그가 나타나시면 우리가 그와 같을 줄을 아는 것은 그의 참모습 그대로 볼 것이기 때문이니",
+    "words": [
+      {
+        "word": "사랑하는 자들아",
+        "strong": "G27"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "지금은",
+        "strong": "G3568"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "자녀",
+        "strong": "G5043"
+      },
+      {
+        "word": "라",
+        "strong": "G2070"
+      },
+      {
+        "word": "장래에",
+        "strong": null
+      },
+      {
+        "word": "어떻게",
+        "strong": "G5101"
+      },
+      {
+        "word": "될지는",
+        "strong": "G2071"
+      },
+      {
+        "word": "아직",
+        "strong": "G3768"
+      },
+      {
+        "word": "나타나지",
+        "strong": "G5319"
+      },
+      {
+        "word": "아니하였으나",
+        "strong": null
+      },
+      {
+        "word": "그가 나타나시",
+        "strong": "G5319"
+      },
+      {
+        "word": "면",
+        "strong": "G1437"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "그와",
+        "strong": "G846"
+      },
+      {
+        "word": "같",
+        "strong": "G3664"
+      },
+      {
+        "word": "을",
+        "strong": "G2071"
+      },
+      {
+        "word": "줄을",
+        "strong": "G3754"
+      },
+      {
+        "word": "아는 것은",
+        "strong": "G1492"
+      },
+      {
+        "word": "그의 참모습",
+        "strong": "G2076"
+      },
+      {
+        "word": "그대로",
+        "strong": "G2531"
+      },
+      {
+        "word": "볼 것이기",
+        "strong": "G3708"
+      },
+      {
+        "word": "때문이니",
+        "strong": "G3754"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 3,
+    "text": "주를 향하여 이 소망을 가진 자마다 그의 깨끗하심과 같이 자기를 깨끗하게 하느니라",
+    "words": [
+      {
+        "word": "주를",
+        "strong": "G846"
+      },
+      {
+        "word": "향하여",
+        "strong": "G1909"
+      },
+      {
+        "word": "이",
+        "strong": "G5026"
+      },
+      {
+        "word": "소망을",
+        "strong": "G1680"
+      },
+      {
+        "word": "가진",
+        "strong": "G2192"
+      },
+      {
+        "word": "자마다",
+        "strong": "G3956"
+      },
+      {
+        "word": "그의",
+        "strong": "G1565"
+      },
+      {
+        "word": "깨끗",
+        "strong": "G53"
+      },
+      {
+        "word": "하심과",
+        "strong": "G2076"
+      },
+      {
+        "word": "같이",
+        "strong": "G2531"
+      },
+      {
+        "word": "자기를",
+        "strong": "G1438"
+      },
+      {
+        "word": "깨끗하게 하느니라",
+        "strong": "G48"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 4,
+    "text": "죄를 짓는 자마다 불법을 행하나니 죄는 불법이라",
+    "words": [
+      {
+        "word": "죄를",
+        "strong": "G266"
+      },
+      {
+        "word": "짓는",
+        "strong": "G4160"
+      },
+      {
+        "word": "자마다",
+        "strong": "G3956"
+      },
+      {
+        "word": "불법을",
+        "strong": "G458"
+      },
+      {
+        "word": "행하나니",
+        "strong": "G4160"
+      },
+      {
+        "word": "죄는",
+        "strong": "G266"
+      },
+      {
+        "word": "불법",
+        "strong": "G458"
+      },
+      {
+        "word": "이라",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 5,
+    "text": "그가 우리 죄를 없애려고 나타나신 것을 너희가 아나니 그에게는 죄가 없느니라",
+    "words": [
+      {
+        "word": "그가",
+        "strong": "G1565"
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "죄를",
+        "strong": "G266"
+      },
+      {
+        "word": "없애",
+        "strong": "G142"
+      },
+      {
+        "word": "려고",
+        "strong": "G2443"
+      },
+      {
+        "word": "나타나신",
+        "strong": "G5319"
+      },
+      {
+        "word": "것을",
+        "strong": "G3754"
+      },
+      {
+        "word": "너희가 아나니",
+        "strong": "G1492"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "에게는",
+        "strong": "G1722"
+      },
+      {
+        "word": "죄가",
+        "strong": "G266"
+      },
+      {
+        "word": "없느",
+        "strong": "G3756"
+      },
+      {
+        "word": "니라",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 6,
+    "text": "그 안에 거하는 자마다 범죄하지 아니하나니 범죄하는 자마다 그를 보지도 못하였고 그를 알지도 못하였느니라",
+    "words": [
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하는",
+        "strong": "G3306"
+      },
+      {
+        "word": "자마다",
+        "strong": "G3956"
+      },
+      {
+        "word": "범죄하지",
+        "strong": "G264"
+      },
+      {
+        "word": "아니하나니",
+        "strong": "G3756"
+      },
+      {
+        "word": "범죄하는",
+        "strong": "G264"
+      },
+      {
+        "word": "자마다",
+        "strong": "G3956"
+      },
+      {
+        "word": "그를",
+        "strong": "G846"
+      },
+      {
+        "word": "보지도",
+        "strong": "G3708"
+      },
+      {
+        "word": "못하였고",
+        "strong": "G3756"
+      },
+      {
+        "word": "그를",
+        "strong": "G846"
+      },
+      {
+        "word": "알지도",
+        "strong": "G1097"
+      },
+      {
+        "word": "못하였느니라",
+        "strong": "G3761"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 7,
+    "text": "자녀들아 아무도 너희를 미혹하지 못하게 하라 의를 행하는 자는 그의 의로우심과 같이 의롭고",
+    "words": [
+      {
+        "word": "자녀들아",
+        "strong": "G5040"
+      },
+      {
+        "word": "아무도",
+        "strong": "G3367"
+      },
+      {
+        "word": "너희를",
+        "strong": "G5209"
+      },
+      {
+        "word": "미혹하지",
+        "strong": "G4105"
+      },
+      {
+        "word": "못하게 하라",
+        "strong": null
+      },
+      {
+        "word": "의를",
+        "strong": "G1343"
+      },
+      {
+        "word": "행하는",
+        "strong": "G4160"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "그의",
+        "strong": "G1565"
+      },
+      {
+        "word": "의로우",
+        "strong": "G1342"
+      },
+      {
+        "word": "심과",
+        "strong": "G2076"
+      },
+      {
+        "word": "같이",
+        "strong": "G2531"
+      },
+      {
+        "word": "의",
+        "strong": "G1342"
+      },
+      {
+        "word": "롭고",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 8,
+    "text": "죄를 짓는 자는 마귀에게 속하나니 마귀는 처음부터 범죄함이라 하나님의 아들이 나타나신 것은 마귀의 일을 멸하려 하심이라",
+    "words": [
+      {
+        "word": "죄를",
+        "strong": "G266"
+      },
+      {
+        "word": "짓는",
+        "strong": "G4160"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "마귀",
+        "strong": "G1228"
+      },
+      {
+        "word": "에게 속",
+        "strong": "G1537"
+      },
+      {
+        "word": "하나니",
+        "strong": "G2076"
+      },
+      {
+        "word": "마귀는",
+        "strong": "G1228"
+      },
+      {
+        "word": "처음",
+        "strong": "G746"
+      },
+      {
+        "word": "부터",
+        "strong": "G575"
+      },
+      {
+        "word": "범죄",
+        "strong": "G264"
+      },
+      {
+        "word": "함이라",
+        "strong": "G3754"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "아들이",
+        "strong": "G5207"
+      },
+      {
+        "word": "나타나신 것은",
+        "strong": "G5319"
+      },
+      {
+        "word": "마귀의",
+        "strong": "G1228"
+      },
+      {
+        "word": "일을",
+        "strong": "G2041"
+      },
+      {
+        "word": "멸하려",
+        "strong": "G3089"
+      },
+      {
+        "word": "하심이라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 9,
+    "text": "하나님께로부터 난 자마다 죄를 짓지 아니하나니 이는 하나님의 씨가 그의 속에 거함이요 그도 범죄하지 못하는 것은 하나님께로부터 났음이라",
+    "words": [
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "께로부터",
+        "strong": "G1537"
+      },
+      {
+        "word": "난",
+        "strong": "G1080"
+      },
+      {
+        "word": "자마다",
+        "strong": "G3956"
+      },
+      {
+        "word": "죄를",
+        "strong": "G266"
+      },
+      {
+        "word": "짓지",
+        "strong": "G4160"
+      },
+      {
+        "word": "아니하나니",
+        "strong": "G3756"
+      },
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "하나님의",
+        "strong": "G846"
+      },
+      {
+        "word": "씨가",
+        "strong": "G4690"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "속에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거함",
+        "strong": "G3306"
+      },
+      {
+        "word": "이요",
+        "strong": "G3754"
+      },
+      {
+        "word": "그도",
+        "strong": null
+      },
+      {
+        "word": "범죄하지",
+        "strong": "G264"
+      },
+      {
+        "word": "못",
+        "strong": "G3756"
+      },
+      {
+        "word": "하는 것은",
+        "strong": "G1410"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "께로부터",
+        "strong": "G1537"
+      },
+      {
+        "word": "났음",
+        "strong": "G1080"
+      },
+      {
+        "word": "이라",
+        "strong": "G3754"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 10,
+    "text": "이러므로 하나님의 자녀들과 마귀의 자녀들이 드러나나니 무릇 의를 행하지 아니하는 자나 또는 그 형제를 사랑하지 아니하는 자는 하나님께 속하지 아니하니라",
+    "words": [
+      {
+        "word": "이러",
+        "strong": "G5129"
+      },
+      {
+        "word": "므로",
+        "strong": "G1722"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "자녀들",
+        "strong": "G5043"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "마귀의",
+        "strong": "G1228"
+      },
+      {
+        "word": "자녀들이",
+        "strong": "G5043"
+      },
+      {
+        "word": "드러나",
+        "strong": "G5318"
+      },
+      {
+        "word": "나니",
+        "strong": "G2076"
+      },
+      {
+        "word": "무릇",
+        "strong": null
+      },
+      {
+        "word": "의를",
+        "strong": "G1343"
+      },
+      {
+        "word": "행하지",
+        "strong": "G4160"
+      },
+      {
+        "word": "아니하는",
+        "strong": "G3361"
+      },
+      {
+        "word": "자나",
+        "strong": "G3956"
+      },
+      {
+        "word": "또는",
+        "strong": "G2532"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "형제를",
+        "strong": "G80"
+      },
+      {
+        "word": "사랑치",
+        "strong": "G25"
+      },
+      {
+        "word": "아니하는",
+        "strong": "G3361"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "께",
+        "strong": "G1537"
+      },
+      {
+        "word": "속하지",
+        "strong": "G2076"
+      },
+      {
+        "word": "아니하니라",
+        "strong": "G3756"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 11,
+    "text": "우리는 서로 사랑할지니 이는 너희가 처음부터 들은 소식이라",
+    "words": [
+      {
+        "word": "우리는",
+        "strong": null
+      },
+      {
+        "word": "서로",
+        "strong": "G240"
+      },
+      {
+        "word": "사랑할지니",
+        "strong": "G25"
+      },
+      {
+        "word": "이는",
+        "strong": "G3778"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "처음",
+        "strong": "G746"
+      },
+      {
+        "word": "부터",
+        "strong": "G575"
+      },
+      {
+        "word": "들은",
+        "strong": "G191"
+      },
+      {
+        "word": "소식",
+        "strong": "G31"
+      },
+      {
+        "word": "이라",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 12,
+    "text": "가인 같이 하지 말라 그는 악한 자에게 속하여 그 아우를 죽였으니 어떤 이유로 죽였느냐 자기의 행위는 악하고 그의 아우의 행위는 의로움이라",
+    "words": [
+      {
+        "word": "가인",
+        "strong": "G2535"
+      },
+      {
+        "word": "같이",
+        "strong": "G2531"
+      },
+      {
+        "word": "하지",
+        "strong": null
+      },
+      {
+        "word": "말라",
+        "strong": "G3756"
+      },
+      {
+        "word": "그는",
+        "strong": null
+      },
+      {
+        "word": "악한 자",
+        "strong": "G4190"
+      },
+      {
+        "word": "에게",
+        "strong": "G1537"
+      },
+      {
+        "word": "속하여",
+        "strong": "G2258"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "아우를",
+        "strong": "G80"
+      },
+      {
+        "word": "죽였으니",
+        "strong": "G4969"
+      },
+      {
+        "word": "어떤",
+        "strong": "G5101"
+      },
+      {
+        "word": "이유로",
+        "strong": "G5484"
+      },
+      {
+        "word": "죽였느냐",
+        "strong": "G4969"
+      },
+      {
+        "word": "자기의",
+        "strong": "G846"
+      },
+      {
+        "word": "행위는",
+        "strong": "G2041"
+      },
+      {
+        "word": "악",
+        "strong": "G4190"
+      },
+      {
+        "word": "하고",
+        "strong": "G2258"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "아우의",
+        "strong": "G80"
+      },
+      {
+        "word": "행위는",
+        "strong": "G3588"
+      },
+      {
+        "word": "의로움",
+        "strong": "G1342"
+      },
+      {
+        "word": "이라",
+        "strong": "G3754"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 13,
+    "text": "(행함과 진실함으로 사랑하자) 형제들아 세상이 너희를 미워하여도 이상히 여기지 말라",
+    "words": [
+      {
+        "word": "형제들아",
+        "strong": "G80"
+      },
+      {
+        "word": "세상이",
+        "strong": "G2889"
+      },
+      {
+        "word": "너희를",
+        "strong": "G5209"
+      },
+      {
+        "word": "미워",
+        "strong": "G3404"
+      },
+      {
+        "word": "하여도",
+        "strong": "G1487"
+      },
+      {
+        "word": "이상히 여기지",
+        "strong": "G2296"
+      },
+      {
+        "word": "말라",
+        "strong": "G3361"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 14,
+    "text": "우리는 형제를 사랑함으로 사망에서 옮겨 생명으로 들어간 줄을 알거니와 사랑하지 아니하는 자는 사망에 머물러 있느니라",
+    "words": [
+      {
+        "word": "우리는",
+        "strong": "G2249"
+      },
+      {
+        "word": "형제를",
+        "strong": "G80"
+      },
+      {
+        "word": "사랑함",
+        "strong": "G25"
+      },
+      {
+        "word": "으로",
+        "strong": "G3754"
+      },
+      {
+        "word": "사망",
+        "strong": "G2288"
+      },
+      {
+        "word": "에서",
+        "strong": "G1537"
+      },
+      {
+        "word": "옮겨",
+        "strong": null
+      },
+      {
+        "word": "생명",
+        "strong": "G2222"
+      },
+      {
+        "word": "으로",
+        "strong": "G1519"
+      },
+      {
+        "word": "들어간",
+        "strong": "G3327"
+      },
+      {
+        "word": "줄을",
+        "strong": "G3754"
+      },
+      {
+        "word": "알거니와",
+        "strong": "G1492"
+      },
+      {
+        "word": "사랑하지",
+        "strong": "G25"
+      },
+      {
+        "word": "아니하는",
+        "strong": "G3361"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "사망",
+        "strong": "G2288"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "머물러있느니라",
+        "strong": "G3306"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 15,
+    "text": "그 형제를 미워하는 자마다 살인하는 자니 살인하는 자마다 영생이 그 속에 거하지 아니하는 것을 너희가 아는 바라",
+    "words": [
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "형제를",
+        "strong": "G80"
+      },
+      {
+        "word": "미워하는",
+        "strong": "G3404"
+      },
+      {
+        "word": "자마다",
+        "strong": "G3956"
+      },
+      {
+        "word": "살인하는 자",
+        "strong": "G443"
+      },
+      {
+        "word": "니",
+        "strong": "G2076"
+      },
+      {
+        "word": "살인하는",
+        "strong": "G443"
+      },
+      {
+        "word": "자마다",
+        "strong": "G3956"
+      },
+      {
+        "word": "영",
+        "strong": "G166"
+      },
+      {
+        "word": "생이",
+        "strong": "G2222"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "속에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하지",
+        "strong": "G3306"
+      },
+      {
+        "word": "아니",
+        "strong": "G3756"
+      },
+      {
+        "word": "하는",
+        "strong": "G2192"
+      },
+      {
+        "word": "것을",
+        "strong": "G3754"
+      },
+      {
+        "word": "너희가 아는 바라",
+        "strong": "G1492"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 16,
+    "text": "그가 우리를 위하여 목숨을 버리셨으니 우리가 이로써 사랑을 알고 우리도 형제들을 위하여 목숨을 버리는 것이 마땅하니라",
+    "words": [
+      {
+        "word": "그가",
+        "strong": "G1565"
+      },
+      {
+        "word": "우리를",
+        "strong": "G2257"
+      },
+      {
+        "word": "위하여",
+        "strong": "G5228"
+      },
+      {
+        "word": "목숨을",
+        "strong": "G5590"
+      },
+      {
+        "word": "버리셨",
+        "strong": "G5087"
+      },
+      {
+        "word": "으니",
+        "strong": "G3754"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "이로",
+        "strong": "G5129"
+      },
+      {
+        "word": "써",
+        "strong": "G1722"
+      },
+      {
+        "word": "사랑을",
+        "strong": "G26"
+      },
+      {
+        "word": "알고",
+        "strong": "G1097"
+      },
+      {
+        "word": "우리도",
+        "strong": "G2249"
+      },
+      {
+        "word": "형제들을",
+        "strong": "G80"
+      },
+      {
+        "word": "위하여",
+        "strong": "G5228"
+      },
+      {
+        "word": "목숨을",
+        "strong": "G5590"
+      },
+      {
+        "word": "버리는 것이",
+        "strong": "G5087"
+      },
+      {
+        "word": "마땅하니라",
+        "strong": "G3784"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 17,
+    "text": "누가 이 세상의 재물을 가지고 형제의 궁핍함을 보고도 도와 줄 마음을 닫으면 하나님의 사랑이 어찌 그 속에 거하겠느냐",
+    "words": [
+      {
+        "word": "누가",
+        "strong": "G3739"
+      },
+      {
+        "word": "이",
+        "strong": "G3588"
+      },
+      {
+        "word": "세상의",
+        "strong": "G2889"
+      },
+      {
+        "word": "재물을",
+        "strong": "G979"
+      },
+      {
+        "word": "가지고",
+        "strong": "G2192"
+      },
+      {
+        "word": "형제의",
+        "strong": "G80"
+      },
+      {
+        "word": "궁핍",
+        "strong": "G5532"
+      },
+      {
+        "word": "함을",
+        "strong": "G2192"
+      },
+      {
+        "word": "보고도",
+        "strong": "G2334"
+      },
+      {
+        "word": "도와줄 마음을",
+        "strong": "G4698"
+      },
+      {
+        "word": "닫으",
+        "strong": "G2808"
+      },
+      {
+        "word": "면",
+        "strong": "G302"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "사랑이",
+        "strong": "G26"
+      },
+      {
+        "word": "어찌",
+        "strong": "G4459"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "속에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하겠느냐",
+        "strong": "G3306"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 18,
+    "text": "자녀들아 우리가 말과 혀로만 사랑하지 말고 행함과 진실함으로 하자",
+    "words": [
+      {
+        "word": "자녀들아",
+        "strong": "G5040"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "말과",
+        "strong": "G3056"
+      },
+      {
+        "word": "혀로만",
+        "strong": "G1100"
+      },
+      {
+        "word": "사랑하지",
+        "strong": "G25"
+      },
+      {
+        "word": "말고",
+        "strong": "G3361"
+      },
+      {
+        "word": "행함",
+        "strong": "G2041"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "진실함으로",
+        "strong": "G225"
+      },
+      {
+        "word": "하자",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 19,
+    "text": "이로써 우리가 진리에 속한 줄을 알고 또 우리 마음을 주 앞에서 굳세게 하리니",
+    "words": [
+      {
+        "word": "이로",
+        "strong": "G5129"
+      },
+      {
+        "word": "써",
+        "strong": "G1722"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "진리에",
+        "strong": "G225"
+      },
+      {
+        "word": "속",
+        "strong": "G1537"
+      },
+      {
+        "word": "한",
+        "strong": "G2070"
+      },
+      {
+        "word": "줄을",
+        "strong": "G3754"
+      },
+      {
+        "word": "알고",
+        "strong": "G1097"
+      },
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "마음을",
+        "strong": "G2588"
+      },
+      {
+        "word": "주",
+        "strong": "G846"
+      },
+      {
+        "word": "앞에서",
+        "strong": "G1715"
+      },
+      {
+        "word": "굳세게 하리니",
+        "strong": "G3982"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 20,
+    "text": "이는 우리 마음이 혹 우리를 책망할 일이 있어도 하나님은 우리 마음보다 크시고 모든 것을 아시기 때문이라",
+    "words": [
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "마음이",
+        "strong": "G2588"
+      },
+      {
+        "word": "혹",
+        "strong": null
+      },
+      {
+        "word": "우리를 책망할",
+        "strong": "G2607"
+      },
+      {
+        "word": "일이",
+        "strong": "G3754"
+      },
+      {
+        "word": "있어도",
+        "strong": "G1437"
+      },
+      {
+        "word": "하나님은",
+        "strong": "G2316"
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "마음보다",
+        "strong": "G2588"
+      },
+      {
+        "word": "크시고",
+        "strong": "G3187"
+      },
+      {
+        "word": "모든 것을",
+        "strong": "G3956"
+      },
+      {
+        "word": "아시기",
+        "strong": "G1097"
+      },
+      {
+        "word": "때문이라",
+        "strong": "G3754"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 21,
+    "text": "사랑하는 자들아 만일 우리 마음이 우리를 책망할 것이 없으면 하나님 앞에서 담대함을 얻고",
+    "words": [
+      {
+        "word": "사랑하는 자들아",
+        "strong": "G27"
+      },
+      {
+        "word": "만일",
+        "strong": "G1437"
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "마음이",
+        "strong": "G2588"
+      },
+      {
+        "word": "우리를",
+        "strong": "G2257"
+      },
+      {
+        "word": "책망할 것이",
+        "strong": "G2607"
+      },
+      {
+        "word": "없으",
+        "strong": "G3361"
+      },
+      {
+        "word": "면",
+        "strong": null
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "앞에서",
+        "strong": "G4314"
+      },
+      {
+        "word": "담대함을",
+        "strong": "G3954"
+      },
+      {
+        "word": "얻고",
+        "strong": "G2192"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 22,
+    "text": "무엇이든지 구하는 바를 그에게서 받나니 이는 우리가 그의 계명을 지키고 그 앞에서 기뻐하시는 것을 행함이라",
+    "words": [
+      {
+        "word": "무엇이",
+        "strong": "G3739"
+      },
+      {
+        "word": "든지",
+        "strong": "G1437"
+      },
+      {
+        "word": "구하는",
+        "strong": "G154"
+      },
+      {
+        "word": "바를",
+        "strong": null
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "에게서",
+        "strong": "G575"
+      },
+      {
+        "word": "받나니",
+        "strong": "G2983"
+      },
+      {
+        "word": "이는",
+        "strong": "G3754"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "계명을",
+        "strong": "G1785"
+      },
+      {
+        "word": "지키고",
+        "strong": "G5083"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "앞에서",
+        "strong": "G1799"
+      },
+      {
+        "word": "기뻐하시는 것을",
+        "strong": "G701"
+      },
+      {
+        "word": "행함",
+        "strong": "G4160"
+      },
+      {
+        "word": "이라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 23,
+    "text": "그의 계명은 이것이니 곧 그 아들 예수 그리스도의 이름을 믿고 그가 우리에게 주신 계명대로 서로 사랑할 것이니라",
+    "words": [
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "계명은",
+        "strong": "G1785"
+      },
+      {
+        "word": "이것",
+        "strong": "G3778"
+      },
+      {
+        "word": "이니",
+        "strong": "G2076"
+      },
+      {
+        "word": "곧",
+        "strong": "G2443"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "아들",
+        "strong": "G5207"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "이름을",
+        "strong": "G3686"
+      },
+      {
+        "word": "믿고",
+        "strong": "G4100"
+      },
+      {
+        "word": "그가",
+        "strong": null
+      },
+      {
+        "word": "우리에게",
+        "strong": "G2254"
+      },
+      {
+        "word": "주신",
+        "strong": "G1325"
+      },
+      {
+        "word": "계명",
+        "strong": "G1785"
+      },
+      {
+        "word": "대로",
+        "strong": "G2531"
+      },
+      {
+        "word": "서로",
+        "strong": "G240"
+      },
+      {
+        "word": "사랑할 것",
+        "strong": "G25"
+      },
+      {
+        "word": "이니라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 3,
+    "verse": 24,
+    "text": "그의 계명을 지키는 자는 주 안에 거하고 주는 그의 안에 거하시나니 우리에게 주신 성령으로 말미암아 그가 우리 안에 거하시는 줄을 우리가 아느니라",
+    "words": [
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "계명을",
+        "strong": "G1785"
+      },
+      {
+        "word": "지키는",
+        "strong": "G5083"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "주",
+        "strong": "G846"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하고",
+        "strong": "G3306"
+      },
+      {
+        "word": "주는",
+        "strong": "G846"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하시나니",
+        "strong": null
+      },
+      {
+        "word": "우리에게",
+        "strong": "G2254"
+      },
+      {
+        "word": "주신",
+        "strong": "G1325"
+      },
+      {
+        "word": "성령으로",
+        "strong": "G4151"
+      },
+      {
+        "word": "말미암아",
+        "strong": "G1537"
+      },
+      {
+        "word": "그가",
+        "strong": null
+      },
+      {
+        "word": "우리",
+        "strong": "G2254"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하시는",
+        "strong": "G3306"
+      },
+      {
+        "word": "줄을",
+        "strong": "G3754"
+      },
+      {
+        "word": "우리가 아느니라",
+        "strong": "G1097"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 1,
+    "text": "(하나님의 영과 적그리스도의 영) 사랑하는 자들아 영을 다 믿지 말고 오직 영들이 하나님께 속하였나 분별하라 많은 거짓 선지자가 세상에 나왔음이라",
+    "words": [
+      {
+        "word": "사랑하는 자들아",
+        "strong": "G27"
+      },
+      {
+        "word": "영을",
+        "strong": "G4151"
+      },
+      {
+        "word": "다",
+        "strong": "G3956"
+      },
+      {
+        "word": "믿지",
+        "strong": "G4100"
+      },
+      {
+        "word": "말고",
+        "strong": "G3361"
+      },
+      {
+        "word": "오직",
+        "strong": "G235"
+      },
+      {
+        "word": "영들이",
+        "strong": "G4151"
+      },
+      {
+        "word": "하나님께",
+        "strong": "G2316"
+      },
+      {
+        "word": "속하",
+        "strong": "G1537"
+      },
+      {
+        "word": "하였",
+        "strong": "G2076"
+      },
+      {
+        "word": "나",
+        "strong": "G1487"
+      },
+      {
+        "word": "분별하라",
+        "strong": "G1381"
+      },
+      {
+        "word": "많은",
+        "strong": "G4183"
+      },
+      {
+        "word": "거짓 선지자가",
+        "strong": "G5578"
+      },
+      {
+        "word": "세상",
+        "strong": "G2889"
+      },
+      {
+        "word": "에",
+        "strong": "G1519"
+      },
+      {
+        "word": "나왔음",
+        "strong": "G1831"
+      },
+      {
+        "word": "이라",
+        "strong": "G3754"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 2,
+    "text": "이로써 너희가 하나님의 영을 알지니 곧 예수 그리스도께서 육체로 오신 것을 시인하는 영마다 하나님께 속한 것이요",
+    "words": [
+      {
+        "word": "이",
+        "strong": "G5129"
+      },
+      {
+        "word": "로써",
+        "strong": "G1722"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "영을",
+        "strong": "G4151"
+      },
+      {
+        "word": "알지니",
+        "strong": "G1097"
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도께서",
+        "strong": "G5547"
+      },
+      {
+        "word": "육체",
+        "strong": "G4561"
+      },
+      {
+        "word": "로",
+        "strong": "G1722"
+      },
+      {
+        "word": "오신 것을",
+        "strong": "G2064"
+      },
+      {
+        "word": "시인하는",
+        "strong": "G3670"
+      },
+      {
+        "word": "영",
+        "strong": "G4151"
+      },
+      {
+        "word": "마다",
+        "strong": "G3956"
+      },
+      {
+        "word": "하나님께",
+        "strong": "G2316"
+      },
+      {
+        "word": "속",
+        "strong": "G1537"
+      },
+      {
+        "word": "한 것이요",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 3,
+    "text": "예수를 시인하지 아니하는 영마다 하나님께 속한 것이 아니니 이것이 곧 적그리스도의 영이니라 오리라 한 말을 너희가 들었거니와 지금 벌써 세상에 있느니라",
+    "words": [
+      {
+        "word": "예수를",
+        "strong": "G2424"
+      },
+      {
+        "word": "시인하지",
+        "strong": "G3670"
+      },
+      {
+        "word": "아니하는",
+        "strong": "G3361"
+      },
+      {
+        "word": "영",
+        "strong": "G4151"
+      },
+      {
+        "word": "마다",
+        "strong": "G3956"
+      },
+      {
+        "word": "하나님께",
+        "strong": "G2316"
+      },
+      {
+        "word": "속한",
+        "strong": "G1537"
+      },
+      {
+        "word": "것이",
+        "strong": "G2076"
+      },
+      {
+        "word": "아니니",
+        "strong": "G3756"
+      },
+      {
+        "word": "이것이",
+        "strong": "G5124"
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "적그리스도의",
+        "strong": "G500"
+      },
+      {
+        "word": "영",
+        "strong": "G3588"
+      },
+      {
+        "word": "이니라",
+        "strong": "G2076"
+      },
+      {
+        "word": "오리라",
+        "strong": "G2064"
+      },
+      {
+        "word": "한 말을",
+        "strong": "G3754"
+      },
+      {
+        "word": "너희가 들었거니와",
+        "strong": "G191"
+      },
+      {
+        "word": "지금",
+        "strong": "G3568"
+      },
+      {
+        "word": "벌써",
+        "strong": "G2235"
+      },
+      {
+        "word": "세상",
+        "strong": "G2889"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "있느니라",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 4,
+    "text": "자녀들아 너희는 하나님께 속하였고 또 그들을 이기었나니 이는 너희 안에 계신 이가 세상에 있는 자보다 크심이라",
+    "words": [
+      {
+        "word": "자녀들아",
+        "strong": "G5040"
+      },
+      {
+        "word": "너희는",
+        "strong": "G5210"
+      },
+      {
+        "word": "하나님께",
+        "strong": "G2316"
+      },
+      {
+        "word": "속",
+        "strong": "G1537"
+      },
+      {
+        "word": "하였고",
+        "strong": "G2076"
+      },
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "그들을",
+        "strong": "G846"
+      },
+      {
+        "word": "이기었나니",
+        "strong": "G3528"
+      },
+      {
+        "word": "이는",
+        "strong": "G3754"
+      },
+      {
+        "word": "너희",
+        "strong": "G5213"
+      },
+      {
+        "word": "안에 계신",
+        "strong": "G1722"
+      },
+      {
+        "word": "이가",
+        "strong": "G3588"
+      },
+      {
+        "word": "세상",
+        "strong": "G2889"
+      },
+      {
+        "word": "에 있는",
+        "strong": "G1722"
+      },
+      {
+        "word": "자",
+        "strong": "G3588"
+      },
+      {
+        "word": "보다",
+        "strong": "G2228"
+      },
+      {
+        "word": "크",
+        "strong": "G3187"
+      },
+      {
+        "word": "심",
+        "strong": "G2076"
+      },
+      {
+        "word": "이라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 5,
+    "text": "그들은 세상에 속한 고로 세상에 속한 말을 하매 세상이 그들의 말을 듣느니라",
+    "words": [
+      {
+        "word": "그들은",
+        "strong": "G846"
+      },
+      {
+        "word": "세상",
+        "strong": "G2889"
+      },
+      {
+        "word": "에 속",
+        "strong": "G1537"
+      },
+      {
+        "word": "한",
+        "strong": "G1526"
+      },
+      {
+        "word": "고로",
+        "strong": "G1223"
+      },
+      {
+        "word": "세상에",
+        "strong": "G2889"
+      },
+      {
+        "word": "속한",
+        "strong": "G1537"
+      },
+      {
+        "word": "말을 하매",
+        "strong": "G2980"
+      },
+      {
+        "word": "세상이",
+        "strong": "G2889"
+      },
+      {
+        "word": "그들의 말을",
+        "strong": "G846"
+      },
+      {
+        "word": "듣느니라",
+        "strong": "G191"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 6,
+    "text": "우리는 하나님께 속하였으니 하나님을 아는 자는 우리의 말을 듣고 하나님께 속하지 아니한 자는 우리의 말을 듣지 아니하나니 진리의 영과 미혹의 영을 이로써 아느니라",
+    "words": [
+      {
+        "word": "우리는",
+        "strong": "G2249"
+      },
+      {
+        "word": "하나님께",
+        "strong": "G2316"
+      },
+      {
+        "word": "속하",
+        "strong": "G1537"
+      },
+      {
+        "word": "였으니",
+        "strong": "G2070"
+      },
+      {
+        "word": "하나님을",
+        "strong": "G2316"
+      },
+      {
+        "word": "아는",
+        "strong": "G1097"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "우리의 말을",
+        "strong": "G2257"
+      },
+      {
+        "word": "듣고",
+        "strong": "G191"
+      },
+      {
+        "word": "하나님께",
+        "strong": "G2316"
+      },
+      {
+        "word": "속하",
+        "strong": "G1537"
+      },
+      {
+        "word": "지",
+        "strong": "G2076"
+      },
+      {
+        "word": "아니한",
+        "strong": "G3756"
+      },
+      {
+        "word": "자는",
+        "strong": "G3739"
+      },
+      {
+        "word": "우리의 말을",
+        "strong": "G2257"
+      },
+      {
+        "word": "듣지",
+        "strong": "G191"
+      },
+      {
+        "word": "아니하나니",
+        "strong": "G3756"
+      },
+      {
+        "word": "진리의",
+        "strong": "G225"
+      },
+      {
+        "word": "영",
+        "strong": "G4151"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "미혹의",
+        "strong": "G4106"
+      },
+      {
+        "word": "영을",
+        "strong": "G4151"
+      },
+      {
+        "word": "이로",
+        "strong": "G5127"
+      },
+      {
+        "word": "써",
+        "strong": "G1537"
+      },
+      {
+        "word": "아느니라",
+        "strong": "G1097"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 7,
+    "text": "(하나님은 사랑이시다) 사랑하는 자들아 우리가 서로 사랑하자 사랑은 하나님께 속한 것이니 사랑하는 자마다 하나님으로부터 나서 하나님을 알고",
+    "words": [
+      {
+        "word": "사랑하는 자들아",
+        "strong": "G27"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "서로",
+        "strong": "G240"
+      },
+      {
+        "word": "사랑하자",
+        "strong": "G25"
+      },
+      {
+        "word": "사랑은",
+        "strong": "G26"
+      },
+      {
+        "word": "하나님께",
+        "strong": "G2316"
+      },
+      {
+        "word": "속한",
+        "strong": "G1537"
+      },
+      {
+        "word": "것이니",
+        "strong": "G2076"
+      },
+      {
+        "word": "사랑하는",
+        "strong": "G25"
+      },
+      {
+        "word": "자마다",
+        "strong": "G3956"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "으로부터",
+        "strong": "G1537"
+      },
+      {
+        "word": "나서",
+        "strong": "G1080"
+      },
+      {
+        "word": "하나님을",
+        "strong": "G2316"
+      },
+      {
+        "word": "알고",
+        "strong": "G1097"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 8,
+    "text": "사랑하지 아니하는 자는 하나님을 알지 못하나니 이는 하나님은 사랑이심이라",
+    "words": [
+      {
+        "word": "사랑하지",
+        "strong": "G25"
+      },
+      {
+        "word": "아니하는",
+        "strong": "G3361"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "하나님을",
+        "strong": "G2316"
+      },
+      {
+        "word": "알지",
+        "strong": "G1097"
+      },
+      {
+        "word": "못하나니",
+        "strong": "G3756"
+      },
+      {
+        "word": "이는",
+        "strong": "G3754"
+      },
+      {
+        "word": "하나님은",
+        "strong": "G2316"
+      },
+      {
+        "word": "사랑",
+        "strong": "G26"
+      },
+      {
+        "word": "이심",
+        "strong": "G2076"
+      },
+      {
+        "word": "이라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 9,
+    "text": "하나님의 사랑이 우리에게 이렇게 나타난 바 되었으니 하나님이 자기의 독생자를 세상에 보내심은 그로 말미암아 우리를 살리려 하심이라",
+    "words": [
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "사랑이",
+        "strong": "G26"
+      },
+      {
+        "word": "우리",
+        "strong": "G2254"
+      },
+      {
+        "word": "에게",
+        "strong": "G1722"
+      },
+      {
+        "word": "이렇",
+        "strong": "G5129"
+      },
+      {
+        "word": "게",
+        "strong": "G1722"
+      },
+      {
+        "word": "나타난바 되었으니",
+        "strong": "G5319"
+      },
+      {
+        "word": "하나님이",
+        "strong": "G2316"
+      },
+      {
+        "word": "자기의",
+        "strong": "G846"
+      },
+      {
+        "word": "독생",
+        "strong": "G3439"
+      },
+      {
+        "word": "자를",
+        "strong": "G5207"
+      },
+      {
+        "word": "세상",
+        "strong": "G2889"
+      },
+      {
+        "word": "에",
+        "strong": "G1519"
+      },
+      {
+        "word": "보내심은",
+        "strong": "G649"
+      },
+      {
+        "word": "그로",
+        "strong": "G846"
+      },
+      {
+        "word": "말미암아",
+        "strong": "G1223"
+      },
+      {
+        "word": "우리를 살리려",
+        "strong": "G2198"
+      },
+      {
+        "word": "하심이라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 10,
+    "text": "사랑은 여기 있으니 우리가 하나님을 사랑한 것이 아니요 하나님이 우리를 사랑하사 우리 죄를 속하기 위하여 화목 제물로 그 아들을 보내셨음이라",
+    "words": [
+      {
+        "word": "사랑은",
+        "strong": "G26"
+      },
+      {
+        "word": "여기",
+        "strong": "G5129"
+      },
+      {
+        "word": "″",
+        "strong": "G1722"
+      },
+      {
+        "word": "있으니",
+        "strong": "G2076"
+      },
+      {
+        "word": "우리가",
+        "strong": "G2249"
+      },
+      {
+        "word": "하나님을",
+        "strong": "G2316"
+      },
+      {
+        "word": "사랑한 것이",
+        "strong": "G25"
+      },
+      {
+        "word": "아니요",
+        "strong": "G3756"
+      },
+      {
+        "word": "하나님이",
+        "strong": "G846"
+      },
+      {
+        "word": "우리를",
+        "strong": "G2248"
+      },
+      {
+        "word": "사랑하사",
+        "strong": "G25"
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "죄를",
+        "strong": "G266"
+      },
+      {
+        "word": "속하기 위하여",
+        "strong": "G4012"
+      },
+      {
+        "word": "화목제물로",
+        "strong": "G2434"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "아들을",
+        "strong": "G5207"
+      },
+      {
+        "word": "보내셨음이라",
+        "strong": "G649"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 11,
+    "text": "사랑하는 자들아 하나님이 이같이 우리를 사랑하셨은즉 우리도 서로 사랑하는 것이 마땅하도다",
+    "words": [
+      {
+        "word": "사랑하는 자들아",
+        "strong": "G27"
+      },
+      {
+        "word": "하나님이",
+        "strong": "G2316"
+      },
+      {
+        "word": "이같이",
+        "strong": "G3779"
+      },
+      {
+        "word": "우리를",
+        "strong": "G2248"
+      },
+      {
+        "word": "사랑하셨은",
+        "strong": "G25"
+      },
+      {
+        "word": "즉",
+        "strong": "G1487"
+      },
+      {
+        "word": "우리",
+        "strong": "G2249"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "서로",
+        "strong": "G240"
+      },
+      {
+        "word": "사랑하는 것이",
+        "strong": "G25"
+      },
+      {
+        "word": "마땅하도다",
+        "strong": "G3784"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 12,
+    "text": "어느 때나 하나님을 본 사람이 없으되 만일 우리가 서로 사랑하면 하나님이 우리 안에 거하시고 그의 사랑이 우리 안에 온전히 이루어지느니라",
+    "words": [
+      {
+        "word": "어느 때나",
+        "strong": "G4455"
+      },
+      {
+        "word": "하나님을",
+        "strong": "G2316"
+      },
+      {
+        "word": "본",
+        "strong": "G2300"
+      },
+      {
+        "word": "사람이 없으되",
+        "strong": "G3762"
+      },
+      {
+        "word": "만일",
+        "strong": "G1437"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "서로",
+        "strong": "G240"
+      },
+      {
+        "word": "사랑하",
+        "strong": "G25"
+      },
+      {
+        "word": "면",
+        "strong": null
+      },
+      {
+        "word": "하나님이",
+        "strong": "G2316"
+      },
+      {
+        "word": "우리",
+        "strong": "G2254"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하시고",
+        "strong": "G3306"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "사랑이",
+        "strong": "G26"
+      },
+      {
+        "word": "우리",
+        "strong": "G2254"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "온전히 이루어지",
+        "strong": "G5048"
+      },
+      {
+        "word": "느니라",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 13,
+    "text": "그의 성령을 우리에게 주시므로 우리가 그 안에 거하고 그가 우리 안에 거하시는 줄을 아느니라",
+    "words": [
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "성령",
+        "strong": "G4151"
+      },
+      {
+        "word": "을",
+        "strong": "G1537"
+      },
+      {
+        "word": "우리에게",
+        "strong": "G2254"
+      },
+      {
+        "word": "주시",
+        "strong": "G1325"
+      },
+      {
+        "word": "므로",
+        "strong": "G3754"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하고",
+        "strong": "G3306"
+      },
+      {
+        "word": "그가",
+        "strong": "G846"
+      },
+      {
+        "word": "우리",
+        "strong": "G2254"
+      },
+      {
+        "word": "안에 거하시는",
+        "strong": "G1722"
+      },
+      {
+        "word": "줄을",
+        "strong": "G3754"
+      },
+      {
+        "word": "아느니라",
+        "strong": "G1097"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 14,
+    "text": "아버지가 아들을 세상의 구주로 보내신 것을 우리가 보았고 또 증언하노니",
+    "words": [
+      {
+        "word": "아버지가",
+        "strong": "G3962"
+      },
+      {
+        "word": "아들을",
+        "strong": "G5207"
+      },
+      {
+        "word": "세상의",
+        "strong": "G2889"
+      },
+      {
+        "word": "구주로",
+        "strong": "G4990"
+      },
+      {
+        "word": "보내신",
+        "strong": "G649"
+      },
+      {
+        "word": "것을",
+        "strong": "G3754"
+      },
+      {
+        "word": "우리가",
+        "strong": "G2249"
+      },
+      {
+        "word": "보았고",
+        "strong": "G2300"
+      },
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "증언하노니",
+        "strong": "G3140"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 15,
+    "text": "누구든지 예수를 하나님의 아들이라 시인하면 하나님이 그의 안에 거하시고 그도 하나님 안에 거하느니라",
+    "words": [
+      {
+        "word": "누구",
+        "strong": "G3739"
+      },
+      {
+        "word": "든지",
+        "strong": "G1437"
+      },
+      {
+        "word": "예수를",
+        "strong": "G2424"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "아들",
+        "strong": "G5207"
+      },
+      {
+        "word": "이라",
+        "strong": "G2076"
+      },
+      {
+        "word": "시인",
+        "strong": "G3670"
+      },
+      {
+        "word": "하면",
+        "strong": null
+      },
+      {
+        "word": "하나님이",
+        "strong": "G2316"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하시고",
+        "strong": "G3306"
+      },
+      {
+        "word": "그도",
+        "strong": "G846"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "안에 거하느니라",
+        "strong": "G1722"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 16,
+    "text": "하나님이 우리를 사랑하시는 사랑을 우리가 알고 믿었노니 하나님은 사랑이시라 사랑 안에 거하는 자는 하나님 안에 거하고 하나님도 그의 안에 거하시느니라",
+    "words": [
+      {
+        "word": "하나님이",
+        "strong": "G2316"
+      },
+      {
+        "word": "우리",
+        "strong": "G2254"
+      },
+      {
+        "word": "를",
+        "strong": "G1722"
+      },
+      {
+        "word": "사랑하시는",
+        "strong": "G2192"
+      },
+      {
+        "word": "사랑을",
+        "strong": "G26"
+      },
+      {
+        "word": "우리가",
+        "strong": "G2249"
+      },
+      {
+        "word": "알고",
+        "strong": "G1097"
+      },
+      {
+        "word": "믿었노니",
+        "strong": "G4100"
+      },
+      {
+        "word": "하나님은",
+        "strong": "G2316"
+      },
+      {
+        "word": "사랑",
+        "strong": "G26"
+      },
+      {
+        "word": "이시라",
+        "strong": "G2076"
+      },
+      {
+        "word": "사랑",
+        "strong": "G26"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하는",
+        "strong": "G3306"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하고",
+        "strong": "G3306"
+      },
+      {
+        "word": "하나님도",
+        "strong": "G2316"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하시느니라",
+        "strong": "G3306"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 17,
+    "text": "이로써 사랑이 우리에게 온전히 이루어진 것은 우리로 심판 날에 담대함을 가지게 하려 함이니 주께서 그러하심과 같이 우리도 이 세상에서 그러하니라",
+    "words": [
+      {
+        "word": "이로",
+        "strong": "G5129"
+      },
+      {
+        "word": "써",
+        "strong": "G1722"
+      },
+      {
+        "word": "사랑이",
+        "strong": "G26"
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "에게",
+        "strong": "G3326"
+      },
+      {
+        "word": "온전히 이루어진 것은",
+        "strong": "G5048"
+      },
+      {
+        "word": "우리로",
+        "strong": null
+      },
+      {
+        "word": "심판",
+        "strong": "G2920"
+      },
+      {
+        "word": "날",
+        "strong": "G2250"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "담대함을",
+        "strong": "G3954"
+      },
+      {
+        "word": "가지게",
+        "strong": "G2192"
+      },
+      {
+        "word": "하려 함이니",
+        "strong": "G2443"
+      },
+      {
+        "word": "주께서",
+        "strong": "G1565"
+      },
+      {
+        "word": "그러하심과",
+        "strong": "G2076"
+      },
+      {
+        "word": "같이",
+        "strong": "G2531"
+      },
+      {
+        "word": "우리",
+        "strong": "G2249"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "세상",
+        "strong": "G2889"
+      },
+      {
+        "word": "에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "그러하니라",
+        "strong": "G2070"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 18,
+    "text": "사랑 안에 두려움이 없고 온전한 사랑이 두려움을 내쫓나니 두려움에는 형벌이 있음이라 두려워하는 자는 사랑 안에서 온전히 이루지 못하였느니라",
+    "words": [
+      {
+        "word": "사랑",
+        "strong": "G26"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "두려움이",
+        "strong": "G5401"
+      },
+      {
+        "word": "없",
+        "strong": "G3756"
+      },
+      {
+        "word": "고",
+        "strong": "G2076"
+      },
+      {
+        "word": "온전한",
+        "strong": "G5046"
+      },
+      {
+        "word": "사랑이",
+        "strong": "G26"
+      },
+      {
+        "word": "두려움을",
+        "strong": "G5401"
+      },
+      {
+        "word": "내",
+        "strong": "G1854"
+      },
+      {
+        "word": "쫓나니",
+        "strong": "G906"
+      },
+      {
+        "word": "두려움에는",
+        "strong": "G5401"
+      },
+      {
+        "word": "형벌이",
+        "strong": "G2851"
+      },
+      {
+        "word": "있음",
+        "strong": "G2192"
+      },
+      {
+        "word": "이라",
+        "strong": "G3754"
+      },
+      {
+        "word": "두려워하는",
+        "strong": "G5399"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "사랑",
+        "strong": "G26"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "온전히 이루지",
+        "strong": "G5048"
+      },
+      {
+        "word": "못하였느니라",
+        "strong": "G3756"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 19,
+    "text": "우리가 사랑함은 그가 먼저 우리를 사랑하셨음이라",
+    "words": [
+      {
+        "word": "우리가",
+        "strong": "G2249"
+      },
+      {
+        "word": "사랑함은",
+        "strong": "G25"
+      },
+      {
+        "word": "그가",
+        "strong": "G846"
+      },
+      {
+        "word": "먼저",
+        "strong": "G4413"
+      },
+      {
+        "word": "우리를",
+        "strong": "G2248"
+      },
+      {
+        "word": "사랑하셨음",
+        "strong": "G25"
+      },
+      {
+        "word": "이라",
+        "strong": "G3754"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 20,
+    "text": "누구든지 하나님을 사랑하노라 하고 그 형제를 미워하면 이는 거짓말하는 자니 보는 바 그 형제를 사랑하지 아니하는 자는 보지 못하는 바 하나님을 사랑할 수 없느니라",
+    "words": [
+      {
+        "word": "누구든지",
+        "strong": "G5100"
+      },
+      {
+        "word": "하나님을",
+        "strong": "G2316"
+      },
+      {
+        "word": "사랑하노라",
+        "strong": "G25"
+      },
+      {
+        "word": "하고",
+        "strong": "G2036"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "형제를",
+        "strong": "G80"
+      },
+      {
+        "word": "미워하",
+        "strong": "G3404"
+      },
+      {
+        "word": "면",
+        "strong": "G1437"
+      },
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "거짓말 하는",
+        "strong": "G5583"
+      },
+      {
+        "word": "자니",
+        "strong": "G2076"
+      },
+      {
+        "word": "보는",
+        "strong": "G3708"
+      },
+      {
+        "word": "바",
+        "strong": "G3739"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "형제를",
+        "strong": "G80"
+      },
+      {
+        "word": "사랑하지",
+        "strong": "G25"
+      },
+      {
+        "word": "아니하는",
+        "strong": "G3361"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "보지",
+        "strong": "G3708"
+      },
+      {
+        "word": "못하는",
+        "strong": "G3756"
+      },
+      {
+        "word": "바",
+        "strong": "G3739"
+      },
+      {
+        "word": "하나님을",
+        "strong": "G2316"
+      },
+      {
+        "word": "사랑할",
+        "strong": "G25"
+      },
+      {
+        "word": "수",
+        "strong": "G1410"
+      },
+      {
+        "word": "없느니라",
+        "strong": "G3756"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 4,
+    "verse": 21,
+    "text": "우리가 이 계명을 주께 받았나니 하나님을 사랑하는 자는 또한 그 형제를 사랑할지니라",
+    "words": [
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "이",
+        "strong": "G5026"
+      },
+      {
+        "word": "계명을",
+        "strong": "G1785"
+      },
+      {
+        "word": "주",
+        "strong": "G846"
+      },
+      {
+        "word": "께",
+        "strong": "G575"
+      },
+      {
+        "word": "받았나니",
+        "strong": "G2192"
+      },
+      {
+        "word": "하나님을",
+        "strong": "G2316"
+      },
+      {
+        "word": "사랑하는",
+        "strong": "G25"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "또한",
+        "strong": "G2532"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "형제를",
+        "strong": "G80"
+      },
+      {
+        "word": "사랑할지니라",
+        "strong": "G25"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 1,
+    "text": "(세상을 이기는 믿음) 예수께서 그리스도이심을 믿는 자마다 하나님께로부터 난 자니 또한 낳으신 이를 사랑하는 자마다 그에게서 난 자를 사랑하느니라",
+    "words": [
+      {
+        "word": "예수께서",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "이심을",
+        "strong": "G2076"
+      },
+      {
+        "word": "믿는",
+        "strong": "G4100"
+      },
+      {
+        "word": "자마다",
+        "strong": "G3956"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "께로부터",
+        "strong": "G1537"
+      },
+      {
+        "word": "난 자니",
+        "strong": "G1080"
+      },
+      {
+        "word": "또한",
+        "strong": "G2532"
+      },
+      {
+        "word": "낳으신",
+        "strong": "G1080"
+      },
+      {
+        "word": "이를",
+        "strong": "G3588"
+      },
+      {
+        "word": "사랑하는",
+        "strong": "G25"
+      },
+      {
+        "word": "자마다",
+        "strong": "G3956"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "에게서",
+        "strong": "G1537"
+      },
+      {
+        "word": "난",
+        "strong": "G1080"
+      },
+      {
+        "word": "자를",
+        "strong": "G3588"
+      },
+      {
+        "word": "사랑하느니라",
+        "strong": "G25"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 2,
+    "text": "우리가 하나님을 사랑하고 그의 계명들을 지킬 때에 이로써 우리가 하나님의 자녀를 사랑하는 줄을 아느니라",
+    "words": [
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "하나님을",
+        "strong": "G2316"
+      },
+      {
+        "word": "사랑하고",
+        "strong": "G25"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "계명들을",
+        "strong": "G1785"
+      },
+      {
+        "word": "지킬",
+        "strong": "G4160"
+      },
+      {
+        "word": "때에",
+        "strong": "G3752"
+      },
+      {
+        "word": "이로",
+        "strong": "G5129"
+      },
+      {
+        "word": "써",
+        "strong": "G1722"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "자녀를",
+        "strong": "G5043"
+      },
+      {
+        "word": "사랑하는",
+        "strong": "G25"
+      },
+      {
+        "word": "줄을",
+        "strong": "G3754"
+      },
+      {
+        "word": "아느니라",
+        "strong": "G1097"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 3,
+    "text": "하나님을 사랑하는 것은 이것이니 우리가 그의 계명들을 지키는 것이라 그의 계명들은 무거운 것이 아니로다",
+    "words": [
+      {
+        "word": "하나님을",
+        "strong": "G2316"
+      },
+      {
+        "word": "사랑하는 것은",
+        "strong": "G26"
+      },
+      {
+        "word": "이것",
+        "strong": "G3778"
+      },
+      {
+        "word": "이니",
+        "strong": "G2076"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "계명들을",
+        "strong": "G1785"
+      },
+      {
+        "word": "지키는",
+        "strong": "G5083"
+      },
+      {
+        "word": "것이라",
+        "strong": "G2443"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "계명들은",
+        "strong": "G1785"
+      },
+      {
+        "word": "무거운 것이",
+        "strong": "G926"
+      },
+      {
+        "word": "아니",
+        "strong": "G3756"
+      },
+      {
+        "word": "로다",
+        "strong": "G1526"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 4,
+    "text": "무릇 하나님께로부터 난 자마다 세상을 이기느니라 세상을 이기는 승리는 이것이니 우리의 믿음이니라",
+    "words": [
+      {
+        "word": "무릇",
+        "strong": null
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "께로부터",
+        "strong": "G1537"
+      },
+      {
+        "word": "난",
+        "strong": "G1080"
+      },
+      {
+        "word": "자마다",
+        "strong": "G3956"
+      },
+      {
+        "word": "세상을",
+        "strong": "G2889"
+      },
+      {
+        "word": "이기느니라",
+        "strong": "G3528"
+      },
+      {
+        "word": "세상을",
+        "strong": "G2889"
+      },
+      {
+        "word": "이기는",
+        "strong": "G3528"
+      },
+      {
+        "word": "승리는",
+        "strong": "G3529"
+      },
+      {
+        "word": "이것",
+        "strong": "G3778"
+      },
+      {
+        "word": "이니",
+        "strong": "G2076"
+      },
+      {
+        "word": "우리의",
+        "strong": "G2257"
+      },
+      {
+        "word": "믿음이니라",
+        "strong": "G4102"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 5,
+    "text": "예수께서 하나님의 아들이심을 믿는 자가 아니면 세상을 이기는 자가 누구냐",
+    "words": [
+      {
+        "word": "예수께서",
+        "strong": "G2424"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "아들",
+        "strong": "G5207"
+      },
+      {
+        "word": "이심을",
+        "strong": "G2076"
+      },
+      {
+        "word": "믿는",
+        "strong": "G4100"
+      },
+      {
+        "word": "자가",
+        "strong": "G3588"
+      },
+      {
+        "word": "아니면",
+        "strong": "G1508"
+      },
+      {
+        "word": "세상을",
+        "strong": "G2889"
+      },
+      {
+        "word": "이기는",
+        "strong": "G3528"
+      },
+      {
+        "word": "자가",
+        "strong": "G3588"
+      },
+      {
+        "word": "누구",
+        "strong": "G5101"
+      },
+      {
+        "word": "냐",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 6,
+    "text": "이는 물과 피로 임하신 이시니 곧 예수 그리스도시라 물로만 아니요 물과 피로 임하셨고 증언하는 이는 성령이시니 성령은 진리니라",
+    "words": [
+      {
+        "word": "이는",
+        "strong": "G3778"
+      },
+      {
+        "word": "물",
+        "strong": "G5204"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "피",
+        "strong": "G129"
+      },
+      {
+        "word": "로",
+        "strong": "G1223"
+      },
+      {
+        "word": "임하신",
+        "strong": "G2064"
+      },
+      {
+        "word": "이시",
+        "strong": "G3588"
+      },
+      {
+        "word": "니",
+        "strong": "G2076"
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도시라",
+        "strong": "G5547"
+      },
+      {
+        "word": "물",
+        "strong": "G5204"
+      },
+      {
+        "word": "로",
+        "strong": "G1722"
+      },
+      {
+        "word": "만",
+        "strong": "G3440"
+      },
+      {
+        "word": "아니요",
+        "strong": "G3756"
+      },
+      {
+        "word": "물",
+        "strong": "G5204"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "피",
+        "strong": "G129"
+      },
+      {
+        "word": "로 임하셨고",
+        "strong": "G1722"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 7,
+    "text": "증언하는 이가 셋이니",
+    "words": [
+      {
+        "word": "증언하는",
+        "strong": "G3140"
+      },
+      {
+        "word": "이는",
+        "strong": "G3588"
+      },
+      {
+        "word": "성령",
+        "strong": "G4151"
+      },
+      {
+        "word": "이시니",
+        "strong": "G2076"
+      },
+      {
+        "word": "성령은",
+        "strong": "G4151"
+      },
+      {
+        "word": "진리",
+        "strong": "G225"
+      },
+      {
+        "word": "니라",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 8,
+    "text": "성령과 물과 피라 또한 이 셋은 합하여 하나이니라",
+    "words": [
+      {
+        "word": "증언하는",
+        "strong": "G3140"
+      },
+      {
+        "word": "이가",
+        "strong": "G3588"
+      },
+      {
+        "word": "셋",
+        "strong": "G5140"
+      },
+      {
+        "word": "이니",
+        "strong": "G1526"
+      },
+      {
+        "word": "성령",
+        "strong": "G4151"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "물",
+        "strong": "G5204"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "피라",
+        "strong": "G129"
+      },
+      {
+        "word": "또한",
+        "strong": "G2532"
+      },
+      {
+        "word": "이",
+        "strong": "G3588"
+      },
+      {
+        "word": "셋이",
+        "strong": "G5140"
+      },
+      {
+        "word": "합하여",
+        "strong": null
+      },
+      {
+        "word": "하나",
+        "strong": "G1520"
+      },
+      {
+        "word": "이니라",
+        "strong": "G1526"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 9,
+    "text": "만일 우리가 사람들의 증언을 받을진대 하나님의 증거는 더욱 크도다 하나님의 증거는 이것이니 그의 아들에 대하여 증언하신 것이니라",
+    "words": [
+      {
+        "word": "만일",
+        "strong": "G1487"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "사람들의",
+        "strong": "G444"
+      },
+      {
+        "word": "증언을",
+        "strong": "G3141"
+      },
+      {
+        "word": "받을진대",
+        "strong": "G2983"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "증거는",
+        "strong": "G3141"
+      },
+      {
+        "word": "더욱 크",
+        "strong": "G3187"
+      },
+      {
+        "word": "도다",
+        "strong": "G2076"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "증거는",
+        "strong": "G3141"
+      },
+      {
+        "word": "이것",
+        "strong": "G3778"
+      },
+      {
+        "word": "이니",
+        "strong": "G2076"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "아들에",
+        "strong": "G5207"
+      },
+      {
+        "word": "대하여",
+        "strong": "G4012"
+      },
+      {
+        "word": "증언하신",
+        "strong": "G3140"
+      },
+      {
+        "word": "것이니라",
+        "strong": "G3739"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 10,
+    "text": "하나님의 아들을 믿는 자는 자기 안에 증거가 있고 하나님을 믿지 아니하는 자는 하나님을 거짓말하는 자로 만드나니 이는 하나님께서 그 아들에 대하여 증언하신 증거를 믿지 아니하였음이라",
+    "words": [
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "아들",
+        "strong": "G5207"
+      },
+      {
+        "word": "을",
+        "strong": "G1519"
+      },
+      {
+        "word": "믿는",
+        "strong": "G4100"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "자기",
+        "strong": "G1438"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "증거가",
+        "strong": "G3141"
+      },
+      {
+        "word": "있고",
+        "strong": "G2192"
+      },
+      {
+        "word": "하나님을",
+        "strong": "G2316"
+      },
+      {
+        "word": "믿지",
+        "strong": "G4100"
+      },
+      {
+        "word": "아니하는",
+        "strong": "G3361"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "하나님을",
+        "strong": "G846"
+      },
+      {
+        "word": "거짓말하는 자로",
+        "strong": "G5583"
+      },
+      {
+        "word": "만드나니",
+        "strong": "G4160"
+      },
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "하나님께서",
+        "strong": "G2316"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "아들에",
+        "strong": "G5207"
+      },
+      {
+        "word": "대하여",
+        "strong": "G4012"
+      },
+      {
+        "word": "증언하신",
+        "strong": "G3140"
+      },
+      {
+        "word": "증거",
+        "strong": "G3141"
+      },
+      {
+        "word": "를",
+        "strong": "G1519"
+      },
+      {
+        "word": "믿지",
+        "strong": "G4100"
+      },
+      {
+        "word": "아니하였음",
+        "strong": "G3756"
+      },
+      {
+        "word": "이라",
+        "strong": "G3754"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 11,
+    "text": "또 증거는 이것이니 하나님이 우리에게 영생을 주신 것과 이 생명이 그의 아들 안에 있는 그것이니라",
+    "words": [
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "증거는",
+        "strong": "G3141"
+      },
+      {
+        "word": "이것",
+        "strong": "G3778"
+      },
+      {
+        "word": "이니",
+        "strong": "G2076"
+      },
+      {
+        "word": "하나님이",
+        "strong": "G2316"
+      },
+      {
+        "word": "우리에게",
+        "strong": "G2254"
+      },
+      {
+        "word": "영",
+        "strong": "G166"
+      },
+      {
+        "word": "생을",
+        "strong": "G2222"
+      },
+      {
+        "word": "주신 것",
+        "strong": "G1325"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "이",
+        "strong": "G3778"
+      },
+      {
+        "word": "생명이",
+        "strong": "G2222"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "아들",
+        "strong": "G5207"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "있는",
+        "strong": "G2076"
+      },
+      {
+        "word": "그것이니라",
+        "strong": "G3754"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 12,
+    "text": "아들이 있는 자에게는 생명이 있고 하나님의 아들이 없는 자에게는 생명이 없느니라",
+    "words": [
+      {
+        "word": "아들이",
+        "strong": "G5207"
+      },
+      {
+        "word": "있는",
+        "strong": "G2192"
+      },
+      {
+        "word": "자에게는",
+        "strong": "G3588"
+      },
+      {
+        "word": "생명이",
+        "strong": "G2222"
+      },
+      {
+        "word": "있고",
+        "strong": "G2192"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "아들이",
+        "strong": "G5207"
+      },
+      {
+        "word": "없",
+        "strong": "G3361"
+      },
+      {
+        "word": "는",
+        "strong": "G2192"
+      },
+      {
+        "word": "자에게는",
+        "strong": "G3588"
+      },
+      {
+        "word": "생명이",
+        "strong": "G2222"
+      },
+      {
+        "word": "없느",
+        "strong": "G3756"
+      },
+      {
+        "word": "니라",
+        "strong": "G2192"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 13,
+    "text": "(영생을 알게 하려 함이라) 내가 하나님의 아들의 이름을 믿는 너희에게 이것을 쓰는 것은 너희로 하여금 너희에게 영생이 있음을 알게 하려 함이라",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "아들의",
+        "strong": "G5207"
+      },
+      {
+        "word": "이름",
+        "strong": "G3686"
+      },
+      {
+        "word": "을",
+        "strong": "G1519"
+      },
+      {
+        "word": "믿는",
+        "strong": "G4100"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "이것을",
+        "strong": "G5023"
+      },
+      {
+        "word": "쓰는 것은",
+        "strong": "G1125"
+      },
+      {
+        "word": "너희로 하여금",
+        "strong": null
+      },
+      {
+        "word": "너희에게",
+        "strong": null
+      },
+      {
+        "word": "영",
+        "strong": "G166"
+      },
+      {
+        "word": "생이",
+        "strong": "G2222"
+      },
+      {
+        "word": "있음을",
+        "strong": "G2192"
+      },
+      {
+        "word": "알게",
+        "strong": "G1492"
+      },
+      {
+        "word": "하려 함이라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 14,
+    "text": "그를 향하여 우리가 가진 바 담대함이 이것이니 그의 뜻대로 무엇을 구하면 들으심이라",
+    "words": [
+      {
+        "word": "그를",
+        "strong": "G846"
+      },
+      {
+        "word": "향하여",
+        "strong": "G4314"
+      },
+      {
+        "word": "우리가 가진",
+        "strong": "G2192"
+      },
+      {
+        "word": "바",
+        "strong": "G3739"
+      },
+      {
+        "word": "담대함이",
+        "strong": "G3954"
+      },
+      {
+        "word": "이것",
+        "strong": "G3778"
+      },
+      {
+        "word": "이니",
+        "strong": "G2076"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "뜻",
+        "strong": "G2307"
+      },
+      {
+        "word": "대로",
+        "strong": "G2596"
+      },
+      {
+        "word": "무엇을",
+        "strong": "G5100"
+      },
+      {
+        "word": "구하",
+        "strong": "G154"
+      },
+      {
+        "word": "면",
+        "strong": "G1437"
+      },
+      {
+        "word": "들으심이라",
+        "strong": "G191"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 15,
+    "text": "우리가 무엇이든지 구하는 바를 들으시는 줄을 안즉 우리가 그에게 구한 그것을 얻은 줄을 또한 아느니라",
+    "words": [
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "무엇이 든지",
+        "strong": "G3739"
+      },
+      {
+        "word": "''",
+        "strong": "G1437"
+      },
+      {
+        "word": "구하는",
+        "strong": "G154"
+      },
+      {
+        "word": "바를",
+        "strong": null
+      },
+      {
+        "word": "들으시는",
+        "strong": "G191"
+      },
+      {
+        "word": "줄을",
+        "strong": "G3754"
+      },
+      {
+        "word": "안",
+        "strong": "G1492"
+      },
+      {
+        "word": "즉",
+        "strong": "G1437"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "에게",
+        "strong": "G575"
+      },
+      {
+        "word": "구한",
+        "strong": "G154"
+      },
+      {
+        "word": "그",
+        "strong": "G3588"
+      },
+      {
+        "word": "것을",
+        "strong": "G155"
+      },
+      {
+        "word": "얻은",
+        "strong": "G2192"
+      },
+      {
+        "word": "줄을",
+        "strong": "G3754"
+      },
+      {
+        "word": "또한",
+        "strong": null
+      },
+      {
+        "word": "아느니라",
+        "strong": "G1492"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 16,
+    "text": "누구든지 형제가 사망에 이르지 아니하는 죄 범하는 것을 보거든 구하라 그리하면 사망에 이르지 아니하는 범죄자들을 위하여 그에게 생명을 주시리라 사망에 이르는 죄가 있으니 이에 관하여 나는 구하라 하지 않노라",
+    "words": [
+      {
+        "word": "누구든지",
+        "strong": "G5100"
+      },
+      {
+        "word": "형제가",
+        "strong": "G80"
+      },
+      {
+        "word": "사망",
+        "strong": "G2288"
+      },
+      {
+        "word": "에 이르지",
+        "strong": "G4314"
+      },
+      {
+        "word": "아니하는",
+        "strong": "G3361"
+      },
+      {
+        "word": "죄",
+        "strong": "G266"
+      },
+      {
+        "word": "범하는 것을",
+        "strong": "G264"
+      },
+      {
+        "word": "보",
+        "strong": "G1492"
+      },
+      {
+        "word": "거든",
+        "strong": "G1437"
+      },
+      {
+        "word": "구하라",
+        "strong": "G154"
+      },
+      {
+        "word": "그리하면",
+        "strong": "G2532"
+      },
+      {
+        "word": "사망",
+        "strong": "G2288"
+      },
+      {
+        "word": "에 이르지",
+        "strong": "G4314"
+      },
+      {
+        "word": "아니하는",
+        "strong": "G3361"
+      },
+      {
+        "word": "범죄",
+        "strong": "G264"
+      },
+      {
+        "word": "자들을 위하여",
+        "strong": "G3588"
+      },
+      {
+        "word": "그에게",
+        "strong": "G846"
+      },
+      {
+        "word": "생명을",
+        "strong": "G2222"
+      },
+      {
+        "word": "주시리라",
+        "strong": "G1325"
+      },
+      {
+        "word": "사망",
+        "strong": "G2288"
+      },
+      {
+        "word": "에 이르는",
+        "strong": "G4314"
+      },
+      {
+        "word": "죄가",
+        "strong": "G266"
+      },
+      {
+        "word": "있으니",
+        "strong": "G2076"
+      },
+      {
+        "word": "이에",
+        "strong": "G1565"
+      },
+      {
+        "word": "관하여",
+        "strong": "G4012"
+      },
+      {
+        "word": "나는",
+        "strong": null
+      },
+      {
+        "word": "구하라",
+        "strong": "G2065"
+      },
+      {
+        "word": "하지",
+        "strong": "G3004"
+      },
+      {
+        "word": "않노라",
+        "strong": "G3756"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 17,
+    "text": "모든 불의가 죄로되 사망에 이르지 아니하는 죄도 있도다",
+    "words": [
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "불의가",
+        "strong": "G93"
+      },
+      {
+        "word": "죄",
+        "strong": "G266"
+      },
+      {
+        "word": "로되",
+        "strong": "G2076"
+      },
+      {
+        "word": "사망",
+        "strong": "G2288"
+      },
+      {
+        "word": "에 이르지",
+        "strong": "G4314"
+      },
+      {
+        "word": "아니하는",
+        "strong": "G3756"
+      },
+      {
+        "word": "죄도",
+        "strong": "G266"
+      },
+      {
+        "word": "있도다",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 18,
+    "text": "하나님께로부터 난 자는 다 범죄하지 아니하는 줄을 우리가 아노라 하나님께로부터 나신 자가 그를 지키시매 악한 자가 그를 만지지도 못하느니라",
+    "words": [
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "께로부터",
+        "strong": "G1537"
+      },
+      {
+        "word": "난 자는",
+        "strong": "G1080"
+      },
+      {
+        "word": "다",
+        "strong": "G3956"
+      },
+      {
+        "word": "범죄하지",
+        "strong": "G264"
+      },
+      {
+        "word": "아니하는",
+        "strong": "G3756"
+      },
+      {
+        "word": "줄을",
+        "strong": "G3754"
+      },
+      {
+        "word": "우리가 아노라",
+        "strong": "G1492"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "께로부터",
+        "strong": "G1537"
+      },
+      {
+        "word": "나신",
+        "strong": "G1080"
+      },
+      {
+        "word": "자가",
+        "strong": "G3588"
+      },
+      {
+        "word": "그를",
+        "strong": "G846"
+      },
+      {
+        "word": "지키시매",
+        "strong": "G5083"
+      },
+      {
+        "word": "악한 자가",
+        "strong": "G4190"
+      },
+      {
+        "word": "그를",
+        "strong": "G846"
+      },
+      {
+        "word": "만지지도",
+        "strong": "G680"
+      },
+      {
+        "word": "못하느니라",
+        "strong": "G3756"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 19,
+    "text": "또 아는 것은 우리는 하나님께 속하고 온 세상은 악한 자 안에 처한 것이며",
+    "words": [
+      {
+        "word": "또",
+        "strong": null
+      },
+      {
+        "word": "아는 것은",
+        "strong": "G1492"
+      },
+      {
+        "word": "우리는",
+        "strong": null
+      },
+      {
+        "word": "하나님께",
+        "strong": "G2316"
+      },
+      {
+        "word": "속",
+        "strong": "G1537"
+      },
+      {
+        "word": "하고",
+        "strong": "G2070"
+      },
+      {
+        "word": "온",
+        "strong": "G3650"
+      },
+      {
+        "word": "세상은",
+        "strong": "G2889"
+      },
+      {
+        "word": "악한 자",
+        "strong": "G4190"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "처한 것이며",
+        "strong": "G2749"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 20,
+    "text": "또 아는 것은 하나님의 아들이 이르러 우리에게 지각을 주사 우리로 참된 자를 알게 하신 것과 또한 우리가 참된 자 곧 그의 아들 예수 그리스도 안에 있는 것이니 그는 참 하나님이시요 영생이시라",
+    "words": [
+      {
+        "word": "또",
+        "strong": "G1161"
+      },
+      {
+        "word": "아는 것은",
+        "strong": "G1492"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "아들이",
+        "strong": "G5207"
+      },
+      {
+        "word": "이르러",
+        "strong": "G2240"
+      },
+      {
+        "word": "우리에게",
+        "strong": "G2254"
+      },
+      {
+        "word": "지각을",
+        "strong": "G1271"
+      },
+      {
+        "word": "주사",
+        "strong": "G1325"
+      },
+      {
+        "word": "우리로",
+        "strong": null
+      },
+      {
+        "word": "참된 자를",
+        "strong": "G228"
+      },
+      {
+        "word": "알게",
+        "strong": "G1097"
+      },
+      {
+        "word": "하신 것과",
+        "strong": "G2443"
+      },
+      {
+        "word": "또한",
+        "strong": "G2532"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "참된 자",
+        "strong": "G228"
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "아들",
+        "strong": "G5207"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "있는 것이니",
+        "strong": "G2070"
+      },
+      {
+        "word": "그는",
+        "strong": "G3778"
+      },
+      {
+        "word": "참",
+        "strong": "G228"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "이시요",
+        "strong": "G2076"
+      },
+      {
+        "word": "영",
+        "strong": "G166"
+      },
+      {
+        "word": "생이시라",
+        "strong": "G2222"
+      }
+    ]
+  },
+  {
+    "book": 62,
+    "book_name": "요한일서",
+    "chapter": 5,
+    "verse": 21,
+    "text": "자녀들아 너희 자신을 지켜 우상에게서 멀리하라",
+    "words": [
+      {
+        "word": "자녀들아",
+        "strong": "G5040"
+      },
+      {
+        "word": "너희 자신을",
+        "strong": "G4572"
+      },
+      {
+        "word": "지켜",
+        "strong": "G5442"
+      },
+      {
+        "word": "우상",
+        "strong": "G1497"
+      },
+      {
+        "word": "에게서",
+        "strong": "G575"
+      },
+      {
+        "word": "멀리하라",
+        "strong": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,3162 @@
+[
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 1,
+    "verse": 1,
+    "text": "(요나가 여호와를 피하여 달아나다) 여호와의 말씀이 아밋대의 아들 요나에게 임하니라 이르시되",
+    "words": [
+      {
+        "word": "여호와",
+        "strong": "H3068"
+      },
+      {
+        "word": "의 말씀이",
+        "strong": "H1697"
+      },
+      {
+        "word": "아밋대",
+        "strong": "H573"
+      },
+      {
+        "word": "의 아들",
+        "strong": "H1121"
+      },
+      {
+        "word": "요나",
+        "strong": "H3124"
+      },
+      {
+        "word": "에게",
+        "strong": "H413"
+      },
+      {
+        "word": "임하니라",
+        "strong": "H1961"
+      },
+      {
+        "word": "이르시되",
+        "strong": "H559"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 1,
+    "verse": 2,
+    "text": "너는 일어나 저 큰 성읍 니느웨로 가서 그것을 향하여 외치라 그 악독이 내 앞에 상달되었음이니라 하시니라",
+    "words": [
+      {
+        "word": "너는 일어나",
+        "strong": "H6965"
+      },
+      {
+        "word": "저",
+        "strong": null
+      },
+      {
+        "word": "큰",
+        "strong": "H1419"
+      },
+      {
+        "word": "성읍",
+        "strong": "H5892"
+      },
+      {
+        "word": "니느웨",
+        "strong": "H5210"
+      },
+      {
+        "word": "로",
+        "strong": "H413"
+      },
+      {
+        "word": "가서",
+        "strong": "H3212"
+      },
+      {
+        "word": "그것을 향하여",
+        "strong": "H5921"
+      },
+      {
+        "word": "외치라",
+        "strong": "H7121"
+      },
+      {
+        "word": "그 악독이",
+        "strong": "H7451"
+      },
+      {
+        "word": "내 앞에",
+        "strong": "H6440"
+      },
+      {
+        "word": "상달도었음",
+        "strong": "H5927"
+      },
+      {
+        "word": "이니라",
+        "strong": "H3588"
+      },
+      {
+        "word": "하시니라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 1,
+    "verse": 3,
+    "text": "그러나 요나가 여호와의 얼굴을 피하려고 일어나 다시스로 도망하려 하여 욥바로 내려갔더니 마침 다시스로 가는 배를 만난지라 여호와의 얼굴을 피하여 그들과 함께 다시스로 가려고 배삯을 주고 배에 올랐더라",
+    "words": [
+      {
+        "word": "그러나",
+        "strong": null
+      },
+      {
+        "word": "요나가",
+        "strong": "H3124"
+      },
+      {
+        "word": "여호와",
+        "strong": "H3068"
+      },
+      {
+        "word": "의 얼굴을 피하려고",
+        "strong": "H6440"
+      },
+      {
+        "word": "일어나",
+        "strong": "H6965"
+      },
+      {
+        "word": "다시스로",
+        "strong": "H8659"
+      },
+      {
+        "word": "도망하려 하여",
+        "strong": "H1272"
+      },
+      {
+        "word": "욥바로",
+        "strong": "H3305"
+      },
+      {
+        "word": "내려갔더니",
+        "strong": "H3381"
+      },
+      {
+        "word": "마침",
+        "strong": null
+      },
+      {
+        "word": "다시스로",
+        "strong": "H8659"
+      },
+      {
+        "word": "가는",
+        "strong": "H935"
+      },
+      {
+        "word": "배를",
+        "strong": "H591"
+      },
+      {
+        "word": "만난지라",
+        "strong": "H4672"
+      },
+      {
+        "word": "여호와",
+        "strong": "H3068"
+      },
+      {
+        "word": "의 얼굴을 피하여",
+        "strong": "H6440"
+      },
+      {
+        "word": "그들과 함께",
+        "strong": "H5973"
+      },
+      {
+        "word": "다시스로",
+        "strong": "H8659"
+      },
+      {
+        "word": "가려고",
+        "strong": "H935"
+      },
+      {
+        "word": "배삯을",
+        "strong": "H7939"
+      },
+      {
+        "word": "주고",
+        "strong": "H5414"
+      },
+      {
+        "word": "배에 올랐더라",
+        "strong": "H3381"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 1,
+    "verse": 4,
+    "text": "여호와께서 큰 바람을 바다 위에 내리시매 바다 가운데에 큰 폭풍이 일어나 배가 거의 깨지게 된지라",
+    "words": [
+      {
+        "word": "여호와께서",
+        "strong": "H3068"
+      },
+      {
+        "word": "큰",
+        "strong": "H1419"
+      },
+      {
+        "word": "바람을",
+        "strong": "H7307"
+      },
+      {
+        "word": "바다",
+        "strong": "H3220"
+      },
+      {
+        "word": "위에",
+        "strong": "H413"
+      },
+      {
+        "word": "내리시매",
+        "strong": "H2904"
+      },
+      {
+        "word": "바다 가운데에",
+        "strong": "H3220"
+      },
+      {
+        "word": "큰",
+        "strong": "H1419"
+      },
+      {
+        "word": "폭풍이",
+        "strong": "H5591"
+      },
+      {
+        "word": "일어나",
+        "strong": "H1961"
+      },
+      {
+        "word": "배가",
+        "strong": "H591"
+      },
+      {
+        "word": "거의",
+        "strong": "H2803"
+      },
+      {
+        "word": "깨지게 된지라",
+        "strong": "H7665"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 1,
+    "verse": 5,
+    "text": "사공들이 두려워하여 각각 자기의 신을 부르고 또 배를 가볍게 하려고 그 가운데 물건들을 바다에 던지니라 그러나 요나는 배 밑층에 내려가서 누워 깊이 잠이 든지라",
+    "words": [
+      {
+        "word": "사공들이",
+        "strong": "H4419"
+      },
+      {
+        "word": "두려워 하여",
+        "strong": "H3372"
+      },
+      {
+        "word": "각각",
+        "strong": "H376"
+      },
+      {
+        "word": "자기의 신",
+        "strong": "H430"
+      },
+      {
+        "word": "을",
+        "strong": "H413"
+      },
+      {
+        "word": "부르고",
+        "strong": "H2199"
+      },
+      {
+        "word": "또",
+        "strong": null
+      },
+      {
+        "word": "배를 가볍게 하려고",
+        "strong": "H7043"
+      },
+      {
+        "word": "그 가운데",
+        "strong": "H5921"
+      },
+      {
+        "word": "물건들을",
+        "strong": "H3627"
+      },
+      {
+        "word": "바다",
+        "strong": "H3220"
+      },
+      {
+        "word": "에",
+        "strong": "H413"
+      },
+      {
+        "word": "던지니라",
+        "strong": "H2904"
+      },
+      {
+        "word": "그러나 요나는",
+        "strong": "H3124"
+      },
+      {
+        "word": "배",
+        "strong": "H5600"
+      },
+      {
+        "word": "밑층",
+        "strong": "H3411"
+      },
+      {
+        "word": "에",
+        "strong": "H413"
+      },
+      {
+        "word": "내려가서",
+        "strong": "H3381"
+      },
+      {
+        "word": "누워",
+        "strong": "H7901"
+      },
+      {
+        "word": "깊이 잠이 든지라",
+        "strong": "H7290"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 1,
+    "verse": 6,
+    "text": "선장이 그에게 가서 이르되 자는 자여 어찌함이냐 일어나서 네 하나님께 구하라 혹시 하나님이 우리를 생각하사 망하지 아니하게 하시리라 하니라",
+    "words": [
+      {
+        "word": "선",
+        "strong": "H2259"
+      },
+      {
+        "word": "장이",
+        "strong": "H7227"
+      },
+      {
+        "word": "그에게",
+        "strong": "H9003"
+      },
+      {
+        "word": "가서",
+        "strong": "H7126"
+      },
+      {
+        "word": "이르되",
+        "strong": "H559"
+      },
+      {
+        "word": "자는 자여",
+        "strong": "H7290"
+      },
+      {
+        "word": "어찌함이냐",
+        "strong": "H4100"
+      },
+      {
+        "word": "일어나서",
+        "strong": "H6965"
+      },
+      {
+        "word": "네 하나님",
+        "strong": "H430"
+      },
+      {
+        "word": "께",
+        "strong": "H413"
+      },
+      {
+        "word": "구하라",
+        "strong": "H7121"
+      },
+      {
+        "word": "혹시",
+        "strong": "H194"
+      },
+      {
+        "word": "하나님이",
+        "strong": "H430"
+      },
+      {
+        "word": "우리를",
+        "strong": "H9003"
+      },
+      {
+        "word": "생각하사",
+        "strong": "H6245"
+      },
+      {
+        "word": "망하지",
+        "strong": "H6"
+      },
+      {
+        "word": "아니하게 하시리라",
+        "strong": "H3808"
+      },
+      {
+        "word": "하니라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 1,
+    "verse": 7,
+    "text": "그들이 서로 이르되, 자 우리가 제비를 뽑아 이 재앙이 누구로 말미암아 우리에게 임하였나 알아 보자 하고 곧 제비를 뽑으니 제비가 요나에게 뽑힌지라",
+    "words": [
+      {
+        "word": "그들이",
+        "strong": null
+      },
+      {
+        "word": "서로",
+        "strong": "H376"
+      },
+      {
+        "word": "이르되",
+        "strong": "H559"
+      },
+      {
+        "word": "자",
+        "strong": "H3212"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "제비를",
+        "strong": "H1486"
+      },
+      {
+        "word": "뽑아",
+        "strong": "H5307"
+      },
+      {
+        "word": "이",
+        "strong": "H2063"
+      },
+      {
+        "word": "재앙이",
+        "strong": "H7451"
+      },
+      {
+        "word": "누구로 말미암아",
+        "strong": "H4310"
+      },
+      {
+        "word": "우리에게 임하였나",
+        "strong": "H9003"
+      },
+      {
+        "word": "알아보자",
+        "strong": "H3045"
+      },
+      {
+        "word": "하고",
+        "strong": null
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "제비를",
+        "strong": "H1486"
+      },
+      {
+        "word": "뽑으니",
+        "strong": "H5307"
+      },
+      {
+        "word": "제비가",
+        "strong": "H1486"
+      },
+      {
+        "word": "요나",
+        "strong": "H3124"
+      },
+      {
+        "word": "에게",
+        "strong": "H5921"
+      },
+      {
+        "word": "뽑힌지라",
+        "strong": "H5307"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 1,
+    "verse": 8,
+    "text": "무리가 그에게 이르되 청하건대 이 재앙이 누구 때문에 우리에게 임하였는가 말하라 네 생업이 무엇이며 네가 어디서 왔으며 네 나라가 어디며 어느 민족에 속하였느냐 하니",
+    "words": [
+      {
+        "word": "무리가",
+        "strong": null
+      },
+      {
+        "word": "그에게",
+        "strong": "H413"
+      },
+      {
+        "word": "이르되",
+        "strong": "H559"
+      },
+      {
+        "word": "청하건대",
+        "strong": "H4994"
+      },
+      {
+        "word": "이",
+        "strong": "H2063"
+      },
+      {
+        "word": "재앙이",
+        "strong": "H7451"
+      },
+      {
+        "word": "누구",
+        "strong": "H4310"
+      },
+      {
+        "word": "때문에",
+        "strong": "H834"
+      },
+      {
+        "word": "우리에게 임하였는가",
+        "strong": "H9003"
+      },
+      {
+        "word": "말하라",
+        "strong": "H5046"
+      },
+      {
+        "word": "네 생업이",
+        "strong": "H4399"
+      },
+      {
+        "word": "무엇이며",
+        "strong": "H4100"
+      },
+      {
+        "word": "네가 어디서",
+        "strong": "H370"
+      },
+      {
+        "word": "왔으며",
+        "strong": "H935"
+      },
+      {
+        "word": "네 나라가",
+        "strong": "H776"
+      },
+      {
+        "word": "어디며",
+        "strong": "H4100"
+      },
+      {
+        "word": "어느",
+        "strong": "H335"
+      },
+      {
+        "word": "민족에 속하였느냐",
+        "strong": "H5971"
+      },
+      {
+        "word": "하니",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 1,
+    "verse": 9,
+    "text": "그가 대답하되 나는 히브리 사람이요 바다와 육지를 지으신 하늘의 하나님 여호와를 경외하는 자로라 하고",
+    "words": [
+      {
+        "word": "그가 대답하되",
+        "strong": "H559"
+      },
+      {
+        "word": "나는",
+        "strong": "H595"
+      },
+      {
+        "word": "히브리 사람이요",
+        "strong": "H5680"
+      },
+      {
+        "word": "바다와",
+        "strong": "H3220"
+      },
+      {
+        "word": "육지를",
+        "strong": "H3004"
+      },
+      {
+        "word": "지으 신",
+        "strong": "H6213"
+      },
+      {
+        "word": "하늘",
+        "strong": "H8064"
+      },
+      {
+        "word": "의 하나님",
+        "strong": "H430"
+      },
+      {
+        "word": "여호와를",
+        "strong": "H3068"
+      },
+      {
+        "word": "경외하는 자로라",
+        "strong": "H3373"
+      },
+      {
+        "word": "하고",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 1,
+    "verse": 10,
+    "text": "자기가 여호와의 얼굴을 피함인 줄을 그들에게 말하였으므로 무리가 알고 심히 두려워하여 이르되 네가 어찌하여 그렇게 행하였느냐 하니라",
+    "words": [
+      {
+        "word": "자기가",
+        "strong": "H1931"
+      },
+      {
+        "word": "여호와",
+        "strong": "H3068"
+      },
+      {
+        "word": "의 얼굴을",
+        "strong": "H6440"
+      },
+      {
+        "word": "피함인",
+        "strong": "H1272"
+      },
+      {
+        "word": "줄을",
+        "strong": "H3588"
+      },
+      {
+        "word": "그들에게",
+        "strong": "H9003"
+      },
+      {
+        "word": "말하였",
+        "strong": "H5046"
+      },
+      {
+        "word": "으므로",
+        "strong": "H3588"
+      },
+      {
+        "word": "무리가",
+        "strong": "H582"
+      },
+      {
+        "word": "알고",
+        "strong": "H3045"
+      },
+      {
+        "word": "심히",
+        "strong": "H1419"
+      },
+      {
+        "word": "두려워하여",
+        "strong": "H3372"
+      },
+      {
+        "word": "이르되",
+        "strong": "H559"
+      },
+      {
+        "word": "네가",
+        "strong": null
+      },
+      {
+        "word": "어찌하여",
+        "strong": "H4100"
+      },
+      {
+        "word": "그렇게",
+        "strong": "H2063"
+      },
+      {
+        "word": "행하였느냐",
+        "strong": "H6213"
+      },
+      {
+        "word": "하니라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 1,
+    "verse": 11,
+    "text": "바다가 점점 흉용한지라 무리가 그에게 이르되 우리가 너를 어떻게 하여야 바다가 우리를 위하여 잔잔하겠느냐 하니",
+    "words": [
+      {
+        "word": "바다가",
+        "strong": "H3220"
+      },
+      {
+        "word": "점점",
+        "strong": null
+      },
+      {
+        "word": "흉용",
+        "strong": "H5590"
+      },
+      {
+        "word": "한지라",
+        "strong": "H1980"
+      },
+      {
+        "word": "무리가",
+        "strong": null
+      },
+      {
+        "word": "그에게",
+        "strong": "H413"
+      },
+      {
+        "word": "이르되",
+        "strong": "H559"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "너를",
+        "strong": "H9003"
+      },
+      {
+        "word": "어떻게",
+        "strong": "H4100"
+      },
+      {
+        "word": "하여야",
+        "strong": "H6213"
+      },
+      {
+        "word": "바다가",
+        "strong": "H3220"
+      },
+      {
+        "word": "우리를 위하여",
+        "strong": "H5921"
+      },
+      {
+        "word": "잔잔하겠느냐",
+        "strong": "H8367"
+      },
+      {
+        "word": "하니",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 1,
+    "verse": 12,
+    "text": "그가 대답하되 나를 들어 바다에 던지라 그리하면 바다가 너희를 위하여 잔잔하리라 너희가 이 큰 폭풍을 만난 것이 나 때문인 줄을 내가 아노라 하니라",
+    "words": [
+      {
+        "word": "그가 대답하되",
+        "strong": "H559"
+      },
+      {
+        "word": "나를 들어",
+        "strong": "H5375"
+      },
+      {
+        "word": "바다",
+        "strong": "H3220"
+      },
+      {
+        "word": "에",
+        "strong": "H413"
+      },
+      {
+        "word": "던지라",
+        "strong": "H2904"
+      },
+      {
+        "word": "그리하면",
+        "strong": null
+      },
+      {
+        "word": "바다가",
+        "strong": "H3220"
+      },
+      {
+        "word": "너희를 위하여",
+        "strong": "H5921"
+      },
+      {
+        "word": "잔잔하리라",
+        "strong": "H8367"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "이",
+        "strong": "H2088"
+      },
+      {
+        "word": "큰",
+        "strong": "H1419"
+      },
+      {
+        "word": "폭풍을",
+        "strong": "H5591"
+      },
+      {
+        "word": "만난 것이",
+        "strong": "H5921"
+      },
+      {
+        "word": "나 때문인",
+        "strong": "H7945"
+      },
+      {
+        "word": "줄을",
+        "strong": "H3588"
+      },
+      {
+        "word": "내가",
+        "strong": "H589"
+      },
+      {
+        "word": "아노라",
+        "strong": "H3045"
+      },
+      {
+        "word": "하니라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 1,
+    "verse": 13,
+    "text": "그러나 그 사람들이 힘써 노를 저어 배를 육지로 돌리고자 하다가 바다가 그들을 향하여 점점 더 흉용하므로 능히 못한지라",
+    "words": [
+      {
+        "word": "그러나",
+        "strong": null
+      },
+      {
+        "word": "그 사람들이",
+        "strong": "H582"
+      },
+      {
+        "word": "힘써 노를 저어",
+        "strong": "H2864"
+      },
+      {
+        "word": "배를",
+        "strong": null
+      },
+      {
+        "word": "육지",
+        "strong": "H3004"
+      },
+      {
+        "word": "로",
+        "strong": "H413"
+      },
+      {
+        "word": "돌리고자 하다가",
+        "strong": "H7725"
+      },
+      {
+        "word": "바다가",
+        "strong": "H3220"
+      },
+      {
+        "word": "그들을 향하여",
+        "strong": "H5921"
+      },
+      {
+        "word": "점점 더",
+        "strong": "H1980"
+      },
+      {
+        "word": "흉용",
+        "strong": "H5590"
+      },
+      {
+        "word": "하므로",
+        "strong": null
+      },
+      {
+        "word": "능히",
+        "strong": "H3201"
+      },
+      {
+        "word": "못한지라",
+        "strong": "H3808"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 1,
+    "verse": 14,
+    "text": "무리가 여호와께 부르짖어 이르되 여호와여 구하고 구하오니 이 사람의 생명 때문에 우리를 멸망시키지 마옵소서 무죄한 피를 우리에게 돌리지 마옵소서 주 여호와께서는 주의 뜻대로 행하심이니이다 하고",
+    "words": [
+      {
+        "word": "무리가",
+        "strong": null
+      },
+      {
+        "word": "여호와",
+        "strong": "H3068"
+      },
+      {
+        "word": "께",
+        "strong": "H413"
+      },
+      {
+        "word": "부르짖어",
+        "strong": "H7121"
+      },
+      {
+        "word": "이르되",
+        "strong": "H559"
+      },
+      {
+        "word": "여호와여",
+        "strong": "H3068"
+      },
+      {
+        "word": "구하고",
+        "strong": "H577"
+      },
+      {
+        "word": "구하오니",
+        "strong": "H4994"
+      },
+      {
+        "word": "이",
+        "strong": "H2088"
+      },
+      {
+        "word": "사람",
+        "strong": "H376"
+      },
+      {
+        "word": "의 생명 때문에",
+        "strong": "H5315"
+      },
+      {
+        "word": "우리를 멸망시키지",
+        "strong": "H6"
+      },
+      {
+        "word": "마옵소서",
+        "strong": "H408"
+      },
+      {
+        "word": "무죄한",
+        "strong": "H5355"
+      },
+      {
+        "word": "피를",
+        "strong": "H1818"
+      },
+      {
+        "word": "우리에게",
+        "strong": "H5921"
+      },
+      {
+        "word": "돌리지",
+        "strong": "H5414"
+      },
+      {
+        "word": "마옵소서",
+        "strong": "H408"
+      },
+      {
+        "word": "주 여호와께서는",
+        "strong": "H3068"
+      },
+      {
+        "word": "주의 뜻",
+        "strong": "H2654"
+      },
+      {
+        "word": "대로",
+        "strong": "H834"
+      },
+      {
+        "word": "행하심이니이다",
+        "strong": "H6213"
+      },
+      {
+        "word": "하고",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 1,
+    "verse": 15,
+    "text": "요나를 들어 바다에 던지매 바다가 뛰노는 것이 곧 그친지라",
+    "words": [
+      {
+        "word": "요나를",
+        "strong": "H3124"
+      },
+      {
+        "word": "들어",
+        "strong": "H5375"
+      },
+      {
+        "word": "바다",
+        "strong": "H3220"
+      },
+      {
+        "word": "에",
+        "strong": "H413"
+      },
+      {
+        "word": "던지매",
+        "strong": "H2904"
+      },
+      {
+        "word": "바다가",
+        "strong": "H3220"
+      },
+      {
+        "word": "뛰노는 것이",
+        "strong": "H2197"
+      },
+      {
+        "word": "곧 그친지라",
+        "strong": "H5975"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 1,
+    "verse": 16,
+    "text": "그 사람들이 여호와를 크게 두려워하여 여호와께 제물을 드리고 서원을 하였더라",
+    "words": [
+      {
+        "word": "그 사람들이",
+        "strong": "H582"
+      },
+      {
+        "word": "여호와를",
+        "strong": "H3068"
+      },
+      {
+        "word": "크게",
+        "strong": "H1419"
+      },
+      {
+        "word": "두려워하여",
+        "strong": "H3372"
+      },
+      {
+        "word": "여호와께",
+        "strong": "H3068"
+      },
+      {
+        "word": "제물을",
+        "strong": "H2077"
+      },
+      {
+        "word": "드리고",
+        "strong": "H2076"
+      },
+      {
+        "word": "서원을",
+        "strong": "H5088"
+      },
+      {
+        "word": "하였더라",
+        "strong": "H5087"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 1,
+    "verse": 17,
+    "text": "(요나의 기도) 여호와께서 이미 큰 물고기를 예비하사 요나를 삼키게 하셨으므로 요나가 밤낮 삼 일을 물고기 뱃속에 있으니라",
+    "words": [
+      {
+        "word": "여호와께서",
+        "strong": "H3068"
+      },
+      {
+        "word": "이미",
+        "strong": null
+      },
+      {
+        "word": "큰",
+        "strong": "H1419"
+      },
+      {
+        "word": "물고기를",
+        "strong": "H1709"
+      },
+      {
+        "word": "예비하사",
+        "strong": "H4487"
+      },
+      {
+        "word": "요나를",
+        "strong": "H3124"
+      },
+      {
+        "word": "삼키게 하셨으므로",
+        "strong": "H1104"
+      },
+      {
+        "word": "요나가",
+        "strong": "H3124"
+      },
+      {
+        "word": "밤",
+        "strong": "H3915"
+      },
+      {
+        "word": "낮",
+        "strong": "H3117"
+      },
+      {
+        "word": "삼",
+        "strong": "H7969"
+      },
+      {
+        "word": "일을",
+        "strong": null
+      },
+      {
+        "word": "물고기",
+        "strong": "H1709"
+      },
+      {
+        "word": "뱃속에",
+        "strong": "H4578"
+      },
+      {
+        "word": "있으니라",
+        "strong": "H1961"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 2,
+    "verse": 1,
+    "text": "요나가 물고기 뱃속에서 그의 하나님 여호와께 기도하여",
+    "words": [
+      {
+        "word": "요나가",
+        "strong": "H3124"
+      },
+      {
+        "word": "물고기",
+        "strong": "H1710"
+      },
+      {
+        "word": "뱃속에서",
+        "strong": "H4578"
+      },
+      {
+        "word": "그의 하나님",
+        "strong": "H430"
+      },
+      {
+        "word": "여호와",
+        "strong": "H3068"
+      },
+      {
+        "word": "께",
+        "strong": "H413"
+      },
+      {
+        "word": "기도하여",
+        "strong": "H6419"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 2,
+    "verse": 2,
+    "text": "이르되 내가 받는 고난으로 말미암아 여호와께 불러 아뢰었더니 주께서 내게 대답하셨고 내가 스올의 뱃속에서 부르짖었더니 주께서 내 음성을 들으셨나이다",
+    "words": [
+      {
+        "word": "이르되",
+        "strong": "H559"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "받는 고난으로 말미암아",
+        "strong": "H6869"
+      },
+      {
+        "word": "여호와",
+        "strong": "H3068"
+      },
+      {
+        "word": "께",
+        "strong": "H413"
+      },
+      {
+        "word": "불러 아뢰었더니",
+        "strong": "H7121"
+      },
+      {
+        "word": "주께서 내게 대답하셨고",
+        "strong": "H6030"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "스올",
+        "strong": "H7585"
+      },
+      {
+        "word": "의 뱃속에서",
+        "strong": "H990"
+      },
+      {
+        "word": "부르",
+        "strong": "H7768"
+      },
+      {
+        "word": "주께서",
+        "strong": null
+      },
+      {
+        "word": "내 음성을",
+        "strong": "H6963"
+      },
+      {
+        "word": "들으셨나이다",
+        "strong": "H8085"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 2,
+    "verse": 3,
+    "text": "주께서 나를 깊음 속 바다 가운데에 던지셨으므로 큰 물이 나를 둘렀고 주의 파도와 큰 물결이 다 내 위에 넘쳤나이다",
+    "words": [
+      {
+        "word": "주께서 나를",
+        "strong": null
+      },
+      {
+        "word": "깊음 속",
+        "strong": "H4688"
+      },
+      {
+        "word": "바다",
+        "strong": "H3220"
+      },
+      {
+        "word": "가운데에",
+        "strong": "H3824"
+      },
+      {
+        "word": "던지셨으므로",
+        "strong": "H7993"
+      },
+      {
+        "word": "큰 물이",
+        "strong": "H5104"
+      },
+      {
+        "word": "나를 둘렀고",
+        "strong": "H5437"
+      },
+      {
+        "word": "주의 파도와",
+        "strong": "H4867"
+      },
+      {
+        "word": "큰 물결이",
+        "strong": "H1530"
+      },
+      {
+        "word": "다",
+        "strong": "H3605"
+      },
+      {
+        "word": "내 위에",
+        "strong": "H5921"
+      },
+      {
+        "word": "넘쳤나이다",
+        "strong": "H5674"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 2,
+    "verse": 4,
+    "text": "내가 말하기를 내가 주의 목전에서 쫓겨났을지라도 다시 주의 성전을 바라보겠다 하였나이다",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "말하기를",
+        "strong": "H559"
+      },
+      {
+        "word": "내가",
+        "strong": "H589"
+      },
+      {
+        "word": "주의 목전",
+        "strong": "H5869"
+      },
+      {
+        "word": "에서",
+        "strong": "H5048"
+      },
+      {
+        "word": "쫓겨났을",
+        "strong": "H1644"
+      },
+      {
+        "word": "지라도",
+        "strong": "H389"
+      },
+      {
+        "word": "다시",
+        "strong": "H3254"
+      },
+      {
+        "word": "주의 성",
+        "strong": "H6944"
+      },
+      {
+        "word": "전",
+        "strong": "H1964"
+      },
+      {
+        "word": "을",
+        "strong": "H413"
+      },
+      {
+        "word": "바라보겠다",
+        "strong": "H5027"
+      },
+      {
+        "word": "하였나이다",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 2,
+    "verse": 5,
+    "text": "물이 나를 영혼까지 둘렀사오며 깊음이 나를 에워싸고 바다 풀이 내 머리를 감쌌나이다",
+    "words": [
+      {
+        "word": "물이",
+        "strong": "H4325"
+      },
+      {
+        "word": "나를",
+        "strong": null
+      },
+      {
+        "word": "영혼",
+        "strong": "H5315"
+      },
+      {
+        "word": "까지",
+        "strong": "H5704"
+      },
+      {
+        "word": "둘렀사오며",
+        "strong": "H661"
+      },
+      {
+        "word": "깊음이",
+        "strong": "H8415"
+      },
+      {
+        "word": "나를 에워싸고",
+        "strong": "H5437"
+      },
+      {
+        "word": "바다 풀이",
+        "strong": "H5488"
+      },
+      {
+        "word": "내 머리를",
+        "strong": "H7218"
+      },
+      {
+        "word": "감쌌나이다",
+        "strong": "H2280"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 2,
+    "verse": 6,
+    "text": "내가 산의 뿌리까지 내려갔사오며 땅이 그 빗장으로 나를 오래도록 막았사오나 나의 하나님 여호와여 주께서 내 생명을 구덩이에서 건지셨나이다",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "산",
+        "strong": "H2022"
+      },
+      {
+        "word": "의 뿌리까지",
+        "strong": "H7095"
+      },
+      {
+        "word": "내려갔사오며",
+        "strong": "H3381"
+      },
+      {
+        "word": "땅이",
+        "strong": "H776"
+      },
+      {
+        "word": "그 빗장으로",
+        "strong": "H1280"
+      },
+      {
+        "word": "나를",
+        "strong": "H1157"
+      },
+      {
+        "word": "오래도록",
+        "strong": "H5769"
+      },
+      {
+        "word": "막았사오나",
+        "strong": null
+      },
+      {
+        "word": "나의 하나님",
+        "strong": "H430"
+      },
+      {
+        "word": "여호와여",
+        "strong": "H3068"
+      },
+      {
+        "word": "주께서",
+        "strong": null
+      },
+      {
+        "word": "내 생명을",
+        "strong": "H2416"
+      },
+      {
+        "word": "구덩이에서",
+        "strong": "H7845"
+      },
+      {
+        "word": "건지셨나이다",
+        "strong": "H5927"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 2,
+    "verse": 7,
+    "text": "내 영혼이 내 속에서 피곤할 때에 내가 여호와를 생각하였더니 내 기도가 주께 이르렀사오며 주의 성전에 미쳤나이다",
+    "words": [
+      {
+        "word": "내 영혼이",
+        "strong": "H5315"
+      },
+      {
+        "word": "내 속에서",
+        "strong": "H5921"
+      },
+      {
+        "word": "피곤할 때에",
+        "strong": "H5848"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "여호와를",
+        "strong": "H3068"
+      },
+      {
+        "word": "생각하였더니",
+        "strong": "H2142"
+      },
+      {
+        "word": "내 기도가",
+        "strong": "H8605"
+      },
+      {
+        "word": "주께",
+        "strong": "H413"
+      },
+      {
+        "word": "이르렀사오며",
+        "strong": "H935"
+      },
+      {
+        "word": "주의 성",
+        "strong": "H6944"
+      },
+      {
+        "word": "전",
+        "strong": "H1964"
+      },
+      {
+        "word": "에 미쳤나이다",
+        "strong": "H413"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 2,
+    "verse": 8,
+    "text": "거짓되고 헛된 것을 숭상하는 모든 자는 자기에게 베푸신 은혜를 버렸사오나",
+    "words": [
+      {
+        "word": "거짓되고",
+        "strong": "H7723"
+      },
+      {
+        "word": "헛된 것을",
+        "strong": "H1892"
+      },
+      {
+        "word": "숭상하는 모든 자는",
+        "strong": "H8104"
+      },
+      {
+        "word": "자기에게 베푸신 은혜를",
+        "strong": "H2617"
+      },
+      {
+        "word": "버렸사오나",
+        "strong": "H5800"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 2,
+    "verse": 9,
+    "text": "나는 감사하는 목소리로 주께 제사를 드리며 나의 서원을 주께 갚겠나이다 구원은 여호와께 속하였나이다 하니라",
+    "words": [
+      {
+        "word": "나는",
+        "strong": "H589"
+      },
+      {
+        "word": "감사하는",
+        "strong": "H8426"
+      },
+      {
+        "word": "목소리로",
+        "strong": "H6963"
+      },
+      {
+        "word": "주께",
+        "strong": "H9003"
+      },
+      {
+        "word": "제사를 드리며",
+        "strong": "H2076"
+      },
+      {
+        "word": "나의 서원을",
+        "strong": "H5087"
+      },
+      {
+        "word": "주께 갚겠나이다",
+        "strong": "H7999"
+      },
+      {
+        "word": "구원은",
+        "strong": "H3444"
+      },
+      {
+        "word": "여호와께속하였나이다",
+        "strong": "H3068"
+      },
+      {
+        "word": "하니라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 2,
+    "verse": 10,
+    "text": "여호와께서 그 물고기에게 말씀하시매 요나를 육지에 토하니라",
+    "words": [
+      {
+        "word": "여호와께서",
+        "strong": "H3068"
+      },
+      {
+        "word": "그 물고기에게",
+        "strong": "H1709"
+      },
+      {
+        "word": "말씀하시매",
+        "strong": "H559"
+      },
+      {
+        "word": "요나를",
+        "strong": "H3124"
+      },
+      {
+        "word": "육지",
+        "strong": "H3004"
+      },
+      {
+        "word": "에",
+        "strong": "H413"
+      },
+      {
+        "word": "토하니라",
+        "strong": "H6958"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 3,
+    "verse": 1,
+    "text": "(니느웨 백성의 회개) 여호와의 말씀이 두 번째로 요나에게 임하니라 이르시되",
+    "words": [
+      {
+        "word": "여호와",
+        "strong": "H3068"
+      },
+      {
+        "word": "의 말씀이",
+        "strong": "H1697"
+      },
+      {
+        "word": "두 번째로",
+        "strong": "H8145"
+      },
+      {
+        "word": "요나",
+        "strong": "H3124"
+      },
+      {
+        "word": "에게",
+        "strong": "H413"
+      },
+      {
+        "word": "임하니라",
+        "strong": "H1961"
+      },
+      {
+        "word": "이르시되",
+        "strong": "H559"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 3,
+    "verse": 2,
+    "text": "일어나 저 큰 성읍 니느웨로 가서 내가 네게 명한 바를 그들에게 선포하라 하신지라",
+    "words": [
+      {
+        "word": "일어나",
+        "strong": "H6965"
+      },
+      {
+        "word": "저",
+        "strong": null
+      },
+      {
+        "word": "큰",
+        "strong": "H1419"
+      },
+      {
+        "word": "성읍",
+        "strong": "H5892"
+      },
+      {
+        "word": "니느웨",
+        "strong": "H5210"
+      },
+      {
+        "word": "로",
+        "strong": "H413"
+      },
+      {
+        "word": "가서",
+        "strong": "H3212"
+      },
+      {
+        "word": "내가",
+        "strong": "H595"
+      },
+      {
+        "word": "네게",
+        "strong": "H413"
+      },
+      {
+        "word": "명한",
+        "strong": "H1696"
+      },
+      {
+        "word": "바를",
+        "strong": "H7150"
+      },
+      {
+        "word": "그들에게",
+        "strong": "H413"
+      },
+      {
+        "word": "선포하라",
+        "strong": "H7121"
+      },
+      {
+        "word": "하신지라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 3,
+    "verse": 3,
+    "text": "요나가 여호와의 말씀대로 일어나서 니느웨로 가니라 니느웨는 사흘 동안 걸을 만큼 하나님 앞에 큰 성읍이더라",
+    "words": [
+      {
+        "word": "요나가",
+        "strong": "H3124"
+      },
+      {
+        "word": "여호와",
+        "strong": "H3068"
+      },
+      {
+        "word": "의 말씀대로",
+        "strong": "H1697"
+      },
+      {
+        "word": "일어나서",
+        "strong": "H6965"
+      },
+      {
+        "word": "니느웨",
+        "strong": "H5210"
+      },
+      {
+        "word": "로",
+        "strong": "H413"
+      },
+      {
+        "word": "가니라",
+        "strong": "H3212"
+      },
+      {
+        "word": "니느웨는",
+        "strong": "H5210"
+      },
+      {
+        "word": "사",
+        "strong": "H7969"
+      },
+      {
+        "word": "흘 동안",
+        "strong": "H3117"
+      },
+      {
+        "word": "걸을만큼",
+        "strong": "H4109"
+      },
+      {
+        "word": "하나님 앞에",
+        "strong": "H430"
+      },
+      {
+        "word": "큰",
+        "strong": "H1419"
+      },
+      {
+        "word": "성읍",
+        "strong": "H5892"
+      },
+      {
+        "word": "이더라",
+        "strong": "H1961"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 3,
+    "verse": 4,
+    "text": "요나가 그 성읍에 들어가서 하루 동안 다니며 외쳐 이르되 사십 일이 지나면 니느웨가 무너지리라 하였더니",
+    "words": [
+      {
+        "word": "요나가",
+        "strong": "H3124"
+      },
+      {
+        "word": "그 성읍에",
+        "strong": "H5892"
+      },
+      {
+        "word": "들어",
+        "strong": "H2490"
+      },
+      {
+        "word": "가서",
+        "strong": "H935"
+      },
+      {
+        "word": "하루동안",
+        "strong": "H259"
+      },
+      {
+        "word": "다니며",
+        "strong": "H4109"
+      },
+      {
+        "word": "외쳐",
+        "strong": "H7121"
+      },
+      {
+        "word": "이르시되",
+        "strong": "H559"
+      },
+      {
+        "word": "사십",
+        "strong": "H705"
+      },
+      {
+        "word": "일이",
+        "strong": "H3117"
+      },
+      {
+        "word": "지나면",
+        "strong": "H5750"
+      },
+      {
+        "word": "니느웨가",
+        "strong": "H5210"
+      },
+      {
+        "word": "무너지리라",
+        "strong": "H2015"
+      },
+      {
+        "word": "하였더니",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 3,
+    "verse": 5,
+    "text": "니느웨 사람들이 하나님을 믿고 금식을 선포하고 높고 낮은 자를 막론하고 굵은 베 옷을 입은지라",
+    "words": [
+      {
+        "word": "니느웨",
+        "strong": "H5210"
+      },
+      {
+        "word": "사란들이",
+        "strong": "H582"
+      },
+      {
+        "word": "하나님을",
+        "strong": "H430"
+      },
+      {
+        "word": "믿고",
+        "strong": "H539"
+      },
+      {
+        "word": "금식을",
+        "strong": "H6685"
+      },
+      {
+        "word": "선포하고",
+        "strong": "H7121"
+      },
+      {
+        "word": "높고",
+        "strong": "H1419"
+      },
+      {
+        "word": "낮은 자를",
+        "strong": "H6996"
+      },
+      {
+        "word": "막론하고",
+        "strong": "H5704"
+      },
+      {
+        "word": "굵은 베옷을",
+        "strong": "H8242"
+      },
+      {
+        "word": "입은지라",
+        "strong": "H3847"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 3,
+    "verse": 6,
+    "text": "그 일이 니느웨 왕에게 들리매 왕이 보좌에서 일어나 왕복을 벗고 굵은 베 옷을 입고 재 위에 앉으니라",
+    "words": [
+      {
+        "word": "그 일이",
+        "strong": "H1697"
+      },
+      {
+        "word": "니느웨",
+        "strong": "H5210"
+      },
+      {
+        "word": "왕",
+        "strong": "H4428"
+      },
+      {
+        "word": "에게",
+        "strong": "H413"
+      },
+      {
+        "word": "들리매",
+        "strong": "H5060"
+      },
+      {
+        "word": "왕이",
+        "strong": null
+      },
+      {
+        "word": "보좌에서",
+        "strong": "H3678"
+      },
+      {
+        "word": "일어나",
+        "strong": "H6965"
+      },
+      {
+        "word": "왕복을",
+        "strong": "H155"
+      },
+      {
+        "word": "벗고",
+        "strong": "H5674"
+      },
+      {
+        "word": "굵은 베옷을",
+        "strong": "H8242"
+      },
+      {
+        "word": "입고",
+        "strong": "H3680"
+      },
+      {
+        "word": "재",
+        "strong": "H665"
+      },
+      {
+        "word": "에",
+        "strong": "H5921"
+      },
+      {
+        "word": "앉으니라",
+        "strong": "H3427"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 3,
+    "verse": 7,
+    "text": "왕과 그의 대신들이 조서를 내려 니느웨에 선포하여 이르되 사람이나 짐승이나 소 떼나 양 떼나 아무것도 입에 대지 말지니 곧 먹지도 말 것이요 물도 마시지 말 것이며",
+    "words": [
+      {
+        "word": "왕과",
+        "strong": "H4428"
+      },
+      {
+        "word": "그의 대신들이",
+        "strong": "H1419"
+      },
+      {
+        "word": "조서를",
+        "strong": "H2940"
+      },
+      {
+        "word": "내려",
+        "strong": "H559"
+      },
+      {
+        "word": "니느웨에",
+        "strong": "H5210"
+      },
+      {
+        "word": "선포하여",
+        "strong": "H2199"
+      },
+      {
+        "word": "이르되",
+        "strong": "H559"
+      },
+      {
+        "word": "사람이나",
+        "strong": "H120"
+      },
+      {
+        "word": "짐승이나",
+        "strong": "H929"
+      },
+      {
+        "word": "소떼나",
+        "strong": "H1241"
+      },
+      {
+        "word": "양떼나",
+        "strong": "H6629"
+      },
+      {
+        "word": "아무 것도",
+        "strong": "H3972"
+      },
+      {
+        "word": "입에 대지",
+        "strong": "H2938"
+      },
+      {
+        "word": "말지니",
+        "strong": "H408"
+      },
+      {
+        "word": "곧 먹지도",
+        "strong": "H7462"
+      },
+      {
+        "word": "말 것이요",
+        "strong": "H408"
+      },
+      {
+        "word": "물도",
+        "strong": "H4325"
+      },
+      {
+        "word": "마시지",
+        "strong": "H8354"
+      },
+      {
+        "word": "말 것이며",
+        "strong": "H408"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 3,
+    "verse": 8,
+    "text": "사람이든지 짐승이든지 다 굵은 베 옷을 입을 것이요 힘써 하나님께 부르짖을 것이며 각기 악한 길과 손으로 행한 강포에서 떠날 것이라",
+    "words": [
+      {
+        "word": "사람이든지",
+        "strong": "H120"
+      },
+      {
+        "word": "짐승이든지",
+        "strong": "H929"
+      },
+      {
+        "word": "다",
+        "strong": null
+      },
+      {
+        "word": "굵은 베옷을",
+        "strong": "H8242"
+      },
+      {
+        "word": "입을 것이요",
+        "strong": "H3680"
+      },
+      {
+        "word": "힘써",
+        "strong": "H2394"
+      },
+      {
+        "word": "하나님",
+        "strong": "H430"
+      },
+      {
+        "word": "께",
+        "strong": "H413"
+      },
+      {
+        "word": "부르짖을 것이며",
+        "strong": "H7121"
+      },
+      {
+        "word": "각기",
+        "strong": "H376"
+      },
+      {
+        "word": "악한",
+        "strong": "H7451"
+      },
+      {
+        "word": "길과",
+        "strong": "H1870"
+      },
+      {
+        "word": "손으로 행한",
+        "strong": "H3709"
+      },
+      {
+        "word": "강포",
+        "strong": "H2555"
+      },
+      {
+        "word": "에서",
+        "strong": "H4480"
+      },
+      {
+        "word": "떠날 것이라",
+        "strong": "H7725"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 3,
+    "verse": 9,
+    "text": "하나님이 뜻을 돌이키시고 그 진노를 그치사 우리가 멸망하지 않게 하시리라 그렇지 않을 줄을 누가 알겠느냐 한지라",
+    "words": [
+      {
+        "word": "하나님이",
+        "strong": "H430"
+      },
+      {
+        "word": "뜻을 돌이키시고",
+        "strong": "H7725"
+      },
+      {
+        "word": "그 진노를",
+        "strong": "H2740"
+      },
+      {
+        "word": "그치사",
+        "strong": "H7725"
+      },
+      {
+        "word": "우리가 멸망하지",
+        "strong": "H6"
+      },
+      {
+        "word": "않게 하시리라",
+        "strong": "H3808"
+      },
+      {
+        "word": "그렇지 않을 줄을",
+        "strong": "H5162"
+      },
+      {
+        "word": "누가",
+        "strong": "H4310"
+      },
+      {
+        "word": "알겠느냐 한지라",
+        "strong": "H3045"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 3,
+    "verse": 10,
+    "text": "하나님이 그들이 행한 것 곧 그 악한 길에서 돌이켜 떠난 것을 보시고 하나님이 뜻을 돌이키사 그들에게 내리리라고 말씀하신 재앙을 내리지 아니하시니라",
+    "words": [
+      {
+        "word": "하나님이",
+        "strong": "H430"
+      },
+      {
+        "word": "그들의 행한 것",
+        "strong": "H4639"
+      },
+      {
+        "word": "곧",
+        "strong": "H3588"
+      },
+      {
+        "word": "그 악한",
+        "strong": "H7451"
+      },
+      {
+        "word": "길에서",
+        "strong": "H1870"
+      },
+      {
+        "word": "돌이켜",
+        "strong": "H7725"
+      },
+      {
+        "word": "떠난 것을",
+        "strong": null
+      },
+      {
+        "word": "보시고",
+        "strong": "H7200"
+      },
+      {
+        "word": "하나님이",
+        "strong": "H430"
+      },
+      {
+        "word": "뜻을 돌이키사",
+        "strong": "H5162"
+      },
+      {
+        "word": "그들에게",
+        "strong": "H9003"
+      },
+      {
+        "word": "내리리라고",
+        "strong": "H6213"
+      },
+      {
+        "word": "말씀하신",
+        "strong": "H1696"
+      },
+      {
+        "word": "재앙",
+        "strong": "H7451"
+      },
+      {
+        "word": "을",
+        "strong": "H5921"
+      },
+      {
+        "word": "내리지",
+        "strong": "H6213"
+      },
+      {
+        "word": "아니하시니라",
+        "strong": "H3808"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 4,
+    "verse": 1,
+    "text": "(요나의 분노와 하나님의 자비) 요나가 매우 싫어하고 성내며",
+    "words": [
+      {
+        "word": "요나가",
+        "strong": "H3124"
+      },
+      {
+        "word": "매우",
+        "strong": "H1419"
+      },
+      {
+        "word": "싫어하고",
+        "strong": "H3415"
+      },
+      {
+        "word": "성내며",
+        "strong": "H2734"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 4,
+    "verse": 2,
+    "text": "여호와께 기도하여 이르되 여호와여 내가 고국에 있을 때에 이러하겠다고 말씀하지 아니하였나이까 그러므로 내가 빨리 다시스로 도망하였사오니 주께서는 은혜로우시며 자비로우시며 노하기를 더디하시며 인애가 크시사 뜻을 돌이켜 재앙을 내리지 아니하시는 하나님이신 줄을 내가 알았음이니이다",
+    "words": [
+      {
+        "word": "여호와",
+        "strong": "H3068"
+      },
+      {
+        "word": "께",
+        "strong": "H413"
+      },
+      {
+        "word": "기도하여",
+        "strong": "H6419"
+      },
+      {
+        "word": "이르되",
+        "strong": "H559"
+      },
+      {
+        "word": "여호와여",
+        "strong": "H3068"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "고국",
+        "strong": "H127"
+      },
+      {
+        "word": "에",
+        "strong": "H5921"
+      },
+      {
+        "word": "있을",
+        "strong": "H1961"
+      },
+      {
+        "word": "때에",
+        "strong": "H5704"
+      },
+      {
+        "word": "이러하겠다고",
+        "strong": "H2088"
+      },
+      {
+        "word": "말씀하지",
+        "strong": "H1697"
+      },
+      {
+        "word": "아니하였나이까",
+        "strong": "H3808"
+      },
+      {
+        "word": "그러",
+        "strong": "H3651"
+      },
+      {
+        "word": "므로",
+        "strong": "H5921"
+      },
+      {
+        "word": "내가 빨리",
+        "strong": "H6923"
+      },
+      {
+        "word": "다시스로",
+        "strong": "H8659"
+      },
+      {
+        "word": "도망하였사오니",
+        "strong": "H1272"
+      },
+      {
+        "word": "주께서는",
+        "strong": "H859"
+      },
+      {
+        "word": "은혜로우시며",
+        "strong": "H2587"
+      },
+      {
+        "word": "자비로우시며",
+        "strong": "H7349"
+      },
+      {
+        "word": "노하기를",
+        "strong": "H639"
+      },
+      {
+        "word": "더디하시며",
+        "strong": "H750"
+      },
+      {
+        "word": "인애가",
+        "strong": "H2617"
+      },
+      {
+        "word": "크시사",
+        "strong": "H7227"
+      },
+      {
+        "word": "뜻을 돌이켜",
+        "strong": "H5162"
+      },
+      {
+        "word": "재앙을",
+        "strong": "H7451"
+      },
+      {
+        "word": "내리지 아니하시는",
+        "strong": "H5921"
+      },
+      {
+        "word": "하나님이신",
+        "strong": "H410"
+      },
+      {
+        "word": "줄을",
+        "strong": "H3588"
+      },
+      {
+        "word": "내가 알았음",
+        "strong": "H3045"
+      },
+      {
+        "word": "이니이다",
+        "strong": "H3588"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 4,
+    "verse": 3,
+    "text": "여호와여 원하건대 이제 내 생명을 거두어 가소서 사는 것보다 죽는 것이 내게 나음이니이다 하니",
+    "words": [
+      {
+        "word": "여호와여",
+        "strong": "H3068"
+      },
+      {
+        "word": "원하건대",
+        "strong": "H4994"
+      },
+      {
+        "word": "이제",
+        "strong": "H6258"
+      },
+      {
+        "word": "내 생명을",
+        "strong": "H5315"
+      },
+      {
+        "word": "거두어가소서",
+        "strong": "H3947"
+      },
+      {
+        "word": "사는 것보다",
+        "strong": "H2416"
+      },
+      {
+        "word": "죽는것이 내게",
+        "strong": "H4194"
+      },
+      {
+        "word": "나음",
+        "strong": "H2896"
+      },
+      {
+        "word": "이니이다",
+        "strong": "H3588"
+      },
+      {
+        "word": "하니",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 4,
+    "verse": 4,
+    "text": "여호와께서 이르시되 네가 성내는 것이 옳으냐 하시니라",
+    "words": [
+      {
+        "word": "여호와께서",
+        "strong": "H3068"
+      },
+      {
+        "word": "이르시되",
+        "strong": "H559"
+      },
+      {
+        "word": "네가",
+        "strong": "H9003"
+      },
+      {
+        "word": "성내는 것이",
+        "strong": "H2734"
+      },
+      {
+        "word": "옳으냐",
+        "strong": "H3190"
+      },
+      {
+        "word": "하시니라",
+        "strong": "H559"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 4,
+    "verse": 5,
+    "text": "요나가 성읍에서 나가서 그 성읍 동쪽에 앉아 거기서 자기를 위하여 초막을 짓고 그 성읍에 무슨 일이 일어나는가를 보려고 그 그늘 아래에 앉았더라",
+    "words": [
+      {
+        "word": "요나가",
+        "strong": "H3124"
+      },
+      {
+        "word": "성",
+        "strong": "H5892"
+      },
+      {
+        "word": "에서",
+        "strong": "H4480"
+      },
+      {
+        "word": "나가서",
+        "strong": "H3318"
+      },
+      {
+        "word": "그 성읍",
+        "strong": "H5892"
+      },
+      {
+        "word": "동쪽에",
+        "strong": "H6924"
+      },
+      {
+        "word": "앉아",
+        "strong": "H3427"
+      },
+      {
+        "word": "거기서",
+        "strong": "H8033"
+      },
+      {
+        "word": "자기를 위하여",
+        "strong": "H9003"
+      },
+      {
+        "word": "초막을",
+        "strong": "H5521"
+      },
+      {
+        "word": "짓고",
+        "strong": "H6213"
+      },
+      {
+        "word": "그 성읍에",
+        "strong": "H5892"
+      },
+      {
+        "word": "무슨 일이",
+        "strong": "H4100"
+      },
+      {
+        "word": "일어나는가를",
+        "strong": "H1961"
+      },
+      {
+        "word": "보려고",
+        "strong": "H7200"
+      },
+      {
+        "word": "그 그늘",
+        "strong": "H6738"
+      },
+      {
+        "word": "아래",
+        "strong": "H8478"
+      },
+      {
+        "word": "앉았더라",
+        "strong": "H3427"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 4,
+    "verse": 6,
+    "text": "하나님 여호와께서 박넝쿨을 예비하사 요나를 가리게 하셨으니 이는 그의 머리를 위하여 그늘이 지게 하며 그의 괴로움을 면하게 하려 하심이었더라 요나가 박넝쿨로 말미암아 크게 기뻐하였더니",
+    "words": [
+      {
+        "word": "하나님",
+        "strong": "H430"
+      },
+      {
+        "word": "여호와께서",
+        "strong": "H3068"
+      },
+      {
+        "word": "박 넝쿨을",
+        "strong": "H7021"
+      },
+      {
+        "word": "예비하사",
+        "strong": "H4487"
+      },
+      {
+        "word": "요나",
+        "strong": "H3124"
+      },
+      {
+        "word": "를",
+        "strong": "H5921"
+      },
+      {
+        "word": "가리게 하셨으니",
+        "strong": "H5927"
+      },
+      {
+        "word": "이는",
+        "strong": "H1961"
+      },
+      {
+        "word": "그의 머리를",
+        "strong": "H7218"
+      },
+      {
+        "word": "위하여",
+        "strong": "H5921"
+      },
+      {
+        "word": "그늘이 지게",
+        "strong": "H6738"
+      },
+      {
+        "word": "하며",
+        "strong": "H1961"
+      },
+      {
+        "word": "그의 괴로움을",
+        "strong": "H7451"
+      },
+      {
+        "word": "면하게하려 하심이었더라",
+        "strong": "H5337"
+      },
+      {
+        "word": "요나가",
+        "strong": "H3124"
+      },
+      {
+        "word": "박 넝쿨로",
+        "strong": "H7021"
+      },
+      {
+        "word": "말미암아",
+        "strong": "H5921"
+      },
+      {
+        "word": "크게",
+        "strong": "H1419"
+      },
+      {
+        "word": "기뻐하였더니",
+        "strong": "H8055"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 4,
+    "verse": 7,
+    "text": "하나님이 벌레를 예비하사 이튿날 새벽에 그 박넝쿨을 갉아먹게 하시매 시드니라",
+    "words": [
+      {
+        "word": "하나님이",
+        "strong": "H430"
+      },
+      {
+        "word": "벌레를",
+        "strong": "H8438"
+      },
+      {
+        "word": "예비하사",
+        "strong": "H4487"
+      },
+      {
+        "word": "이튿날",
+        "strong": "H4283"
+      },
+      {
+        "word": "새벽에",
+        "strong": "H7837"
+      },
+      {
+        "word": "그 박 넝쿨을",
+        "strong": "H7021"
+      },
+      {
+        "word": "갉아먹게 하시매",
+        "strong": "H5221"
+      },
+      {
+        "word": "시드니라",
+        "strong": "H3001"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 4,
+    "verse": 8,
+    "text": "해가 뜰 때에 하나님이 뜨거운 동풍을 예비하셨고 해는 요나의 머리에 쪼이매 요나가 혼미하여 스스로 죽기를 구하여 이르되 사는 것보다 죽는 것이 내게 나으니이다 하니라",
+    "words": [
+      {
+        "word": "해가",
+        "strong": "H8121"
+      },
+      {
+        "word": "뜰",
+        "strong": "H2224"
+      },
+      {
+        "word": "때에",
+        "strong": "H1961"
+      },
+      {
+        "word": "하나님이",
+        "strong": "H430"
+      },
+      {
+        "word": "뜨거운",
+        "strong": "H2759"
+      },
+      {
+        "word": "동",
+        "strong": "H6921"
+      },
+      {
+        "word": "풍을",
+        "strong": "H7307"
+      },
+      {
+        "word": "예비하셨고",
+        "strong": "H4487"
+      },
+      {
+        "word": "해는",
+        "strong": "H8121"
+      },
+      {
+        "word": "요나",
+        "strong": "H3124"
+      },
+      {
+        "word": "의 머리",
+        "strong": "H7218"
+      },
+      {
+        "word": "에",
+        "strong": "H5921"
+      },
+      {
+        "word": "쪼이매",
+        "strong": "H5221"
+      },
+      {
+        "word": "요나가 혼미하여",
+        "strong": "H5968"
+      },
+      {
+        "word": "스스로",
+        "strong": "H5315"
+      },
+      {
+        "word": "죽기를",
+        "strong": "H4191"
+      },
+      {
+        "word": "구하여",
+        "strong": "H7592"
+      },
+      {
+        "word": "이르되",
+        "strong": "H559"
+      },
+      {
+        "word": "사는것보다",
+        "strong": "H2416"
+      },
+      {
+        "word": "죽는 것이 내게",
+        "strong": "H4194"
+      },
+      {
+        "word": "나으니이다",
+        "strong": "H2896"
+      },
+      {
+        "word": "하니라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 4,
+    "verse": 9,
+    "text": "하나님이 요나에게 이르시되 네가 이 박넝쿨로 말미암아 성내는 것이 어찌 옳으냐 하시니 그가 대답하되 내가 성내어 죽기까지 할지라도 옳으니이다 하니라",
+    "words": [
+      {
+        "word": "하나님이",
+        "strong": "H430"
+      },
+      {
+        "word": "요나",
+        "strong": "H3124"
+      },
+      {
+        "word": "에게",
+        "strong": "H413"
+      },
+      {
+        "word": "이르시되",
+        "strong": "H559"
+      },
+      {
+        "word": "네가",
+        "strong": "H9003"
+      },
+      {
+        "word": "이 박 넝쿨로",
+        "strong": "H7021"
+      },
+      {
+        "word": "말미암아",
+        "strong": "H5921"
+      },
+      {
+        "word": "성내는 것이",
+        "strong": "H2734"
+      },
+      {
+        "word": "어찌 옳으냐",
+        "strong": "H3190"
+      },
+      {
+        "word": "하시니",
+        "strong": null
+      },
+      {
+        "word": "그가 대답하되",
+        "strong": "H559"
+      },
+      {
+        "word": "내가",
+        "strong": "H9003"
+      },
+      {
+        "word": "성내어",
+        "strong": "H2734"
+      },
+      {
+        "word": "죽기",
+        "strong": "H4194"
+      },
+      {
+        "word": "까지 할지라도",
+        "strong": "H5704"
+      },
+      {
+        "word": "옳으니이다",
+        "strong": "H3190"
+      },
+      {
+        "word": "하니라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 4,
+    "verse": 10,
+    "text": "여호와께서 이르시되 네가 수고도 아니하였고 재배도 아니하였고 하룻밤에 났다가 하룻밤에 말라 버린 이 박넝쿨을 아꼈거든",
+    "words": [
+      {
+        "word": "여호와께서",
+        "strong": "H3068"
+      },
+      {
+        "word": "이르시되",
+        "strong": "H559"
+      },
+      {
+        "word": "네가",
+        "strong": "H859"
+      },
+      {
+        "word": "수고도",
+        "strong": "H5998"
+      },
+      {
+        "word": "아니하였고",
+        "strong": "H3808"
+      },
+      {
+        "word": "재배도",
+        "strong": "H1431"
+      },
+      {
+        "word": "아니하였고",
+        "strong": "H3808"
+      },
+      {
+        "word": "하룻밤에",
+        "strong": "H3915"
+      },
+      {
+        "word": "났",
+        "strong": "H1121"
+      },
+      {
+        "word": "다가",
+        "strong": "H1961"
+      },
+      {
+        "word": "하룻밤에",
+        "strong": "H3915"
+      },
+      {
+        "word": "말라버린",
+        "strong": "H6"
+      },
+      {
+        "word": "이 박 넝쿨",
+        "strong": "H7021"
+      },
+      {
+        "word": "을",
+        "strong": "H5921"
+      },
+      {
+        "word": "아꼈거든",
+        "strong": "H2347"
+      }
+    ]
+  },
+  {
+    "book": 32,
+    "book_name": "요나",
+    "chapter": 4,
+    "verse": 11,
+    "text": "하물며 이 큰 성읍 니느웨에는 좌우를 분변하지 못하는 자가 십이만여 명이요 가축도 많이 있나니 내가 어찌 아끼지 아니하겠느냐 하시니라",
+    "words": [
+      {
+        "word": "하물며",
+        "strong": null
+      },
+      {
+        "word": "이 큰",
+        "strong": "H1419"
+      },
+      {
+        "word": "성읍",
+        "strong": "H5892"
+      },
+      {
+        "word": "니느웨",
+        "strong": "H5210"
+      },
+      {
+        "word": "에는",
+        "strong": "H5921"
+      },
+      {
+        "word": "좌",
+        "strong": "H8040"
+      },
+      {
+        "word": "우를",
+        "strong": "H3225"
+      },
+      {
+        "word": "분변하지",
+        "strong": "H3045"
+      },
+      {
+        "word": "못하는",
+        "strong": "H3808"
+      },
+      {
+        "word": "자가",
+        "strong": "H834"
+      },
+      {
+        "word": "십",
+        "strong": "H6240"
+      },
+      {
+        "word": "이",
+        "strong": "H8147"
+      },
+      {
+        "word": "만",
+        "strong": "H7239"
+      },
+      {
+        "word": "여",
+        "strong": "H7235"
+      },
+      {
+        "word": "명",
+        "strong": "H120"
+      },
+      {
+        "word": "이요",
+        "strong": "H3426"
+      },
+      {
+        "word": "가축도",
+        "strong": "H929"
+      },
+      {
+        "word": "많이 있나니",
+        "strong": "H7227"
+      },
+      {
+        "word": "내가",
+        "strong": "H589"
+      },
+      {
+        "word": "어찌",
+        "strong": null
+      },
+      {
+        "word": "아끼지",
+        "strong": "H2347"
+      },
+      {
+        "word": "아니하겠느냐",
+        "strong": "H3808"
+      },
+      {
+        "word": "하시니라",
+        "strong": null
+      }
+    ]
+  }
+]

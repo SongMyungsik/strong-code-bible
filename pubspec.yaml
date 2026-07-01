@@ -33,11 +33,9 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/strongbible.json
     - assets/strong_lexicon.db
     - assets/strong_lexicon.json
-    - assets/strongcode.json
-    - assets/images/church_logo.png
+    - assets/books/
     - assets/images/top_image.png
     - assets/images/top_image3.png
   fonts:

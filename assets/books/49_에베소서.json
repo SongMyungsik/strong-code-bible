@@ -1,0 +1,9177 @@
+[
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 1,
+    "text": "(인사) 하나님의 뜻으로 말미암아 그리스도 예수의 사도 된 바울은 에베소에 있는 성도들과 그리스도 예수 안에 있는 신실한 자들에게 편지하노니",
+    "words": [
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "뜻",
+        "strong": "G2307"
+      },
+      {
+        "word": "으로 말미암아",
+        "strong": "G1223"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수의",
+        "strong": "G2424"
+      },
+      {
+        "word": "사도 된",
+        "strong": "G652"
+      },
+      {
+        "word": "바울은",
+        "strong": "G3972"
+      },
+      {
+        "word": "에베소",
+        "strong": "G2181"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "있는",
+        "strong": "G5607"
+      },
+      {
+        "word": "성도들",
+        "strong": "G40"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "안에 있는",
+        "strong": "G1722"
+      },
+      {
+        "word": "신실한 자들에게",
+        "strong": "G4103"
+      },
+      {
+        "word": "편지하노니",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 2,
+    "text": "하나님 우리 아버지와 주 예수 그리스도로부터 은혜와 평강이 너희에게 있을지어다",
+    "words": [
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "아버지",
+        "strong": "G3962"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "로 부터",
+        "strong": "G575"
+      },
+      {
+        "word": "은혜",
+        "strong": "G5485"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "평강이",
+        "strong": "G1515"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "있을지어다",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 3,
+    "text": "(하늘에 속한 신령한 복) 찬송하리로다 하나님 곧 우리 주 예수 그리스도의 아버지께서 그리스도 안에서 하늘에 속한 모든 신령한 복을 우리에게 주시되",
+    "words": [
+      {
+        "word": "찬송하리로다",
+        "strong": "G2128"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "곧",
+        "strong": "G2532"
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "아버지께서",
+        "strong": "G3962"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "하늘에",
+        "strong": "G2032"
+      },
+      {
+        "word": "속한",
+        "strong": "G1722"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "신령한",
+        "strong": "G4152"
+      },
+      {
+        "word": "복",
+        "strong": "G2129"
+      },
+      {
+        "word": "을",
+        "strong": "G1722"
+      },
+      {
+        "word": "우리에게",
+        "strong": "G2248"
+      },
+      {
+        "word": "주시되",
+        "strong": "G2127"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 4,
+    "text": "곧 창세 전에 그리스도 안에서 우리를 택하사 우리로 사랑 안에서 그 앞에 거룩하고 흠이 없게 하시려고",
+    "words": [
+      {
+        "word": "곧",
+        "strong": "G2531"
+      },
+      {
+        "word": "창",
+        "strong": "G2602"
+      },
+      {
+        "word": "세",
+        "strong": "G2889"
+      },
+      {
+        "word": "전에",
+        "strong": "G4253"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G846"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "우리를",
+        "strong": "G2248"
+      },
+      {
+        "word": "택하사",
+        "strong": "G1586"
+      },
+      {
+        "word": "우리로",
+        "strong": "G2248"
+      },
+      {
+        "word": "사랑",
+        "strong": "G26"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "앞에",
+        "strong": "G2714"
+      },
+      {
+        "word": "거룩하고",
+        "strong": "G40"
+      },
+      {
+        "word": "흠이 없게",
+        "strong": "G299"
+      },
+      {
+        "word": "하시려고",
+        "strong": "G1511"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 5,
+    "text": "그 기쁘신 뜻대로 우리를 예정하사 예수 그리스도로 말미암아 자기의 아들들이 되게 하셨으니",
+    "words": [
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "기쁘신",
+        "strong": "G2107"
+      },
+      {
+        "word": "뜻",
+        "strong": "G2307"
+      },
+      {
+        "word": "대로",
+        "strong": "G2596"
+      },
+      {
+        "word": "우리를",
+        "strong": "G2248"
+      },
+      {
+        "word": "예정하사",
+        "strong": "G4309"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도로",
+        "strong": "G5547"
+      },
+      {
+        "word": "말미암아",
+        "strong": "G1223"
+      },
+      {
+        "word": "자기",
+        "strong": "G846"
+      },
+      {
+        "word": "의",
+        "strong": "G1519"
+      },
+      {
+        "word": "아들들이 되게",
+        "strong": "G5206"
+      },
+      {
+        "word": "하셨으니",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 6,
+    "text": "이는 그가 사랑하시는 자 안에서 우리에게 거저 주시는 바 그의 은혜의 영광을 찬송하게 하려는 것이라",
+    "words": [
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "그가",
+        "strong": null
+      },
+      {
+        "word": "사랑하시는",
+        "strong": "G25"
+      },
+      {
+        "word": "자",
+        "strong": "G3588"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "우리에게",
+        "strong": "G2248"
+      },
+      {
+        "word": "거저 주시는",
+        "strong": "G5487"
+      },
+      {
+        "word": "바",
+        "strong": "G3739"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "은혜의",
+        "strong": "G5485"
+      },
+      {
+        "word": "영광을",
+        "strong": "G1391"
+      },
+      {
+        "word": "찬송하게",
+        "strong": "G1868"
+      },
+      {
+        "word": "하려는 것이라",
+        "strong": "G1519"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 7,
+    "text": "우리는 그리스도 안에서 그의 은혜의 풍성함을 따라 그의 피로 말미암아 속량 곧 죄 사함을 받았느니라",
+    "words": [
+      {
+        "word": "우리는",
+        "strong": null
+      },
+      {
+        "word": "그리스도",
+        "strong": "G3739"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "은혜의",
+        "strong": "G5485"
+      },
+      {
+        "word": "풍성함을",
+        "strong": "G4149"
+      },
+      {
+        "word": "따라",
+        "strong": "G2596"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "피로",
+        "strong": "G129"
+      },
+      {
+        "word": "말미암아",
+        "strong": "G1223"
+      },
+      {
+        "word": "속량",
+        "strong": "G629"
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "죄",
+        "strong": "G3900"
+      },
+      {
+        "word": "사함을",
+        "strong": "G859"
+      },
+      {
+        "word": "받았느니라",
+        "strong": "G2192"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 8,
+    "text": "이는 그가 모든 지혜와 총명을 우리에게 넘치게 하사",
+    "words": [
+      {
+        "word": "이는",
+        "strong": "G3739"
+      },
+      {
+        "word": "그가",
+        "strong": null
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "지혜",
+        "strong": "G4678"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "총명",
+        "strong": "G5428"
+      },
+      {
+        "word": "을",
+        "strong": "G1722"
+      },
+      {
+        "word": "우리",
+        "strong": "G2248"
+      },
+      {
+        "word": "에게",
+        "strong": "G1519"
+      },
+      {
+        "word": "넘치게 하사",
+        "strong": "G4052"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 9,
+    "text": "그 뜻의 비밀을 우리에게 알리신 것이요 그의 기뻐하심을 따라 그리스도 안에서 때가 찬 경륜을 위하여 예정하신 것이니",
+    "words": [
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "뜻의",
+        "strong": "G2307"
+      },
+      {
+        "word": "비밀을",
+        "strong": "G3466"
+      },
+      {
+        "word": "우리에게",
+        "strong": "G2254"
+      },
+      {
+        "word": "알리신 것이요",
+        "strong": "G1107"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "기뻐하심을",
+        "strong": "G2107"
+      },
+      {
+        "word": "따라",
+        "strong": "G2596"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G846"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "때가",
+        "strong": "G2540"
+      },
+      {
+        "word": "찬",
+        "strong": "G4138"
+      },
+      {
+        "word": "경륜을",
+        "strong": "G3622"
+      },
+      {
+        "word": "위하여",
+        "strong": "G1519"
+      },
+      {
+        "word": "예정하신",
+        "strong": "G4388"
+      },
+      {
+        "word": "것이니",
+        "strong": "G3739"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 10,
+    "text": "하늘에 있는 것이나 땅에 있는 것이 다 그리스도 안에서 통일되게 하려 하심이라",
+    "words": [
+      {
+        "word": "하늘",
+        "strong": "G3772"
+      },
+      {
+        "word": "에 있는",
+        "strong": "G1909"
+      },
+      {
+        "word": "것",
+        "strong": "G3588"
+      },
+      {
+        "word": "이나",
+        "strong": "G2532"
+      },
+      {
+        "word": "땅",
+        "strong": "G1093"
+      },
+      {
+        "word": "에 있는",
+        "strong": "G1909"
+      },
+      {
+        "word": "것이",
+        "strong": "G3588"
+      },
+      {
+        "word": "다",
+        "strong": "G3956"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "통일되게 하려 하심이라",
+        "strong": "G346"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 11,
+    "text": "모든 일을 그의 뜻의 결정대로 일하시는 이의 계획을 따라 우리가 예정을 입어 그 안에서 기업이 되었으니",
+    "words": [
+      {
+        "word": "모든 일을",
+        "strong": "G3956"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "뜻의",
+        "strong": "G2307"
+      },
+      {
+        "word": "결정",
+        "strong": "G1012"
+      },
+      {
+        "word": "대로",
+        "strong": "G2596"
+      },
+      {
+        "word": "일하시는",
+        "strong": "G1754"
+      },
+      {
+        "word": "이의",
+        "strong": "G3588"
+      },
+      {
+        "word": "계획을",
+        "strong": "G4286"
+      },
+      {
+        "word": "따라",
+        "strong": "G2596"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "예정을 입어",
+        "strong": "G4309"
+      },
+      {
+        "word": "그",
+        "strong": "G3739"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "기업이 되었으니",
+        "strong": "G2820"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 12,
+    "text": "이는 우리가 그리스도 안에서 전부터 바라던 그의 영광의 찬송이 되게 하려 하심이라",
+    "words": [
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "우리가",
+        "strong": "G2248"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "전부터 바라던",
+        "strong": "G4276"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "영광의",
+        "strong": "G1391"
+      },
+      {
+        "word": "찬송이",
+        "strong": "G1868"
+      },
+      {
+        "word": "되게",
+        "strong": "G1511"
+      },
+      {
+        "word": "하려 하심이라",
+        "strong": "G1519"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 13,
+    "text": "그 안에서 너희도 진리의 말씀 곧 너희의 구원의 복음을 듣고 그 안에서 또한 믿어 약속의 성령으로 인치심을 받았으니",
+    "words": [
+      {
+        "word": "그",
+        "strong": "G3739"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "너희",
+        "strong": "G5210"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "진리의",
+        "strong": "G225"
+      },
+      {
+        "word": "말씀",
+        "strong": "G3056"
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "너희의",
+        "strong": "G5216"
+      },
+      {
+        "word": "구원의",
+        "strong": "G4991"
+      },
+      {
+        "word": "복음을",
+        "strong": "G2098"
+      },
+      {
+        "word": "듣고",
+        "strong": "G191"
+      },
+      {
+        "word": "그",
+        "strong": "G3739"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "또한",
+        "strong": "G2532"
+      },
+      {
+        "word": "믿어",
+        "strong": "G4100"
+      },
+      {
+        "word": "약속의",
+        "strong": "G1860"
+      },
+      {
+        "word": "성",
+        "strong": "G40"
+      },
+      {
+        "word": "령으로",
+        "strong": "G4151"
+      },
+      {
+        "word": "인치심을 받았으니",
+        "strong": "G4972"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 14,
+    "text": "이는 우리 기업의 보증이 되사 그 얻으신 것을 속량하시고 그의 영광을 찬송하게 하려 하심이라",
+    "words": [
+      {
+        "word": "이는",
+        "strong": "G3739"
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "기업의",
+        "strong": "G2817"
+      },
+      {
+        "word": "보증이",
+        "strong": "G728"
+      },
+      {
+        "word": "되사",
+        "strong": "G2076"
+      },
+      {
+        "word": "그 얻으신 것을",
+        "strong": "G4047"
+      },
+      {
+        "word": "속량",
+        "strong": "G629"
+      },
+      {
+        "word": "하시고",
+        "strong": "G1519"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "영광을",
+        "strong": "G1391"
+      },
+      {
+        "word": "찬송하게",
+        "strong": "G1868"
+      },
+      {
+        "word": "하려 하심이라",
+        "strong": "G1519"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 15,
+    "text": "(바울의 기도) 이로 말미암아 주 예수 안에서 너희 믿음과 모든 성도를 향한 사랑을 나도 듣고",
+    "words": [
+      {
+        "word": "이로",
+        "strong": "G5124"
+      },
+      {
+        "word": "말미암아",
+        "strong": "G1223"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "너희",
+        "strong": "G5209"
+      },
+      {
+        "word": "믿음",
+        "strong": "G4102"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "성도를",
+        "strong": "G40"
+      },
+      {
+        "word": "향한",
+        "strong": "G1519"
+      },
+      {
+        "word": "사랑을",
+        "strong": "G26"
+      },
+      {
+        "word": "나도",
+        "strong": "G2504"
+      },
+      {
+        "word": "듣고",
+        "strong": "G191"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 16,
+    "text": "내가 기도할 때에 기억하며 너희로 말미암아 감사하기를 그치지 아니하고",
+    "words": [
+      {
+        "word": "내가",
+        "strong": "G3450"
+      },
+      {
+        "word": "기도할",
+        "strong": "G4335"
+      },
+      {
+        "word": "때에",
+        "strong": "G1909"
+      },
+      {
+        "word": "기억",
+        "strong": "G3417"
+      },
+      {
+        "word": "하며",
+        "strong": "G4160"
+      },
+      {
+        "word": "너희로",
+        "strong": "G5216"
+      },
+      {
+        "word": "말미암아",
+        "strong": "G5228"
+      },
+      {
+        "word": "감사하기를",
+        "strong": "G2168"
+      },
+      {
+        "word": "그치지",
+        "strong": "G3973"
+      },
+      {
+        "word": "아니하고",
+        "strong": "G3756"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 17,
+    "text": "우리 주 예수 그리스도의 하나님, 영광의 아버지께서 지혜와 계시의 영을 너희에게 주사 하나님을 알게 하시고",
+    "words": [
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "하나님,",
+        "strong": "G2316"
+      },
+      {
+        "word": "영광의",
+        "strong": "G1391"
+      },
+      {
+        "word": "아버지께서",
+        "strong": "G3962"
+      },
+      {
+        "word": "지혜",
+        "strong": "G4678"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "계시의",
+        "strong": "G602"
+      },
+      {
+        "word": "영을",
+        "strong": "G4151"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "주사",
+        "strong": "G1325"
+      },
+      {
+        "word": "하나님을",
+        "strong": "G846"
+      },
+      {
+        "word": "알",
+        "strong": "G1922"
+      },
+      {
+        "word": "게",
+        "strong": "G1722"
+      },
+      {
+        "word": "하시고",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 18,
+    "text": "너희 마음의 눈을 밝히사 그의 부르심의 소망이 무엇이며 성도 안에서 그 기업의 영광의 풍성함이 무엇이며",
+    "words": [
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "마음의",
+        "strong": "G2588"
+      },
+      {
+        "word": "눈을",
+        "strong": "G3788"
+      },
+      {
+        "word": "밝히사",
+        "strong": "G5461"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "부르심의",
+        "strong": "G2821"
+      },
+      {
+        "word": "소망이",
+        "strong": "G1680"
+      },
+      {
+        "word": "무엇",
+        "strong": "G5101"
+      },
+      {
+        "word": "이며",
+        "strong": "G2076"
+      },
+      {
+        "word": "성도",
+        "strong": "G40"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "기업의",
+        "strong": "G2817"
+      },
+      {
+        "word": "영광의",
+        "strong": "G1391"
+      },
+      {
+        "word": "풍성함이",
+        "strong": "G4149"
+      },
+      {
+        "word": "무엇이며",
+        "strong": "G5101"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 19,
+    "text": "그의 힘의 위력으로 역사하심을 따라 믿는 우리에게 베푸신 능력의 지극히 크심이 어떠한 것을 너희로 알게 하시기를 구하노라",
+    "words": [
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "힘의",
+        "strong": "G2479"
+      },
+      {
+        "word": "위력으로",
+        "strong": "G2904"
+      },
+      {
+        "word": "역사하심을",
+        "strong": "G1753"
+      },
+      {
+        "word": "따라",
+        "strong": "G2596"
+      },
+      {
+        "word": "믿는",
+        "strong": "G4100"
+      },
+      {
+        "word": "우리",
+        "strong": "G2248"
+      },
+      {
+        "word": "에게",
+        "strong": "G1519"
+      },
+      {
+        "word": "베푸신",
+        "strong": null
+      },
+      {
+        "word": "능력의",
+        "strong": "G1411"
+      },
+      {
+        "word": "지극히",
+        "strong": "G5235"
+      },
+      {
+        "word": "크심이",
+        "strong": "G3174"
+      },
+      {
+        "word": "어떠한 것을",
+        "strong": "G5101"
+      },
+      {
+        "word": "너희로",
+        "strong": "G5209"
+      },
+      {
+        "word": "알게",
+        "strong": "G1492"
+      },
+      {
+        "word": "하시기를",
+        "strong": "G1519"
+      },
+      {
+        "word": "구하노라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 20,
+    "text": "그의 능력이 그리스도 안에서 역사하사 죽은 자들 가운데서 다시 살리시고 하늘에서 자기의 오른편에 앉히사",
+    "words": [
+      {
+        "word": "그의 능력이",
+        "strong": "G3739"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "역사 하사",
+        "strong": "G1754"
+      },
+      {
+        "word": "죽은 자들",
+        "strong": "G3498"
+      },
+      {
+        "word": "가운데서",
+        "strong": "G1537"
+      },
+      {
+        "word": "다시 살리시고",
+        "strong": "G1453"
+      },
+      {
+        "word": "하늘",
+        "strong": "G2032"
+      },
+      {
+        "word": "에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "자기의",
+        "strong": "G846"
+      },
+      {
+        "word": "오른편",
+        "strong": "G1188"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "앉히사",
+        "strong": "G2523"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 21,
+    "text": "모든 통치와 권세와 능력과 주권과 이 세상뿐 아니라 오는 세상에 일컫는 모든 이름 위에 뛰어나게 하시고",
+    "words": [
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "통치",
+        "strong": "G746"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "권세",
+        "strong": "G1849"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "능력",
+        "strong": "G1411"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "주권",
+        "strong": "G2963"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "이",
+        "strong": "G5129"
+      },
+      {
+        "word": "세상",
+        "strong": "G165"
+      },
+      {
+        "word": "뿐",
+        "strong": "G3440"
+      },
+      {
+        "word": "아니라",
+        "strong": "G3756"
+      },
+      {
+        "word": "오는",
+        "strong": "G3195"
+      },
+      {
+        "word": "세상",
+        "strong": "G3588"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "일컫는",
+        "strong": "G3687"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "이름",
+        "strong": "G3686"
+      },
+      {
+        "word": "위에 뛰어나게 하시고",
+        "strong": "G5231"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 22,
+    "text": "또 만물을 그의 발 아래에 복종하게 하시고 그를 만물 위에 교회의 머리로 삼으셨느니라",
+    "words": [
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "만물을",
+        "strong": "G3956"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "발",
+        "strong": "G4228"
+      },
+      {
+        "word": "아래에",
+        "strong": "G5259"
+      },
+      {
+        "word": "복종하게 하시고",
+        "strong": "G5293"
+      },
+      {
+        "word": "그를",
+        "strong": "G846"
+      },
+      {
+        "word": "만물",
+        "strong": "G3956"
+      },
+      {
+        "word": "위에",
+        "strong": "G5228"
+      },
+      {
+        "word": "교회의",
+        "strong": "G1577"
+      },
+      {
+        "word": "머리로",
+        "strong": "G2776"
+      },
+      {
+        "word": "삼으셨느니라",
+        "strong": "G1325"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 1,
+    "verse": 23,
+    "text": "교회는 그의 몸이니 만물 안에서 만물을 충만하게 하시는 이의 충만함이니라",
+    "words": [
+      {
+        "word": "교회는",
+        "strong": "G3748"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "몸",
+        "strong": "G4983"
+      },
+      {
+        "word": "이니",
+        "strong": "G2076"
+      },
+      {
+        "word": "만물",
+        "strong": "G3956"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "만물을",
+        "strong": "G3956"
+      },
+      {
+        "word": "충만하게 하시는",
+        "strong": "G4137"
+      },
+      {
+        "word": "이의",
+        "strong": "G3588"
+      },
+      {
+        "word": "충만함이니라",
+        "strong": "G4138"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 1,
+    "text": "(허물과 죄로 죽었던 너희를 살리셨다) 그는 허물과 죄로 죽었던 너희를 살리셨도다",
+    "words": [
+      {
+        "word": "그는",
+        "strong": null
+      },
+      {
+        "word": "허물",
+        "strong": "G3900"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "죄로",
+        "strong": "G266"
+      },
+      {
+        "word": "죽",
+        "strong": "G3498"
+      },
+      {
+        "word": "었던",
+        "strong": "G5607"
+      },
+      {
+        "word": "너희를",
+        "strong": "G5209"
+      },
+      {
+        "word": "살리셨도다",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 2,
+    "text": "그 때에 너희는 그 가운데서 행하여 이 세상 풍조를 따르고 공중의 권세 잡은 자를 따랐으니 곧 지금 불순종의 아들들 가운데서 역사하는 영이라",
+    "words": [
+      {
+        "word": "그 때에",
+        "strong": "G4218"
+      },
+      {
+        "word": "너희는",
+        "strong": null
+      },
+      {
+        "word": "그",
+        "strong": "G3739"
+      },
+      {
+        "word": "가운데서",
+        "strong": "G1722"
+      },
+      {
+        "word": "행하여",
+        "strong": "G4043"
+      },
+      {
+        "word": "이",
+        "strong": "G5127"
+      },
+      {
+        "word": "세상",
+        "strong": "G2889"
+      },
+      {
+        "word": "풍조를",
+        "strong": "G165"
+      },
+      {
+        "word": "따르고",
+        "strong": "G2596"
+      },
+      {
+        "word": "공중의",
+        "strong": "G109"
+      },
+      {
+        "word": "권세",
+        "strong": "G1849"
+      },
+      {
+        "word": "잡은 자를",
+        "strong": "G758"
+      },
+      {
+        "word": "따랐으니",
+        "strong": "G2596"
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "지금",
+        "strong": "G3568"
+      },
+      {
+        "word": "불순종의",
+        "strong": "G543"
+      },
+      {
+        "word": "아들들",
+        "strong": "G5207"
+      },
+      {
+        "word": "가운데서",
+        "strong": "G1722"
+      },
+      {
+        "word": "역사하는",
+        "strong": "G1754"
+      },
+      {
+        "word": "영이라",
+        "strong": "G4151"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 3,
+    "text": "전에는 우리도 다 그 가운데서 우리 육체의 욕심을 따라 지내며 육체와 마음의 원하는 것을 하여 다른 이들과 같이 본질상 진노의 자녀이었더니",
+    "words": [
+      {
+        "word": "전에는",
+        "strong": "G4218"
+      },
+      {
+        "word": "우리",
+        "strong": "G2249"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "다",
+        "strong": "G3956"
+      },
+      {
+        "word": "그",
+        "strong": "G3739"
+      },
+      {
+        "word": "가운데서",
+        "strong": "G1722"
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "육체의",
+        "strong": "G4561"
+      },
+      {
+        "word": "욕심을",
+        "strong": "G1939"
+      },
+      {
+        "word": "따라",
+        "strong": "G1722"
+      },
+      {
+        "word": "지내며",
+        "strong": "G390"
+      },
+      {
+        "word": "육체",
+        "strong": "G4561"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "마음의",
+        "strong": "G1271"
+      },
+      {
+        "word": "원하는 것을",
+        "strong": "G2307"
+      },
+      {
+        "word": "하여",
+        "strong": "G4160"
+      },
+      {
+        "word": "다른이들과",
+        "strong": "G3062"
+      },
+      {
+        "word": "같이",
+        "strong": "G5613"
+      },
+      {
+        "word": "본질상",
+        "strong": "G5449"
+      },
+      {
+        "word": "진노의",
+        "strong": "G3709"
+      },
+      {
+        "word": "자녀",
+        "strong": "G5043"
+      },
+      {
+        "word": "이었더니",
+        "strong": "G2258"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 4,
+    "text": "긍휼이 풍성하신 하나님이 우리를 사랑하신 그 큰 사랑을 인하여",
+    "words": [
+      {
+        "word": "긍휼",
+        "strong": "G1656"
+      },
+      {
+        "word": "이",
+        "strong": "G1722"
+      },
+      {
+        "word": "풍성",
+        "strong": "G4145"
+      },
+      {
+        "word": "하신",
+        "strong": "G5607"
+      },
+      {
+        "word": "하나님이",
+        "strong": "G2316"
+      },
+      {
+        "word": "우리를",
+        "strong": "G2248"
+      },
+      {
+        "word": "사랑하신",
+        "strong": "G25"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "큰",
+        "strong": "G4183"
+      },
+      {
+        "word": "사랑을",
+        "strong": "G26"
+      },
+      {
+        "word": "인하여",
+        "strong": "G1223"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 5,
+    "text": "허물로 죽은 우리를 그리스도와 함께 살리셨고 (너희는 은혜로 구원을 받은 것이라)",
+    "words": [
+      {
+        "word": "허물로",
+        "strong": "G3900"
+      },
+      {
+        "word": "죽",
+        "strong": "G3498"
+      },
+      {
+        "word": "은",
+        "strong": "G5607"
+      },
+      {
+        "word": "우리를",
+        "strong": "G2248"
+      },
+      {
+        "word": "그리스도와",
+        "strong": "G5547"
+      },
+      {
+        "word": "함께 살리셨고",
+        "strong": "G4806"
+      },
+      {
+        "word": "(너희는",
+        "strong": null
+      },
+      {
+        "word": "은혜로",
+        "strong": "G5485"
+      },
+      {
+        "word": "구원을 받은",
+        "strong": "G4982"
+      },
+      {
+        "word": "것이라)",
+        "strong": "G2075"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 6,
+    "text": "또 함께 일으키사 그리스도 예수 안에서 함께 하늘에 앉히시니",
+    "words": [
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "함께 일으키사",
+        "strong": "G4891"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "함께",
+        "strong": null
+      },
+      {
+        "word": "하늘",
+        "strong": "G2032"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "앉히시니",
+        "strong": "G4776"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 7,
+    "text": "이는 그리스도 예수 안에서 우리에게 자비하심으로써 그 은혜의 지극히 풍성함을 오는 여러 세대에 나타내려 하심이라",
+    "words": [
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "우리",
+        "strong": "G2248"
+      },
+      {
+        "word": "에게",
+        "strong": "G1909"
+      },
+      {
+        "word": "자비하심",
+        "strong": "G5544"
+      },
+      {
+        "word": "으로써",
+        "strong": "G1722"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "은혜의",
+        "strong": "G5485"
+      },
+      {
+        "word": "지극히",
+        "strong": "G5235"
+      },
+      {
+        "word": "풍성함을",
+        "strong": "G4149"
+      },
+      {
+        "word": "오는",
+        "strong": "G1904"
+      },
+      {
+        "word": "여러 세대",
+        "strong": "G165"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "나타내려",
+        "strong": "G1731"
+      },
+      {
+        "word": "하심이라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 8,
+    "text": "너희는 그 은혜에 의하여 믿음으로 말미암아 구원을 받았으니 이것은 너희에게서 난 것이 아니요 하나님의 선물이라",
+    "words": [
+      {
+        "word": "너희는",
+        "strong": null
+      },
+      {
+        "word": "그",
+        "strong": "G3588"
+      },
+      {
+        "word": "은혜에 의하여",
+        "strong": "G5485"
+      },
+      {
+        "word": "믿음으로",
+        "strong": "G4102"
+      },
+      {
+        "word": "말미암아",
+        "strong": "G1223"
+      },
+      {
+        "word": "구원을 받았",
+        "strong": "G4982"
+      },
+      {
+        "word": "으니",
+        "strong": "G2075"
+      },
+      {
+        "word": "이것은",
+        "strong": "G5124"
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "에게서 난 것이",
+        "strong": "G1537"
+      },
+      {
+        "word": "아니요",
+        "strong": "G3756"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "선물이라",
+        "strong": "G1435"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 9,
+    "text": "행위에서 난 것이 아니니 이는 누구든지 자랑하지 못하게 함이라",
+    "words": [
+      {
+        "word": "행위",
+        "strong": "G2041"
+      },
+      {
+        "word": "에서 난 것이",
+        "strong": "G1537"
+      },
+      {
+        "word": "아니니",
+        "strong": "G3756"
+      },
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "누구든지",
+        "strong": "G5100"
+      },
+      {
+        "word": "자랑하지",
+        "strong": "G2744"
+      },
+      {
+        "word": "못하게",
+        "strong": "G3363"
+      },
+      {
+        "word": "함이라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 10,
+    "text": "우리는 그가 만드신 바라 그리스도 예수 안에서 선한 일을 위하여 지으심을 받은 자니 이 일은 하나님이 전에 예비하사 우리로 그 가운데서 행하게 하려 하심이니라",
+    "words": [
+      {
+        "word": "우리는",
+        "strong": null
+      },
+      {
+        "word": "그가",
+        "strong": "G846"
+      },
+      {
+        "word": "만드신",
+        "strong": "G4161"
+      },
+      {
+        "word": "바라",
+        "strong": "G2070"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "선한",
+        "strong": "G18"
+      },
+      {
+        "word": "일을",
+        "strong": "G2041"
+      },
+      {
+        "word": "위하여",
+        "strong": "G1909"
+      },
+      {
+        "word": "지으심을 받은 자니",
+        "strong": "G2936"
+      },
+      {
+        "word": "이 일은",
+        "strong": "G3739"
+      },
+      {
+        "word": "하나님이",
+        "strong": "G2316"
+      },
+      {
+        "word": "전에 예비하사",
+        "strong": "G4282"
+      },
+      {
+        "word": "우리로",
+        "strong": null
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "가운데서",
+        "strong": "G1722"
+      },
+      {
+        "word": "행하게",
+        "strong": "G4043"
+      },
+      {
+        "word": "하려 하심이니라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 11,
+    "text": "(십자가로 화목하게 하시다) 그러므로 생각하라 너희는 그 때에 육체로는 이방인이요 손으로 육체에 행한 할례를 받은 무리라 칭하는 자들로부터 할례를 받지 않은 무리라 칭함을 받는 자들이라",
+    "words": [
+      {
+        "word": "그러므로",
+        "strong": "G1352"
+      },
+      {
+        "word": "생각하라",
+        "strong": "G3421"
+      },
+      {
+        "word": "너희는",
+        "strong": "G5210"
+      },
+      {
+        "word": "그 때에",
+        "strong": "G4218"
+      },
+      {
+        "word": "육체",
+        "strong": "G4561"
+      },
+      {
+        "word": "로는",
+        "strong": "G1722"
+      },
+      {
+        "word": "이방인이요",
+        "strong": "G1484"
+      },
+      {
+        "word": "손으로",
+        "strong": null
+      },
+      {
+        "word": "육체",
+        "strong": "G4561"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "행한",
+        "strong": "G5499"
+      },
+      {
+        "word": "할례를 받은 무리라",
+        "strong": "G4061"
+      },
+      {
+        "word": "칭하는",
+        "strong": "G3004"
+      },
+      {
+        "word": "자들로부터",
+        "strong": "G3588"
+      },
+      {
+        "word": "할례를 받지 않은 무리라",
+        "strong": "G203"
+      },
+      {
+        "word": "칭함을 받는",
+        "strong": "G3004"
+      },
+      {
+        "word": "자들이라",
+        "strong": "G3588"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 12,
+    "text": "그 때에 너희는 그리스도 밖에 있었고 이스라엘 나라 밖의 사람이라 약속의 언약들에 대하여는 외인이요 세상에서 소망이 없고 하나님도 없는 자이더니",
+    "words": [
+      {
+        "word": "그",
+        "strong": "G1565"
+      },
+      {
+        "word": "때",
+        "strong": "G2540"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "너희는",
+        "strong": null
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "밖에",
+        "strong": "G5565"
+      },
+      {
+        "word": "있었고",
+        "strong": "G2258"
+      },
+      {
+        "word": "이스라엘",
+        "strong": "G2474"
+      },
+      {
+        "word": "나라",
+        "strong": "G4174"
+      },
+      {
+        "word": "밖의 사람이라",
+        "strong": "G526"
+      },
+      {
+        "word": "약속의",
+        "strong": "G1860"
+      },
+      {
+        "word": "언약들에 대하여는",
+        "strong": "G1242"
+      },
+      {
+        "word": "외인이요",
+        "strong": "G3581"
+      },
+      {
+        "word": "세상",
+        "strong": "G2889"
+      },
+      {
+        "word": "에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "소망이",
+        "strong": "G1680"
+      },
+      {
+        "word": "없",
+        "strong": "G3361"
+      },
+      {
+        "word": "고",
+        "strong": "G2192"
+      },
+      {
+        "word": "하나님도 없는 자이더니",
+        "strong": "G112"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 13,
+    "text": "이제는 전에 멀리 있던 너희가 그리스도 예수 안에서 그리스도의 피로 가까워졌느니라",
+    "words": [
+      {
+        "word": "이제는",
+        "strong": "G3570"
+      },
+      {
+        "word": "전에",
+        "strong": "G4218"
+      },
+      {
+        "word": "멀리",
+        "strong": "G3112"
+      },
+      {
+        "word": "있던",
+        "strong": "G5607"
+      },
+      {
+        "word": "너희가",
+        "strong": "G5210"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "피",
+        "strong": "G129"
+      },
+      {
+        "word": "로",
+        "strong": "G1722"
+      },
+      {
+        "word": "가까워",
+        "strong": "G1451"
+      },
+      {
+        "word": "졌느니라",
+        "strong": "G1096"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 14,
+    "text": "그는 우리의 화평이신지라 둘로 하나를 만드사 원수 된 것 곧 중간에 막힌 담을 자기 육체로 허시고",
+    "words": [
+      {
+        "word": "그는",
+        "strong": "G846"
+      },
+      {
+        "word": "우리의",
+        "strong": "G2257"
+      },
+      {
+        "word": "화평",
+        "strong": "G1515"
+      },
+      {
+        "word": "이신지라",
+        "strong": "G2076"
+      },
+      {
+        "word": "둘로",
+        "strong": "G297"
+      },
+      {
+        "word": "하나를",
+        "strong": "G1520"
+      },
+      {
+        "word": "만드사",
+        "strong": "G4160"
+      },
+      {
+        "word": "원수 된 것",
+        "strong": "G2189"
+      },
+      {
+        "word": "곧 중간에 막힌",
+        "strong": "G3320"
+      },
+      {
+        "word": "담을",
+        "strong": "G5418"
+      },
+      {
+        "word": "자기",
+        "strong": "G846"
+      },
+      {
+        "word": "육체",
+        "strong": "G4561"
+      },
+      {
+        "word": "로",
+        "strong": "G1722"
+      },
+      {
+        "word": "허시고",
+        "strong": "G3089"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 15,
+    "text": "법조문으로 된 계명의 율법을 폐하셨으니 이는 이 둘로 자기 안에서 한 새 사람을 지어 화평하게 하시고",
+    "words": [
+      {
+        "word": "법조문으로",
+        "strong": "G1378"
+      },
+      {
+        "word": "된",
+        "strong": "G1722"
+      },
+      {
+        "word": "계명의",
+        "strong": "G1785"
+      },
+      {
+        "word": "율법을",
+        "strong": "G3551"
+      },
+      {
+        "word": "폐하셨으니",
+        "strong": "G2673"
+      },
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "이",
+        "strong": "G3588"
+      },
+      {
+        "word": "둘로",
+        "strong": "G1417"
+      },
+      {
+        "word": "자기",
+        "strong": "G846"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "한",
+        "strong": "G1520"
+      },
+      {
+        "word": "새",
+        "strong": "G2537"
+      },
+      {
+        "word": "사람을",
+        "strong": "G444"
+      },
+      {
+        "word": "지어",
+        "strong": "G2936"
+      },
+      {
+        "word": "화평",
+        "strong": "G1515"
+      },
+      {
+        "word": "하게 하시고",
+        "strong": "G4160"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 16,
+    "text": "또 십자가로 이 둘을 한 몸으로 하나님과 화목하게 하려 하심이라 원수 된 것을 십자가로 소멸하시고",
+    "words": [
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "십자가",
+        "strong": "G4716"
+      },
+      {
+        "word": "로",
+        "strong": "G1223"
+      },
+      {
+        "word": "이",
+        "strong": "G3588"
+      },
+      {
+        "word": "둘을",
+        "strong": "G297"
+      },
+      {
+        "word": "한",
+        "strong": "G1520"
+      },
+      {
+        "word": "몸",
+        "strong": "G4983"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "하나님과",
+        "strong": "G2316"
+      },
+      {
+        "word": "화목하게",
+        "strong": "G604"
+      },
+      {
+        "word": "하려 하심이라",
+        "strong": "G2443"
+      },
+      {
+        "word": "원수 된 것을",
+        "strong": "G2189"
+      },
+      {
+        "word": "십자가로",
+        "strong": "G840"
+      },
+      {
+        "word": "소멸하시고",
+        "strong": "G615"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 17,
+    "text": "또 오셔서 먼 데 있는 너희에게 평안을 전하시고 가까운 데 있는 자들에게 평안을 전하셨으니",
+    "words": [
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "오셔서",
+        "strong": "G2064"
+      },
+      {
+        "word": "먼데 있는",
+        "strong": "G3112"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "평안을",
+        "strong": "G1515"
+      },
+      {
+        "word": "전하시고",
+        "strong": "G2097"
+      },
+      {
+        "word": "가까운데 있는",
+        "strong": "G1451"
+      },
+      {
+        "word": "자들에게",
+        "strong": "G3588"
+      },
+      {
+        "word": "평안을",
+        "strong": "G1515"
+      },
+      {
+        "word": "전하셨으니",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 18,
+    "text": "이는 그로 말미암아 우리 둘이 한 성령 안에서 아버지께 나아감을 얻게 하려 하심이라",
+    "words": [
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "그로",
+        "strong": "G846"
+      },
+      {
+        "word": "말미암아",
+        "strong": "G1223"
+      },
+      {
+        "word": "우리",
+        "strong": null
+      },
+      {
+        "word": "둘이",
+        "strong": "G297"
+      },
+      {
+        "word": "한",
+        "strong": "G1520"
+      },
+      {
+        "word": "성령",
+        "strong": "G4151"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "아버지",
+        "strong": "G3962"
+      },
+      {
+        "word": "께",
+        "strong": "G4314"
+      },
+      {
+        "word": "나아감을",
+        "strong": "G4318"
+      },
+      {
+        "word": "얻게",
+        "strong": "G2192"
+      },
+      {
+        "word": "하려 하심이라",
+        "strong": "G3754"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 19,
+    "text": "그러므로 이제부터 너희는 외인도 아니요 나그네도 아니요 오직 성도들과 동일한 시민이요 하나님의 권속이라",
+    "words": [
+      {
+        "word": "그러",
+        "strong": "G686"
+      },
+      {
+        "word": "므로",
+        "strong": "G3767"
+      },
+      {
+        "word": "이제부터",
+        "strong": null
+      },
+      {
+        "word": "너희는",
+        "strong": null
+      },
+      {
+        "word": "외인",
+        "strong": "G3581"
+      },
+      {
+        "word": "도 아니",
+        "strong": "G3765"
+      },
+      {
+        "word": "요",
+        "strong": "G2075"
+      },
+      {
+        "word": "나그네",
+        "strong": "G3941"
+      },
+      {
+        "word": "도 아니요",
+        "strong": "G3765"
+      },
+      {
+        "word": "오직",
+        "strong": "G235"
+      },
+      {
+        "word": "성도들과",
+        "strong": "G40"
+      },
+      {
+        "word": "동일한 시민이요",
+        "strong": "G4847"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "권속이라",
+        "strong": "G3609"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 20,
+    "text": "너희는 사도들과 선지자들의 터 위에 세우심을 입은 자라 그리스도 예수께서 친히 모퉁잇돌이 되셨느니라",
+    "words": [
+      {
+        "word": "너희는",
+        "strong": null
+      },
+      {
+        "word": "사도들",
+        "strong": "G652"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "선지자들의",
+        "strong": "G4396"
+      },
+      {
+        "word": "터",
+        "strong": "G2310"
+      },
+      {
+        "word": "위에",
+        "strong": "G1909"
+      },
+      {
+        "word": "세우심을 입은 자라",
+        "strong": "G2026"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수께서",
+        "strong": "G2424"
+      },
+      {
+        "word": "친히",
+        "strong": "G846"
+      },
+      {
+        "word": "모퉁잇 돌이",
+        "strong": "G204"
+      },
+      {
+        "word": "되셨느니라",
+        "strong": "G5607"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 21,
+    "text": "그의 안에서 건물마다 서로 연결하여 주 안에서 성전이 되어 가고",
+    "words": [
+      {
+        "word": "그의",
+        "strong": "G3739"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "건물",
+        "strong": "G3619"
+      },
+      {
+        "word": "마다",
+        "strong": "G3956"
+      },
+      {
+        "word": "서로 연결하여",
+        "strong": "G4883"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "성",
+        "strong": "G40"
+      },
+      {
+        "word": "전이",
+        "strong": "G3485"
+      },
+      {
+        "word": "되어가고",
+        "strong": "G837"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 2,
+    "verse": 22,
+    "text": "너희도 성령 안에서 하나님이 거하실 처소가 되기 위하여 그리스도 예수 안에서 함께 지어져 가느니라",
+    "words": [
+      {
+        "word": "너희",
+        "strong": "G5210"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "성령",
+        "strong": "G4151"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "하나님이",
+        "strong": "G2316"
+      },
+      {
+        "word": "거하실 처소가",
+        "strong": "G2732"
+      },
+      {
+        "word": "되기 위하여",
+        "strong": "G1519"
+      },
+      {
+        "word": "그리스도 예수",
+        "strong": "G3739"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "함께 지어져 가느니라",
+        "strong": "G4925"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 1,
+    "text": "(하나님의 구원의 경륜의 비밀) 이러므로 그리스도 예수의 일로 너희 이방인을 위하여 갇힌 자 된 나 바울이 말하거니와",
+    "words": [
+      {
+        "word": "이러",
+        "strong": "G5127"
+      },
+      {
+        "word": "므로",
+        "strong": "G5484"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수의",
+        "strong": "G2424"
+      },
+      {
+        "word": "일로",
+        "strong": null
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "이방인을",
+        "strong": "G1484"
+      },
+      {
+        "word": "위하여",
+        "strong": "G5228"
+      },
+      {
+        "word": "갇힌 자 된",
+        "strong": "G1198"
+      },
+      {
+        "word": "나",
+        "strong": "G1473"
+      },
+      {
+        "word": "바울이 말하거니와",
+        "strong": "G3972"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 2,
+    "text": "너희를 위하여 내게 주신 하나님의 그 은혜의 경륜을 너희가 들었을 터이라",
+    "words": [
+      {
+        "word": "너희를",
+        "strong": "G5209"
+      },
+      {
+        "word": "위하여",
+        "strong": "G1519"
+      },
+      {
+        "word": "내게",
+        "strong": "G3427"
+      },
+      {
+        "word": "주신",
+        "strong": "G1325"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "그",
+        "strong": "G3588"
+      },
+      {
+        "word": "은혜의",
+        "strong": "G5485"
+      },
+      {
+        "word": "경륜을",
+        "strong": "G3622"
+      },
+      {
+        "word": "너희가 들었을 터이라",
+        "strong": "G191"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 3,
+    "text": "곧 계시로 내게 비밀을 알게 하신 것은 내가 먼저 간단히 기록함과 같으니",
+    "words": [
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "계시",
+        "strong": "G602"
+      },
+      {
+        "word": "로",
+        "strong": "G2596"
+      },
+      {
+        "word": "내게",
+        "strong": "G3427"
+      },
+      {
+        "word": "비밀을",
+        "strong": "G3466"
+      },
+      {
+        "word": "알게 하신",
+        "strong": "G1107"
+      },
+      {
+        "word": "것은",
+        "strong": "G3754"
+      },
+      {
+        "word": "내가 먼저",
+        "strong": null
+      },
+      {
+        "word": "간단히",
+        "strong": "G3641"
+      },
+      {
+        "word": "기록함과",
+        "strong": "G4270"
+      },
+      {
+        "word": "같으니",
+        "strong": "G2531"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 4,
+    "text": "그것을 읽으면 내가 그리스도의 비밀을 깨달은 것을 너희가 알 수 있으리라",
+    "words": [
+      {
+        "word": "그것",
+        "strong": "G3739"
+      },
+      {
+        "word": "을",
+        "strong": "G4314"
+      },
+      {
+        "word": "읽",
+        "strong": "G314"
+      },
+      {
+        "word": "으면",
+        "strong": "G4314"
+      },
+      {
+        "word": "내가",
+        "strong": "G3450"
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "비밀을",
+        "strong": "G3466"
+      },
+      {
+        "word": "깨달은 것을",
+        "strong": "G4907"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "알",
+        "strong": "G3539"
+      },
+      {
+        "word": "수 있으리라",
+        "strong": "G1410"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 5,
+    "text": "이제 그의 거룩한 사도들과 선지자들에게 성령으로 나타내신 것 같이 다른 세대에서는 사람의 아들들에게 알리지 아니하셨으니",
+    "words": [
+      {
+        "word": "이제",
+        "strong": "G3568"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "거룩한",
+        "strong": "G40"
+      },
+      {
+        "word": "사도들",
+        "strong": "G652"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "선지자들에게",
+        "strong": "G4396"
+      },
+      {
+        "word": "성령",
+        "strong": "G4151"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "나타내신 것",
+        "strong": "G601"
+      },
+      {
+        "word": "같이",
+        "strong": "G5613"
+      },
+      {
+        "word": "다른",
+        "strong": "G2087"
+      },
+      {
+        "word": "세대에서는",
+        "strong": "G1074"
+      },
+      {
+        "word": "사람의",
+        "strong": "G444"
+      },
+      {
+        "word": "아들들에게",
+        "strong": "G5207"
+      },
+      {
+        "word": "알리지",
+        "strong": "G1107"
+      },
+      {
+        "word": "아니",
+        "strong": "G3756"
+      },
+      {
+        "word": "하셨으니",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 6,
+    "text": "이는 이방인들이 복음으로 말미암아 그리스도 예수 안에서 함께 상속자가 되고 함께 지체가 되고 함께 약속에 참여하는 자가 됨이라",
+    "words": [
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "이방인들이",
+        "strong": "G1484"
+      },
+      {
+        "word": "복음으로",
+        "strong": "G2098"
+      },
+      {
+        "word": "말미암아",
+        "strong": "G1223"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "함께 상속자가",
+        "strong": "G4789"
+      },
+      {
+        "word": "되고",
+        "strong": "G1511"
+      },
+      {
+        "word": "함께 지체가",
+        "strong": "G4954"
+      },
+      {
+        "word": "되고",
+        "strong": null
+      },
+      {
+        "word": "함께",
+        "strong": null
+      },
+      {
+        "word": "약속에",
+        "strong": "G1860"
+      },
+      {
+        "word": "참여하는 자가",
+        "strong": "G4830"
+      },
+      {
+        "word": "됨이라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 7,
+    "text": "이 복음을 위하여 그의 능력이 역사하시는 대로 내게 주신 하나님의 은혜의 선물을 따라 내가 일꾼이 되었노라",
+    "words": [
+      {
+        "word": "이 복음을 위하여",
+        "strong": "G3739"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "능력이",
+        "strong": "G1411"
+      },
+      {
+        "word": "역사하시는",
+        "strong": "G1753"
+      },
+      {
+        "word": "대로",
+        "strong": "G2596"
+      },
+      {
+        "word": "내게",
+        "strong": "G3427"
+      },
+      {
+        "word": "주신",
+        "strong": "G1325"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "은혜의",
+        "strong": "G5485"
+      },
+      {
+        "word": "선물을",
+        "strong": "G1431"
+      },
+      {
+        "word": "따라",
+        "strong": "G2596"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "일꾼이",
+        "strong": "G1249"
+      },
+      {
+        "word": "되었노라",
+        "strong": "G1096"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 8,
+    "text": "모든 성도 중에 지극히 작은 자보다 더 작은 나에게 이 은혜를 주신 것은 측량할 수 없는 그리스도의 풍성함을 이방인에게 전하게 하시고",
+    "words": [
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "성도 중에",
+        "strong": "G40"
+      },
+      {
+        "word": "지극히 작은 자보다 더 작은",
+        "strong": "G1647"
+      },
+      {
+        "word": "나에게",
+        "strong": "G1698"
+      },
+      {
+        "word": "이",
+        "strong": "G3778"
+      },
+      {
+        "word": "은혜를",
+        "strong": "G5485"
+      },
+      {
+        "word": "주신 것은",
+        "strong": "G1325"
+      },
+      {
+        "word": "측량할 수 없는",
+        "strong": "G421"
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "풍성함을",
+        "strong": "G4149"
+      },
+      {
+        "word": "이방인에게",
+        "strong": "G1484"
+      },
+      {
+        "word": "전하게 하시고",
+        "strong": "G2097"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 9,
+    "text": "영원부터 만물을 창조하신 하나님 속에 감추어졌던 비밀의 경륜이 어떠한 것을 드러내게 하려 하심이라",
+    "words": [
+      {
+        "word": "영원",
+        "strong": "G165"
+      },
+      {
+        "word": "부터",
+        "strong": "G575"
+      },
+      {
+        "word": "만물을",
+        "strong": "G3956"
+      },
+      {
+        "word": "창조하신",
+        "strong": "G2936"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "속에",
+        "strong": "G1722"
+      },
+      {
+        "word": "감추어졌던",
+        "strong": "G613"
+      },
+      {
+        "word": "비밀의",
+        "strong": "G3466"
+      },
+      {
+        "word": "경륜이",
+        "strong": "G3622"
+      },
+      {
+        "word": "어떠한 것을",
+        "strong": "G5101"
+      },
+      {
+        "word": "드러내게 하려 하심이라",
+        "strong": "G5461"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 10,
+    "text": "이는 이제 교회로 말미암아 하늘에 있는 통치자들과 권세들에게 하나님의 각종 지혜를 알게 하려 하심이니",
+    "words": [
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "이제",
+        "strong": "G3568"
+      },
+      {
+        "word": "교회로",
+        "strong": "G1577"
+      },
+      {
+        "word": "말미암아",
+        "strong": "G1223"
+      },
+      {
+        "word": "하늘",
+        "strong": "G2032"
+      },
+      {
+        "word": "에 있는",
+        "strong": "G1722"
+      },
+      {
+        "word": "통치자들",
+        "strong": "G746"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "권세들에게",
+        "strong": "G1849"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "각종",
+        "strong": "G4182"
+      },
+      {
+        "word": "지혜를",
+        "strong": "G4678"
+      },
+      {
+        "word": "알게",
+        "strong": "G1107"
+      },
+      {
+        "word": "하려 하심이니",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 11,
+    "text": "곧 영원부터 우리 주 그리스도 예수 안에서 예정하신 뜻대로 하신 것이라",
+    "words": [
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "영원부터",
+        "strong": "G165"
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "예정",
+        "strong": "G4286"
+      },
+      {
+        "word": "하신 뜻",
+        "strong": "G4160"
+      },
+      {
+        "word": "대로",
+        "strong": "G2596"
+      },
+      {
+        "word": "하신 것이라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 12,
+    "text": "우리가 그 안에서 그를 믿음으로 말미암아 담대함과 확신을 가지고 하나님께 나아감을 얻느니라",
+    "words": [
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "그",
+        "strong": "G3739"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "그를",
+        "strong": "G846"
+      },
+      {
+        "word": "믿음으로",
+        "strong": "G4102"
+      },
+      {
+        "word": "말미암아",
+        "strong": "G1223"
+      },
+      {
+        "word": "담대함",
+        "strong": "G3954"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "확신을",
+        "strong": "G4006"
+      },
+      {
+        "word": "가지고",
+        "strong": "G1722"
+      },
+      {
+        "word": "하나님께",
+        "strong": null
+      },
+      {
+        "word": "나아감을",
+        "strong": "G4318"
+      },
+      {
+        "word": "얻느니라",
+        "strong": "G2192"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 13,
+    "text": "그러므로 너희에게 구하노니 너희를 위한 나의 여러 환난에 대하여 낙심하지 말라 이는 너희의 영광이니라",
+    "words": [
+      {
+        "word": "그러므로",
+        "strong": "G1352"
+      },
+      {
+        "word": "너희에게",
+        "strong": null
+      },
+      {
+        "word": "구하노니",
+        "strong": "G154"
+      },
+      {
+        "word": "너희를",
+        "strong": "G5216"
+      },
+      {
+        "word": "위한",
+        "strong": "G5228"
+      },
+      {
+        "word": "나의",
+        "strong": "G3450"
+      },
+      {
+        "word": "여러 환난",
+        "strong": "G2347"
+      },
+      {
+        "word": "에 대하여",
+        "strong": "G1722"
+      },
+      {
+        "word": "낙심하지",
+        "strong": "G1457b"
+      },
+      {
+        "word": "말라",
+        "strong": "G3361"
+      },
+      {
+        "word": "이는",
+        "strong": "G3748"
+      },
+      {
+        "word": "너희의",
+        "strong": "G5216"
+      },
+      {
+        "word": "영광",
+        "strong": "G1391"
+      },
+      {
+        "word": "이니라",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 14,
+    "text": "(그리스도의 사랑을 알게 하시기를) 이러므로 내가 하늘과 땅에 있는 각 족속에게",
+    "words": [
+      {
+        "word": "이러",
+        "strong": "G5127"
+      },
+      {
+        "word": "므로",
+        "strong": "G5484"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "하늘",
+        "strong": "G3772"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "땅",
+        "strong": "G1093"
+      },
+      {
+        "word": "에 있는",
+        "strong": "G1909"
+      },
+      {
+        "word": "각",
+        "strong": "G3956"
+      },
+      {
+        "word": "족속",
+        "strong": "G3965"
+      },
+      {
+        "word": "에게",
+        "strong": "G1537"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 15,
+    "text": "이름을 주신 아버지 앞에 무릎을 꿇고 비노니",
+    "words": [
+      {
+        "word": "이름을 주신",
+        "strong": "G3687"
+      },
+      {
+        "word": "아버지",
+        "strong": "G3962"
+      },
+      {
+        "word": "앞에",
+        "strong": "G4314"
+      },
+      {
+        "word": "무릎을",
+        "strong": "G1119"
+      },
+      {
+        "word": "꿇고 비노니",
+        "strong": "G2578"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 16,
+    "text": "그의 영광의 풍성함을 따라 그의 성령으로 말미암아 너희 속사람을 능력으로 강건하게 하시오며",
+    "words": [
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "영광의",
+        "strong": "G1391"
+      },
+      {
+        "word": "풍성함을",
+        "strong": "G4149"
+      },
+      {
+        "word": "따라",
+        "strong": "G2596"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "성령으로",
+        "strong": "G4151"
+      },
+      {
+        "word": "말미암아",
+        "strong": "G1223"
+      },
+      {
+        "word": "너희",
+        "strong": "G5213"
+      },
+      {
+        "word": "속",
+        "strong": "G2080"
+      },
+      {
+        "word": "사람을",
+        "strong": "G444"
+      },
+      {
+        "word": "능력으로",
+        "strong": "G1411"
+      },
+      {
+        "word": "강건하게",
+        "strong": "G2901"
+      },
+      {
+        "word": "하시오며",
+        "strong": "G1325"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 17,
+    "text": "믿음으로 말미암아 그리스도께서 너희 마음에 계시게 하시옵고 너희가 사랑 가운데서 뿌리가 박히고 터가 굳어져서",
+    "words": [
+      {
+        "word": "믿음으로",
+        "strong": "G4102"
+      },
+      {
+        "word": "말미암아",
+        "strong": "G1223"
+      },
+      {
+        "word": "그리스도께서",
+        "strong": "G5547"
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "마음",
+        "strong": "G2588"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "계시게 하시옵고",
+        "strong": "G2730"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "사랑",
+        "strong": "G26"
+      },
+      {
+        "word": "가운데서",
+        "strong": "G1722"
+      },
+      {
+        "word": "뿌리가 박히고",
+        "strong": "G4492"
+      },
+      {
+        "word": "터가 굳어져서",
+        "strong": "G2311"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 18,
+    "text": "능히 모든 성도와 함께 지식에 넘치는 그리스도의 사랑을 알고",
+    "words": [
+      {
+        "word": "능히",
+        "strong": "G1840"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "성도",
+        "strong": "G40"
+      },
+      {
+        "word": "와 함께",
+        "strong": "G4862"
+      },
+      {
+        "word": "지식에",
+        "strong": "G1108"
+      },
+      {
+        "word": "넘치는",
+        "strong": "G5235"
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "사랑을",
+        "strong": "G26"
+      },
+      {
+        "word": "알고",
+        "strong": "G1097"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 19,
+    "text": "그 너비와 길이와 높이와 깊이가 어떠함을 깨달아 하나님의 모든 충만하신 것으로 너희에게 충만하게 하시기를 구하노라",
+    "words": [
+      {
+        "word": "그",
+        "strong": "G3588"
+      },
+      {
+        "word": "너비",
+        "strong": "G4114"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "길이",
+        "strong": "G3372"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "높이",
+        "strong": "G5311"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "깊이가",
+        "strong": "G899"
+      },
+      {
+        "word": "어떠함을",
+        "strong": "G5101"
+      },
+      {
+        "word": "깨달아",
+        "strong": "G2638"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "충만하신 것으로",
+        "strong": "G4138"
+      },
+      {
+        "word": "너희에게 충만하게",
+        "strong": "G4137"
+      },
+      {
+        "word": "하시기를 구하노라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 20,
+    "text": "우리 가운데서 역사하시는 능력대로 우리가 구하거나 생각하는 모든 것에 더 넘치도록 능히 하실 이에게",
+    "words": [
+      {
+        "word": "우리",
+        "strong": "G2254"
+      },
+      {
+        "word": "가운데서",
+        "strong": "G1722"
+      },
+      {
+        "word": "역사하시는",
+        "strong": "G1754"
+      },
+      {
+        "word": "능력",
+        "strong": "G1411"
+      },
+      {
+        "word": "대로",
+        "strong": "G2596"
+      },
+      {
+        "word": "우리가 구하거나",
+        "strong": "G154"
+      },
+      {
+        "word": "생각하는",
+        "strong": "G3539"
+      },
+      {
+        "word": "모든 것에",
+        "strong": "G3956"
+      },
+      {
+        "word": "더 넘치도록",
+        "strong": "G5238b"
+      },
+      {
+        "word": "능히 하실",
+        "strong": "G1410"
+      },
+      {
+        "word": "이에게",
+        "strong": "G3588"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 3,
+    "verse": 21,
+    "text": "교회 안에서와 그리스도 예수 안에서 영광이 대대로 영원무궁하기를 원하노라 아멘",
+    "words": [
+      {
+        "word": "교회",
+        "strong": "G1577"
+      },
+      {
+        "word": "안에서와",
+        "strong": "G1722"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "영광이",
+        "strong": "G1391"
+      },
+      {
+        "word": "대",
+        "strong": "G3956"
+      },
+      {
+        "word": "대",
+        "strong": "G1074"
+      },
+      {
+        "word": "로",
+        "strong": "G1519"
+      },
+      {
+        "word": "영원",
+        "strong": "G165"
+      },
+      {
+        "word": "무궁하기를",
+        "strong": "G165"
+      },
+      {
+        "word": "원하노라",
+        "strong": null
+      },
+      {
+        "word": "아멘",
+        "strong": "G281"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 1,
+    "text": "(성령이 하나되게 하신 것) 그러므로 주 안에서 갇힌 내가 너희를 권하노니 너희가 부르심을 받은 일에 합당하게 행하여",
+    "words": [
+      {
+        "word": "그러므로",
+        "strong": "G3767"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "갇힌",
+        "strong": "G1198"
+      },
+      {
+        "word": "내가",
+        "strong": "G1473"
+      },
+      {
+        "word": "너희를",
+        "strong": "G5209"
+      },
+      {
+        "word": "권하노니",
+        "strong": "G3870"
+      },
+      {
+        "word": "너희가 부르심을 받은",
+        "strong": "G2564"
+      },
+      {
+        "word": "일에",
+        "strong": "G2821"
+      },
+      {
+        "word": "합당하게",
+        "strong": "G516"
+      },
+      {
+        "word": "행하여",
+        "strong": "G4043"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 2,
+    "text": "모든 겸손과 온유로 하고 오래 참음으로 사랑 가운데서 서로 용납하고",
+    "words": [
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "겸손",
+        "strong": "G5012"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "온유",
+        "strong": "G4240"
+      },
+      {
+        "word": "로 하고",
+        "strong": "G3326"
+      },
+      {
+        "word": "오래 참음",
+        "strong": "G3115"
+      },
+      {
+        "word": "으로",
+        "strong": "G3326"
+      },
+      {
+        "word": "사랑",
+        "strong": "G26"
+      },
+      {
+        "word": "가운데서",
+        "strong": "G1722"
+      },
+      {
+        "word": "서로",
+        "strong": "G240"
+      },
+      {
+        "word": "용납하고",
+        "strong": "G430"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 3,
+    "text": "평안의 매는 줄로 성령이 하나 되게 하신 것을 힘써 지키라",
+    "words": [
+      {
+        "word": "평안의",
+        "strong": "G1515"
+      },
+      {
+        "word": "매는 줄",
+        "strong": "G4886"
+      },
+      {
+        "word": "로",
+        "strong": "G1722"
+      },
+      {
+        "word": "성령이",
+        "strong": "G4151"
+      },
+      {
+        "word": "하나 되게 하신 것을",
+        "strong": "G1775"
+      },
+      {
+        "word": "힘써",
+        "strong": "G4704"
+      },
+      {
+        "word": "지키라",
+        "strong": "G5083"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 4,
+    "text": "몸이 하나요 성령도 한 분이시니 이와 같이 너희가 부르심의 한 소망 안에서 부르심을 받았느니라",
+    "words": [
+      {
+        "word": "몸이",
+        "strong": "G4983"
+      },
+      {
+        "word": "하나요",
+        "strong": "G1520"
+      },
+      {
+        "word": "성령도",
+        "strong": "G4151"
+      },
+      {
+        "word": "한분이시니",
+        "strong": "G1520"
+      },
+      {
+        "word": "이와 같이",
+        "strong": "G2531"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "부르심의",
+        "strong": "G2821"
+      },
+      {
+        "word": "한",
+        "strong": "G3391"
+      },
+      {
+        "word": "소망",
+        "strong": "G1680"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "부르심을 받았느니라",
+        "strong": "G2564"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 5,
+    "text": "주도 한 분이시요 믿음도 하나요 세례도 하나요",
+    "words": [
+      {
+        "word": "주도",
+        "strong": "G2962"
+      },
+      {
+        "word": "한분이시요",
+        "strong": "G1520"
+      },
+      {
+        "word": "믿음도",
+        "strong": "G4102"
+      },
+      {
+        "word": "하나요",
+        "strong": "G3391"
+      },
+      {
+        "word": "침례도",
+        "strong": "G908"
+      },
+      {
+        "word": "하나요",
+        "strong": "G1520"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 6,
+    "text": "하나님도 한 분이시니 곧 만유의 아버지시라 만유 위에 계시고 만유를 통일하시고 만유 가운데 계시도다",
+    "words": [
+      {
+        "word": "하나님도",
+        "strong": "G2316"
+      },
+      {
+        "word": "한분이시니",
+        "strong": "G1520"
+      },
+      {
+        "word": "곧",
+        "strong": "G2532"
+      },
+      {
+        "word": "만유의",
+        "strong": "G3956"
+      },
+      {
+        "word": "아버지시라",
+        "strong": "G3962"
+      },
+      {
+        "word": "만유",
+        "strong": "G3956"
+      },
+      {
+        "word": "위에 계시고",
+        "strong": "G1909"
+      },
+      {
+        "word": "만유를",
+        "strong": "G3956"
+      },
+      {
+        "word": "통일하시고",
+        "strong": "G1223"
+      },
+      {
+        "word": "만유",
+        "strong": "G3956"
+      },
+      {
+        "word": "가운데 계시도다",
+        "strong": "G1722"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 7,
+    "text": "우리 각 사람에게 그리스도의 선물의 분량대로 은혜를 주셨나니",
+    "words": [
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "각 사람에게",
+        "strong": "G1538"
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "선물의",
+        "strong": "G1431"
+      },
+      {
+        "word": "분량",
+        "strong": "G3358"
+      },
+      {
+        "word": "대로",
+        "strong": "G2596"
+      },
+      {
+        "word": "은혜를",
+        "strong": "G5485"
+      },
+      {
+        "word": "주셨나니",
+        "strong": "G1325"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 8,
+    "text": "그러므로 이르기를 그가 위로 올라가실 때에 사로잡혔던 자들을 사로잡으시고 그 사람들에게 선물을 주셨다 하였도다",
+    "words": [
+      {
+        "word": "그러므로",
+        "strong": "G1352"
+      },
+      {
+        "word": "이르기를",
+        "strong": "G3004"
+      },
+      {
+        "word": "그가",
+        "strong": null
+      },
+      {
+        "word": "위",
+        "strong": "G5311"
+      },
+      {
+        "word": "로",
+        "strong": "G1519"
+      },
+      {
+        "word": "올라가실 때에",
+        "strong": "G305"
+      },
+      {
+        "word": "사로잡혔던 자들을",
+        "strong": "G161"
+      },
+      {
+        "word": "사로 잡으시고",
+        "strong": "G162"
+      },
+      {
+        "word": "사람들에게",
+        "strong": "G444"
+      },
+      {
+        "word": "선물을",
+        "strong": "G1390"
+      },
+      {
+        "word": "주셨다",
+        "strong": "G1325"
+      },
+      {
+        "word": "하였도다",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 9,
+    "text": "올라가셨다 하였은즉 땅 아래 낮은 곳으로 내리셨던 것이 아니면 무엇이냐",
+    "words": [
+      {
+        "word": "올라가셨다",
+        "strong": "G305"
+      },
+      {
+        "word": "하였은즉",
+        "strong": null
+      },
+      {
+        "word": "땅",
+        "strong": "G1093"
+      },
+      {
+        "word": "아래낮은",
+        "strong": "G2737"
+      },
+      {
+        "word": "곳",
+        "strong": "G3313"
+      },
+      {
+        "word": "으로",
+        "strong": "G1519"
+      },
+      {
+        "word": "내리셨던",
+        "strong": "G2597"
+      },
+      {
+        "word": "것이",
+        "strong": "G3754"
+      },
+      {
+        "word": "아니면",
+        "strong": "G1508"
+      },
+      {
+        "word": "무엇",
+        "strong": "G5101"
+      },
+      {
+        "word": "이냐",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 10,
+    "text": "내리셨던 그가 곧 모든 하늘 위에 오르신 자니 이는 만물을 충만하게 하려 하심이라",
+    "words": [
+      {
+        "word": "내리셨던",
+        "strong": "G2597"
+      },
+      {
+        "word": "그가",
+        "strong": "G3588"
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "하늘",
+        "strong": "G3772"
+      },
+      {
+        "word": "위에",
+        "strong": "G5231"
+      },
+      {
+        "word": "오르신",
+        "strong": "G305"
+      },
+      {
+        "word": "자",
+        "strong": "G3588"
+      },
+      {
+        "word": "니",
+        "strong": "G2076"
+      },
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "만물을",
+        "strong": "G3956"
+      },
+      {
+        "word": "충만하게",
+        "strong": "G4137"
+      },
+      {
+        "word": "하려 하심이라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 11,
+    "text": "그가 어떤 사람은 사도로, 어떤 사람은 선지자로, 어떤 사람은 복음 전하는 자로, 어떤 사람은 목사와 교사로 삼으셨으니",
+    "words": [
+      {
+        "word": "그가",
+        "strong": "G846"
+      },
+      {
+        "word": "어떤사람은",
+        "strong": "G3588"
+      },
+      {
+        "word": "사도로,",
+        "strong": "G652"
+      },
+      {
+        "word": "어떤사람은",
+        "strong": "G3588"
+      },
+      {
+        "word": "선지자로,",
+        "strong": "G4396"
+      },
+      {
+        "word": "어떤사람은",
+        "strong": "G3588"
+      },
+      {
+        "word": "복음 전하는 자로,",
+        "strong": "G2099"
+      },
+      {
+        "word": "어떤사람은",
+        "strong": "G3588"
+      },
+      {
+        "word": "목사",
+        "strong": "G4166"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "교사로",
+        "strong": "G1320"
+      },
+      {
+        "word": "삼으셨으니",
+        "strong": "G1325"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 12,
+    "text": "이는 성도를 온전하게 하여 봉사의 일을 하게 하며 그리스도의 몸을 세우려 하심이라",
+    "words": [
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "성도를",
+        "strong": "G40"
+      },
+      {
+        "word": "온전하게",
+        "strong": "G2677"
+      },
+      {
+        "word": "하여",
+        "strong": "G4314"
+      },
+      {
+        "word": "봉사의",
+        "strong": "G1248"
+      },
+      {
+        "word": "일",
+        "strong": "G2041"
+      },
+      {
+        "word": "을 하게 하며",
+        "strong": "G1519"
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "몸을",
+        "strong": "G4983"
+      },
+      {
+        "word": "세우려",
+        "strong": "G3619"
+      },
+      {
+        "word": "하심이라",
+        "strong": "G1519"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 13,
+    "text": "우리가 다 하나님의 아들을 믿는 것과 아는 일에 하나가 되어 온전한 사람을 이루어 그리스도의 장성한 분량이 충만한 데까지 이르리니",
+    "words": [
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "다",
+        "strong": "G3956"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "아들을",
+        "strong": "G5207"
+      },
+      {
+        "word": "믿는 것",
+        "strong": "G4102"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "아는 일에",
+        "strong": "G1922"
+      },
+      {
+        "word": "하나가",
+        "strong": "G1775"
+      },
+      {
+        "word": "되어",
+        "strong": "G1519"
+      },
+      {
+        "word": "온전한",
+        "strong": "G5046"
+      },
+      {
+        "word": "사람을",
+        "strong": "G435"
+      },
+      {
+        "word": "이루어",
+        "strong": "G1519"
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "장성한",
+        "strong": "G2244"
+      },
+      {
+        "word": "분량이",
+        "strong": "G3358"
+      },
+      {
+        "word": "충만한데",
+        "strong": "G4138"
+      },
+      {
+        "word": "까지",
+        "strong": "G1519"
+      },
+      {
+        "word": "이르리니",
+        "strong": "G2658"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 14,
+    "text": "이는 우리가 이제부터 어린 아이가 되지 아니하여 사람의 속임수와 간사한 유혹에 빠져 온갖 교훈의 풍조에 밀려 요동하지 않게 하려 함이라",
+    "words": [
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "이제부터",
+        "strong": null
+      },
+      {
+        "word": "어린 아이가",
+        "strong": "G3516"
+      },
+      {
+        "word": "되지",
+        "strong": "G5600"
+      },
+      {
+        "word": "아니하여",
+        "strong": "G3371"
+      },
+      {
+        "word": "사람의",
+        "strong": "G444"
+      },
+      {
+        "word": "속임수와",
+        "strong": "G2940"
+      },
+      {
+        "word": "간",
+        "strong": "G4106"
+      },
+      {
+        "word": "사한",
+        "strong": "G3180"
+      },
+      {
+        "word": "유혹",
+        "strong": "G3834"
+      },
+      {
+        "word": "에 빠져",
+        "strong": "G1722"
+      },
+      {
+        "word": "온갖",
+        "strong": "G3956"
+      },
+      {
+        "word": "교훈의",
+        "strong": "G1319"
+      },
+      {
+        "word": "풍조에",
+        "strong": "G417"
+      },
+      {
+        "word": "밀려",
+        "strong": "G4064"
+      },
+      {
+        "word": "요동하지 않게",
+        "strong": "G2831"
+      },
+      {
+        "word": "하려 함이라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 15,
+    "text": "오직 사랑 안에서 참된 것을 하여 범사에 그에게까지 자랄지라 그는 머리니 곧 그리스도라",
+    "words": [
+      {
+        "word": "오직",
+        "strong": "G1161"
+      },
+      {
+        "word": "사랑",
+        "strong": "G26"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "참된 것을 하여",
+        "strong": "G226"
+      },
+      {
+        "word": "범사에",
+        "strong": "G3956"
+      },
+      {
+        "word": "그에게",
+        "strong": "G846"
+      },
+      {
+        "word": "까지",
+        "strong": "G1519"
+      },
+      {
+        "word": "자랄지라",
+        "strong": "G837"
+      },
+      {
+        "word": "그는",
+        "strong": "G3739"
+      },
+      {
+        "word": "머리",
+        "strong": "G2776"
+      },
+      {
+        "word": "니",
+        "strong": "G2076"
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "그리스도라",
+        "strong": "G5547"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 16,
+    "text": "그에게서 온 몸이 각 마디를 통하여 도움을 받음으로 연결되고 결합되어 각 지체의 분량대로 역사하여 그 몸을 자라게 하며 사랑 안에서 스스로 세우느니라",
+    "words": [
+      {
+        "word": "그",
+        "strong": "G3739"
+      },
+      {
+        "word": "에게서",
+        "strong": "G1537"
+      },
+      {
+        "word": "온",
+        "strong": "G3956"
+      },
+      {
+        "word": "몸이",
+        "strong": "G4983"
+      },
+      {
+        "word": "각",
+        "strong": "G3956"
+      },
+      {
+        "word": "마디를",
+        "strong": "G860"
+      },
+      {
+        "word": "통하여",
+        "strong": "G1223"
+      },
+      {
+        "word": "도움을 받음으로",
+        "strong": "G2024"
+      },
+      {
+        "word": "연결되고",
+        "strong": "G4883"
+      },
+      {
+        "word": "결합되어",
+        "strong": "G4822"
+      },
+      {
+        "word": "각",
+        "strong": "G1538"
+      },
+      {
+        "word": "지체의",
+        "strong": "G3313"
+      },
+      {
+        "word": "분량",
+        "strong": "G3358"
+      },
+      {
+        "word": "대로",
+        "strong": "G1722"
+      },
+      {
+        "word": "역사",
+        "strong": "G1753"
+      },
+      {
+        "word": "하여",
+        "strong": "G2596"
+      },
+      {
+        "word": "그",
+        "strong": "G3588"
+      },
+      {
+        "word": "몸을",
+        "strong": "G4983"
+      },
+      {
+        "word": "자라게 하며",
+        "strong": "G838"
+      },
+      {
+        "word": "사랑",
+        "strong": "G26"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "스스로",
+        "strong": "G1438"
+      },
+      {
+        "word": "세우느니라",
+        "strong": "G3619"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 17,
+    "text": "(옛 사람과 새 사람) 그러므로 내가 이것을 말하며 주 안에서 증언하노니 이제부터 너희는 이방인이 그 마음의 허망한 것으로 행함 같이 행하지 말라",
+    "words": [
+      {
+        "word": "그러므로",
+        "strong": "G3767"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "이것을",
+        "strong": "G5124"
+      },
+      {
+        "word": "말하며",
+        "strong": "G3004"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "증언하노니",
+        "strong": "G3143"
+      },
+      {
+        "word": "이제부터",
+        "strong": null
+      },
+      {
+        "word": "너희는",
+        "strong": "G5209"
+      },
+      {
+        "word": "이방인이",
+        "strong": "G1484"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "마음의",
+        "strong": "G3563"
+      },
+      {
+        "word": "허망한 것",
+        "strong": "G3153"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "행함",
+        "strong": "G4043"
+      },
+      {
+        "word": "같이",
+        "strong": "G2531"
+      },
+      {
+        "word": "행하지",
+        "strong": "G4043"
+      },
+      {
+        "word": "말라",
+        "strong": "G3371"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 18,
+    "text": "그들의 총명이 어두워지고 그들 가운데 있는 무지함과 그들의 마음이 굳어짐으로 말미암아 하나님의 생명에서 떠나 있도다",
+    "words": [
+      {
+        "word": "그들의",
+        "strong": null
+      },
+      {
+        "word": "총명이",
+        "strong": "G1271"
+      },
+      {
+        "word": "어두워지고",
+        "strong": "G4656"
+      },
+      {
+        "word": "그들",
+        "strong": "G846"
+      },
+      {
+        "word": "가운데",
+        "strong": "G1722"
+      },
+      {
+        "word": "있는",
+        "strong": "G5607"
+      },
+      {
+        "word": "무지함과",
+        "strong": "G52"
+      },
+      {
+        "word": "그들의",
+        "strong": "G846"
+      },
+      {
+        "word": "마음이",
+        "strong": "G2588"
+      },
+      {
+        "word": "굳어짐으로",
+        "strong": "G4457"
+      },
+      {
+        "word": "말미암아",
+        "strong": "G1223"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "생명에서",
+        "strong": "G2222"
+      },
+      {
+        "word": "떠나",
+        "strong": "G526"
+      },
+      {
+        "word": "있도다",
+        "strong": "G5607"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 19,
+    "text": "그들이 감각 없는 자가 되어 자신을 방탕에 방임하여 모든 더러운 것을 욕심으로 행하되",
+    "words": [
+      {
+        "word": "그들이",
+        "strong": "G3748"
+      },
+      {
+        "word": "감각 없는 자가 되어",
+        "strong": "G524"
+      },
+      {
+        "word": "자신을",
+        "strong": "G1438"
+      },
+      {
+        "word": "방탕에",
+        "strong": "G766"
+      },
+      {
+        "word": "방임하여",
+        "strong": "G3860"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "더러운 것을",
+        "strong": "G167"
+      },
+      {
+        "word": "욕심",
+        "strong": "G4124"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "행하되",
+        "strong": "G2039"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 20,
+    "text": "오직 너희는 그리스도를 그같이 배우지 아니하였느니라",
+    "words": [
+      {
+        "word": "오직",
+        "strong": "G1161"
+      },
+      {
+        "word": "너희는",
+        "strong": "G5210"
+      },
+      {
+        "word": "그리스도를",
+        "strong": "G5547"
+      },
+      {
+        "word": "그같이",
+        "strong": "G3779"
+      },
+      {
+        "word": "배우지",
+        "strong": "G3129"
+      },
+      {
+        "word": "아니",
+        "strong": "G3756"
+      },
+      {
+        "word": "하였느니라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 21,
+    "text": "진리가 예수 안에 있는 것 같이 너희가 참으로 그에게서 듣고 또한 그 안에서 가르침을 받았을진대",
+    "words": [
+      {
+        "word": "진리가",
+        "strong": "G225"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "있는 것",
+        "strong": "G2076"
+      },
+      {
+        "word": "같이",
+        "strong": "G2531"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "참으로",
+        "strong": "G1065"
+      },
+      {
+        "word": "그에게서",
+        "strong": "G846"
+      },
+      {
+        "word": "듣고",
+        "strong": "G191"
+      },
+      {
+        "word": "또한",
+        "strong": "G2532"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "가르침을 받았을",
+        "strong": "G1321"
+      },
+      {
+        "word": "진대",
+        "strong": "G1489"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 22,
+    "text": "너희는 유혹의 욕심을 따라 썩어져 가는 구습을 따르는 옛 사람을 벗어 버리고",
+    "words": [
+      {
+        "word": "너희는",
+        "strong": "G5209"
+      },
+      {
+        "word": "유혹의",
+        "strong": "G539"
+      },
+      {
+        "word": "욕심을",
+        "strong": "G1939"
+      },
+      {
+        "word": "따라",
+        "strong": "G2596"
+      },
+      {
+        "word": "썩어져 가는",
+        "strong": "G5351"
+      },
+      {
+        "word": "구",
+        "strong": "G4387"
+      },
+      {
+        "word": "습을",
+        "strong": "G391"
+      },
+      {
+        "word": "따르는",
+        "strong": "G2596"
+      },
+      {
+        "word": "옛",
+        "strong": "G3820"
+      },
+      {
+        "word": "사람을",
+        "strong": "G444"
+      },
+      {
+        "word": "벗어 버리고",
+        "strong": "G659"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 23,
+    "text": "오직 너희의 심령이 새롭게 되어",
+    "words": [
+      {
+        "word": "오직",
+        "strong": "G1161"
+      },
+      {
+        "word": "너희의 심",
+        "strong": "G3563"
+      },
+      {
+        "word": "령이",
+        "strong": "G4151"
+      },
+      {
+        "word": "새롭게 되어",
+        "strong": "G365"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 24,
+    "text": "하나님을 따라 의와 진리의 거룩함으로 지으심을 받은 새 사람을 입으라",
+    "words": [
+      {
+        "word": "하나님을",
+        "strong": "G2316"
+      },
+      {
+        "word": "따라",
+        "strong": "G2596"
+      },
+      {
+        "word": "의",
+        "strong": "G1343"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "진리의",
+        "strong": "G225"
+      },
+      {
+        "word": "거룩함",
+        "strong": "G3742"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "지으심을 받은",
+        "strong": "G2936"
+      },
+      {
+        "word": "새",
+        "strong": "G2537"
+      },
+      {
+        "word": "사람을",
+        "strong": "G444"
+      },
+      {
+        "word": "입으라",
+        "strong": "G1746"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 25,
+    "text": "(하나님을 본받는 생활) 그런즉 거짓을 버리고 각각 그 이웃과 더불어 참된 것을 말하라 이는 우리가 서로 지체가 됨이라",
+    "words": [
+      {
+        "word": "그런즉",
+        "strong": "G1352"
+      },
+      {
+        "word": "거짓을",
+        "strong": "G5579"
+      },
+      {
+        "word": "버리고",
+        "strong": "G659"
+      },
+      {
+        "word": "각각",
+        "strong": "G1538"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "이웃과",
+        "strong": "G4139"
+      },
+      {
+        "word": "더불어",
+        "strong": "G3326"
+      },
+      {
+        "word": "참된 것을",
+        "strong": "G225"
+      },
+      {
+        "word": "말하라",
+        "strong": "G2980"
+      },
+      {
+        "word": "이는",
+        "strong": "G3754"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "서로",
+        "strong": "G240"
+      },
+      {
+        "word": "지체가",
+        "strong": "G3196"
+      },
+      {
+        "word": "됨",
+        "strong": "G2070"
+      },
+      {
+        "word": "이라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 26,
+    "text": "분을 내어도 죄를 짓지 말며 해가 지도록 분을 품지 말고",
+    "words": [
+      {
+        "word": "분을 내어도",
+        "strong": "G3710"
+      },
+      {
+        "word": "죄를 짓지",
+        "strong": "G264"
+      },
+      {
+        "word": "말며",
+        "strong": "G3361"
+      },
+      {
+        "word": "해가",
+        "strong": "G2246"
+      },
+      {
+        "word": "지도록",
+        "strong": "G1931"
+      },
+      {
+        "word": "분을",
+        "strong": "G3950"
+      },
+      {
+        "word": "품지",
+        "strong": "G1909"
+      },
+      {
+        "word": "말고",
+        "strong": "G3361"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 27,
+    "text": "마귀에게 틈을 주지 말라",
+    "words": [
+      {
+        "word": "마귀에게",
+        "strong": "G1228"
+      },
+      {
+        "word": "틈을",
+        "strong": "G5117"
+      },
+      {
+        "word": "주지",
+        "strong": "G1325"
+      },
+      {
+        "word": "말라",
+        "strong": "G3366"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 28,
+    "text": "도둑질하는 자는 다시 도둑질하지 말고 돌이켜 가난한 자에게 구제할 수 있도록 자기 손으로 수고하여 선한 일을 하라",
+    "words": [
+      {
+        "word": "도둑질하는",
+        "strong": "G2813"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "다시",
+        "strong": null
+      },
+      {
+        "word": "도둑질하지",
+        "strong": "G2813"
+      },
+      {
+        "word": "말고",
+        "strong": "G3371"
+      },
+      {
+        "word": "돌이켜",
+        "strong": "G3123"
+      },
+      {
+        "word": "가난",
+        "strong": "G5532"
+      },
+      {
+        "word": "한",
+        "strong": "G2192"
+      },
+      {
+        "word": "자에게",
+        "strong": "G3588"
+      },
+      {
+        "word": "구제할 수",
+        "strong": "G3330"
+      },
+      {
+        "word": "있",
+        "strong": "G2192"
+      },
+      {
+        "word": "도록",
+        "strong": "G2443"
+      },
+      {
+        "word": "자기",
+        "strong": "G2398"
+      },
+      {
+        "word": "손으로",
+        "strong": "G5495"
+      },
+      {
+        "word": "수고하여",
+        "strong": "G2872"
+      },
+      {
+        "word": "선한 일을",
+        "strong": "G18"
+      },
+      {
+        "word": "하라",
+        "strong": "G2038"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 29,
+    "text": "무릇 더러운 말은 너희 입 밖에도 내지 말고 오직 덕을 세우는 데 소용되는 대로 선한 말을 하여 듣는 자들에게 은혜를 끼치게 하라",
+    "words": [
+      {
+        "word": "무릇",
+        "strong": "G3956"
+      },
+      {
+        "word": "더러운",
+        "strong": "G4550"
+      },
+      {
+        "word": "말은",
+        "strong": "G3056"
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "입밖",
+        "strong": "G4750"
+      },
+      {
+        "word": "에도",
+        "strong": "G1537"
+      },
+      {
+        "word": "내지",
+        "strong": "G1607"
+      },
+      {
+        "word": "말고",
+        "strong": "G3361"
+      },
+      {
+        "word": "오직",
+        "strong": "G235"
+      },
+      {
+        "word": "덕을 세우는",
+        "strong": "G3619"
+      },
+      {
+        "word": "데",
+        "strong": "G4314"
+      },
+      {
+        "word": "소용되는대로",
+        "strong": "G5532"
+      },
+      {
+        "word": "선한 말을",
+        "strong": "G18"
+      },
+      {
+        "word": "하여",
+        "strong": "G1487"
+      },
+      {
+        "word": "듣는",
+        "strong": "G191"
+      },
+      {
+        "word": "자들에게",
+        "strong": "G3588"
+      },
+      {
+        "word": "은혜를",
+        "strong": "G5485"
+      },
+      {
+        "word": "끼치게",
+        "strong": "G1325"
+      },
+      {
+        "word": "하라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 30,
+    "text": "하나님의 성령을 근심하게 하지 말라 그 안에서 너희가 구원의 날까지 인치심을 받았느니라",
+    "words": [
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "성",
+        "strong": "G40"
+      },
+      {
+        "word": "령을",
+        "strong": "G4151"
+      },
+      {
+        "word": "근심하게 하지",
+        "strong": "G3076"
+      },
+      {
+        "word": "말라",
+        "strong": "G3361"
+      },
+      {
+        "word": "그",
+        "strong": "G3739"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "구원의",
+        "strong": "G629"
+      },
+      {
+        "word": "날",
+        "strong": "G2250"
+      },
+      {
+        "word": "까지",
+        "strong": "G1519"
+      },
+      {
+        "word": "인치심을 받았느니라",
+        "strong": "G4972"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 31,
+    "text": "너희는 모든 악독과 노함과 분냄과 떠드는 것과 비방하는 것을 모든 악의와 함께 버리고",
+    "words": [
+      {
+        "word": "너희는",
+        "strong": "G5216"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "악독",
+        "strong": "G4088"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "노함",
+        "strong": "G2372"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "분냄",
+        "strong": "G3709"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "떠드는 것",
+        "strong": "G2906"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "비방하는 것을",
+        "strong": "G988"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "악의와",
+        "strong": "G2549"
+      },
+      {
+        "word": "함께",
+        "strong": "G4862"
+      },
+      {
+        "word": "버리고",
+        "strong": "G142"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 4,
+    "verse": 32,
+    "text": "서로 친절하게 하며 불쌍히 여기며 서로 용서하기를 하나님이 그리스도 안에서 너희를 용서하심과 같이 하라",
+    "words": [
+      {
+        "word": "서로",
+        "strong": "G240"
+      },
+      {
+        "word": "친절하게 하며",
+        "strong": "G5543"
+      },
+      {
+        "word": "불쌍히 여기며",
+        "strong": "G2155"
+      },
+      {
+        "word": "서로",
+        "strong": "G4572"
+      },
+      {
+        "word": "용서하기를",
+        "strong": "G5483"
+      },
+      {
+        "word": "하나님이",
+        "strong": "G2316"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "너희를",
+        "strong": "G5213"
+      },
+      {
+        "word": "용서하심과",
+        "strong": "G5483"
+      },
+      {
+        "word": "같이",
+        "strong": "G2531"
+      },
+      {
+        "word": "하라",
+        "strong": "G1096"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 1,
+    "text": "그러므로 사랑을 받는 자녀 같이 너희는 하나님을 본받는 자가 되고",
+    "words": [
+      {
+        "word": "그러므로",
+        "strong": "G3767"
+      },
+      {
+        "word": "사랑을 받는",
+        "strong": "G27"
+      },
+      {
+        "word": "자녀",
+        "strong": "G5043"
+      },
+      {
+        "word": "같이",
+        "strong": "G5613"
+      },
+      {
+        "word": "너희는",
+        "strong": null
+      },
+      {
+        "word": "하나님을",
+        "strong": "G2316"
+      },
+      {
+        "word": "본받는 자가",
+        "strong": "G3402"
+      },
+      {
+        "word": "되고",
+        "strong": "G1096"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 2,
+    "text": "그리스도께서 너희를 사랑하신 것 같이 너희도 사랑 가운데서 행하라 그는 우리를 위하여 자신을 버리사 향기로운 제물과 희생제물로 하나님께 드리셨느니라",
+    "words": [
+      {
+        "word": "그리스도께서",
+        "strong": "G5547"
+      },
+      {
+        "word": "너희를",
+        "strong": "G2248"
+      },
+      {
+        "word": "사랑하신 것",
+        "strong": "G25"
+      },
+      {
+        "word": "같이",
+        "strong": "G2531"
+      },
+      {
+        "word": "너희도",
+        "strong": null
+      },
+      {
+        "word": "사랑",
+        "strong": "G26"
+      },
+      {
+        "word": "가운데서",
+        "strong": "G1722"
+      },
+      {
+        "word": "행하라",
+        "strong": "G4043"
+      },
+      {
+        "word": "그는",
+        "strong": null
+      },
+      {
+        "word": "우리를",
+        "strong": "G2257"
+      },
+      {
+        "word": "위하여",
+        "strong": "G5228"
+      },
+      {
+        "word": "자신을",
+        "strong": "G1438"
+      },
+      {
+        "word": "버리사",
+        "strong": "G3860"
+      },
+      {
+        "word": "향",
+        "strong": "G2175"
+      },
+      {
+        "word": "기로운",
+        "strong": "G3744"
+      },
+      {
+        "word": "제물",
+        "strong": "G4376"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "희생제물로",
+        "strong": "G2378"
+      },
+      {
+        "word": "하나님께",
+        "strong": "G2316"
+      },
+      {
+        "word": "드리셨느니라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 3,
+    "text": "음행과 온갖 더러운 것과 탐욕은 너희 중에서 그 이름조차도 부르지 말라 이는 성도에게 마땅한 바니라",
+    "words": [
+      {
+        "word": "음행",
+        "strong": "G4202"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "온갖",
+        "strong": "G3956"
+      },
+      {
+        "word": "더러운 것",
+        "strong": "G167"
+      },
+      {
+        "word": "과",
+        "strong": "G2228"
+      },
+      {
+        "word": "탐욕은",
+        "strong": "G4124"
+      },
+      {
+        "word": "너희",
+        "strong": "G5213"
+      },
+      {
+        "word": "중에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "그 이름조차도 부르지",
+        "strong": "G3687"
+      },
+      {
+        "word": "말라",
+        "strong": "G3366"
+      },
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "성도에게",
+        "strong": "G40"
+      },
+      {
+        "word": "마땅한 바",
+        "strong": "G4241"
+      },
+      {
+        "word": "니라",
+        "strong": "G2531"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 4,
+    "text": "누추함과 어리석은 말이나 희롱의 말이 마땅치 아니하니 오히려 감사하는 말을 하라",
+    "words": [
+      {
+        "word": "누추함",
+        "strong": "G151"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "어리석은 말",
+        "strong": "G3473"
+      },
+      {
+        "word": "이나",
+        "strong": "G2228"
+      },
+      {
+        "word": "희롱의 말이",
+        "strong": "G2160"
+      },
+      {
+        "word": "마땅치",
+        "strong": "G433"
+      },
+      {
+        "word": "아니",
+        "strong": "G3756"
+      },
+      {
+        "word": "하니",
+        "strong": null
+      },
+      {
+        "word": "오히려",
+        "strong": "G3123"
+      },
+      {
+        "word": "감사하는 말을 하라",
+        "strong": "G2169"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 5,
+    "text": "너희도 정녕 이것을 알거니와 음행하는 자나 더러운 자나 탐하는 자 곧 우상 숭배자는 다 그리스도와 하나님의 나라에서 기업을 얻지 못하리니",
+    "words": [
+      {
+        "word": "너희도",
+        "strong": null
+      },
+      {
+        "word": "정녕 이것을",
+        "strong": "G5124"
+      },
+      {
+        "word": "알거니와",
+        "strong": "G1097"
+      },
+      {
+        "word": "음행하는 자",
+        "strong": "G4205"
+      },
+      {
+        "word": "나",
+        "strong": "G2228"
+      },
+      {
+        "word": "더러운 자",
+        "strong": "G169"
+      },
+      {
+        "word": "나",
+        "strong": "G2228"
+      },
+      {
+        "word": "탐하는 자",
+        "strong": "G4123"
+      },
+      {
+        "word": "곧",
+        "strong": "G3739"
+      },
+      {
+        "word": "우상 숭배자는",
+        "strong": "G1496"
+      },
+      {
+        "word": "다",
+        "strong": "G3956"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "나라",
+        "strong": "G932"
+      },
+      {
+        "word": "에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "기업을",
+        "strong": "G2818"
+      },
+      {
+        "word": "얻지",
+        "strong": "G2192"
+      },
+      {
+        "word": "못",
+        "strong": "G3756"
+      },
+      {
+        "word": "하리니",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 6,
+    "text": "누구든지 헛된 말로 너희를 속이지 못하게 하라 이로 말미암아 하나님의 진노가 불순종의 아들들에게 임하나니",
+    "words": [
+      {
+        "word": "누구든지",
+        "strong": null
+      },
+      {
+        "word": "헛된",
+        "strong": "G2756"
+      },
+      {
+        "word": "말로",
+        "strong": "G3056"
+      },
+      {
+        "word": "너희를",
+        "strong": "G5209"
+      },
+      {
+        "word": "속이지",
+        "strong": "G538"
+      },
+      {
+        "word": "못",
+        "strong": "G3367"
+      },
+      {
+        "word": "하게 하라",
+        "strong": null
+      },
+      {
+        "word": "이로",
+        "strong": "G5023"
+      },
+      {
+        "word": "말미암아",
+        "strong": "G1223"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "진노가",
+        "strong": "G3709"
+      },
+      {
+        "word": "불순종의",
+        "strong": "G543"
+      },
+      {
+        "word": "아들들",
+        "strong": "G5207"
+      },
+      {
+        "word": "에게",
+        "strong": "G1909"
+      },
+      {
+        "word": "임하",
+        "strong": "G2064"
+      },
+      {
+        "word": "나니",
+        "strong": "G1096"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 7,
+    "text": "그러므로 그들과 함께 하는 자가 되지 말라",
+    "words": [
+      {
+        "word": "그러므로",
+        "strong": "G3767"
+      },
+      {
+        "word": "그들과",
+        "strong": "G846"
+      },
+      {
+        "word": "함께 하는 자가",
+        "strong": "G4830"
+      },
+      {
+        "word": "되지",
+        "strong": "G1096"
+      },
+      {
+        "word": "말라",
+        "strong": "G3361"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 8,
+    "text": "너희가 전에는 어둠이더니 이제는 주 안에서 빛이라 빛의 자녀들처럼 행하라",
+    "words": [
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "전에는",
+        "strong": "G4218"
+      },
+      {
+        "word": "어둠",
+        "strong": "G4655"
+      },
+      {
+        "word": "이더니",
+        "strong": "G2258"
+      },
+      {
+        "word": "이제는",
+        "strong": "G3568"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "빛이라",
+        "strong": "G5457"
+      },
+      {
+        "word": "빛의",
+        "strong": "G5457"
+      },
+      {
+        "word": "자녀들",
+        "strong": "G5043"
+      },
+      {
+        "word": "처럼",
+        "strong": "G5613"
+      },
+      {
+        "word": "행하라",
+        "strong": "G4043"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 9,
+    "text": "빛의 열매는 모든 착함과 의로움과 진실함에 있느니라",
+    "words": [
+      {
+        "word": "빛의",
+        "strong": "G5457"
+      },
+      {
+        "word": "열매는",
+        "strong": "G2590"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "착함",
+        "strong": "G19"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "의로움",
+        "strong": "G1343"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "진실함",
+        "strong": "G225"
+      },
+      {
+        "word": "에 있느니라",
+        "strong": "G1722"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 10,
+    "text": "주를 기쁘시게 할 것이 무엇인가 시험하여 보라",
+    "words": [
+      {
+        "word": "주를",
+        "strong": "G2962"
+      },
+      {
+        "word": "기쁘시게 할 것이",
+        "strong": "G2101"
+      },
+      {
+        "word": "무엇",
+        "strong": "G5101"
+      },
+      {
+        "word": "인가",
+        "strong": "G2076"
+      },
+      {
+        "word": "시험하여 보라",
+        "strong": "G1381"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 11,
+    "text": "너희는 열매 없는 어둠의 일에 참여하지 말고 도리어 책망하라",
+    "words": [
+      {
+        "word": "너희는",
+        "strong": null
+      },
+      {
+        "word": "열매 없는",
+        "strong": "G175"
+      },
+      {
+        "word": "어둠의",
+        "strong": "G4655"
+      },
+      {
+        "word": "일에",
+        "strong": "G2041"
+      },
+      {
+        "word": "참여하지",
+        "strong": "G4790"
+      },
+      {
+        "word": "말고",
+        "strong": "G3361"
+      },
+      {
+        "word": "도리어",
+        "strong": "G3123"
+      },
+      {
+        "word": "책망하라",
+        "strong": "G1651"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 12,
+    "text": "그들이 은밀히 행하는 것들은 말하기도 부끄러운 것들이라",
+    "words": [
+      {
+        "word": "그들",
+        "strong": "G846"
+      },
+      {
+        "word": "이",
+        "strong": "G5259"
+      },
+      {
+        "word": "은밀히",
+        "strong": "G2931"
+      },
+      {
+        "word": "행하는",
+        "strong": "G1096"
+      },
+      {
+        "word": "것들은",
+        "strong": "G3588"
+      },
+      {
+        "word": "말하기",
+        "strong": "G3004"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "부끄러운 것들",
+        "strong": "G149"
+      },
+      {
+        "word": "이라",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 13,
+    "text": "그러나 책망을 받는 모든 것은 빛으로 말미암아 드러나나니 드러나는 것마다 빛이니라",
+    "words": [
+      {
+        "word": "그러나",
+        "strong": "G1161"
+      },
+      {
+        "word": "책망을 받는",
+        "strong": "G1651"
+      },
+      {
+        "word": "모든 것은",
+        "strong": "G3956"
+      },
+      {
+        "word": "빛",
+        "strong": "G5457"
+      },
+      {
+        "word": "으로 말미암아",
+        "strong": "G5259"
+      },
+      {
+        "word": "드러나나니",
+        "strong": "G5319"
+      },
+      {
+        "word": "드러나는",
+        "strong": "G5319"
+      },
+      {
+        "word": "것",
+        "strong": "G3588"
+      },
+      {
+        "word": "마다",
+        "strong": "G3956"
+      },
+      {
+        "word": "빛",
+        "strong": "G5457"
+      },
+      {
+        "word": "이니라",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 14,
+    "text": "그러므로 이르시기를 잠자는 자여 깨어서 죽은 자들 가운데서 일어나라 그리스도께서 너에게 비추이시리라 하셨느니라",
+    "words": [
+      {
+        "word": "그러므로",
+        "strong": "G1352"
+      },
+      {
+        "word": "이르시기를",
+        "strong": "G3004"
+      },
+      {
+        "word": "잠자는",
+        "strong": "G2518"
+      },
+      {
+        "word": "자여",
+        "strong": "G3588"
+      },
+      {
+        "word": "깨어서",
+        "strong": "G1453"
+      },
+      {
+        "word": "죽은 자들",
+        "strong": "G3498"
+      },
+      {
+        "word": "가운데서",
+        "strong": "G1537"
+      },
+      {
+        "word": "일어나라",
+        "strong": "G450"
+      },
+      {
+        "word": "그리스도께서",
+        "strong": "G5547"
+      },
+      {
+        "word": "너에게",
+        "strong": "G4671"
+      },
+      {
+        "word": "비추이시리라",
+        "strong": "G2017"
+      },
+      {
+        "word": "하셨느니라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 15,
+    "text": "(그리스도의 이름으로 감사하라) 그런즉 너희가 어떻게 행할지를 자세히 주의하여 지혜 없는 자 같이 하지 말고 오직 지혜 있는 자 같이 하여",
+    "words": [
+      {
+        "word": "그런즉",
+        "strong": "G3767"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "어떻게",
+        "strong": "G4459"
+      },
+      {
+        "word": "행할 지를",
+        "strong": "G4043"
+      },
+      {
+        "word": "자세히",
+        "strong": "G199"
+      },
+      {
+        "word": "주의하여",
+        "strong": "G991"
+      },
+      {
+        "word": "지혜 없는 자",
+        "strong": "G781"
+      },
+      {
+        "word": "같이",
+        "strong": "G5613"
+      },
+      {
+        "word": "하지말고",
+        "strong": "G3361"
+      },
+      {
+        "word": "오직",
+        "strong": "G235"
+      },
+      {
+        "word": "지혜 있는 자",
+        "strong": "G4680"
+      },
+      {
+        "word": "같이 하여",
+        "strong": "G5613"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 16,
+    "text": "세월을 아끼라 때가 악하니라",
+    "words": [
+      {
+        "word": "세월을",
+        "strong": "G2540"
+      },
+      {
+        "word": "아끼라",
+        "strong": "G1805"
+      },
+      {
+        "word": "때가",
+        "strong": "G2250"
+      },
+      {
+        "word": "악하",
+        "strong": "G4190"
+      },
+      {
+        "word": "니라",
+        "strong": "G1526"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 17,
+    "text": "그러므로 어리석은 자가 되지 말고 오직 주의 뜻이 무엇인가 이해하라",
+    "words": [
+      {
+        "word": "그러",
+        "strong": "G5124"
+      },
+      {
+        "word": "므로",
+        "strong": "G1223"
+      },
+      {
+        "word": "어리석은 자가",
+        "strong": "G878"
+      },
+      {
+        "word": "되지",
+        "strong": "G1096"
+      },
+      {
+        "word": "말고",
+        "strong": "G3361"
+      },
+      {
+        "word": "오직",
+        "strong": "G235"
+      },
+      {
+        "word": "주의",
+        "strong": "G2962"
+      },
+      {
+        "word": "뜻이",
+        "strong": "G2307"
+      },
+      {
+        "word": "무엇인가",
+        "strong": "G5101"
+      },
+      {
+        "word": "이해하라",
+        "strong": "G4920"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 18,
+    "text": "술 취하지 말라 이는 방탕한 것이니 오직 성령으로 충만함을 받으라",
+    "words": [
+      {
+        "word": "술",
+        "strong": "G3631"
+      },
+      {
+        "word": "취하지",
+        "strong": "G3182"
+      },
+      {
+        "word": "말라",
+        "strong": "G3361"
+      },
+      {
+        "word": "이는",
+        "strong": "G3739"
+      },
+      {
+        "word": "방탕한 것이니",
+        "strong": "G810"
+      },
+      {
+        "word": "오직",
+        "strong": "G235"
+      },
+      {
+        "word": "성령",
+        "strong": "G4151"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "충만함을 받으라",
+        "strong": "G4137"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 19,
+    "text": "시와 찬송과 신령한 노래들로 서로 화답하며 너희의 마음으로 주께 노래하며 찬송하며",
+    "words": [
+      {
+        "word": "시",
+        "strong": "G5568"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "찬송",
+        "strong": "G5215"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "신령한",
+        "strong": "G4152"
+      },
+      {
+        "word": "노래들",
+        "strong": "G5603"
+      },
+      {
+        "word": "로",
+        "strong": "G1722"
+      },
+      {
+        "word": "서로",
+        "strong": "G4572"
+      },
+      {
+        "word": "화답하며",
+        "strong": "G2980"
+      },
+      {
+        "word": "너희의",
+        "strong": "G5216"
+      },
+      {
+        "word": "마음으로",
+        "strong": "G2588"
+      },
+      {
+        "word": "주께",
+        "strong": "G2962"
+      },
+      {
+        "word": "노래하며",
+        "strong": "G103"
+      },
+      {
+        "word": "찬송하며",
+        "strong": "G5567"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 20,
+    "text": "범사에 우리 주 예수 그리스도의 이름으로 항상 아버지 하나님께 감사하며",
+    "words": [
+      {
+        "word": "범사",
+        "strong": "G3956"
+      },
+      {
+        "word": "에",
+        "strong": "G5228"
+      },
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "이름",
+        "strong": "G3686"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "항상",
+        "strong": "G3842"
+      },
+      {
+        "word": "아버지",
+        "strong": "G3962"
+      },
+      {
+        "word": "하나님께",
+        "strong": "G2316"
+      },
+      {
+        "word": "감사하며",
+        "strong": "G2168"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 21,
+    "text": "그리스도를 경외함으로 피차 복종하라",
+    "words": [
+      {
+        "word": "그리스도를",
+        "strong": "G5547"
+      },
+      {
+        "word": "경외함",
+        "strong": "G5401"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "피차",
+        "strong": "G240"
+      },
+      {
+        "word": "복종하라",
+        "strong": "G5293"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 22,
+    "text": "(아내와 남편) 아내들이여 자기 남편에게 복종하기를 주께 하듯 하라",
+    "words": [
+      {
+        "word": "아내들이여",
+        "strong": "G1135"
+      },
+      {
+        "word": "자기",
+        "strong": "G2398"
+      },
+      {
+        "word": "남편에게",
+        "strong": "G435"
+      },
+      {
+        "word": "복종하기",
+        "strong": "G5293"
+      },
+      {
+        "word": "주께",
+        "strong": "G2962"
+      },
+      {
+        "word": "하듯",
+        "strong": "G5613"
+      },
+      {
+        "word": "하라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 23,
+    "text": "이는 남편이 아내의 머리 됨이 그리스도께서 교회의 머리 됨과 같음이니 그가 바로 몸의 구주시니라",
+    "words": [
+      {
+        "word": "이는",
+        "strong": "G3754"
+      },
+      {
+        "word": "남편이",
+        "strong": "G435"
+      },
+      {
+        "word": "아내의",
+        "strong": "G1135"
+      },
+      {
+        "word": "머리",
+        "strong": "G2776"
+      },
+      {
+        "word": "됨이",
+        "strong": "G2076"
+      },
+      {
+        "word": "그리스도께서",
+        "strong": "G5547"
+      },
+      {
+        "word": "교회의",
+        "strong": "G1577"
+      },
+      {
+        "word": "머리 됨과",
+        "strong": "G2776"
+      },
+      {
+        "word": "같음이니",
+        "strong": "G5613"
+      },
+      {
+        "word": "그가 바로",
+        "strong": "G846"
+      },
+      {
+        "word": "몸의",
+        "strong": "G4983"
+      },
+      {
+        "word": "구주시니라",
+        "strong": "G4990"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 24,
+    "text": "그러므로 교회가 그리스도에게 하듯 아내들도 범사에 자기 남편에게 복종할지니라",
+    "words": [
+      {
+        "word": "그러므로",
+        "strong": "G235"
+      },
+      {
+        "word": "교회가",
+        "strong": "G1577"
+      },
+      {
+        "word": "그리스도에게",
+        "strong": "G5547"
+      },
+      {
+        "word": "하듯",
+        "strong": "G5613"
+      },
+      {
+        "word": "아내들",
+        "strong": "G1135"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "범사",
+        "strong": "G3956"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "자기",
+        "strong": "G3588"
+      },
+      {
+        "word": "남편에게",
+        "strong": "G435"
+      },
+      {
+        "word": "복종할지니라",
+        "strong": "G5293"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 25,
+    "text": "남편들아 아내 사랑하기를 그리스도께서 교회를 사랑하시고 그 교회를 위하여 자신을 주심 같이 하라",
+    "words": [
+      {
+        "word": "남편들아",
+        "strong": "G435"
+      },
+      {
+        "word": "아내",
+        "strong": "G1135"
+      },
+      {
+        "word": "사랑하기를",
+        "strong": "G25"
+      },
+      {
+        "word": "그리스도께서",
+        "strong": "G5547"
+      },
+      {
+        "word": "교회를",
+        "strong": "G1577"
+      },
+      {
+        "word": "사랑하시고",
+        "strong": "G25"
+      },
+      {
+        "word": "그 교회를 위하여",
+        "strong": "G5228"
+      },
+      {
+        "word": "자신을",
+        "strong": "G1438"
+      },
+      {
+        "word": "주심",
+        "strong": "G3860"
+      },
+      {
+        "word": "같이",
+        "strong": "G2531"
+      },
+      {
+        "word": "하라",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 26,
+    "text": "이는 곧 물로 씻어 말씀으로 깨끗하게 하사 거룩하게 하시고",
+    "words": [
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "물로",
+        "strong": "G5204"
+      },
+      {
+        "word": "씻어",
+        "strong": "G3067"
+      },
+      {
+        "word": "말씀",
+        "strong": "G4487"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "깨끗하게 하사",
+        "strong": "G2511"
+      },
+      {
+        "word": "거룩하게",
+        "strong": "G37"
+      },
+      {
+        "word": "하시고",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 27,
+    "text": "자기 앞에 영광스러운 교회로 세우사 티나 주름 잡힌 것이나 이런 것들이 없이 거룩하고 흠이 없게 하려 하심이라",
+    "words": [
+      {
+        "word": "자기 앞에",
+        "strong": "G1438"
+      },
+      {
+        "word": "영광스러운",
+        "strong": "G1741"
+      },
+      {
+        "word": "교회로",
+        "strong": "G1577"
+      },
+      {
+        "word": "세우사",
+        "strong": "G3936"
+      },
+      {
+        "word": "티",
+        "strong": "G4695"
+      },
+      {
+        "word": "나",
+        "strong": "G2228"
+      },
+      {
+        "word": "주름잡힌 것",
+        "strong": "G4512"
+      },
+      {
+        "word": "이나",
+        "strong": "G2228"
+      },
+      {
+        "word": "이런 것들이",
+        "strong": "G5101"
+      },
+      {
+        "word": "없",
+        "strong": "G3361"
+      },
+      {
+        "word": "이",
+        "strong": "G2192"
+      },
+      {
+        "word": "거룩하고",
+        "strong": "G40"
+      },
+      {
+        "word": "흠이 없",
+        "strong": "G298"
+      },
+      {
+        "word": "게",
+        "strong": "G5600"
+      },
+      {
+        "word": "하려 하심이라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 28,
+    "text": "이와 같이 남편들도 자기 아내 사랑하기를 자기 자신과 같이 할지니 자기 아내를 사랑하는 자는 자기를 사랑하는 것이라",
+    "words": [
+      {
+        "word": "이와 같이",
+        "strong": "G3779"
+      },
+      {
+        "word": "남편들도",
+        "strong": "G435"
+      },
+      {
+        "word": "자기",
+        "strong": "G1438"
+      },
+      {
+        "word": "아내",
+        "strong": "G1135"
+      },
+      {
+        "word": "사랑하기를",
+        "strong": "G25"
+      },
+      {
+        "word": "자기",
+        "strong": "G1438"
+      },
+      {
+        "word": "자신과",
+        "strong": "G4983"
+      },
+      {
+        "word": "같이",
+        "strong": "G5613"
+      },
+      {
+        "word": "할지니",
+        "strong": "G3784"
+      },
+      {
+        "word": "자기",
+        "strong": "G1438"
+      },
+      {
+        "word": "아내를",
+        "strong": "G1135"
+      },
+      {
+        "word": "사랑하는",
+        "strong": "G25"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "자기를",
+        "strong": "G1438"
+      },
+      {
+        "word": "사랑하는 것이라",
+        "strong": "G25"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 29,
+    "text": "누구든지 언제나 자기 육체를 미워하지 않고 오직 양육하여 보호하기를 그리스도께서 교회에게 함과 같이 하나니",
+    "words": [
+      {
+        "word": "누구든지",
+        "strong": null
+      },
+      {
+        "word": "언제나",
+        "strong": "G4218"
+      },
+      {
+        "word": "자기",
+        "strong": "G1438"
+      },
+      {
+        "word": "육체를",
+        "strong": "G4561"
+      },
+      {
+        "word": "미워하지",
+        "strong": "G3404"
+      },
+      {
+        "word": "않고",
+        "strong": "G3762"
+      },
+      {
+        "word": "오직",
+        "strong": "G235"
+      },
+      {
+        "word": "양육하여",
+        "strong": "G1625"
+      },
+      {
+        "word": "보호하기를",
+        "strong": "G2282"
+      },
+      {
+        "word": "그리스도께서",
+        "strong": "G5547"
+      },
+      {
+        "word": "교회에게",
+        "strong": "G1577"
+      },
+      {
+        "word": "함과",
+        "strong": null
+      },
+      {
+        "word": "같이 하나니",
+        "strong": "G2531"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 30,
+    "text": "우리는 그 몸의 지체임이라",
+    "words": [
+      {
+        "word": "우리는",
+        "strong": null
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "몸의",
+        "strong": "G4983"
+      },
+      {
+        "word": "지체",
+        "strong": "G3196"
+      },
+      {
+        "word": "임이",
+        "strong": "G2070"
+      },
+      {
+        "word": "라",
+        "strong": "G3754"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 31,
+    "text": "그러므로 사람이 부모를 떠나 그의 아내와 합하여 그 둘이 한 육체가 될지니",
+    "words": [
+      {
+        "word": "그러",
+        "strong": "G5127"
+      },
+      {
+        "word": "므로",
+        "strong": "G473"
+      },
+      {
+        "word": "사람이",
+        "strong": "G444"
+      },
+      {
+        "word": "부",
+        "strong": "G3962"
+      },
+      {
+        "word": "모를",
+        "strong": "G3384"
+      },
+      {
+        "word": "떠나",
+        "strong": "G2641"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "아내와",
+        "strong": "G1135"
+      },
+      {
+        "word": "합하여",
+        "strong": "G4347"
+      },
+      {
+        "word": "그",
+        "strong": "G3588"
+      },
+      {
+        "word": "둘이",
+        "strong": "G1417"
+      },
+      {
+        "word": "한",
+        "strong": "G3391"
+      },
+      {
+        "word": "육체가",
+        "strong": "G4561"
+      },
+      {
+        "word": "될지니",
+        "strong": "G2071"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 32,
+    "text": "이 비밀이 크도다 나는 그리스도와 교회에 대하여 말하노라",
+    "words": [
+      {
+        "word": "이",
+        "strong": "G5124"
+      },
+      {
+        "word": "비밀이",
+        "strong": "G3466"
+      },
+      {
+        "word": "크",
+        "strong": "G3173"
+      },
+      {
+        "word": "도다",
+        "strong": "G2076"
+      },
+      {
+        "word": "나는",
+        "strong": "G1473"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "교회",
+        "strong": "G1577"
+      },
+      {
+        "word": "에 대하여",
+        "strong": "G1519"
+      },
+      {
+        "word": "말하노라",
+        "strong": "G3004"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 5,
+    "verse": 33,
+    "text": "그러나 너희도 각각 자기의 아내 사랑하기를 자신 같이 하고 아내도 자기 남편을 존경하라",
+    "words": [
+      {
+        "word": "그러나",
+        "strong": "G4133"
+      },
+      {
+        "word": "너희",
+        "strong": "G5210"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "각각",
+        "strong": "G1538"
+      },
+      {
+        "word": "자기의",
+        "strong": "G1438"
+      },
+      {
+        "word": "아내",
+        "strong": "G1135"
+      },
+      {
+        "word": "사랑하기를",
+        "strong": "G25"
+      },
+      {
+        "word": "자신",
+        "strong": "G1438"
+      },
+      {
+        "word": "같이",
+        "strong": "G5613"
+      },
+      {
+        "word": "하고",
+        "strong": null
+      },
+      {
+        "word": "아내",
+        "strong": "G1135"
+      },
+      {
+        "word": "도",
+        "strong": "G1161"
+      },
+      {
+        "word": "자기",
+        "strong": "G3588"
+      },
+      {
+        "word": "남편을",
+        "strong": "G435"
+      },
+      {
+        "word": "존경",
+        "strong": "G5399"
+      },
+      {
+        "word": "하라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 1,
+    "text": "(자녀와 부모) 자녀들아 주 안에서 너희 부모에게 순종하라 이것이 옳으니라",
+    "words": [
+      {
+        "word": "자녀들아",
+        "strong": "G5043"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "부모에게",
+        "strong": "G1118"
+      },
+      {
+        "word": "순종하라",
+        "strong": "G5219"
+      },
+      {
+        "word": "이것이",
+        "strong": "G5124"
+      },
+      {
+        "word": "옳으",
+        "strong": "G1342"
+      },
+      {
+        "word": "니라",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 2,
+    "text": "네 아버지와 어머니를 공경하라 이것은 약속이 있는 첫 계명이니",
+    "words": [
+      {
+        "word": "네",
+        "strong": "G4675"
+      },
+      {
+        "word": "아버지",
+        "strong": "G3962"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "어머니를",
+        "strong": "G3384"
+      },
+      {
+        "word": "공경하라",
+        "strong": "G5091"
+      },
+      {
+        "word": "이것이",
+        "strong": "G3748"
+      },
+      {
+        "word": "약속이",
+        "strong": "G1860"
+      },
+      {
+        "word": "있는",
+        "strong": "G1722"
+      },
+      {
+        "word": "첫",
+        "strong": "G4413"
+      },
+      {
+        "word": "계명",
+        "strong": "G1785"
+      },
+      {
+        "word": "이니",
+        "strong": "G2076"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 3,
+    "text": "이로써 네가 잘되고 땅에서 장수하리라",
+    "words": [
+      {
+        "word": "이로써",
+        "strong": "G2443"
+      },
+      {
+        "word": "네가",
+        "strong": "G4671"
+      },
+      {
+        "word": "잘",
+        "strong": "G2095"
+      },
+      {
+        "word": "되고",
+        "strong": "G1096"
+      },
+      {
+        "word": "땅",
+        "strong": "G1093"
+      },
+      {
+        "word": "에서",
+        "strong": "G1909"
+      },
+      {
+        "word": "장수",
+        "strong": "G3118"
+      },
+      {
+        "word": "하리라",
+        "strong": "G2071"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 4,
+    "text": "또 아비들아 너희 자녀를 노엽게 하지 말고 오직 주의 교훈과 훈계로 양육하라",
+    "words": [
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "아비들아",
+        "strong": "G3962"
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "자녀를",
+        "strong": "G5043"
+      },
+      {
+        "word": "노엽게 하지",
+        "strong": "G3949"
+      },
+      {
+        "word": "말고",
+        "strong": "G3361"
+      },
+      {
+        "word": "오직",
+        "strong": "G235"
+      },
+      {
+        "word": "주의",
+        "strong": "G2962"
+      },
+      {
+        "word": "교훈",
+        "strong": "G3809"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "훈계",
+        "strong": "G3559"
+      },
+      {
+        "word": "로",
+        "strong": "G1722"
+      },
+      {
+        "word": "양육하라",
+        "strong": "G1625"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 5,
+    "text": "(종과 상전) 종들아 두려워하고 떨며 성실한 마음으로 육체의 상전에게 순종하기를 그리스도께 하듯 하라",
+    "words": [
+      {
+        "word": "종들아",
+        "strong": "G1401"
+      },
+      {
+        "word": "두려워",
+        "strong": "G5401"
+      },
+      {
+        "word": "하고",
+        "strong": "G3326"
+      },
+      {
+        "word": "떨며",
+        "strong": "G5156"
+      },
+      {
+        "word": "성실한",
+        "strong": "G572"
+      },
+      {
+        "word": "마음",
+        "strong": "G2588"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "육체의",
+        "strong": "G4561"
+      },
+      {
+        "word": "상전에게",
+        "strong": "G2962"
+      },
+      {
+        "word": "순종하기를",
+        "strong": "G5219"
+      },
+      {
+        "word": "그리스도께",
+        "strong": "G5547"
+      },
+      {
+        "word": "하듯하라",
+        "strong": "G5613"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 6,
+    "text": "눈가림만 하여 사람을 기쁘게 하는 자처럼 하지 말고 그리스도의 종들처럼 마음으로 하나님의 뜻을 행하고",
+    "words": [
+      {
+        "word": "눈가림",
+        "strong": "G3787"
+      },
+      {
+        "word": "만 하여",
+        "strong": "G2596"
+      },
+      {
+        "word": "사람을 기쁘게 하는 자",
+        "strong": "G441"
+      },
+      {
+        "word": "처럼",
+        "strong": "G5613"
+      },
+      {
+        "word": "하지 말고",
+        "strong": "G3361"
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "종들",
+        "strong": "G1401"
+      },
+      {
+        "word": "처럼",
+        "strong": "G5613"
+      },
+      {
+        "word": "마음",
+        "strong": "G5590"
+      },
+      {
+        "word": "으로",
+        "strong": "G1537"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "뜻을",
+        "strong": "G2307"
+      },
+      {
+        "word": "행하고",
+        "strong": "G4160"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 7,
+    "text": "기쁜 마음으로 섬기기를 주께 하듯 하고 사람들에게 하듯 하지 말라",
+    "words": [
+      {
+        "word": "기쁜 마음",
+        "strong": "G2133"
+      },
+      {
+        "word": "으로",
+        "strong": "G3326"
+      },
+      {
+        "word": "섬기기를",
+        "strong": "G1398"
+      },
+      {
+        "word": "주께",
+        "strong": "G2962"
+      },
+      {
+        "word": "하듯하고",
+        "strong": "G5613"
+      },
+      {
+        "word": "사람들에게",
+        "strong": "G444"
+      },
+      {
+        "word": "하듯하지",
+        "strong": null
+      },
+      {
+        "word": "말라",
+        "strong": "G3756"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 8,
+    "text": "이는 각 사람이 무슨 선을 행하든지 종이나 자유인이나 주께로부터 그대로 받을 줄을 앎이라",
+    "words": [
+      {
+        "word": "이는",
+        "strong": "G2532"
+      },
+      {
+        "word": "각 사람이",
+        "strong": "G1538"
+      },
+      {
+        "word": "무슨",
+        "strong": "G5100"
+      },
+      {
+        "word": "선을",
+        "strong": "G18"
+      },
+      {
+        "word": "행하",
+        "strong": "G4160"
+      },
+      {
+        "word": "든지",
+        "strong": "G1437"
+      },
+      {
+        "word": "종",
+        "strong": "G1401"
+      },
+      {
+        "word": "이나",
+        "strong": "G1535"
+      },
+      {
+        "word": "자유인",
+        "strong": "G1658"
+      },
+      {
+        "word": "이나",
+        "strong": "G1535"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "께로부터",
+        "strong": "G3844"
+      },
+      {
+        "word": "그대로",
+        "strong": "G5124"
+      },
+      {
+        "word": "받을",
+        "strong": "G2865"
+      },
+      {
+        "word": "줄을",
+        "strong": "G3754"
+      },
+      {
+        "word": "앎이라",
+        "strong": "G1492"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 9,
+    "text": "상전들아 너희도 그들에게 이와 같이 하고 위협을 그치라 이는 그들과 너희의 상전이 하늘에 계시고 그에게는 사람을 외모로 취하는 일이 없는 줄 너희가 앎이라",
+    "words": [
+      {
+        "word": "상전들아",
+        "strong": "G2962"
+      },
+      {
+        "word": "너희도",
+        "strong": null
+      },
+      {
+        "word": "그들",
+        "strong": "G846"
+      },
+      {
+        "word": "에게",
+        "strong": "G4314"
+      },
+      {
+        "word": "이와 같이",
+        "strong": "G846"
+      },
+      {
+        "word": "하고",
+        "strong": "G4160"
+      },
+      {
+        "word": "위협을",
+        "strong": "G547"
+      },
+      {
+        "word": "그치라",
+        "strong": "G447"
+      },
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "그들와",
+        "strong": "G846"
+      },
+      {
+        "word": "너희의",
+        "strong": "G5216"
+      },
+      {
+        "word": "상전이",
+        "strong": "G2962"
+      },
+      {
+        "word": "하늘",
+        "strong": "G3772"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "계시고",
+        "strong": "G2076"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "에게는",
+        "strong": "G3844"
+      },
+      {
+        "word": "사람을 외모로 취하는 일이",
+        "strong": "G4382"
+      },
+      {
+        "word": "없",
+        "strong": "G3756"
+      },
+      {
+        "word": "는",
+        "strong": "G2076"
+      },
+      {
+        "word": "줄",
+        "strong": "G3754"
+      },
+      {
+        "word": "너희가 앎이라",
+        "strong": "G1492"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 10,
+    "text": "(마귀를 대적하는 싸움) 끝으로 너희가 주 안에서와 그 힘의 능력으로 강건하여지고",
+    "words": [
+      {
+        "word": "끝으로",
+        "strong": "G3063"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "힘의",
+        "strong": "G2479"
+      },
+      {
+        "word": "능력",
+        "strong": "G2904"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "강건하여지고",
+        "strong": "G1743"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 11,
+    "text": "마귀의 간계를 능히 대적하기 위하여 하나님의 전신 갑주를 입으라",
+    "words": [
+      {
+        "word": "마귀의",
+        "strong": "G1228"
+      },
+      {
+        "word": "간계를",
+        "strong": "G3180"
+      },
+      {
+        "word": "능히",
+        "strong": "G1410"
+      },
+      {
+        "word": "대적",
+        "strong": "G4314"
+      },
+      {
+        "word": "하기",
+        "strong": "G2476"
+      },
+      {
+        "word": "위하여",
+        "strong": "G4314"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "전신갑주를",
+        "strong": "G3833"
+      },
+      {
+        "word": "입으라",
+        "strong": "G1746"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 12,
+    "text": "우리의 씨름은 혈과 육을 상대하는 것이 아니요 통치자들과 권세들과 이 어둠의 세상 주관자들과 하늘에 있는 악의 영들을 상대함이라",
+    "words": [
+      {
+        "word": "우리의",
+        "strong": "G2254"
+      },
+      {
+        "word": "씨름은",
+        "strong": "G3823"
+      },
+      {
+        "word": "혈",
+        "strong": "G129"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "육을",
+        "strong": "G4561"
+      },
+      {
+        "word": "상대하는 것이",
+        "strong": "G4314"
+      },
+      {
+        "word": "아니",
+        "strong": "G3756"
+      },
+      {
+        "word": "요",
+        "strong": "G2076"
+      },
+      {
+        "word": "통치자들과",
+        "strong": "G746"
+      },
+      {
+        "word": "권세들과",
+        "strong": "G1849"
+      },
+      {
+        "word": "이",
+        "strong": "G5127"
+      },
+      {
+        "word": "어둠의",
+        "strong": "G4655"
+      },
+      {
+        "word": "세상",
+        "strong": "G165"
+      },
+      {
+        "word": "주관자들과",
+        "strong": "G2888"
+      },
+      {
+        "word": "하늘",
+        "strong": "G2032"
+      },
+      {
+        "word": "에 있는",
+        "strong": "G1722"
+      },
+      {
+        "word": "악의",
+        "strong": "G4189"
+      },
+      {
+        "word": "영들을",
+        "strong": "G4152"
+      },
+      {
+        "word": "상대함",
+        "strong": "G4314"
+      },
+      {
+        "word": "이라",
+        "strong": "G3754"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 13,
+    "text": "그러므로 하나님의 전신 갑주를 취하라 이는 악한 날에 너희가 능히 대적하고 모든 일을 행한 후에 서기 위함이라",
+    "words": [
+      {
+        "word": "그러",
+        "strong": "G5124"
+      },
+      {
+        "word": "므로",
+        "strong": "G1223"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "전신갑주를",
+        "strong": "G3833"
+      },
+      {
+        "word": "취하라",
+        "strong": "G353"
+      },
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "악한",
+        "strong": "G4190"
+      },
+      {
+        "word": "날",
+        "strong": "G2250"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "너희가 능히",
+        "strong": "G1410"
+      },
+      {
+        "word": "대적하고",
+        "strong": "G436"
+      },
+      {
+        "word": "모든 일을",
+        "strong": "G537"
+      },
+      {
+        "word": "행한 후에",
+        "strong": "G2716"
+      },
+      {
+        "word": "서기",
+        "strong": "G2476"
+      },
+      {
+        "word": "위함이라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 14,
+    "text": "그런즉 서서 진리로 너희 허리 띠를 띠고 의의 호심경을 붙이고",
+    "words": [
+      {
+        "word": "그런즉",
+        "strong": "G3767"
+      },
+      {
+        "word": "서서",
+        "strong": "G2476"
+      },
+      {
+        "word": "진리",
+        "strong": "G225"
+      },
+      {
+        "word": "로",
+        "strong": "G1722"
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "허리띠를",
+        "strong": "G3751"
+      },
+      {
+        "word": "띠고",
+        "strong": "G4024"
+      },
+      {
+        "word": "의의",
+        "strong": "G1343"
+      },
+      {
+        "word": "호심경을",
+        "strong": "G2382"
+      },
+      {
+        "word": "붙이고",
+        "strong": "G1746"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 15,
+    "text": "평안의 복음이 준비한 것으로 신을 신고",
+    "words": [
+      {
+        "word": "평안의",
+        "strong": "G1515"
+      },
+      {
+        "word": "복음이",
+        "strong": "G2098"
+      },
+      {
+        "word": "준비한 것",
+        "strong": "G2091"
+      },
+      {
+        "word": "으로",
+        "strong": "G1772"
+      },
+      {
+        "word": "신을 신고",
+        "strong": "G5265"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 16,
+    "text": "모든 것 위에 믿음의 방패를 가지고 이로써 능히 악한 자의 모든 불화살을 소멸하고",
+    "words": [
+      {
+        "word": "모든 것",
+        "strong": "G3956"
+      },
+      {
+        "word": "위에",
+        "strong": "G1722"
+      },
+      {
+        "word": "믿음의",
+        "strong": "G4102"
+      },
+      {
+        "word": "방패를",
+        "strong": "G2375"
+      },
+      {
+        "word": "가지고",
+        "strong": "G353"
+      },
+      {
+        "word": "이",
+        "strong": "G3739"
+      },
+      {
+        "word": "로써",
+        "strong": "G1722"
+      },
+      {
+        "word": "능히",
+        "strong": "G1410"
+      },
+      {
+        "word": "악한 자의",
+        "strong": "G4190"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "불",
+        "strong": "G4448"
+      },
+      {
+        "word": "화살을",
+        "strong": "G956"
+      },
+      {
+        "word": "소멸하고",
+        "strong": "G4570"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 17,
+    "text": "구원의 투구와 성령의 검 곧 하나님의 말씀을 가지라",
+    "words": [
+      {
+        "word": "구원의",
+        "strong": "G4992"
+      },
+      {
+        "word": "투구",
+        "strong": "G4030"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "성령의",
+        "strong": "G4151"
+      },
+      {
+        "word": "검",
+        "strong": "G3162"
+      },
+      {
+        "word": "곧",
+        "strong": "G3603"
+      },
+      {
+        "word": "하나님의",
+        "strong": "G2316"
+      },
+      {
+        "word": "말씀을",
+        "strong": "G4487"
+      },
+      {
+        "word": "가지라",
+        "strong": "G1209"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 18,
+    "text": "모든 기도와 간구를 하되 항상 성령 안에서 기도하고 이를 위하여 깨어 구하기를 항상 힘쓰며 여러 성도를 위하여 구하라",
+    "words": [
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "기도",
+        "strong": "G4335"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "간구",
+        "strong": "G1162"
+      },
+      {
+        "word": "를 하되",
+        "strong": "G1223"
+      },
+      {
+        "word": "항",
+        "strong": "G3956"
+      },
+      {
+        "word": "상",
+        "strong": "G2540"
+      },
+      {
+        "word": "성령",
+        "strong": "G4151"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "기도하고",
+        "strong": "G4336"
+      },
+      {
+        "word": "이를",
+        "strong": "G5124"
+      },
+      {
+        "word": "위하여",
+        "strong": "G1519"
+      },
+      {
+        "word": "깨어",
+        "strong": "G69"
+      },
+      {
+        "word": "구하기를",
+        "strong": null
+      },
+      {
+        "word": "항상",
+        "strong": "G3956"
+      },
+      {
+        "word": "힘쓰",
+        "strong": "G4343"
+      },
+      {
+        "word": "며",
+        "strong": "G1722"
+      },
+      {
+        "word": "여러",
+        "strong": "G3956"
+      },
+      {
+        "word": "성도를",
+        "strong": "G40"
+      },
+      {
+        "word": "위하여",
+        "strong": "G4012"
+      },
+      {
+        "word": "구하라",
+        "strong": "G1162"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 19,
+    "text": "또 나를 위하여 구할 것은 내게 말씀을 주사 나로 입을 열어 복음의 비밀을 담대히 알리게 하옵소서 할 것이니",
+    "words": [
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "나를",
+        "strong": "G1700"
+      },
+      {
+        "word": "위하여",
+        "strong": "G5228"
+      },
+      {
+        "word": "구할 것은",
+        "strong": null
+      },
+      {
+        "word": "내게",
+        "strong": "G3427"
+      },
+      {
+        "word": "말씀을",
+        "strong": "G3056"
+      },
+      {
+        "word": "주사",
+        "strong": "G1325"
+      },
+      {
+        "word": "나로",
+        "strong": "G3450"
+      },
+      {
+        "word": "입을",
+        "strong": "G4750"
+      },
+      {
+        "word": "열어",
+        "strong": "G457"
+      },
+      {
+        "word": "복음의",
+        "strong": "G2098"
+      },
+      {
+        "word": "비밀을",
+        "strong": "G3466"
+      },
+      {
+        "word": "담대",
+        "strong": "G3954"
+      },
+      {
+        "word": "히",
+        "strong": "G1722"
+      },
+      {
+        "word": "알리게 하옵소서",
+        "strong": "G1107"
+      },
+      {
+        "word": "할 것이니",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 20,
+    "text": "이 일을 위하여 내가 쇠사슬에 매인 사신이 된 것은 나로 이 일에 당연히 할 말을 담대히 하게 하려 하심이라",
+    "words": [
+      {
+        "word": "이 일을",
+        "strong": "G3739"
+      },
+      {
+        "word": "위하여",
+        "strong": "G5228"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "쇠사슬",
+        "strong": "G254"
+      },
+      {
+        "word": "에 매인",
+        "strong": "G1722"
+      },
+      {
+        "word": "사신이 된 것은",
+        "strong": "G4243"
+      },
+      {
+        "word": "나로",
+        "strong": "G3165"
+      },
+      {
+        "word": "이 일",
+        "strong": "G846"
+      },
+      {
+        "word": "에",
+        "strong": "G1722"
+      },
+      {
+        "word": "당연히",
+        "strong": "G1163"
+      },
+      {
+        "word": "할 말을",
+        "strong": "G2980"
+      },
+      {
+        "word": "담대히 하게",
+        "strong": "G3955"
+      },
+      {
+        "word": "하려 하심이라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 21,
+    "text": "(끝 인사) 나의 사정 곧 내가 무엇을 하는지 너희에게도 알리려 하노니 사랑을 받은 형제요 주 안에서 진실한 일꾼인 두기고가 모든 일을 너희에게 알리리라",
+    "words": [
+      {
+        "word": "나의",
+        "strong": "G1691"
+      },
+      {
+        "word": "사",
+        "strong": "G2596"
+      },
+      {
+        "word": "정",
+        "strong": "G3588"
+      },
+      {
+        "word": "곧",
+        "strong": null
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "무엇을",
+        "strong": "G5101"
+      },
+      {
+        "word": "하는지",
+        "strong": "G4238"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5210"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "알리",
+        "strong": "G1492"
+      },
+      {
+        "word": "려 하노니",
+        "strong": "G2443"
+      },
+      {
+        "word": "사랑을 받은",
+        "strong": "G27"
+      },
+      {
+        "word": "형제요",
+        "strong": "G80"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "안에서",
+        "strong": "G1722"
+      },
+      {
+        "word": "진실한",
+        "strong": "G4103"
+      },
+      {
+        "word": "일꾼인",
+        "strong": "G1249"
+      },
+      {
+        "word": "두기고가",
+        "strong": "G5190"
+      },
+      {
+        "word": "모든 일을",
+        "strong": "G3956"
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "알리리라",
+        "strong": "G1107"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 22,
+    "text": "우리 사정을 알리고 또 너희 마음을 위로하기 위하여 내가 특별히 그를 너희에게 보내었노라",
+    "words": [
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "사",
+        "strong": "G4012"
+      },
+      {
+        "word": "정을",
+        "strong": "G3588"
+      },
+      {
+        "word": "알리고",
+        "strong": "G1097"
+      },
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "마음을",
+        "strong": "G2588"
+      },
+      {
+        "word": "위로하기",
+        "strong": "G3870"
+      },
+      {
+        "word": "위하여",
+        "strong": "G2443"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "특",
+        "strong": "G846"
+      },
+      {
+        "word": "별",
+        "strong": "G5124"
+      },
+      {
+        "word": "히",
+        "strong": "G1519"
+      },
+      {
+        "word": "그를",
+        "strong": "G3739"
+      },
+      {
+        "word": "너희",
+        "strong": "G5209"
+      },
+      {
+        "word": "에게",
+        "strong": "G4314"
+      },
+      {
+        "word": "보내었노라",
+        "strong": "G3992"
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 23,
+    "text": "아버지 하나님과 주 예수 그리스도께로부터 평안과 믿음을 겸한 사랑이 형제들에게 있을지어다",
+    "words": [
+      {
+        "word": "아버지",
+        "strong": "G3962"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "께로부터",
+        "strong": "G575"
+      },
+      {
+        "word": "평안",
+        "strong": "G1515"
+      },
+      {
+        "word": "과",
+        "strong": "G2532"
+      },
+      {
+        "word": "믿음을",
+        "strong": "G4102"
+      },
+      {
+        "word": "겸한",
+        "strong": "G3326"
+      },
+      {
+        "word": "사랑이",
+        "strong": "G26"
+      },
+      {
+        "word": "형제들에게",
+        "strong": "G80"
+      },
+      {
+        "word": "있을지어다",
+        "strong": null
+      }
+    ]
+  },
+  {
+    "book": 49,
+    "book_name": "에베소서",
+    "chapter": 6,
+    "verse": 24,
+    "text": "우리 주 예수 그리스도를 변함 없이 사랑하는 모든 자에게 은혜가 있을지어다",
+    "words": [
+      {
+        "word": "우리",
+        "strong": "G2257"
+      },
+      {
+        "word": "주",
+        "strong": "G2962"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도를",
+        "strong": "G5547"
+      },
+      {
+        "word": "변함없이",
+        "strong": "G861"
+      },
+      {
+        "word": "사랑하는",
+        "strong": "G25"
+      },
+      {
+        "word": "모든",
+        "strong": "G3956"
+      },
+      {
+        "word": "자",
+        "strong": "G3588"
+      },
+      {
+        "word": "에게",
+        "strong": "G3326"
+      },
+      {
+        "word": "은혜가",
+        "strong": "G5485"
+      },
+      {
+        "word": "있을지어다",
+        "strong": null
+      }
+    ]
+  }
+]

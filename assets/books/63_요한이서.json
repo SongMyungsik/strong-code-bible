@@ -1,0 +1,963 @@
+[
+  {
+    "book": 63,
+    "book_name": "요한이서",
+    "chapter": 1,
+    "verse": 1,
+    "text": "(인사) 장로인 나는 택하심을 받은 부녀와 그의 자녀들에게 편지하노니 내가 참으로 사랑하는 자요 나뿐 아니라 진리를 아는 모든 자도 그리하는 것은",
+    "words": [
+      {
+        "word": "장로인",
+        "strong": "G4245"
+      },
+      {
+        "word": "나는",
+        "strong": null
+      },
+      {
+        "word": "택하심을 받은",
+        "strong": "G1588"
+      },
+      {
+        "word": "부녀",
+        "strong": "G2959"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "그의",
+        "strong": "G846"
+      },
+      {
+        "word": "자녀들에게",
+        "strong": "G5043"
+      },
+      {
+        "word": "편지하노니",
+        "strong": null
+      },
+      {
+        "word": "내가",
+        "strong": "G1473"
+      },
+      {
+        "word": "참",
+        "strong": "G225"
+      },
+      {
+        "word": "으로",
+        "strong": "G1722"
+      },
+      {
+        "word": "사랑하는",
+        "strong": "G25"
+      },
+      {
+        "word": "자요",
+        "strong": "G3739"
+      },
+      {
+        "word": "나",
+        "strong": "G1473"
+      },
+      {
+        "word": "뿐",
+        "strong": "G3441"
+      },
+      {
+        "word": "아니라",
+        "strong": "G3756"
+      },
+      {
+        "word": "진리를",
+        "strong": "G225"
+      },
+      {
+        "word": "아는",
+        "strong": "G1097"
+      },
+      {
+        "word": "모든 자",
+        "strong": "G3956"
+      },
+      {
+        "word": "도",
+        "strong": "G2532"
+      },
+      {
+        "word": "그리하는 것은",
+        "strong": "G235"
+      }
+    ]
+  },
+  {
+    "book": 63,
+    "book_name": "요한이서",
+    "chapter": 1,
+    "verse": 2,
+    "text": "우리 안에 거하여 영원히 우리와 함께 할 진리로 말미암음이로다",
+    "words": [
+      {
+        "word": "우리",
+        "strong": "G2254"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하여",
+        "strong": "G3306"
+      },
+      {
+        "word": "영",
+        "strong": "G165"
+      },
+      {
+        "word": "원",
+        "strong": "G3588"
+      },
+      {
+        "word": "히",
+        "strong": "G1519"
+      },
+      {
+        "word": "우리와",
+        "strong": "G2257"
+      },
+      {
+        "word": "함께",
+        "strong": "G3326"
+      },
+      {
+        "word": "할",
+        "strong": "G2071"
+      },
+      {
+        "word": "진리로",
+        "strong": "G225"
+      },
+      {
+        "word": "말미암음이로다",
+        "strong": "G1223"
+      }
+    ]
+  },
+  {
+    "book": 63,
+    "book_name": "요한이서",
+    "chapter": 1,
+    "verse": 3,
+    "text": "은혜와 긍휼과 평강이 하나님 아버지와 아버지의 아들 예수 그리스도께로부터 진리와 사랑 가운데서 우리와 함께 있으리라",
+    "words": [
+      {
+        "word": "은혜와",
+        "strong": "G5485"
+      },
+      {
+        "word": "긍휼과",
+        "strong": "G1656"
+      },
+      {
+        "word": "평강이",
+        "strong": "G1515"
+      },
+      {
+        "word": "하나님",
+        "strong": "G2316"
+      },
+      {
+        "word": "아버지",
+        "strong": "G3962"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "아버지의",
+        "strong": "G3962"
+      },
+      {
+        "word": "아들",
+        "strong": "G5207"
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도",
+        "strong": "G5547"
+      },
+      {
+        "word": "께로부터",
+        "strong": "G3844"
+      },
+      {
+        "word": "진리",
+        "strong": "G225"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "사랑",
+        "strong": "G26"
+      },
+      {
+        "word": "가운데서",
+        "strong": "G1722"
+      },
+      {
+        "word": "우리와",
+        "strong": "G2257"
+      },
+      {
+        "word": "함께",
+        "strong": "G3326"
+      },
+      {
+        "word": "있으리라",
+        "strong": "G2071"
+      }
+    ]
+  },
+  {
+    "book": 63,
+    "book_name": "요한이서",
+    "chapter": 1,
+    "verse": 4,
+    "text": "(진리와 사랑) 너의 자녀들 중에 우리가 아버지께 받은 계명대로 진리를 행하는 자를 내가 보니 심히 기쁘도다",
+    "words": [
+      {
+        "word": "너의",
+        "strong": "G4675"
+      },
+      {
+        "word": "자녀들",
+        "strong": "G5043"
+      },
+      {
+        "word": "중에",
+        "strong": "G1537"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "아버지",
+        "strong": "G3962"
+      },
+      {
+        "word": "께",
+        "strong": "G3844"
+      },
+      {
+        "word": "받은",
+        "strong": "G2983"
+      },
+      {
+        "word": "계명",
+        "strong": "G1785"
+      },
+      {
+        "word": "대로",
+        "strong": "G2531"
+      },
+      {
+        "word": "진리",
+        "strong": "G225"
+      },
+      {
+        "word": "를",
+        "strong": "G1722"
+      },
+      {
+        "word": "행하는 자를",
+        "strong": "G4043"
+      },
+      {
+        "word": "내가 보니",
+        "strong": "G2147"
+      },
+      {
+        "word": "심히",
+        "strong": "G3029"
+      },
+      {
+        "word": "기쁘도다",
+        "strong": "G5463"
+      }
+    ]
+  },
+  {
+    "book": 63,
+    "book_name": "요한이서",
+    "chapter": 1,
+    "verse": 5,
+    "text": "부녀여, 내가 이제 네게 구하노니 서로 사랑하자 이는 새 계명 같이 네게 쓰는 것이 아니요 처음부터 우리가 가진 것이라",
+    "words": [
+      {
+        "word": "부녀여,",
+        "strong": "G2959"
+      },
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "이제",
+        "strong": "G3568"
+      },
+      {
+        "word": "네게",
+        "strong": "G4571"
+      },
+      {
+        "word": "구하노니",
+        "strong": "G2065"
+      },
+      {
+        "word": "서로",
+        "strong": "G240"
+      },
+      {
+        "word": "사랑하자",
+        "strong": "G25"
+      },
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "새",
+        "strong": "G2537"
+      },
+      {
+        "word": "계명",
+        "strong": "G1785"
+      },
+      {
+        "word": "같이",
+        "strong": "G5613"
+      },
+      {
+        "word": "네게",
+        "strong": "G4671"
+      },
+      {
+        "word": "쓰는 것이",
+        "strong": "G1125"
+      },
+      {
+        "word": "아니요",
+        "strong": "G3756"
+      },
+      {
+        "word": "처음",
+        "strong": "G746"
+      },
+      {
+        "word": "부터",
+        "strong": "G575"
+      },
+      {
+        "word": "우리가 가진",
+        "strong": "G2192"
+      },
+      {
+        "word": "것이라",
+        "strong": "G3739"
+      }
+    ]
+  },
+  {
+    "book": 63,
+    "book_name": "요한이서",
+    "chapter": 1,
+    "verse": 6,
+    "text": "또 사랑은 이것이니 우리가 그 계명을 따라 행하는 것이요 계명은 이것이니 너희가 처음부터 들은 바와 같이 그 가운데서 행하라 하심이라",
+    "words": [
+      {
+        "word": "또",
+        "strong": "G2532"
+      },
+      {
+        "word": "사랑은",
+        "strong": "G26"
+      },
+      {
+        "word": "이것",
+        "strong": "G3778"
+      },
+      {
+        "word": "이니",
+        "strong": "G2076"
+      },
+      {
+        "word": "우리가",
+        "strong": null
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "계명을",
+        "strong": "G1785"
+      },
+      {
+        "word": "따라",
+        "strong": "G2596"
+      },
+      {
+        "word": "행하는",
+        "strong": "G4043"
+      },
+      {
+        "word": "것이요",
+        "strong": "G2443"
+      },
+      {
+        "word": "계명은",
+        "strong": "G1785"
+      },
+      {
+        "word": "이것",
+        "strong": "G3778"
+      },
+      {
+        "word": "이니",
+        "strong": "G2076"
+      },
+      {
+        "word": "너희가",
+        "strong": null
+      },
+      {
+        "word": "처음",
+        "strong": "G746"
+      },
+      {
+        "word": "부터",
+        "strong": "G575"
+      },
+      {
+        "word": "들은 바와",
+        "strong": "G191"
+      },
+      {
+        "word": "같이",
+        "strong": "G2531"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "가운데서",
+        "strong": "G1722"
+      },
+      {
+        "word": "행하라",
+        "strong": "G4043"
+      },
+      {
+        "word": "하심이라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 63,
+    "book_name": "요한이서",
+    "chapter": 1,
+    "verse": 7,
+    "text": "미혹하는 자가 세상에 많이 나왔나니 이는 예수 그리스도께서 육체로 오심을 부인하는 자라 이런 자가 미혹하는 자요 적그리스도니",
+    "words": [
+      {
+        "word": "미혹하는 자가",
+        "strong": "G4108"
+      },
+      {
+        "word": "세상",
+        "strong": "G2889"
+      },
+      {
+        "word": "에",
+        "strong": "G1519"
+      },
+      {
+        "word": "많이",
+        "strong": "G4183"
+      },
+      {
+        "word": "나왔나니",
+        "strong": "G1831"
+      },
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "예수",
+        "strong": "G2424"
+      },
+      {
+        "word": "그리스도께서",
+        "strong": "G5547"
+      },
+      {
+        "word": "육체",
+        "strong": "G4561"
+      },
+      {
+        "word": "로",
+        "strong": "G1722"
+      },
+      {
+        "word": "오심을",
+        "strong": "G2064"
+      },
+      {
+        "word": "부",
+        "strong": "G3361"
+      },
+      {
+        "word": "인하는",
+        "strong": "G3670"
+      },
+      {
+        "word": "자라",
+        "strong": "G3588"
+      },
+      {
+        "word": "이런 자가",
+        "strong": "G3778"
+      },
+      {
+        "word": "미혹하는 자",
+        "strong": "G4108"
+      },
+      {
+        "word": "요",
+        "strong": "G2076"
+      },
+      {
+        "word": "적그리스도니",
+        "strong": "G500"
+      }
+    ]
+  },
+  {
+    "book": 63,
+    "book_name": "요한이서",
+    "chapter": 1,
+    "verse": 8,
+    "text": "너희는 스스로 삼가 우리가 일한 것을 잃지 말고 오직 온전한 상을 받으라",
+    "words": [
+      {
+        "word": "너희는",
+        "strong": null
+      },
+      {
+        "word": "스스로",
+        "strong": "G4572"
+      },
+      {
+        "word": "삼가",
+        "strong": "G991"
+      },
+      {
+        "word": "우리가 일한",
+        "strong": "G2038"
+      },
+      {
+        "word": "것을",
+        "strong": "G3739"
+      },
+      {
+        "word": "잃지",
+        "strong": "G622"
+      },
+      {
+        "word": "말고",
+        "strong": "G3363"
+      },
+      {
+        "word": "오직",
+        "strong": "G235"
+      },
+      {
+        "word": "온전한",
+        "strong": "G4134"
+      },
+      {
+        "word": "상을",
+        "strong": "G3408"
+      },
+      {
+        "word": "받으라",
+        "strong": "G618"
+      }
+    ]
+  },
+  {
+    "book": 63,
+    "book_name": "요한이서",
+    "chapter": 1,
+    "verse": 9,
+    "text": "지나쳐 그리스도의 교훈 안에 거하지 아니하는 자는 다 하나님을 모시지 못하되 교훈 안에 거하는 그 사람은 아버지와 아들을 모시느니라",
+    "words": [
+      {
+        "word": "지내쳐",
+        "strong": "G4254"
+      },
+      {
+        "word": "그리스도의",
+        "strong": "G5547"
+      },
+      {
+        "word": "교훈",
+        "strong": "G1322"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하지",
+        "strong": "G3306"
+      },
+      {
+        "word": "아니하는 자는",
+        "strong": "G3361"
+      },
+      {
+        "word": "다",
+        "strong": "G3956"
+      },
+      {
+        "word": "하나님을",
+        "strong": "G2316"
+      },
+      {
+        "word": "모시지",
+        "strong": "G2192"
+      },
+      {
+        "word": "못하되",
+        "strong": "G3756"
+      },
+      {
+        "word": "교훈",
+        "strong": "G1322"
+      },
+      {
+        "word": "안에",
+        "strong": "G1722"
+      },
+      {
+        "word": "거하는",
+        "strong": "G3306"
+      },
+      {
+        "word": "그 사람은",
+        "strong": "G3778"
+      },
+      {
+        "word": "아버지",
+        "strong": "G3962"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "아들을",
+        "strong": "G5207"
+      },
+      {
+        "word": "모시느니라",
+        "strong": "G2192"
+      }
+    ]
+  },
+  {
+    "book": 63,
+    "book_name": "요한이서",
+    "chapter": 1,
+    "verse": 10,
+    "text": "누구든지 이 교훈을 가지지 않고 너희에게 나아가거든 그를 집에 들이지도 말고 인사도 하지 말라",
+    "words": [
+      {
+        "word": "누구든지",
+        "strong": "G1536"
+      },
+      {
+        "word": "이",
+        "strong": "G5026"
+      },
+      {
+        "word": "교훈을",
+        "strong": "G1322"
+      },
+      {
+        "word": "가지지",
+        "strong": "G5342"
+      },
+      {
+        "word": "않고",
+        "strong": "G3756"
+      },
+      {
+        "word": "너희",
+        "strong": "G5209"
+      },
+      {
+        "word": "에게",
+        "strong": "G4314"
+      },
+      {
+        "word": "나아가",
+        "strong": "G2064"
+      },
+      {
+        "word": "거든",
+        "strong": "G1487"
+      },
+      {
+        "word": "그를",
+        "strong": "G846"
+      },
+      {
+        "word": "집",
+        "strong": "G3614"
+      },
+      {
+        "word": "에",
+        "strong": "G1519"
+      },
+      {
+        "word": "들이지도",
+        "strong": "G2983"
+      },
+      {
+        "word": "말고",
+        "strong": "G3361"
+      },
+      {
+        "word": "인사도",
+        "strong": "G5463"
+      },
+      {
+        "word": "하지",
+        "strong": "G3004"
+      },
+      {
+        "word": "말라",
+        "strong": "G3361"
+      }
+    ]
+  },
+  {
+    "book": 63,
+    "book_name": "요한이서",
+    "chapter": 1,
+    "verse": 11,
+    "text": "그에게 인사하는 자는 그 악한 일에 참여하는 자임이라",
+    "words": [
+      {
+        "word": "그에게",
+        "strong": "G846"
+      },
+      {
+        "word": "인사",
+        "strong": "G5463"
+      },
+      {
+        "word": "하는",
+        "strong": "G3004"
+      },
+      {
+        "word": "자는",
+        "strong": "G3588"
+      },
+      {
+        "word": "그",
+        "strong": "G846"
+      },
+      {
+        "word": "악한",
+        "strong": "G4190"
+      },
+      {
+        "word": "일에",
+        "strong": "G2041"
+      },
+      {
+        "word": "참여하는",
+        "strong": "G2841"
+      },
+      {
+        "word": "자임이라",
+        "strong": "G1063"
+      }
+    ]
+  },
+  {
+    "book": 63,
+    "book_name": "요한이서",
+    "chapter": 1,
+    "verse": 12,
+    "text": "(끝 인사) 내가 너희에게 쓸 것이 많으나 종이와 먹으로 쓰기를 원하지 아니하고 오히려 너희에게 가서 대면하여 말하려 하니 이는 너희 기쁨을 충만하게 하려 함이라",
+    "words": [
+      {
+        "word": "내가",
+        "strong": null
+      },
+      {
+        "word": "너희에게",
+        "strong": "G5213"
+      },
+      {
+        "word": "쓸 것이",
+        "strong": "G1125"
+      },
+      {
+        "word": "많",
+        "strong": "G4183"
+      },
+      {
+        "word": "으나",
+        "strong": "G2192"
+      },
+      {
+        "word": "종이",
+        "strong": "G5489"
+      },
+      {
+        "word": "와",
+        "strong": "G2532"
+      },
+      {
+        "word": "먹",
+        "strong": "G3188"
+      },
+      {
+        "word": "으로",
+        "strong": "G1223"
+      },
+      {
+        "word": "쓰기를",
+        "strong": null
+      },
+      {
+        "word": "쓰기를 원하지",
+        "strong": "G1014"
+      },
+      {
+        "word": "아니하고",
+        "strong": "G3756"
+      },
+      {
+        "word": "오히려",
+        "strong": "G235"
+      },
+      {
+        "word": "너희",
+        "strong": "G5209"
+      },
+      {
+        "word": "에게",
+        "strong": "G4314"
+      },
+      {
+        "word": "가서",
+        "strong": "G1096"
+      },
+      {
+        "word": "대",
+        "strong": "G4750"
+      },
+      {
+        "word": "면",
+        "strong": "G4314"
+      },
+      {
+        "word": "하여",
+        "strong": "G4750"
+      },
+      {
+        "word": "말하",
+        "strong": "G2980"
+      },
+      {
+        "word": "려하니",
+        "strong": "G1679"
+      },
+      {
+        "word": "이는",
+        "strong": null
+      },
+      {
+        "word": "너희",
+        "strong": "G5216"
+      },
+      {
+        "word": "기쁨을",
+        "strong": "G5479"
+      },
+      {
+        "word": "충만하게",
+        "strong": "G4137"
+      },
+      {
+        "word": "하려",
+        "strong": "G5600"
+      },
+      {
+        "word": "함이라",
+        "strong": "G2443"
+      }
+    ]
+  },
+  {
+    "book": 63,
+    "book_name": "요한이서",
+    "chapter": 1,
+    "verse": 13,
+    "text": "택하심을 받은 네 자매의 자녀들이 네게 문안하느니라",
+    "words": [
+      {
+        "word": "택하심을 받은",
+        "strong": "G1588"
+      },
+      {
+        "word": "네",
+        "strong": "G4675"
+      },
+      {
+        "word": "자매의",
+        "strong": "G79"
+      },
+      {
+        "word": "자녀들이",
+        "strong": "G5043"
+      },
+      {
+        "word": "네게",
+        "strong": "G4571"
+      },
+      {
+        "word": "문안하느니라",
+        "strong": "G782"
+      }
+    ]
+  }
+]
