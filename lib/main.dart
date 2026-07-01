@@ -394,7 +394,7 @@ class _BibleHomePageState extends State<BibleHomePage> {
         backgroundColor: const Color.fromARGB(255, 235, 245, 178),
         elevation: 0,
         title: const Text(
-          '[스트롱코드성경]',
+          '[스트롱성경]',
           style: TextStyle(
             fontWeight: FontWeight.bold,
             color: Colors.black,
