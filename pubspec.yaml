@@ -35,6 +35,7 @@ flutter:
   assets:
     - assets/strong_lexicon.db
     - assets/strongs_roots.db
+    - assets/roots_web.json
     - assets/strong_lexicon.json
     - assets/books/
     - assets/images/top_image.png
