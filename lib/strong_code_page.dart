@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_html/flutter_html.dart';
 
 import 'strong_lexicon_db.dart';
+import 'root_family_tree.dart';
+
+
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // 데이터 소스: assets/strong_lexicon.db (StrongLexiconDb, strong_lexicon_db.dart)
@@ -324,6 +327,16 @@ class _DetailView extends StatelessWidget {
               },
             ),
           ),
+
+          // ── 어근 가족 (히브리어만) ──────────────────────────────────────
+          if (!isGreek) ...[
+            const SizedBox(height: 12),
+            _LabeledBox(
+              label: '어근 가족',
+              accentColor: accentColor,
+              child: RootFamilyTree(scode: code, accentColor: accentColor),
+            ),
+          ],
         ],
       ),
     );

@@ -34,6 +34,7 @@ flutter:
   uses-material-design: true
   assets:
     - assets/strong_lexicon.db
+    - assets/strongs_roots.db
     - assets/strong_lexicon.json
     - assets/books/
     - assets/images/top_image.png

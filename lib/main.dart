@@ -14,11 +14,15 @@ import 'dart:io';
 import 'package:flutter/foundation.dart' show kIsWeb;
 import 'package:sqflite_common_ffi/sqflite_ffi.dart';
 
-void main() {
+
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();   // ← 반드시 맨 처음
+
   if (!kIsWeb && (Platform.isWindows || Platform.isLinux)) {
     sqfliteFfiInit();
     databaseFactory = databaseFactoryFfi;
   }
+
   runApp(const BibleApp());
 }
 
