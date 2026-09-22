@@ -188,7 +188,11 @@ class _WordBox extends StatelessWidget {
               gloss.isNotEmpty ? gloss : translit,
               maxLines: 1,
               overflow: TextOverflow.ellipsis,
-              style: const TextStyle(fontSize: 10, color: Colors.black54),
+              style: const TextStyle(
+                fontSize: 13,
+                fontWeight: FontWeight.w600,
+                color: Colors.black87,
+              ),
             ),
           ],
         ),

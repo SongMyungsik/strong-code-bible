@@ -296,11 +296,23 @@ class _DetailView extends StatelessWidget {
 
           const SizedBox(height: 12),
 
+          // ── 어근 가족 (히브리어만) ──────────────────────────────────────
+          if (!isGreek) ...[
+            _LabeledBox(
+              label: '어근 가족',
+              accentColor: accentColor,
+              collapsible: true,
+              child: RootFamilyTree(scode: code, accentColor: accentColor),
+            ),
+            const SizedBox(height: 12),
+          ],
+
           // ── 뜻 ──────────────────────────────────────────────────────────
           _LabeledBox(
             label: '뜻',
             accentColor: accentColor,
             minHeight: 160,
+            collapsible: true,
             child: Html(
               data:
                   [
@@ -327,16 +339,6 @@ class _DetailView extends StatelessWidget {
               },
             ),
           ),
-
-          // ── 어근 가족 (히브리어만) ──────────────────────────────────────
-          if (!isGreek) ...[
-            const SizedBox(height: 12),
-            _LabeledBox(
-              label: '어근 가족',
-              accentColor: accentColor,
-              child: RootFamilyTree(scode: code, accentColor: accentColor),
-            ),
-          ],
         ],
       ),
     );
@@ -347,24 +349,40 @@ class _DetailView extends StatelessWidget {
 // 공통 레이블 박스
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-class _LabeledBox extends StatelessWidget {
+class _LabeledBox extends StatefulWidget {
   final String label;
   final Widget child;
   final Color accentColor;
   final double minHeight;
+
+  /// true면 제목 줄을 눌러 내용을 숨기거나 다시 보이게 할 수 있다.
+  final bool collapsible;
 
   const _LabeledBox({
     required this.label,
     required this.child,
     required this.accentColor,
     this.minHeight = 0,
+    this.collapsible = false,
   });
 
   @override
+  State<_LabeledBox> createState() => _LabeledBoxState();
+}
+
+class _LabeledBoxState extends State<_LabeledBox> {
+  bool _expanded = true;
+
+  @override
   Widget build(BuildContext context) {
+    final label = widget.label;
+    final child = widget.child;
+    final accentColor = widget.accentColor;
+    final collapsed = widget.collapsible && !_expanded;
+
     return Container(
       width: double.infinity,
-      constraints: BoxConstraints(minHeight: minHeight),
+      constraints: BoxConstraints(minHeight: collapsed ? 0 : widget.minHeight),
       decoration: BoxDecoration(
         color: Colors.white,
         border: Border.all(color: accentColor.withValues(alpha: 0.3)),
@@ -380,26 +398,47 @@ class _LabeledBox extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Container(
-            width: double.infinity,
-            padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 7),
-            decoration: BoxDecoration(
-              color: accentColor.withValues(alpha: 0.08),
-              borderRadius: const BorderRadius.vertical(
-                top: Radius.circular(12),
-              ),
+          InkWell(
+            onTap: widget.collapsible
+                ? () => setState(() => _expanded = !_expanded)
+                : null,
+            borderRadius: const BorderRadius.vertical(
+              top: Radius.circular(12),
             ),
-            child: Text(
-              label,
-              style: TextStyle(
-                fontSize: 13,
-                fontWeight: FontWeight.bold,
-                color: accentColor,
-                letterSpacing: 0.5,
+            child: Container(
+              width: double.infinity,
+              padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 7),
+              decoration: BoxDecoration(
+                color: accentColor.withValues(alpha: 0.08),
+                borderRadius: const BorderRadius.vertical(
+                  top: Radius.circular(12),
+                ),
+              ),
+              child: Row(
+                children: [
+                  Expanded(
+                    child: Text(
+                      label,
+                      style: TextStyle(
+                        fontSize: 13,
+                        fontWeight: FontWeight.bold,
+                        color: accentColor,
+                        letterSpacing: 0.5,
+                      ),
+                    ),
+                  ),
+                  if (widget.collapsible)
+                    Icon(
+                      _expanded ? Icons.expand_less : Icons.expand_more,
+                      size: 20,
+                      color: accentColor,
+                    ),
+                ],
               ),
             ),
           ),
-          Padding(padding: const EdgeInsets.all(14), child: child),
+          if (!collapsed)
+            Padding(padding: const EdgeInsets.all(14), child: child),
         ],
       ),
     );
