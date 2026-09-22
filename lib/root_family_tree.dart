@@ -3,7 +3,7 @@ import 'roots_db.dart';
 import 'strong_code_page.dart';
 
 /// 어근(부모) → 파생 단어(자식)를 트리 모양으로 그리는 위젯.
-/// 자식 수에 맞춰 가로 폭을 자동으로 나눠 배치한다.
+/// 파생 단어는 어근 아래로 한 줄씩 세로로 쌓는다.
 class RootFamilyTree extends StatelessWidget {
   final String scode;
   final Color accentColor;
@@ -63,79 +63,56 @@ class _TreeLayout extends StatelessWidget {
     required this.color,
   });
 
-  static const double boxWidth = 108;
-  static const double boxHeight = 64;
-  static const double vGap = 34; // 부모-자식 사이 세로 간격
+  static const double boxHeight = 72;
+  static const double rowGap = 8; // 행 사이 세로 간격
+  static const double trunkX = 24; // 왼쪽 줄기의 x 위치
+  static const double indent = 48; // 자식 박스가 시작하는 x 위치
 
   @override
   Widget build(BuildContext context) {
-    return LayoutBuilder(
-      builder: (context, constraints) {
-        final n = children.length;
-        final totalWidth = constraints.maxWidth;
-
-        // 자식이 너무 많으면 가로 스크롤로 전환 (한 줄에 최대 4개 기준)
-        final needsScroll = n > 4;
-        final laneWidth = needsScroll
-            ? boxWidth + 16
-            : totalWidth / n;
-
-        final contentWidth = needsScroll ? laneWidth * n : totalWidth;
-        final rootX = contentWidth / 2 - boxWidth / 2;
-
-        Widget canvas = SizedBox(
-          width: contentWidth,
-          height: boxHeight * 2 + vGap + 8,
-          child: CustomPaint(
-            painter: _TreePainter(
-              color: color,
-              rootCenterX: rootX + boxWidth / 2,
-              childCenterXs: List.generate(
-                n,
-                (i) => laneWidth * i + laneWidth / 2,
+    // 어근은 위에, 파생 단어는 그 아래로 한 줄씩 쌓는다 (아래로 스크롤).
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        _WordBox(row: root, color: color, bold: true, width: 140),
+        for (int i = 0; i < children.length; i++)
+          SizedBox(
+            height: boxHeight + rowGap,
+            child: CustomPaint(
+              painter: _BranchPainter(
+                color: color,
+                isLast: i == children.length - 1,
+                trunkX: trunkX,
+                indent: indent,
+                centerY: rowGap + boxHeight / 2,
               ),
-              boxHeight: boxHeight,
-              vGap: vGap,
-            ),
-            child: Stack(
-              children: [
-                Positioned(
-                  left: rootX,
-                  top: 0,
-                  child: _WordBox(row: root, color: color, bold: true, width: boxWidth),
+              child: Padding(
+                padding: const EdgeInsets.only(left: indent, top: rowGap),
+                child: Align(
+                  alignment: Alignment.centerLeft,
+                  child: _WordBox(row: children[i], color: color, width: 200),
                 ),
-                for (int i = 0; i < n; i++)
-                  Positioned(
-                    left: laneWidth * i + (laneWidth - boxWidth) / 2,
-                    top: boxHeight + vGap,
-                    child: _WordBox(row: children[i], color: color, width: boxWidth),
-                  ),
-              ],
+              ),
             ),
           ),
-        );
-
-        return needsScroll
-            ? SingleChildScrollView(scrollDirection: Axis.horizontal, child: canvas)
-            : canvas;
-      },
+      ],
     );
   }
 }
 
-class _TreePainter extends CustomPainter {
+class _BranchPainter extends CustomPainter {
   final Color color;
-  final double rootCenterX;
-  final List<double> childCenterXs;
-  final double boxHeight;
-  final double vGap;
+  final bool isLast;
+  final double trunkX;
+  final double indent;
+  final double centerY;
 
-  _TreePainter({
+  _BranchPainter({
     required this.color,
-    required this.rootCenterX,
-    required this.childCenterXs,
-    required this.boxHeight,
-    required this.vGap,
+    required this.isLast,
+    required this.trunkX,
+    required this.indent,
+    required this.centerY,
   });
 
   @override
@@ -145,35 +122,19 @@ class _TreePainter extends CustomPainter {
       ..strokeWidth = 1.6
       ..style = PaintingStyle.stroke;
 
-    final branchY = boxHeight + vGap / 2;
-
-    // 부모 아래로 내려오는 줄기
-    canvas.drawLine(Offset(rootCenterX, boxHeight), Offset(rootCenterX, branchY), paint);
-
-    if (childCenterXs.length == 1) {
-      // 자식이 하나면 그냥 직선으로
-      canvas.drawLine(
-        Offset(rootCenterX, branchY),
-        Offset(childCenterXs.first, boxHeight + vGap),
-        paint,
-      );
-      return;
-    }
-
-    final minX = childCenterXs.reduce((a, b) => a < b ? a : b);
-    final maxX = childCenterXs.reduce((a, b) => a > b ? a : b);
-
-    // 가로 분기선
-    canvas.drawLine(Offset(minX, branchY), Offset(maxX, branchY), paint);
-
-    // 각 자식으로 내려가는 세로선
-    for (final x in childCenterXs) {
-      canvas.drawLine(Offset(x, branchY), Offset(x, boxHeight + vGap), paint);
-    }
+    // 세로 줄기: 마지막 행은 박스 높이 중앙까지만
+    canvas.drawLine(
+      Offset(trunkX, 0),
+      Offset(trunkX, isLast ? centerY : size.height),
+      paint,
+    );
+    // 줄기에서 박스로 가는 가로선
+    canvas.drawLine(Offset(trunkX, centerY), Offset(indent, centerY), paint);
   }
 
   @override
-  bool shouldRepaint(covariant _TreePainter oldDelegate) => false;
+  bool shouldRepaint(covariant _BranchPainter old) =>
+      old.color != color || old.isLast != isLast;
 }
 
 class _WordBox extends StatelessWidget {
@@ -200,7 +161,7 @@ class _WordBox extends StatelessWidget {
       onTap: () => StrongCodePage.navigate(context, scode),
       child: Container(
         width: width,
-        height: 64,
+        height: 72,
         padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 6),
         decoration: BoxDecoration(
           color: bold ? color.withValues(alpha: 0.12) : Colors.white,
@@ -218,7 +179,7 @@ class _WordBox extends StatelessWidget {
               textDirection: TextDirection.rtl,
               style: TextStyle(
                 fontFamily: 'EzraSIL',
-                fontSize: bold ? 16 : 14,
+                fontSize: bold ? 24 : 22,
                 fontWeight: bold ? FontWeight.bold : FontWeight.normal,
               ),
             ),
